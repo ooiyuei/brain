@@ -1,0 +1,52 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -f wiki/hot.md ] && cat wiki/hot.md || true"
+          },
+          {
+            "type": "prompt",
+            "prompt": "If wiki/hot.md exists, silently read it to restore recent context. Do not announce this."
+          }
+        ]
+      }
+    ],
+    "PostCompact": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "If wiki/hot.md exists, silently re-read it now to restore the hot cache. Do not announce this."
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -d ../.git ] && git -C .. add brain/wiki/ brain/.raw/ 2>/dev/null && (git -C .. diff --cached --quiet || git -C .. commit -m \"wiki: auto-commit $(date '+%Y-%m-%d %H:%M')\" 2>/dev/null) || true"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -d wiki ] && git -C .. diff --name-only HEAD 2>/dev/null | grep -q '^brain/wiki/' && echo 'WIKI_CHANGED: Wiki pages were modified this session. Please update wiki/hot.md with a brief summary of what changed (under 500 words). Format: Last Updated / Key Recent Facts / Recent Changes / Active Threads.' || true"
+          }
+        ]
+      }
+    ]
+  }
+}
