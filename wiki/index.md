@@ -65,6 +65,8 @@ updated: 2026-05-14
 
 | ページ | 概要 |
 |--------|------|
+| [[meta/ooi-clone-spec]] | **大井湧瑛 クローン仕様書**。全プロファイル統合・最上位リファレンス（2026-05-17） |
+| [[meta/ooi-thinking-patterns]] | ChatGPT 789件分析。対話・思考の癖（2026-05-17） |
 | [[meta/goals]] | 財務目標・収益源・プロジェクト優先度 |
 | [[meta/ooi-deep-profile]] | 大井湧瑛 深層プロファイル80項目 |
 | [[meta/ooi-wisc-profile]] | WISC-V認知プロファイル |
