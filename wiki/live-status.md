@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 06:38:46
+updated: 2026-05-30 06:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:38:46** | 🔥 **稼働中**
+**06:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **79.4%** (25.4GB / 31.9GB)
+- 使用率: **79.8%** (25.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 121 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 64 |
+| ✅ 今日完了 | 65 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35507 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [35747 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
