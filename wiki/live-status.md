@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 03:22:47
+updated: 2026-05-30 03:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:22:47** | 🔥 **稼働中**
+**03:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7022MB / 8151MB (**86.1%**)
+- VRAM: 7025MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **81.8%** (26.1GB / 31.9GB)
+- 使用率: **83%** (26.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 34 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34907 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [35146 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [34547 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 判定
 
