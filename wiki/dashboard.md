@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 21:06
+updated: 2026-05-29 21:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 21:06
+**最終更新**: 2026-05-29 21:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
+| 📥 inbox | 118 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 164 |
+| ✅ 今日完了 | 167 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 787 (うち24h+古い: 606) |
+| 📝 wiki/_inbox 未レビュー | 790 (うち24h+古い: 606) |
 
 ### 処理中
-- ⚙️ **[591 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- ⚙️ **[591 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[596 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[570 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [Testall] X受験あるある投稿30本
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [横断] 15事業の優先順位再評価
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -54,9 +54,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 270 件
+- marketing : 272 件
 - research : 27 件
-- newbiz : 221 件
+- newbiz : 222 件
 - ingest : 1 件
 - corp : 88 件
 - dev : 14 件
