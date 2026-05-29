@@ -1,87 +1,65 @@
 ---
 type: yuei-home
-date: 2026-05-27
-updated: 2026-05-27 (Phase 2-A 初版)
-managed_by: Claude-CEO (毎朝/PDCAで自動更新)
+date: 2026-05-29
+updated: 2026-05-29 09:40
+managed_by: Claude-CEO
 ---
 
-# 今日 2026-05-27
+# 今日 2026-05-29
 
 > **大井 (YUEI) はここだけ見ればOK。** 朝起きたら開く、夜閉じる前に「終わった」と話す。
-> 詳細は Claude-CEO ([[01_ceo/status-board]]) と各部署 ([[02_newbiz/_log]] 等) を参照。
 
 ---
 
-## 🔥 絶対やる1個 (今週)
+## 🔥 絶対やる1個（今日）
 
-> 締切が近い、大井の手が必要、放置すると損失。
+- [ ] **夢AWARD 応募ストーリー骨子を書く** — 締切 6/7（残9日）・5日連続持ち越し
+  - Calendar 14:00 に作業ブロック設定済み
+  - 素材: `02_newbiz/pitch-eemus/` の v3 ピッチ
+  - 担当: 大井のみ（Claudeは叩き台用意可・「骨子出して」と言えば作る）
 
-- [ ] **夢AWARD 応募骨子 + 提出書類リスト** — 締切 6/7 (残11日) ・4日連続未着手
-  - 応募要項再確認 → 必須書類リスト → ストーリー骨子1ページ
-  - 担当: 大井のみ (Claude-CEO は催促のみ)
+## 🌱 できれば（2個まで）
 
----
-
-## 🌱 できれば (2個まで)
-
-- [ ] **AIpaX 5社目クロージング状況確認** — 大井が状況を Claude-CEO に共有 → Claude-営業マーケCS部長が次手を提案
-- [ ] **SFC AO論点メモ** — 「AIによる思考の外部化と人間の主体性」で問われそうな論点×5
+- [ ] **静岡産業振興財団 TEL**（054-254-4511）— 最大200万・午前中に電話1本・大井のみ
+- [ ] **Mac の obsidian-git を「自動push」設定に**（[[00_YUEI/工場-使い方]] 参照）— これで外から工場を動かせる
 
 ---
 
-## ⏳ Claude-CEO 進行中 (自動更新・OpenClaw含む)
+## ⏳ 進行中（自動・OpenClaw含む）
 
-> task_board.ps1 (5分毎) + Claude-CEO が queue/inbox + 各部署 _log.md から自動反映
+> task_board.ps1（5分毎）+ Claude が反映
 
-- [x] **[Phase 2-A]** 大井ホーム作成 ✅
-- [x] **[Phase 2-B]** 部署フォルダ骨組み ✅
-- [x] **[今日 Claude]** AIpa Web inbox 5件昇格判定 ✅ (4件PROMOTE + 2件再dispatch投入中)
-- [ ] **[OpenClaw 処理中]** X広告整形 (1321e603) / 静岡10社実在版 (43c2d51d) / 月収100万カスタム (0c3cff5d) — 30-90分で結果
-
----
-
-## ✅ 完了 (夜に[[06_secretary/todo/done]]へ移動)
-
-- [x] queue/inbox 1521件 archive (`_archive/inbox-purge-2026-05-27/`)
-- [x] BrainAutoReview 自動投入停止 (Disabled 維持で再発防止)
-- [x] BrainWorkerLight/Heavy 再Enable
-- [x] Mac リモコン環境構築 (CLI v2.1.150 + Remote Control)
-- [x] Phase 2-A/B (新フォルダ全7部署 + 大井ホーム + ROLES正本)
-- [x] AIpa Web inbox 5件 PROMOTE 判定 (4件昇格、2件再投入)
-- [x] Calendar 3イベント追加 (夢AWARD作業 5/29 / SFC AO 5/28 / AIpaX 5社目 5/27 20:00)
-- [x] Gmail 下書き 3件 (商工会メール A/B/C)
-- [x] 大井統合像 v2 再合成 (09_knowledge/learnings/)
-- [x] 横展開シナジー発見 (09_knowledge/learnings/)
-- [x] SFC AO 5論点ドラフト (06_secretary/communications/)
-- [x] AIpaX 5社目クロージング事前整理 (02_newbiz/prospects/aipax/)
-- [x] OpenClaw 再dispatch 3件 (X広告/10社/月収100万)
-- [x] Phase 2 動作確認 (hook/worker 全部稼働中)
+- 🏭 **工場ブリッジ稼働開始**（今日 Claude 構築）: Mac の `工場.md` に書く → 3分でOpenClaw投入。Claude不在でも回る
+- 🔄 **Mac↔Win git同期を常時化**（`BrainGitSync` 4分毎）: Obsidian閉じてても同期。12日分の未push backlog を本日GitHubへ反映済み
+- ⚙️ OpenClaw: qwen3:8b 稼働中・inbox 約70件処理中（X投稿/想定問答/助成金 等）
 
 ---
 
-## 📅 今日の予定 (Calendar MCP・自動)
+## ✅ 完了（本日 Claude）
 
-> Claude-秘書部長 が毎朝 Google Calendar から取得して反映
-
-- (空欄: MCP 未取得時)
+- [x] 工場ブリッジ `factory_bridge.ps1` 構築＋テスト（Mac→OpenClaw、二重投入防止つき）
+- [x] headless git同期 `sync_brain.ps1` 構築（Obsidian閉でも Mac↔Win 同期）
+- [x] queue ヒール（failed 10件・ゾンビ2件をアーカイブ、worker再稼働）
+- [x] brain 12日分の未commit（280ファイル）をGitHubへ push（local==remote 復旧）
+- [x] 再起動耐性設定（全同期タスク StartWhenAvailable）
 
 ---
 
-## 💬 大井のメモ (空欄OK)
+## 📌 大井の判断が要ること
 
-> 思いついた瞬間にここに書く or `00_YUEI/NOTES.md` に書く。
-> Claude が読んで該当部署に振り分ける。
+- 🏭 **Mac obsidian-git の自動push設定**（上記サブ②・[[00_YUEI/工場-使い方]]）← これだけ確認すれば外から工場フル稼働
+- 📥 **wiki/_inbox に未レビュー成果物 544件**（marketing237/newbiz195/corp75…）。工場は生産過多・整理が追いついてない → 「重要なやつだけ昇格して」と言えばClaudeが選別する
+
+---
+
+## 💬 大井のメモ
+> 思いついたら [[00_YUEI/NOTES]] か、工場に投げるなら [[00_YUEI/工場]]
 
 -
 
 ---
 
-## 関連リンク
-
-- 今週: [[00_YUEI/WEEK]]
-- 思いつき: [[00_YUEI/NOTES]]
-- 取り込み待ち: [[00_YUEI/INBOX]]
-- 日次サマリー: [[00_YUEI/REPORT]]
-- CEO ステータスボード: [[01_ceo/status-board]]
-- 役職表: [[01_ceo/ROLES]]
-- (旧) ホット: [[wiki/hot]] — Phase 2-C で deprecate 予定
+## 関連
+- 🏭 工場に指示: [[00_YUEI/工場]] / 使い方: [[00_YUEI/工場-使い方]]
+- 日次サマリー: [[00_YUEI/REPORT]] / 今週: [[00_YUEI/WEEK]]
+- ホット: [[wiki/hot]] / CEO: [[01_ceo/status-board]]
