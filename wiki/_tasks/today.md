@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 15:49
+updated: 2026-05-29 15:54
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-29 15:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [School] note『AI時代に子供に渡したいもの』
-- [ ] [待機] [School] 親FAQ 30問
+- [ ] **[処理中 503分]** [School] note『AI時代に子供に渡したいもの』
+- [ ] **[処理中 493分]** [School] 親FAQ 30問
 - [ ] [待機] AI 最新情報日次リサーチ
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
@@ -118,6 +118,7 @@ updated: 2026-05-29 15:49
 - [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
