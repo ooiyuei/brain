@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 20:10:46
+updated: 2026-05-29 20:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:10:46** | 🔥 **稼働中**
+**20:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7061MB / 8151MB (**86.6%**)
+- 使用率: **75%**
+- VRAM: 7064MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **80.8%** (25.8GB / 31.9GB)
+- 使用率: **84.7%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 153 |
+| 📥 inbox | 119 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 154 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35748 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
+- ⚡ [35628 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [35028 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 判定
 
