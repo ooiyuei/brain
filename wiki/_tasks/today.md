@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-30 02:04
+updated: 2026-05-30 02:09
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,8 @@ updated: 2026-05-30 02:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 557分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [ ] **[処理中 553分]** [Testall] Studyplus Planning徹底比較
-- [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
+- [ ] **[処理中 558分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 548分]** [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
