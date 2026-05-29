@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 08:21
+updated: 2026-05-30 08:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 08:21
+**最終更新**: 2026-05-30 08:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 83 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 84 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 903 (うち24h+古い: 702) |
+| 📝 wiki/_inbox 未レビュー | 904 (うち24h+古い: 702) |
 
 ### 処理中
-- ⚙️ **[606 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[605 分]** [EEMUS] 高校生インターン体験談コンテンツ3本
+- ⚙️ **[595 分]** [EEMUS] 連携企業候補20社
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [EEMUS] 連携企業候補20社
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +52,7 @@ tags: [dashboard, system]
 - research : 36 件
 - newbiz : 266 件
 - ingest : 1 件
-- corp : 114 件
+- corp : 115 件
 - dev : 17 件
 
 ## 🔗 主要リンク
