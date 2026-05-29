@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 15:11
+updated: 2026-05-29 15:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 15:11
+**最終更新**: 2026-05-29 15:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 108 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 114 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 115 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 740 (うち24h+古い: 547) |
+| 📝 wiki/_inbox 未レビュー | 741 (うち24h+古い: 547) |
 
 ### 処理中
-- ⚙️ **[504 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[509 分]** [Money] 紹介プログラム 5事業横断ルール
+- ⚙️ **[505 分]** [AIpaX] 業務委託契約書テンプレ
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 250 件
 - research : 24 件
-- newbiz : 204 件
+- newbiz : 205 件
 - ingest : 1 件
 - corp : 81 件
 - dev : 14 件
