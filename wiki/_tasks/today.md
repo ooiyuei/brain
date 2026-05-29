@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 14:54
+updated: 2026-05-29 14:59
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,7 @@ updated: 2026-05-29 14:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 519分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- [ ] **[処理中 513分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 518分]** [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
