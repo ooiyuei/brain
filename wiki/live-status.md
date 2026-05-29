@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 10:02:46
+updated: 2026-05-29 10:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:02:46** | 🔥 **稼働中**
+**10:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残27分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残23分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7188MB / 8151MB (**88.2%**)
+- VRAM: 7190MB / 8151MB (**88.2%**)
 
 ## 💾 RAM
 
-- 使用率: **53.6%** (17.1GB / 31.9GB)
+- 使用率: **53.5%** (17.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,15 +37,15 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 80 |
+| 📥 inbox | 79 |
 | ⚙️ processing | 3 |
-| ✅ 今日完了 | 81 |
+| ✅ 今日完了 | 82 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [20507 秒経過] **[School] 入学後30日プラン**
-- ⚡ [19907 秒経過] **[Testall] X受験あるある投稿30本**
-- ⚡ [167 秒経過] **[BG-Entities] ipak-fishing 更新提案**
+- ⚡ [20747 秒経過] **[School] 入学後30日プラン**
+- ⚡ [20147 秒経過] **[Testall] X受験あるある投稿30本**
+- ⚡ [407 秒経過] **[BG-Entities] omni 更新提案**
 
 ## 📥 待機タスク (上位5)
 

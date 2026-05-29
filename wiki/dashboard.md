@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 10:01
+updated: 2026-05-29 10:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 10:01
+**最終更新**: 2026-05-29 10:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,16 +14,16 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 80 |
+| 📥 inbox | 79 |
 | ⚙️ processing | 3 |
-| ✅ 今日完了 | 81 |
+| ✅ 今日完了 | 82 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 714 (うち24h+古い: 478) |
+| 📝 wiki/_inbox 未レビュー | 715 (うち24h+古い: 480) |
 
 ### 処理中
-- ⚙️ **[340 分]** [School] 入学後30日プラン
-- ⚙️ **[330 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[1 分]** [BG-Entities] ipak-fishing 更新提案
+- ⚙️ **[345 分]** [School] 入学後30日プラン
+- ⚙️ **[335 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[6 分]** [BG-Entities] omni 更新提案
 
 ### Inbox 上位
 - [high] [School] 親向けLP完全版
@@ -51,7 +51,7 @@ tags: [dashboard, system]
 
 - marketing : 238 件
 - research : 23 件
-- newbiz : 197 件
+- newbiz : 198 件
 - ingest : 1 件
 - corp : 76 件
 - dev : 13 件
