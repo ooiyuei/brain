@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 04:51
+updated: 2026-05-30 04:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 04:51
+**最終更新**: 2026-05-30 04:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,14 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 122 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 47 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 48 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 867 (うち24h+古い: 673) |
+| 📝 wiki/_inbox 未レビュー | 868 (うち24h+古い: 675) |
 
 ### 処理中
-- ⚙️ **[600 分]** [AIpaX] 業務委託契約書テンプレ
-- ⚙️ **[590 分]** [EEMUS] MVP LP完全版
+- ⚙️ **[595 分]** [EEMUS] MVP LP完全版
 
 ### Inbox 上位
 - [high] [横断] Stripe決済設定 5事業ロードマップ
@@ -52,7 +51,7 @@ tags: [dashboard, system]
 - research : 34 件
 - newbiz : 256 件
 - ingest : 1 件
-- corp : 102 件
+- corp : 103 件
 - dev : 16 件
 
 ## 🔗 主要リンク
