@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 02:02:46
+updated: 2026-05-30 02:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:02:46** | 🔥 **稼働中**
+**02:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7018MB / 8151MB (**86.1%**)
+- 使用率: **0%**
+- VRAM: 7024MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **82%** (26.2GB / 31.9GB)
+- 使用率: **83.8%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 114 |
+| 📥 inbox | 113 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 26 |
+| ✅ 今日完了 | 27 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [33347 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [33347 秒経過] **[Testall] Studyplus Planning徹底比較**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 

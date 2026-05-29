@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 02:01
+updated: 2026-05-30 02:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 02:01
+**最終更新**: 2026-05-30 02:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 114 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 113 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 26 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 846 (うち24h+古い: 657) |
 
 ### 処理中
-- ⚙️ **[554 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[559 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[555 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 今日のフォーカス
 
