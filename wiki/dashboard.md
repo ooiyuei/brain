@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 12:41
+updated: 2026-05-29 12:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 12:41
+**最終更新**: 2026-05-29 12:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 105 |
+| 📥 inbox | 104 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 92 |
+| ✅ 今日完了 | 93 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 723 (うち24h+古い: 530) |
+| 📝 wiki/_inbox 未レビュー | 724 (うち24h+古い: 531) |
 
 ### 処理中
-- ⚙️ **[460 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[101 分]** [BG-Competitive] BizReach
+- ⚙️ **[455 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[106 分]** [BG-Competitive] BizReach
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 242 件
+- marketing : 243 件
 - research : 23 件
 - newbiz : 202 件
 - ingest : 1 件
