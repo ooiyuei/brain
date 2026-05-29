@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 00:51
+updated: 2026-05-30 00:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 00:51
+**最終更新**: 2026-05-30 00:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 12 |
+| 📥 inbox | 113 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 13 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 832 (うち24h+古い: 642) |
+| 📝 wiki/_inbox 未レビュー | 833 (うち24h+古い: 643) |
+
+### 処理中
+- ⚙️ **[549 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[549 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] 6/21月収100万 残30日アクションプラン
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [School] 体験会2時間プログラム
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +52,7 @@ tags: [dashboard, system]
 - research : 31 件
 - newbiz : 240 件
 - ingest : 1 件
-- corp : 97 件
+- corp : 98 件
 - dev : 15 件
 
 ## 🔗 主要リンク

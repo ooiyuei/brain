@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 00:54:47
+updated: 2026-05-30 00:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:54:47** | 🔥 **稼働中**
+**00:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残22分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7023MB / 8151MB (**86.2%**)
+- VRAM: 7020MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **83.9%** (26.8GB / 31.9GB)
+- 使用率: **83.1%** (26.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 114 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 12 |
+| 📥 inbox | 113 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 14 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32866 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
-- ⚡ [32866 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
+- ⚡ [33106 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 
