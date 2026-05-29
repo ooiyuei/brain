@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 02:10:46
+updated: 2026-05-30 02:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:10:46** | 🔥 **稼働中**
+**02:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **77%**
-- VRAM: 7024MB / 8151MB (**86.2%**)
+- 使用率: **4%**
+- VRAM: 7297MB / 8151MB (**89.5%**)
 
 ## 💾 RAM
 
-- 使用率: **84.4%** (27GB / 31.9GB)
+- 使用率: **56.1%** (17.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 112 |
+| 📥 inbox | 113 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 27 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [33587 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [32987 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [33827 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [33228 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
 
 ## 📥 待機タスク (上位5)
 
