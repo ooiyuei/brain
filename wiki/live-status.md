@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 07:30:47
+updated: 2026-05-30 07:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:30:47** | 🔥 **稼働中**
+**07:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **80%**
-- VRAM: 7025MB / 8151MB (**86.2%**)
+- 使用率: **3%**
+- VRAM: 7026MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **82.9%** (26.5GB / 31.9GB)
+- 使用率: **82.8%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 74 |
+| ✅ 今日完了 | 76 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35987 秒経過] **[AIpaX] 業務委託契約書テンプレ**
-- ⚡ [35386 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [35267 秒経過] **[Money] Testall 親向けLP コピー改善**
+- ⚡ [35267 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 親向けLP コピー改善
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [EEMUS] 連携企業候補20社
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 
