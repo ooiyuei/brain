@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-30 07:24
+updated: 2026-05-30 07:29
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,8 @@ updated: 2026-05-30 07:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 603分]** [EEMUS] 高校生インターン体験談コンテンツ3本
-- [ ] **[処理中 593分]** [AIpaX] 業務委託契約書テンプレ
-- [ ] [待機] [AIpaX] 業務委託契約書テンプレ
+- [ ] **[処理中 598分]** [AIpaX] 業務委託契約書テンプレ
+- [ ] **[処理中 588分]** [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
