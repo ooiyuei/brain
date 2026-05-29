@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 06:06
+updated: 2026-05-30 06:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 06:06
+**最終更新**: 2026-05-30 06:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 120 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 60 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 880 (うち24h+古い: 685) |
+| 📝 wiki/_inbox 未レビュー | 880 (うち24h+古い: 686) |
 
 ### 処理中
-- ⚙️ **[591 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[596 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[590 分]** [School] 利用規約・特商法表記
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
 - [high] [EEMUS] MVP LP完全版
 - [high] [AIpaX] 月次PL試算
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 今日のフォーカス
 
