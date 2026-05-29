@@ -22,11 +22,11 @@ managed_by: Claude (must update every session)
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-05-28
-**進捗**: 静岡財団TEL ❌未着手 / Workspace設定 ❌未確認 / SFC AO論点 ⏳着手済み（19時枠）
-**PDCA**: inbox 3件昇格・3件削除。[[research/testall-vs-studyplus-planning-2026-05-28]]・[[research/aipa-web-market-trend-2026-05-28]]・[[marketing/aipax-closing-qa-2026-05-28]] 昇格。
-**午後**: 静岡財団TEL（054-254-4511）を今日中に。Workspace設定はClaude担当可。inbox重複大量（300件超）→ 別タスクで整理。
-**詳細**: [[_routines/midday-20260528]]
+**日付**: 2026-05-29
+**進捗**: 夢AWARD骨子 ❌未着手（14:00予定） / 静岡財団TEL ❌未着手 / Workspace設定 ❌未着手
+**PDCA**: inbox 0件昇格・3件削除（BG系全滅：qwen3:8bがooi profileを誤出力する根本バグ確認）
+**午後**: ①14:00 夢AWARD骨子セッション（大井）②静岡財団TEL（054-254-4511）③Workspace設定（Claude）④BG-Entities promptを qwen3.6:latest に昇格して再設計
+**詳細**: [[_routines/midday-20260529]]
 
 ## 🌙 Tomorrow（2026-05-29）
 

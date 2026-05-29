@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 13:06
+updated: 2026-05-29 13:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 13:06
+**最終更新**: 2026-05-29 13:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,22 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 104 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 94 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 96 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 724 (うち24h+古い: 533) |
+| 📝 wiki/_inbox 未レビュー | 722 (うち24h+古い: 534) |
 
 ### 処理中
-- ⚙️ **[475 分]** [EEMUS] 連携企業候補20社
-- ⚙️ **[471 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- ⚙️ **[126 分]** [BG-Competitive] Indeed
+- ⚙️ **[476 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[476 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 243 件
 - research : 23 件
-- newbiz : 202 件
+- newbiz : 200 件
 - ingest : 1 件
 - corp : 76 件
 - dev : 13 件
