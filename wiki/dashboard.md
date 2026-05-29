@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 04:31
+updated: 2026-05-30 04:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 04:31
+**最終更新**: 2026-05-30 04:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 43 |
+| 📥 inbox | 123 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 44 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 863 (うち24h+古い: 673) |
+| 📝 wiki/_inbox 未レビュー | 864 (うち24h+古い: 673) |
 
 ### 処理中
-- ⚙️ **[584 分]** [Money] EEMUS 連携企業5社 具体接触メール
+- ⚙️ **[589 分]** [Money] AIpaX 5社目商談クロージング想定問答
+- ⚙️ **[589 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ### Inbox 上位
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] MVP LP完全版
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 290 件
 - research : 34 件
-- newbiz : 254 件
+- newbiz : 255 件
 - ingest : 1 件
 - corp : 102 件
 - dev : 16 件
