@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 07:01
+updated: 2026-05-30 07:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 07:01
+**最終更新**: 2026-05-30 07:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 68 |
+| ✅ 今日完了 | 69 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 888 (うち24h+古い: 694) |
+| 📝 wiki/_inbox 未レビュー | 889 (うち24h+古い: 694) |
 
 ### 処理中
-- ⚙️ **[610 分]** [EEMUS] 連携企業候補20社
-- ⚙️ **[600 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[615 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[595 分]** [School] X『中高生×AI』20投稿
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 35 件
 - newbiz : 262 件
 - ingest : 1 件
-- corp : 110 件
+- corp : 111 件
 - dev : 17 件
 
 ## 🔗 主要リンク

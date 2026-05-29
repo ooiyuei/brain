@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 07:02:47
+updated: 2026-05-30 07:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:02:47** | 🔥 **稼働中**
+**07:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7166MB / 8151MB (**87.9%**)
+- 使用率: **0%**
+- VRAM: 7165MB / 8151MB (**87.9%**)
 
 ## 💾 RAM
 
-- 使用率: **51.7%** (16.5GB / 31.9GB)
+- 使用率: **53.5%** (17.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 68 |
+| ✅ 今日完了 | 69 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36707 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [36107 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [36947 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [35747 秒経過] **[School] X『中高生×AI』20投稿**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 判定
