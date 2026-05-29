@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 01:42:46
+updated: 2026-05-30 01:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:42:46** | 🔥 **稼働中**
+**01:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **69%**
-- VRAM: 7018MB / 8151MB (**86.1%**)
+- 使用率: **4%**
+- VRAM: 7158MB / 8151MB (**87.8%**)
 
 ## 💾 RAM
 
-- 使用率: **83%** (26.5GB / 31.9GB)
+- 使用率: **51.6%** (16.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 111 |
+| 📥 inbox | 110 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 23 |
+| ✅ 今日完了 | 24 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32507 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [32747 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 
