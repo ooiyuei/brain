@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 06:31
+updated: 2026-05-30 06:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 06:31
+**最終更新**: 2026-05-30 06:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 62 |
+| ✅ 今日完了 | 63 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 882 (うち24h+古い: 689) |
+| 📝 wiki/_inbox 未レビュー | 883 (うち24h+古い: 690) |
 
 ### 処理中
-- ⚙️ **[600 分]** [EEMUS] MVP LP完全版
-- ⚙️ **[590 分]** [AIpaX] 月次PL試算
+- ⚙️ **[595 分]** [AIpaX] 月次PL試算
+- ⚙️ **[589 分]** [Money] 紹介プログラム 5事業横断ルール
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [EEMUS] 連携企業候補20社
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 296 件
+- marketing : 297 件
 - research : 34 件
 - newbiz : 261 件
 - ingest : 1 件
