@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 02:58:47
+updated: 2026-05-30 03:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:58:47** | 🔥 **稼働中**
+**03:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **83.8%** (26.7GB / 31.9GB)
+- 使用率: **84.5%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 118 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 31 |
+| ✅ 今日完了 | 32 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35028 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
-- ⚡ [34668 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [34908 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [34307 秒経過] **[Testall] ユーザーペルソナ5パターン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 

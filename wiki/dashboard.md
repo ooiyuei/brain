@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 02:56
+updated: 2026-05-30 03:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 02:56
+**最終更新**: 2026-05-30 03:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 118 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 31 |
+| ✅ 今日完了 | 32 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 851 (うち24h+古い: 662) |
+| 📝 wiki/_inbox 未レビュー | 852 (うち24h+古い: 663) |
 
 ### 処理中
-- ⚙️ **[581 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- ⚙️ **[575 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[580 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[570 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 33 件
 - newbiz : 249 件
 - ingest : 1 件
-- corp : 100 件
+- corp : 101 件
 - dev : 15 件
 
 ## 🔗 主要リンク
