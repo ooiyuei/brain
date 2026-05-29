@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 11:34
+updated: 2026-05-29 11:39
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-29 11:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 403分]** [Testall] X受験あるある投稿30本
-- [ ] **[処理中 4分]** [BG-Competitive] 採用ピックアップ
+- [ ] **[処理中 408分]** [Testall] X受験あるある投稿30本
+- [ ] **[処理中 9分]** [BG-Competitive] 採用ピックアップ
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [EEMUS] 連携企業候補20社
