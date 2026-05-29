@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 04:26
+updated: 2026-05-30 04:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 04:26
+**最終更新**: 2026-05-30 04:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 125 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 41 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 43 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 861 (うち24h+古い: 673) |
+| 📝 wiki/_inbox 未レビュー | 863 (うち24h+古い: 673) |
 
 ### 処理中
-- ⚙️ **[605 分]** [Testall] コンテンツ戦略3ヶ月
-- ⚙️ **[585 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[584 分]** [Money] EEMUS 連携企業5社 具体接触メール
 
 ### Inbox 上位
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 290 件
 - research : 34 件
-- newbiz : 252 件
+- newbiz : 254 件
 - ingest : 1 件
 - corp : 102 件
 - dev : 16 件

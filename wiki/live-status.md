@@ -1,53 +1,62 @@
 ---
 type: live-status
-updated: 2026-05-30 04:30:46
+updated: 2026-05-30 04:34:46
 tags: [live, status, monitoring]
 ---
 
-# 💤 Brain Live Status
+# 🔥 Brain Live Status
 
-**04:30:46** | 💤 **アイドル**
+**04:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
 - 状態: 🟢 稼働中
-- ロード済みモデル: 0
+- ロード済みモデル: 1
+
+| モデル | サイズ | VRAM | 残時間 |
+|---|---|---|---|
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 1094MB / 8151MB (**13.4%**)
+- 使用率: **2%**
+- VRAM: 7027MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **19.1%** (6.1GB / 31.9GB)
-- ⚠️ 余裕あり（タスク投入したら効率UP）
+- 使用率: **81.2%** (25.9GB / 31.9GB)
+- ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 43 |
+| 📥 inbox | 123 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 44 |
+
+## 🔄 処理中タスク
+
+- ⚡ [35266 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [35266 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [EEMUS] MVP LP完全版
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 
-⏳ **再開待ち** — inbox に 125 件、次のworker起動で処理開始
+🔥 **OpenClaw稼働中** — タスク処理してます
 
 ---
 
