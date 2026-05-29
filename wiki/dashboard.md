@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 18:21
+updated: 2026-05-29 18:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 18:21
+**最終更新**: 2026-05-29 18:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 135 |
+| 📥 inbox | 119 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 136 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 758 (うち24h+古い: 580) |
+| 📝 wiki/_inbox 未レビュー | 759 (うち24h+古い: 580) |
 
 ### 処理中
-- ⚙️ **[580 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[579 分]** [Money] EEMUS 連携企業5社 具体接触メール
+- ⚙️ **[579 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ### Inbox 上位
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] 親FAQ 30問
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
@@ -54,7 +55,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 257 件
-- research : 25 件
+- research : 26 件
 - newbiz : 210 件
 - ingest : 1 件
 - corp : 85 件
