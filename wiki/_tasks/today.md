@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 20:24
+updated: 2026-05-29 20:29
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,8 @@ updated: 2026-05-29 20:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 603分]** [Testall] コンテンツ戦略3ヶ月
-- [ ] **[処理中 583分]** [School] 1年カリキュラム詳細v2
-- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [ ] **[処理中 588分]** [School] 1年カリキュラム詳細v2
+- [ ] **[処理中 582分]** [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文

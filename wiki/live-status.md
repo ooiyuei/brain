@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 20:26:46
+updated: 2026-05-29 20:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:26:46** | 🔥 **稼働中**
+**20:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **86%**
-- VRAM: 7066MB / 8151MB (**86.7%**)
+- 使用率: **2%**
+- VRAM: 7201MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **80.7%** (25.7GB / 31.9GB)
+- 使用率: **82.5%** (26.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 156 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35148 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [35388 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [35027 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
