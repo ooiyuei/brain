@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 23:31
+updated: 2026-05-29 23:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 23:31
+**最終更新**: 2026-05-29 23:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 191 |
+| 📥 inbox | 118 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 194 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 814 (うち24h+古い: 631) |
+| 📝 wiki/_inbox 未レビュー | 817 (うち24h+古い: 631) |
+
+### 処理中
+- ⚙️ **[575 分]** [AIpaX] 月次PL試算
+- ⚙️ **[561 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [School] 親向けLP完全版
-- [high] [AIpaX] 月次PL試算
-- [high] [EEMUS] MVP LP完全版
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [横断] 15事業の優先順位再評価
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +54,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 276 件
+- marketing : 279 件
 - research : 30 件
 - newbiz : 234 件
 - ingest : 1 件
