@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 12:44
+updated: 2026-05-29 12:49
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-29 12:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 453分]** [EEMUS] 連携企業候補20社
-- [ ] **[処理中 104分]** [BG-Competitive] BizReach
+- [ ] **[処理中 458分]** [EEMUS] 連携企業候補20社
+- [ ] **[処理中 109分]** [BG-Competitive] BizReach
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
