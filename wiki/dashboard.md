@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 05:51
+updated: 2026-05-30 05:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 05:51
+**最終更新**: 2026-05-30 05:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 58 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 878 (うち24h+古い: 682) |
+| 📝 wiki/_inbox 未レビュー | 878 (うち24h+古い: 683) |
 
 ### 処理中
-- ⚙️ **[580 分]** [AIpaX] 月次PL試算
+- ⚙️ **[585 分]** [AIpaX] 月次PL試算
+- ⚙️ **[581 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [School] 利用規約・特商法表記
 - [high] [EEMUS] MVP LP完全版
 - [high] [AIpaX] 月次PL試算
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
