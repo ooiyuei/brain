@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 07:31
+updated: 2026-05-30 07:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 07:31
+**最終更新**: 2026-05-30 07:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 74 |
+| ✅ 今日完了 | 76 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 894 (うち24h+古い: 697) |
+| 📝 wiki/_inbox 未レビュー | 896 (うち24h+古い: 699) |
 
 ### 処理中
-- ⚙️ **[600 分]** [AIpaX] 業務委託契約書テンプレ
-- ⚙️ **[590 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[589 分]** [Money] Testall 親向けLP コピー改善
+- ⚙️ **[589 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ### Inbox 上位
-- [high] [Money] Testall 親向けLP コピー改善
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [EEMUS] 連携企業候補20社
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 35 件
 - newbiz : 264 件
 - ingest : 1 件
-- corp : 112 件
+- corp : 114 件
 - dev : 17 件
 
 ## 🔗 主要リンク
