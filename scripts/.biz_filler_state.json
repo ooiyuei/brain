@@ -751,6 +751,10 @@
                     {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-05-29T14:31:02.7719580+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-05-29T14:41:02.1660158+09:00"
                     }
                 ]
 }
