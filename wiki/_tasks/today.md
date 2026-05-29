@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 10:04
+updated: 2026-05-29 10:09
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,9 @@ updated: 2026-05-29 10:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 343分]** [School] 入学後30日プラン
-- [ ] **[処理中 333分]** [Testall] X受験あるある投稿30本
-- [ ] **[処理中 4分]** [BG-Entities] omni 更新提案
+- [ ] **[処理中 348分]** [School] 入学後30日プラン
+- [ ] **[処理中 338分]** [Testall] X受験あるある投稿30本
+- [ ] **[処理中 9分]** [BG-Entities] omni 更新提案
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Testall] X受験あるある投稿30本
