@@ -15,10 +15,11 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-05-27 朝の作戦）
+## 🌅 Today（2026-05-30 朝の作戦）
 
-**絶対やる1個**: 夢AWARD 応募骨子を書く（残11日・今週末デッドライン）
-**一言**: 骨子の30分が残11日の全部を動かす。
+**絶対やる1個**: 夢AWARD 応募骨子を書く（残8日・7日連続未着手・今日が事実上ラスト）
+**一言**: 骨子1枚が6/7まで全部を動かす。Claudeは叩き台を即生成できる。
+**⚠️ 追加緊急**: Digital AI補助金2026 第1次締切が**明日5/31** — 静岡財団TELで補助対象確認を同日に。
 
 ## ☀️ Midday（12:30 昼チェック）
 
@@ -39,15 +40,15 @@ managed_by: Claude (must update every session)
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-05-29 夜 — 夜ルーティン (工場ブリッジ/git復旧/夜メモ生成)
+**Last session**: 2026-05-30 朝 — 朝ルーティン (morning-20260530生成/today.md更新/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/evening-20260529.md` (夜メモ生成)
-- `brain/wiki/_tasks/done.md` (今日の完了5件 archive)
-- `brain/wiki/hot.md` (Tomorrow section 5/30更新)
+- `brain/wiki/_routines/morning-20260530.md` (朝メモ生成)
+- `brain/wiki/_tasks/today.md` (5/30版に更新)
+- `brain/wiki/hot.md` (Today section 5/30更新)
 
-**現在の Mode**: 夜ルーティン完了
-**完了**: 工場ブリッジ/git同期/queue heal/280ファイル復旧/再起動耐性 — 全部Claude
-**未完**: 夢AWARD骨子（6日連続・明日絶対）/ 静岡財団TEL / Mac obsidian-git自動push
+**現在の Mode**: 朝ルーティン完了
+**完了**: 朝の作戦会議 / Digital AI補助金2026緊急フラグ確認
+**未完**: 夢AWARD骨子（7日連続・今日絶対）/ 静岡財団TEL(054-254-4511) / Digital AI補助金要件確認(明日5/31締切) / Mac obsidian-git自動push
 
 ---
 
