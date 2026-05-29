@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 10:46:46
+updated: 2026-05-29 10:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:46:46** | 🔥 **稼働中**
+**10:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残-17分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残-21分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **13%**
-- VRAM: 7346MB / 8151MB (**90.1%**)
+- 使用率: **0%**
+- VRAM: 7350MB / 8151MB (**90.2%**)
 
 ## 💾 RAM
 
-- 使用率: **56.5%** (18.1GB / 31.9GB)
+- 使用率: **55.7%** (17.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,15 +37,15 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 83 |
+| 📥 inbox | 87 |
 | ⚙️ processing | 3 |
 | ✅ 今日完了 | 85 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [21947 秒経過] **[School] 親向けLP完全版**
-- ⚡ [21586 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
-- ⚡ [1007 秒経過] **[BG-Business] gymee 次の一手**
+- ⚡ [22187 秒経過] **[School] 親向けLP完全版**
+- ⚡ [21826 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [1247 秒経過] **[BG-Business] gymee 次の一手**
 
 ## 📥 待機タスク (上位5)
 

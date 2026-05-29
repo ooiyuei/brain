@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 10:44
+updated: 2026-05-29 10:49
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,9 @@ updated: 2026-05-29 10:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 363分]** [School] 親向けLP完全版
-- [ ] **[処理中 357分]** [Money] AIpaX 既存4社 アップセル提案
-- [ ] **[処理中 14分]** [BG-Business] gymee 次の一手
+- [ ] **[処理中 368分]** [School] 親向けLP完全版
+- [ ] **[処理中 362分]** [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 19分]** [BG-Business] gymee 次の一手
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [EEMUS] 連携企業候補20社
@@ -94,6 +94,10 @@ updated: 2026-05-29 10:44
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [School] 1年カリキュラム詳細v2
+- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [ ] [待機] [Money] Testall 親向けLP コピー改善
+- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
