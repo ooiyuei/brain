@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 10:54:46
+updated: 2026-05-29 10:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:54:46** | 🔥 **稼働中**
+**10:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7204MB / 8151MB (**88.4%**)
+- 使用率: **9%**
+- VRAM: 7209MB / 8151MB (**88.4%**)
 
 ## 💾 RAM
 
-- 使用率: **83.9%** (26.8GB / 31.9GB)
+- 使用率: **52.6%** (16.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 88 |
+| 📥 inbox | 87 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 86 |
+| ✅ 今日完了 | 87 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [22427 秒経過] **[School] 親向けLP完全版**
-- ⚡ [22066 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [22668 秒経過] **[School] 親向けLP完全版**
+- ⚡ [22067 秒経過] **[Testall] X受験あるある投稿30本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] X受験あるある投稿30本
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 
