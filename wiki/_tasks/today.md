@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 18:04
+updated: 2026-05-29 18:09
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-29 18:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 583分]** [School] X『中高生×AI』20投稿
-- [ ] **[処理中 574分]** [Monitor] ビジコン締切 - 2026-05-29
+- [ ] **[処理中 588分]** [School] X『中高生×AI』20投稿
+- [ ] **[処理中 579分]** [Monitor] ビジコン締切 - 2026-05-29
 - [ ] [待機] [Monitor] 朝の問い - 2026-05-29
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
