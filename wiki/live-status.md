@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 21:22:47
+updated: 2026-05-29 21:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:22:47** | 🔥 **稼働中**
+**21:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7064MB / 8151MB (**86.7%**)
+- 使用率: **2%**
+- VRAM: 7069MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **81.9%** (26.1GB / 31.9GB)
+- 使用率: **82.7%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,17 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 170 |
+| 📥 inbox | 118 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 171 |
+
+## 🔄 処理中タスク
+
+- ⚡ [34787 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] 6/21月収100万 残30日アクションプラン
-- [high] [横断] 15事業の優先順位再評価
+- [] 
 - [high] [School] 親FAQ 30問
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 
