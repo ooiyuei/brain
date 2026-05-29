@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 14:16
+updated: 2026-05-29 14:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 14:16
+**最終更新**: 2026-05-29 14:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 109 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 105 |
+| ✅ 今日完了 | 106 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 731 (うち24h+古い: 539) |
+| 📝 wiki/_inbox 未レビュー | 732 (うち24h+古い: 539) |
 
 ### 処理中
-- ⚙️ **[505 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[495 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[500 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[490 分]** [School] 利用規約・特商法表記
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] 親向けLP完全版
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 248 件
 - research : 23 件
-- newbiz : 201 件
+- newbiz : 202 件
 - ingest : 1 件
 - corp : 79 件
 - dev : 13 件
