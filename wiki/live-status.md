@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 16:42:47
+updated: 2026-05-29 16:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:42:47** | 🔥 **稼働中**
+**16:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7217MB / 8151MB (**88.5%**)
+- 使用率: **9%**
+- VRAM: 7221MB / 8151MB (**88.6%**)
 
 ## 💾 RAM
 
-- 使用率: **54.4%** (17.4GB / 31.9GB)
+- 使用率: **55.1%** (17.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 114 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 113 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 125 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [31907 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
+- ⚡ [32147 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
+- ⚡ [31545 秒経過] **[School] note『AI時代に子供に渡したいもの』**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Monitor] 競合動向Top3 - 2026-05-29
 
 ## 🎯 判定
 
