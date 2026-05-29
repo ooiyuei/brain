@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 01:11
+updated: 2026-05-30 01:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 01:11
+**最終更新**: 2026-05-30 01:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 111 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 18 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 19 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 838 (うち24h+古い: 645) |
+| 📝 wiki/_inbox 未レビュー | 839 (うち24h+古い: 645) |
 
 ### 処理中
-- ⚙️ **[540 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[541 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[541 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 入学後30日プラン
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 284 件
 - research : 31 件
-- newbiz : 242 件
+- newbiz : 243 件
 - ingest : 1 件
 - corp : 99 件
 - dev : 15 件
