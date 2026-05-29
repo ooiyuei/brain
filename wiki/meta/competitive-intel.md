@@ -1,14 +1,14 @@
 ---
 type: competitive-intel
 title: 競合インテリジェンス（自動集約）
-updated: 2026-05-28 11:30
+updated: 2026-05-29 11:30
 tags: [meta, competitive, intel, auto-aggregated]
 ---
 
 # 競合インテリジェンス 統合MAP
 
 > `BG-Competitive` が生成する個別ファイル（`wiki/research/competitors/`）を毎日11:30に自動集約。
-> 最終更新: 2026-05-28 11:30
+> 最終更新: 2026-05-29 11:30
 
 ## サマリー
 
@@ -59,8 +59,8 @@ tags: [meta, competitive, intel, auto-aggregated]
 ## 関連リンク
 
 - 個別レポート群: `wiki/research/competitors/`
-- 朝の競合動向: [[_monitor/competitor-2026-05-28]]
-- AI業界ニュース: [[_monitor/ai-news-2026-05-28]]
+- 朝の競合動向: [[_monitor/competitor-2026-05-29]]
+- AI業界ニュース: [[_monitor/ai-news-2026-05-29]]
 
 ---
 _このファイルは `aggregate_competitive.ps1` が毎日11:30に自動更新_
