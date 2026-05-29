@@ -88,6 +88,17 @@ managed_by: Claude (must update every session)
 
 ---
 
+## 今日の AI ニュース
+*最終更新: 2026-05-30 07:52*
+
+1. ★ Claude Opus 4.8 リリース (5/28) — 判断精度・正直さ・長時間自走が強化、価格据え置き。Testall の品質が無コストで底上げ
+2. ★ 経産省「Digital AI 補助金 2026」第1次締切が今月末 — 予算840億円・1.4倍。最大2/3補助で生成AI/RPA/AIチャットボットが対象。Almeo 中小営業が補助金前提で売れる
+3. GPT-5.5 Instant が ChatGPT 既定モデルに (5/5) — 高stakes領域でハルシネーション52.5%減
+
+詳細: brain/07_research/ai-news/2026-05-30.md
+
+---
+
 ## 📥 新着インテリ (取り込み待ち)
 
 > `.raw/` `_inbox/` に届いてるが未消化のもの。

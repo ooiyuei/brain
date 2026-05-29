@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 07:46
+updated: 2026-05-30 07:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 07:46
+**最終更新**: 2026-05-30 07:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
+| 📥 inbox | 124 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 79 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 899 (うち24h+古い: 700) |
 
 ### 処理中
-- ⚙️ **[595 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[585 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[600 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[590 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
 - [high] [EEMUS] 連携企業候補20社
