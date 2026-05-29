@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 04:01
+updated: 2026-05-30 04:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 04:01
+**最終更新**: 2026-05-30 04:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 40 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 860 (うち24h+古い: 671) |
+| 📝 wiki/_inbox 未レビュー | 860 (うち24h+古い: 672) |
 
 ### 処理中
-- ⚙️ **[580 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[585 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[575 分]** [AIpaX] X投稿『AI導入Tips』20本
 
 ### Inbox 上位
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 今日のフォーカス
 
