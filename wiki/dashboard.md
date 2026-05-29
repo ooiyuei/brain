@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 22:41
+updated: 2026-05-29 22:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 22:41
+**最終更新**: 2026-05-29 22:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 119 |
+| 📥 inbox | 118 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 182 |
+| ✅ 今日完了 | 183 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 805 (うち24h+古い: 624) |
+| 📝 wiki/_inbox 未レビュー | 806 (うち24h+古い: 626) |
 
 ### 処理中
-- ⚙️ **[570 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[566 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[575 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[571 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] X『中高生×AI』20投稿
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 今日のフォーカス
 
@@ -56,7 +56,7 @@ tags: [dashboard, system]
 
 - marketing : 274 件
 - research : 29 件
-- newbiz : 229 件
+- newbiz : 230 件
 - ingest : 1 件
 - corp : 92 件
 - dev : 14 件
