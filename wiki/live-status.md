@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 06:50:47
+updated: 2026-05-30 06:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:50:47** | 🔥 **稼働中**
+**06:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残20分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7025MB / 8151MB (**86.2%**)
+- 使用率: **73%**
+- VRAM: 7028MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **80.6%** (25.7GB / 31.9GB)
+- 使用率: **83.8%** (26.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 67 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 68 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36227 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [36227 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [35627 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 判定
 
