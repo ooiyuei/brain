@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 06:42:46
+updated: 2026-05-30 06:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:42:46** | 🔥 **稼働中**
+**06:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残24分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7023MB / 8151MB (**86.2%**)
+- 使用率: **3%**
+- VRAM: 7029MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **79.8%** (25.5GB / 31.9GB)
+- 使用率: **80.2%** (25.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
+| 📥 inbox | 120 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 65 |
+| ✅ 今日完了 | 66 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35747 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [35987 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 
