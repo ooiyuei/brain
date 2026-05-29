@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 20:54:47
+updated: 2026-05-29 20:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:54:47** | 🔥 **稼働中**
+**20:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
+- 使用率: **0%**
 - VRAM: 7204MB / 8151MB (**88.4%**)
 
 ## 💾 RAM
 
-- 使用率: **53.8%** (17.2GB / 31.9GB)
+- 使用率: **53.1%** (16.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 162 |
-
-## 🔄 処理中タスク
-
-- ⚡ [36228 秒経過] **[Testall] ユーザーペルソナ5パターン**
+| 📥 inbox | 121 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 164 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [Testall] X受験あるある投稿30本
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 判定
 
