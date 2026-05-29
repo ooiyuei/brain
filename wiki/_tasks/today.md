@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-30 01:24
+updated: 2026-05-30 01:29
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,7 @@ updated: 2026-05-30 01:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 549分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- [ ] **[処理中 543分]** [AIpaX] β顧客候補30社プロファイル
+- [ ] **[処理中 548分]** [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
