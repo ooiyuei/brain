@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 18:42:47
+updated: 2026-05-29 18:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:42:47** | 🔥 **稼働中**
+**18:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残28分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **9%**
-- VRAM: 7219MB / 8151MB (**88.6%**)
+- 使用率: **82%**
+- VRAM: 7180MB / 8151MB (**88.1%**)
 
 ## 💾 RAM
 
-- 使用率: **51.9%** (16.6GB / 31.9GB)
+- 使用率: **83.3%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 115 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 142 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34308 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [34548 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [34308 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Testall] 教育者連携アプローチ
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 判定
 

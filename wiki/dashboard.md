@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 18:41
+updated: 2026-05-29 18:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 18:41
+**最終更新**: 2026-05-29 18:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 115 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 142 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 765 (うち24h+古い: 582) |
+| 📝 wiki/_inbox 未レビュー | 765 (うち24h+古い: 583) |
 
 ### 処理中
-- ⚙️ **[570 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[575 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[571 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Testall] 教育者連携アプローチ
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
