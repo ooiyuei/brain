@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 14:46
+updated: 2026-05-29 14:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 14:46
+**最終更新**: 2026-05-29 14:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 109 |
+| 📥 inbox | 110 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 108 |
+| ✅ 今日完了 | 109 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 734 (うち24h+古い: 542) |
+| 📝 wiki/_inbox 未レビュー | 735 (うち24h+古い: 542) |
 
 ### 処理中
-- ⚙️ **[511 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- ⚙️ **[511 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[516 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[510 分]** [横断] Stripe決済設定 5事業ロードマップ
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] 親向けLP完全版
 - [high] [School] 親FAQ 30問
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 23 件
 - newbiz : 203 件
 - ingest : 1 件
-- corp : 80 件
+- corp : 81 件
 - dev : 13 件
 
 ## 🔗 主要リンク
