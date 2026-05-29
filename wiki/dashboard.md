@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 11:21
+updated: 2026-05-29 11:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 11:21
+**最終更新**: 2026-05-29 11:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,23 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 96 |
-| ⚙️ processing | 3 |
+| 📥 inbox | 97 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 87 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 721 (うち24h+古い: 511) |
+| 📝 wiki/_inbox 未レビュー | 721 (うち24h+古い: 512) |
 
 ### 処理中
-- ⚙️ **[400 分]** [School] 親向けLP完全版
-- ⚙️ **[390 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[21 分]** [BG-Competitive] 採用ピックアップ
+- ⚙️ **[395 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[26 分]** [BG-Competitive] 採用ピックアップ
 
 ### Inbox 上位
+- [high] [School] 親向けLP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
