@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 08:46:47
+updated: 2026-05-30 08:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:46:47** | 🔥 **稼働中**
+**08:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7022MB / 8151MB (**86.1%**)
+- 使用率: **0%**
+- VRAM: 7017MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **82.3%** (26.3GB / 31.9GB)
+- 使用率: **83.6%** (26.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 88 |
-
-## 🔄 処理中タスク
-
-- ⚡ [35986 秒経過] **[Money] EEMUS 連携企業5社 具体接触メール**
+| 📥 inbox | 129 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 90 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 
