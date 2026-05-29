@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 18:02:46
+updated: 2026-05-29 18:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:02:46** | 🔥 **稼働中**
+**18:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7220MB / 8151MB (**88.6%**)
+- 使用率: **3%**
+- VRAM: 7217MB / 8151MB (**88.5%**)
 
 ## 💾 RAM
 
-- 使用率: **51.3%** (16.4GB / 31.9GB)
+- 使用率: **84.3%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 131 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34907 秒経過] **[School] X『中高生×AI』20投稿**
+- ⚡ [35148 秒経過] **[School] X『中高生×AI』20投稿**
+- ⚡ [34607 秒経過] **[Monitor] ビジコン締切 - 2026-05-29**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Monitor] ビジコン締切 - 2026-05-29
 - [high] [Monitor] 朝の問い - 2026-05-29
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 判定
 
