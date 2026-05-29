@@ -28,28 +28,26 @@ managed_by: Claude (must update every session)
 **午後**: ①14:00 夢AWARD骨子セッション（大井）②静岡財団TEL（054-254-4511）③Workspace設定（Claude）④BG-Entities promptを qwen3.6:latest に昇格して再設計
 **詳細**: [[_routines/midday-20260529]]
 
-## 🌙 Tomorrow（2026-05-29）
+## 🌙 Tomorrow（2026-05-30）
 
-**最優先**: **夢AWARD応募骨子を書く** — Calendar 14:00（6/7締切・残10日）。Claude叩き台仕込み済み→`02_newbiz/pitch-eemus/2026-05-29-yume-award-draft-v4.md`
-**サブ①**: 静岡産業振興財団 TEL（054-254-4511）— 最大200万・残12日。午前中に電話1本。大井のみ。
-**サブ②**: Claude × Workspace コネクタ設定 — Gmail/Calendar/Drive。Claude担当・朝ブリーフ自動化の起点。
-**詳細**: [[_routines/evening-20260528]]
+**最優先**: **夢AWARD応募骨子を書く** — 6/7締切・残**8日**。5日連続未着手。今日こそ骨子30分。大井のみ（Claudeは「骨子出して」で叩き台即生成）
+**サブ①**: 静岡産業振興財団 TEL（054-254-4511）— 最大200万・残8日。午前中に電話1本。大井のみ。
+**サブ②**: Mac obsidian-git 自動push設定（[[00_YUEI/工場-使い方]]）— 大井1クリック → 外出先から工場フル稼働
+**詳細**: [[_routines/evening-20260529]]
 
 ---
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-05-27 深夜 — 自走モード (コメダ事件後の整理・Almeo MVV・クローンv4・夜ルーティン)
+**Last session**: 2026-05-29 夜 — 夜ルーティン (工場ブリッジ/git復旧/夜メモ生成)
 **Last touched files**:
-- `brain/wiki/_routines/evening-20260527.md` (夜メモ生成)
-- `brain/wiki/_tasks/done.md` (今日の完了15件 archive)
-- `brain/00_YUEI/TOMORROW.md` (明日の優先順位・Q1-Q6)
-- `brain/00_YUEI/REPORT.md` (日次サマリー全更新)
-- `brain/wiki/hot.md` (Tomorrow section 追加)
+- `brain/wiki/_routines/evening-20260529.md` (夜メモ生成)
+- `brain/wiki/_tasks/done.md` (今日の完了5件 archive)
+- `brain/wiki/hot.md` (Tomorrow section 5/30更新)
 
-**現在の Mode**: 夜ルーティン完了 → 就寝前
-**完了**: インフラ/Phase2/inbox9件/MCP/クローンv4/MVV/コメダ事件回復 — 全部今日
-**未完**: 夢AWARD骨子 (5/29 Calendar済み) / AIpaX 5社目実況共有 (大井待ち)
+**現在の Mode**: 夜ルーティン完了
+**完了**: 工場ブリッジ/git同期/queue heal/280ファイル復旧/再起動耐性 — 全部Claude
+**未完**: 夢AWARD骨子（6日連続・明日絶対）/ 静岡財団TEL / Mac obsidian-git自動push
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 21:02:47
+updated: 2026-05-29 21:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:02:47** | 🔥 **稼働中**
+**21:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7064MB / 8151MB (**86.7%**)
+- VRAM: 7068MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **81.5%** (26GB / 31.9GB)
+- 使用率: **83.9%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 164 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35268 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
+- ⚡ [35508 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
+- ⚡ [35508 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [Testall] X受験あるある投稿30本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 判定
 

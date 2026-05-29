@@ -11,6 +11,14 @@ updated: 2026-05-18
 
 ## 2026-05-W4（5/25-31）
 
+### 2026-05-29
+
+- [x] **工場ブリッジ `factory_bridge.ps1` 構築+テスト**（Claude）: Mac→OpenClaw自動投入・二重防止・受付レシート機能
+- [x] **headless git同期 `sync_brain.ps1` 構築**（Claude）: Obsidian閉でも Mac↔Win 4分毎同期・競合時Discord通知
+- [x] **queue ヒール**（Claude）: failed10件・ゾンビ2件アーカイブ、worker再稼働確認
+- [x] **brain 12日分・280ファイルをGitHubへ push**（Claude）: 5/17〜停止してたremote復旧、local==remote==最新
+- [x] **再起動耐性設定**（Claude）: 全同期タスクに StartWhenAvailable 付与
+
 ### 2026-05-28
 
 - [x] **昼チェック実行**（12:30）: wiki/_inbox/ 巡回 3件昇格・3件削除。[[research/testall-vs-studyplus-planning-2026-05-28]]・[[research/aipa-web-market-trend-2026-05-28]]・[[marketing/aipax-closing-qa-2026-05-28]] 昇格。corp/dev 3件は品質不足で削除。
