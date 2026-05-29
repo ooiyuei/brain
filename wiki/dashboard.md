@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 03:41
+updated: 2026-05-30 03:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 03:41
+**最終更新**: 2026-05-30 03:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 118 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 38 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 858 (うち24h+古い: 669) |
 
+### 処理中
+- ⚙️ **[571 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[571 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] β顧客80万提案書フル版
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
 
 ## 🎯 今日のフォーカス
 
