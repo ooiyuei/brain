@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 13:21
+updated: 2026-05-29 13:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 13:21
+**最終更新**: 2026-05-29 13:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 107 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 97 |
+| 📥 inbox | 105 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 98 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 723 (うち24h+古い: 534) |
+| 📝 wiki/_inbox 未レビュー | 724 (うち24h+古い: 534) |
 
 ### 処理中
-- ⚙️ **[486 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[485 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[475 分]** [AIpaX] 業務委託契約書テンプレ
 
 ### Inbox 上位
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 243 件
 - research : 23 件
-- newbiz : 200 件
+- newbiz : 201 件
 - ingest : 1 件
 - corp : 77 件
 - dev : 13 件

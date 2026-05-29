@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 13:22:47
+updated: 2026-05-29 13:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:22:47** | 🔥 **稼働中**
+**13:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7067MB / 8151MB (**86.7%**)
+- 使用率: **91%**
+- VRAM: 7339MB / 8151MB (**90%**)
 
 ## 💾 RAM
 
-- 使用率: **84.9%** (27.1GB / 31.9GB)
+- 使用率: **57%** (18.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 107 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 97 |
+| 📥 inbox | 105 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 98 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [29268 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
+- ⚡ [29147 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [28547 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 判定
 
