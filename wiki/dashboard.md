@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 00:06
+updated: 2026-05-30 00:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 00:06
+**最終更新**: 2026-05-30 00:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 116 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 2 |
+| ✅ 今日完了 | 3 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 822 (うち24h+古い: 637) |
+| 📝 wiki/_inbox 未レビュー | 823 (うち24h+古い: 638) |
 
 ### 処理中
-- ⚙️ **[565 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[559 分]** [Money] AIpaX 既存4社 アップセル提案
+- ⚙️ **[564 分]** [Money] AIpaX 既存4社 アップセル提案
+- ⚙️ **[560 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
-- [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 今日のフォーカス
 
@@ -53,7 +53,7 @@ tags: [dashboard, system]
 - newbiz : 236 件
 - ingest : 1 件
 - corp : 95 件
-- dev : 14 件
+- dev : 15 件
 
 ## 🔗 主要リンク
 
