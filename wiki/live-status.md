@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 05:30:47
+updated: 2026-05-30 05:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**05:30:47** | 🔥 **稼働中**
+**05:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7164MB / 8151MB (**87.9%**)
+- 使用率: **2%**
+- VRAM: 7031MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **52.2%** (16.7GB / 31.9GB)
+- 使用率: **81.2%** (25.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 121 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 54 |
+
+## 🔄 処理中タスク
+
+- ⚡ [35628 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [35267 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] 月次PL試算
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 
