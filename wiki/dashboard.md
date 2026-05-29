@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 02:41
+updated: 2026-05-30 02:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 02:41
+**最終更新**: 2026-05-30 02:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 117 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 29 |
+| 📥 inbox | 115 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 30 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 849 (うち24h+古い: 661) |
+| 📝 wiki/_inbox 未レビュー | 850 (うち24h+古い: 661) |
 
 ### 処理中
-- ⚙️ **[570 分]** [School] 体験会2時間プログラム
+- ⚙️ **[571 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[571 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 287 件
 - research : 33 件
-- newbiz : 247 件
+- newbiz : 248 件
 - ingest : 1 件
 - corp : 100 件
 - dev : 15 件
