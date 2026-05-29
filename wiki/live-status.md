@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 06:06:46
+updated: 2026-05-30 06:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:06:46** | 🔥 **稼働中**
+**06:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,39 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **89%**
+- 使用率: **3%**
 - VRAM: 7031MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **81.1%** (25.9GB / 31.9GB)
+- 使用率: **82.5%** (26.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 119 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 60 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35507 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
+- ⚡ [35747 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
+- ⚡ [35387 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [EEMUS] MVP LP完全版
 - [high] [AIpaX] 月次PL試算
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 判定
 
