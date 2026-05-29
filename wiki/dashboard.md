@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 01:16
+updated: 2026-05-30 01:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 01:16
+**最終更新**: 2026-05-30 01:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 111 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 19 |
+| ✅ 今日完了 | 20 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 839 (うち24h+古い: 645) |
+| 📝 wiki/_inbox 未レビュー | 840 (うち24h+古い: 647) |
 
 ### 処理中
-- ⚙️ **[541 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- ⚙️ **[541 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[546 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[540 分]** [AIpaX] β顧客候補30社プロファイル
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 入学後30日プラン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 284 件
 - research : 31 件
-- newbiz : 243 件
+- newbiz : 244 件
 - ingest : 1 件
 - corp : 99 件
 - dev : 15 件
