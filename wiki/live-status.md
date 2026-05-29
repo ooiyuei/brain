@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 00:34:47
+updated: 2026-05-30 00:38:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:34:47** | 🔥 **稼働中**
+**00:38:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **83.3%** (26.6GB / 31.9GB)
+- 使用率: **82.9%** (26.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,8 +43,8 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [33227 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
-- ⚡ [32627 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [33467 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [32867 秒経過] **[横断] 15事業の優先順位再評価**
 
 ## 📥 待機タスク (上位5)
 

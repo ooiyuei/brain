@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 00:31
+updated: 2026-05-30 00:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 00:31
+**最終更新**: 2026-05-30 00:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 115 |
+| 📥 inbox | 114 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 8 |
+| ✅ 今日完了 | 9 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 828 (うち24h+古い: 640) |
+| 📝 wiki/_inbox 未レビュー | 829 (うち24h+古い: 640) |
 
 ### 処理中
-- ⚙️ **[556 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- ⚙️ **[550 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[555 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[545 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
-- [high] [横断] 15事業の優先順位再評価
 - [high] [School] 親向けLP完全版
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 31 件
 - newbiz : 238 件
 - ingest : 1 件
-- corp : 96 件
+- corp : 97 件
 - dev : 15 件
 
 ## 🔗 主要リンク
