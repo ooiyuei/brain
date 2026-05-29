@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 13:34:46
+updated: 2026-05-29 13:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:34:46** | 🔥 **稼働中**
+**13:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **11%**
+- 使用率: **9%**
 - VRAM: 7204MB / 8151MB (**88.4%**)
 
 ## 💾 RAM
 
-- 使用率: **51.1%** (16.3GB / 31.9GB)
+- 使用率: **51.8%** (16.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,13 +38,12 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 106 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 98 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 99 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [29627 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [29027 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [29267 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 

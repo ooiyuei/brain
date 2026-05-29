@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 13:31
+updated: 2026-05-29 13:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 13:31
+**最終更新**: 2026-05-29 13:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 724 (うち24h+古い: 535) |
 
 ### 処理中
-- ⚙️ **[490 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[480 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[495 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[485 分]** [AIpaX] 業務委託契約書テンプレ
 
 ### Inbox 上位
 - [high] [AIpaX] β顧客5社募集LP完全版
