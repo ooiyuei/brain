@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 23:56
+updated: 2026-05-30 00:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 23:56
+**最終更新**: 2026-05-30 00:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 197 |
+| 📥 inbox | 117 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 1 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 820 (うち24h+古い: 633) |
+| 📝 wiki/_inbox 未レビュー | 821 (うち24h+古い: 634) |
 
 ### 処理中
-- ⚙️ **[575 分]** [横断] 15事業の優先順位再評価
-- ⚙️ **[565 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[555 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[570 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[560 分]** [横断] Stripe決済設定 5事業ロードマップ
 
 ### Inbox 上位
 - [high] [Money] AIpaX 既存4社 アップセル提案
@@ -47,17 +46,11 @@ tags: [dashboard, system]
 | 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 0/4 |
 | ⚔️ 競合監視 (3日サイクル) | 10/15 社 |
 
-## 🌅 今朝の監視結果
-
-- [[_monitor/competitor-2026-05-29|competitor]]
-- [[_monitor/deadlines-2026-05-29|deadlines]]
-- [[_monitor/grill-2026-05-29|grill]]
-
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 279 件
 - research : 30 件
-- newbiz : 235 件
+- newbiz : 236 件
 - ingest : 1 件
 - corp : 95 件
 - dev : 14 件

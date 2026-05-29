@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 23:54
+updated: 2026-05-29 23:59
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,9 @@ updated: 2026-05-29 23:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 573分]** [横断] 15事業の優先順位再評価
-- [ ] **[処理中 563分]** [Testall] Studyplus Planning徹底比較
-- [ ] **[処理中 553分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 578分]** [横断] 15事業の優先順位再評価
+- [ ] **[処理中 568分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 558分]** [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
