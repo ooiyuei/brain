@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 17:51
+updated: 2026-05-29 17:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 17:51
+**最終更新**: 2026-05-29 17:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 130 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 756 (うち24h+古い: 570) |
+| 📝 wiki/_inbox 未レビュー | 756 (うち24h+古い: 571) |
 
 ### 処理中
-- ⚙️ **[570 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[575 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[566 分]** [Monitor] 競合動向Top3 - 2026-05-29
 
 ### Inbox 上位
-- [high] [Monitor] 競合動向Top3 - 2026-05-29
 - [high] [Monitor] ビジコン締切 - 2026-05-29
 - [high] [Monitor] 朝の問い - 2026-05-29
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 今日のフォーカス
 
