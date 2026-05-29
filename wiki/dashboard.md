@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 04:11
+updated: 2026-05-30 04:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 04:11
+**最終更新**: 2026-05-30 04:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 124 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 40 |
+| ✅ 今日完了 | 41 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 860 (うち24h+古い: 673) |
+| 📝 wiki/_inbox 未レビュー | 861 (うち24h+古い: 673) |
 
 ### 処理中
-- ⚙️ **[590 分]** [Testall] コンテンツ戦略3ヶ月
-- ⚙️ **[580 分]** [AIpaX] X投稿『AI導入Tips』20本
+- ⚙️ **[595 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[575 分]** [AIpaX] β顧客80万提案書フル版
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 289 件
+- marketing : 290 件
 - research : 34 件
 - newbiz : 252 件
 - ingest : 1 件
