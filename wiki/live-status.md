@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 10:26:46
+updated: 2026-05-29 10:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:26:46** | 🔥 **稼働中**
+**10:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残3分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残-1分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7190MB / 8151MB (**88.2%**)
+- 使用率: **97%**
+- VRAM: 7208MB / 8151MB (**88.4%**)
 
 ## 💾 RAM
 
-- 使用率: **53.3%** (17GB / 31.9GB)
+- 使用率: **55.3%** (17.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,13 +39,13 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 83 |
 | ⚙️ processing | 3 |
-| ✅ 今日完了 | 82 |
+| ✅ 今日完了 | 83 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [21947 秒経過] **[School] 入学後30日プラン**
-- ⚡ [21347 秒経過] **[Testall] X受験あるある投稿30本**
-- ⚡ [1607 秒経過] **[BG-Entities] omni 更新提案**
+- ⚡ [22187 秒経過] **[School] 入学後30日プラン**
+- ⚡ [21587 秒経過] **[Testall] X受験あるある投稿30本**
+- ⚡ [47 秒経過] **[BG-Business] gymee 次の一手**
 
 ## 📥 待機タスク (上位5)
 
