@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 10:34
+updated: 2026-05-29 10:39
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,9 @@ updated: 2026-05-29 10:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 353分]** [School] 親向けLP完全版
-- [ ] **[処理中 347分]** [Money] AIpaX 既存4社 アップセル提案
-- [ ] **[処理中 4分]** [BG-Business] gymee 次の一手
+- [ ] **[処理中 358分]** [School] 親向けLP完全版
+- [ ] **[処理中 352分]** [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 9分]** [BG-Business] gymee 次の一手
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [EEMUS] 連携企業候補20社
