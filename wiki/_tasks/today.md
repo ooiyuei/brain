@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-30 01:44
+updated: 2026-05-30 01:49
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,7 @@ updated: 2026-05-30 01:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 543分]** [EEMUS] 提携高校候補20校リスト
-- [ ] **[処理中 537分]** [Money] AIpa Web 商工会経由営業文
+- [ ] **[処理中 548分]** [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
@@ -120,6 +119,10 @@ updated: 2026-05-30 01:44
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [EEMUS] MVP LP完全版
+- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] [待機] [Money] AIpa Web 商工会経由営業文
+- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
