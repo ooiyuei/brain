@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 15:26:46
+updated: 2026-05-29 15:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:26:46** | 🔥 **稼働中**
+**15:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **84%**
+- 使用率: **78%**
 - VRAM: 7076MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **81.6%** (26GB / 31.9GB)
+- 使用率: **82.5%** (26.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 108 |
+| 📥 inbox | 106 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 117 |
+| ✅ 今日完了 | 119 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [30347 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [29747 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [School] 親FAQ 30問
+- [high] AI 最新情報日次リサーチ
 
 ## 🎯 判定
 
