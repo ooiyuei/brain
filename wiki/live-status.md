@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 00:02:46
+updated: 2026-05-30 00:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:02:46** | 🔥 **稼働中**
+**00:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **54.9%** (17.5GB / 31.9GB)
+- 使用率: **55.3%** (17.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 117 |
+| 📥 inbox | 116 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 1 |
+| ✅ 今日完了 | 2 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34306 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [33707 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [33947 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [33586 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 
