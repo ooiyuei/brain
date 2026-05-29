@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 20:56
+updated: 2026-05-29 21:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 20:56
+**最終更新**: 2026-05-29 21:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 162 |
+| ✅ 今日完了 | 164 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 785 (うち24h+古い: 605) |
+| 📝 wiki/_inbox 未レビュー | 787 (うち24h+古い: 605) |
 
 ### 処理中
-- ⚙️ **[605 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[586 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [Testall] X受験あるある投稿30本
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 今日のフォーカス
 
@@ -53,8 +53,8 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 269 件
-- research : 26 件
+- marketing : 270 件
+- research : 27 件
 - newbiz : 221 件
 - ingest : 1 件
 - corp : 88 件
