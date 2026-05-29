@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 14:30:47
+updated: 2026-05-29 14:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:30:47** | 🔥 **稼働中**
+**14:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7349MB / 8151MB (**90.2%**)
+- 使用率: **4%**
+- VRAM: 7350MB / 8151MB (**90.2%**)
 
 ## 💾 RAM
 
-- 使用率: **54.7%** (17.5GB / 31.9GB)
+- 使用率: **53.9%** (17.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 109 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 106 |
+| ✅ 今日完了 | 107 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [30588 秒経過] **[AIpaX] β顧客候補30社プロファイル**
-- ⚡ [29988 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [30828 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [29988 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] 親向けLP完全版
 - [high] [School] 親FAQ 30問
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 判定
 
