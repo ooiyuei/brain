@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 00:30:46
+updated: 2026-05-30 00:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:30:46** | 🔥 **稼働中**
+**00:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **83%** (26.5GB / 31.9GB)
+- 使用率: **83.3%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 114 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 8 |
+| ✅ 今日完了 | 9 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [33348 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
-- ⚡ [32987 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [33227 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [32627 秒経過] **[横断] 15事業の優先順位再評価**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 15事業の優先順位再評価
 - [high] [School] 親向けLP完全版
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
