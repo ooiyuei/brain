@@ -1,34 +1,35 @@
 ---
 type: dashboard
-updated: 2026-05-29 20:41
+updated: 2026-05-29 20:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 20:41
+**最終更新**: 2026-05-29 20:46
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 158 |
+| 📥 inbox | 118 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 160 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 781 (うち24h+古い: 603) |
+| 📝 wiki/_inbox 未レビュー | 783 (うち24h+古い: 604) |
 
 ### 処理中
-- ⚙️ **[594 分]** [Money] Testall 親向けLP コピー改善
+- ⚙️ **[599 分]** [Money] AIpa Web 商工会経由営業文
+- ⚙️ **[595 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 入学後30日プラン
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 今日のフォーカス
 
@@ -53,7 +54,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 265 件
+- marketing : 267 件
 - research : 26 件
 - newbiz : 221 件
 - ingest : 1 件

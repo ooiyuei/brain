@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 20:42:46
+updated: 2026-05-29 20:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:42:46** | 🔥 **稼働中**
+**20:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残25分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7062MB / 8151MB (**86.6%**)
+- 使用率: **2%**
+- VRAM: 7067MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **81.2%** (25.9GB / 31.9GB)
+- 使用率: **82.7%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 159 |
+| 📥 inbox | 118 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 160 |
+
+## 🔄 処理中タスク
+
+- ⚡ [35987 秒経過] **[Money] AIpa Web 商工会経由営業文**
+- ⚡ [35748 秒経過] **[Testall] ユーザーペルソナ5パターン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 入学後30日プラン
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 判定
 

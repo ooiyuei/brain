@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 20:39
+updated: 2026-05-29 20:44
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,8 @@ updated: 2026-05-29 20:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 592分]** [Money] Testall 親向けLP コピー改善
-- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [ ] [待機] [Money] AIpa Web 商工会経由営業文
+- [ ] **[処理中 597分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] **[処理中 597分]** [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [School] X『中高生×AI』20投稿
@@ -129,6 +128,7 @@ updated: 2026-05-29 20:39
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [EEMUS] MVP LP完全版
+- [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
