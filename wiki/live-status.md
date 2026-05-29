@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 19:30:46
+updated: 2026-05-29 19:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:30:46** | 🔥 **稼働中**
+**19:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7193MB / 8151MB (**88.2%**)
+- 使用率: **0%**
+- VRAM: 7195MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **51.1%** (16.3GB / 31.9GB)
+- 使用率: **82.5%** (26.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 146 |
+| 📥 inbox | 121 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 147 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35987 秒経過] **[AIpaX] β顧客5社募集LP完全版**
+- ⚡ [35628 秒経過] **[Testall] 教育者連携アプローチ**
+- ⚡ [35267 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] 教育者連携アプローチ
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] 入学後30日プラン
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 
