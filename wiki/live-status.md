@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 05:26:47
+updated: 2026-05-30 05:30:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**05:26:47** | 🔥 **稼働中**
+**05:30:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7167MB / 8151MB (**87.9%**)
+- 使用率: **0%**
+- VRAM: 7164MB / 8151MB (**87.9%**)
 
 ## 💾 RAM
 
-- 使用率: **51.8%** (16.5GB / 31.9GB)
+- 使用率: **52.2%** (16.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 52 |
-
-## 🔄 処理中タスク
-
-- ⚡ [36348 秒経過] **[EEMUS] ピッチデック10枚構成**
+| 📥 inbox | 122 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 54 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] X受験あるある投稿30本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [AIpaX] 月次PL試算
 
 ## 🎯 判定
 
