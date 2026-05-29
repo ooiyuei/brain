@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 20:04
+updated: 2026-05-29 20:09
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,7 @@ updated: 2026-05-29 20:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 603分]** [EEMUS] ピッチデック10枚構成
-- [ ] **[処理中 589分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [ ] **[処理中 594分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [School] 1年カリキュラム詳細v2
