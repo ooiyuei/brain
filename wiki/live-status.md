@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 02:50:47
+updated: 2026-05-30 02:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:50:47** | 🔥 **稼働中**
+**02:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
+- 使用率: **82%**
 - VRAM: 7023MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **81.4%** (26GB / 31.9GB)
+- 使用率: **84.1%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 118 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 30 |
+| ✅ 今日完了 | 31 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34548 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
-- ⚡ [34548 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
+- ⚡ [34788 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
+- ⚡ [34428 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 
