@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 19:36
+updated: 2026-05-29 19:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 19:36
+**最終更新**: 2026-05-29 19:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,11 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 147 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 149 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 770 (うち24h+古い: 593) |
-
-### 処理中
-- ⚙️ **[595 分]** [Testall] 教育者連携アプローチ
-- ⚙️ **[589 分]** [Money] AIpaX 既存4社 アップセル提案
+| 📝 wiki/_inbox 未レビュー | 772 (うち24h+古い: 593) |
 
 ### Inbox 上位
 - [high] [Testall] コンテンツ戦略3ヶ月
@@ -54,9 +50,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 263 件
+- marketing : 264 件
 - research : 26 件
-- newbiz : 214 件
+- newbiz : 215 件
 - ingest : 1 件
 - corp : 86 件
 - dev : 14 件
