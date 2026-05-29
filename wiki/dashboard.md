@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 15:36
+updated: 2026-05-29 15:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 15:36
+**最終更新**: 2026-05-29 15:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 106 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 119 |
+| ✅ 今日完了 | 120 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 745 (うち24h+古い: 549) |
+| 📝 wiki/_inbox 未レビュー | 746 (うち24h+古い: 552) |
 
 ### 処理中
-- ⚙️ **[501 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- ⚙️ **[501 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[506 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[500 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [School] 親FAQ 30問
 - [high] AI 最新情報日次リサーチ
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 250 件
 - research : 24 件
-- newbiz : 207 件
+- newbiz : 208 件
 - ingest : 1 件
 - corp : 83 件
 - dev : 14 件
