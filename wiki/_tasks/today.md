@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 10:59
+updated: 2026-05-29 11:04
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,9 @@ updated: 2026-05-29 10:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 378分]** [School] 親向けLP完全版
-- [ ] **[処理中 368分]** [Testall] X受験あるある投稿30本
+- [ ] **[処理中 383分]** [School] 親向けLP完全版
+- [ ] **[処理中 373分]** [Testall] X受験あるある投稿30本
+- [ ] **[処理中 4分]** [BG-Competitive] 採用ピックアップ
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
@@ -97,6 +98,7 @@ updated: 2026-05-29 10:59
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
+- [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
@@ -116,6 +118,10 @@ updated: 2026-05-29 10:59
 - [ ] [待機] [Bank] 月次レポートフォーマット (顧客向け)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-29
 - [ ] [待機] [BG-Contests] バッチ9 (81-90)
+- [ ] [待機] [BG-Competitive] Wantedly
+- [ ] [待機] [BG-Competitive] Studyplus
+- [ ] [待機] [BG-Competitive] BizReach
+- [ ] [待機] [BG-Competitive] Indeed
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
