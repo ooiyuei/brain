@@ -1,34 +1,35 @@
 ---
 type: dashboard
-updated: 2026-05-29 22:01
+updated: 2026-05-29 22:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 22:01
+**最終更新**: 2026-05-29 22:06
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 120 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 175 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 798 (うち24h+古い: 615) |
+| 📝 wiki/_inbox 未レビュー | 798 (うち24h+古い: 616) |
 
 ### 処理中
-- ⚙️ **[590 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[595 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[591 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Testall] 教育者連携アプローチ
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] 利用規約・特商法表記
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 今日のフォーカス
 
