@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 00:11
+updated: 2026-05-30 00:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 00:11
+**最終更新**: 2026-05-30 00:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 3 |
+| 📥 inbox | 117 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 5 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 823 (うち24h+古い: 638) |
+| 📝 wiki/_inbox 未レビュー | 825 (うち24h+古い: 638) |
 
 ### 処理中
-- ⚙️ **[564 分]** [Money] AIpaX 既存4社 アップセル提案
-- ⚙️ **[560 分]** [AIpaX] 月次PL試算
+- ⚙️ **[565 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 279 件
+- marketing : 280 件
 - research : 31 件
-- newbiz : 236 件
+- newbiz : 237 件
 - ingest : 1 件
 - corp : 95 件
 - dev : 15 件
