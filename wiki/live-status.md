@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 10:30:46
+updated: 2026-05-29 10:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:30:46** | 🔥 **稼働中**
+**10:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残-1分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残-5分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **97%**
-- VRAM: 7208MB / 8151MB (**88.4%**)
+- 使用率: **80%**
+- VRAM: 7346MB / 8151MB (**90.1%**)
 
 ## 💾 RAM
 
-- 使用率: **55.3%** (17.7GB / 31.9GB)
+- 使用率: **60.3%** (19.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,23 +37,23 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 83 |
+| 📥 inbox | 82 |
 | ⚙️ processing | 3 |
-| ✅ 今日完了 | 83 |
+| ✅ 今日完了 | 85 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [22187 秒経過] **[School] 入学後30日プラン**
-- ⚡ [21587 秒経過] **[Testall] X受験あるある投稿30本**
-- ⚡ [47 秒経過] **[BG-Business] gymee 次の一手**
+- ⚡ [21227 秒経過] **[School] 親向けLP完全版**
+- ⚡ [20866 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [287 秒経過] **[BG-Business] gymee 次の一手**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Testall] X受験あるある投稿30本
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [EEMUS] 連携企業候補20社
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 

@@ -1,29 +1,29 @@
 ---
 type: dashboard
-updated: 2026-05-29 10:26
+updated: 2026-05-29 10:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 10:26
+**最終更新**: 2026-05-29 10:31
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 83 |
+| 📥 inbox | 84 |
 | ⚙️ processing | 3 |
-| ✅ 今日完了 | 82 |
+| ✅ 今日完了 | 83 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 715 (うち24h+古い: 493) |
+| 📝 wiki/_inbox 未レビュー | 717 (うち24h+古い: 497) |
 
 ### 処理中
-- ⚙️ **[365 分]** [School] 入学後30日プラン
-- ⚙️ **[355 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[26 分]** [BG-Entities] omni 更新提案
+- ⚙️ **[370 分]** [School] 入学後30日プラン
+- ⚙️ **[360 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[1 分]** [BG-Business] gymee 次の一手
 
 ### Inbox 上位
 - [high] [School] 親向けLP完全版
@@ -44,14 +44,14 @@ tags: [dashboard, system]
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 9/14 (64%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 18 件更新済 |
-| 🏢 事業深掘り (45日サイクル) | 事業 1/15 / 視点 3/4 |
+| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 0/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 238 件
 - research : 23 件
-- newbiz : 198 件
+- newbiz : 200 件
 - ingest : 1 件
 - corp : 76 件
 - dev : 13 件
