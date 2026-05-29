@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 04:38:46
+updated: 2026-05-30 04:42:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:38:46** | 🔥 **稼働中**
+**04:42:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7027MB / 8151MB (**86.2%**)
+- 使用率: **2%**
+- VRAM: 7023MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **80.9%** (25.8GB / 31.9GB)
+- 使用率: **81.8%** (26.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,21 +38,20 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 123 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 44 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 46 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35507 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
-- ⚡ [35507 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
+- ⚡ [35747 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 
