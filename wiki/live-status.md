@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 23:30:46
+updated: 2026-05-29 23:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:30:46** | 🔥 **稼働中**
+**23:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7022MB / 8151MB (**86.1%**)
+- 使用率: **69%**
+- VRAM: 7021MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **82%** (26.2GB / 31.9GB)
+- 使用率: **84.4%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 119 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 190 |
+| ✅ 今日完了 | 194 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35026 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [34427 秒経過] **[AIpaX] 月次PL試算**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [School] 親向けLP完全版
-- [high] [AIpaX] 月次PL試算
-- [high] [EEMUS] MVP LP完全版
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [横断] 15事業の優先順位再評価
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 判定
 
