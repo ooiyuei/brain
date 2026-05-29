@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-30 03:24
+updated: 2026-05-30 03:29
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-30 03:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 583分]** [EEMUS] 提携高校候補20校リスト
-- [ ] **[処理中 573分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 588分]** [EEMUS] 提携高校候補20校リスト
+- [ ] **[処理中 578分]** [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
