@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 01:30:46
+updated: 2026-05-30 01:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:30:46** | 🔥 **稼働中**
+**01:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **53.9%** (17.2GB / 31.9GB)
+- 使用率: **54.6%** (17.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 111 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 21 |
+| ✅ 今日完了 | 22 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32987 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [33227 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 入学後30日プラン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 
