@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 00:41
+updated: 2026-05-30 00:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 00:41
+**最終更新**: 2026-05-30 00:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -18,11 +18,11 @@ tags: [dashboard, system]
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 9 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 829 (うち24h+古い: 641) |
+| 📝 wiki/_inbox 未レビュー | 829 (うち24h+古い: 642) |
 
 ### 処理中
-- ⚙️ **[560 分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- ⚙️ **[550 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[565 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[555 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
 - [high] [School] 親向けLP完全版
