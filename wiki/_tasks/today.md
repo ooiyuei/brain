@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 19:24
+updated: 2026-05-29 19:29
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,7 @@ updated: 2026-05-29 19:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 603分]** [School] 体験会2時間プログラム
-- [ ] **[処理中 593分]** [AIpaX] β顧客5社募集LP完全版
+- [ ] **[処理中 598分]** [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
