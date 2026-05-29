@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 03:31
+updated: 2026-05-30 03:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 03:31
+**最終更新**: 2026-05-30 03:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,14 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 121 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 34 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 35 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 854 (うち24h+古い: 668) |
+| 📝 wiki/_inbox 未レビュー | 855 (うち24h+古い: 668) |
 
 ### 処理中
-- ⚙️ **[590 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[580 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[595 分]** [EEMUS] 提携高校候補20校リスト
 
 ### Inbox 上位
 - [high] [School] note『AI時代に子供に渡したいもの』
@@ -53,7 +52,7 @@ tags: [dashboard, system]
 - newbiz : 250 件
 - ingest : 1 件
 - corp : 101 件
-- dev : 15 件
+- dev : 16 件
 
 ## 🔗 主要リンク
 
