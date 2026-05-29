@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 07:11
+updated: 2026-05-30 07:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 07:11
+**最終更新**: 2026-05-30 07:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 122 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 71 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 72 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 891 (うち24h+古い: 695) |
+| 📝 wiki/_inbox 未レビュー | 892 (うち24h+古い: 696) |
 
 ### 処理中
-- ⚙️ **[596 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[601 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[595 分]** [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +52,7 @@ tags: [dashboard, system]
 - research : 35 件
 - newbiz : 263 件
 - ingest : 1 件
-- corp : 111 件
+- corp : 112 件
 - dev : 17 件
 
 ## 🔗 主要リンク
