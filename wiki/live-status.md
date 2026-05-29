@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 19:14:47
+updated: 2026-05-29 19:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:14:47** | 🔥 **稼働中**
+**19:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残23分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7326MB / 8151MB (**89.9%**)
+- 使用率: **90%**
+- VRAM: 7191MB / 8151MB (**88.2%**)
 
 ## 💾 RAM
 
-- 使用率: **55.4%** (17.7GB / 31.9GB)
+- 使用率: **81.2%** (25.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 120 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 144 |
+| ✅ 今日完了 | 145 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36228 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [35628 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [35868 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [35268 秒経過] **[AIpaX] β顧客5社募集LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
