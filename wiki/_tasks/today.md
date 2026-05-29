@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 13:24
+updated: 2026-05-29 13:29
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-29 13:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 483分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] **[処理中 473分]** [AIpaX] 業務委託契約書テンプレ
+- [ ] **[処理中 488分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 478分]** [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
