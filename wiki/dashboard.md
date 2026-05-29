@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 15:26
+updated: 2026-05-29 15:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 15:26
+**最終更新**: 2026-05-29 15:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 108 |
+| 📥 inbox | 107 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 117 |
+| ✅ 今日完了 | 119 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 743 (うち24h+古い: 548) |
+| 📝 wiki/_inbox 未レビュー | 745 (うち24h+古い: 548) |
 
 ### 処理中
-- ⚙️ **[505 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[496 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [Testall] コンテンツ戦略3ヶ月
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [School] 親FAQ 30問
+- [high] AI 最新情報日次リサーチ
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 250 件
 - research : 24 件
-- newbiz : 205 件
+- newbiz : 207 件
 - ingest : 1 件
 - corp : 83 件
 - dev : 14 件
