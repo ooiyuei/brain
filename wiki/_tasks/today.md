@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 15:04
+updated: 2026-05-29 15:09
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,7 @@ updated: 2026-05-29 15:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン
+- [ ] **[処理中 502分]** [Money] 6/21月収100万 残30日アクションプラン
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト

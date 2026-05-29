@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 15:06:47
+updated: 2026-05-29 15:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:06:47** | 🔥 **稼働中**
+**15:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **81.8%** (26.1GB / 31.9GB)
+- 使用率: **82.1%** (26.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 108 |
+| 📥 inbox | 107 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 113 |
+| ✅ 今日完了 | 114 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [29986 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [30225 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ## 🎯 判定
 
