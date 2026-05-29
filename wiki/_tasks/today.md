@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-30 00:04
+updated: 2026-05-30 00:09
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,8 @@ updated: 2026-05-30 00:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 563分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 557分]** [Money] AIpaX 既存4社 アップセル提案
-- [ ] [待機] [AIpaX] 月次PL試算
+- [ ] **[処理中 562分]** [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 558分]** [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
