@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 03:38:46
+updated: 2026-05-30 03:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:38:46** | 🔥 **稼働中**
+**03:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7299MB / 8151MB (**89.5%**)
+- 使用率: **65%**
+- VRAM: 7024MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **54.8%** (17.5GB / 31.9GB)
+- 使用率: **81.9%** (26.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
+| 📥 inbox | 119 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 35 |
+| ✅ 今日完了 | 38 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35867 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [34067 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] note『AI時代に子供に渡したいもの』
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [AIpaX] β顧客80万提案書フル版
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 判定
 
