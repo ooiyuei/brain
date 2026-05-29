@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 00:46
+updated: 2026-05-30 00:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 00:46
+**最終更新**: 2026-05-30 00:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,18 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 115 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 9 |
+| 📥 inbox | 116 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 12 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 829 (うち24h+古い: 642) |
-
-### 処理中
-- ⚙️ **[565 分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- ⚙️ **[555 分]** [横断] 15事業の優先順位再評価
+| 📝 wiki/_inbox 未レビュー | 832 (うち24h+古い: 642) |
 
 ### Inbox 上位
-- [high] [School] 親向けLP完全版
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +44,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 281 件
+- marketing : 282 件
 - research : 31 件
-- newbiz : 238 件
+- newbiz : 240 件
 - ingest : 1 件
 - corp : 97 件
 - dev : 15 件

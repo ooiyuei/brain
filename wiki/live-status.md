@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 00:50:47
+updated: 2026-05-30 00:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:50:47** | 🔥 **稼働中**
+**00:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7021MB / 8151MB (**86.1%**)
+- 使用率: **3%**
+- VRAM: 7023MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **83.8%** (26.8GB / 31.9GB)
+- 使用率: **83.9%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 10 |
+| 📥 inbox | 114 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 12 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [33587 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [32866 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [32866 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [School] 体験会2時間プログラム
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 判定
 
