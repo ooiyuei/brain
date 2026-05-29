@@ -1,34 +1,34 @@
 ---
 type: dashboard
-updated: 2026-05-29 09:46
+updated: 2026-05-29 09:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 09:46
+**最終更新**: 2026-05-29 09:51
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 78 |
+| 📥 inbox | 79 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 80 |
+| ✅ 今日完了 | 81 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 713 (うち24h+古い: 475) |
+| 📝 wiki/_inbox 未レビュー | 714 (うち24h+古い: 476) |
 
 ### 処理中
-- ⚙️ **[331 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- ⚙️ **[330 分]** [School] 入学後30日プラン
 
 ### Inbox 上位
-- [high] [School] 入学後30日プラン
 - [high] [Testall] X受験あるある投稿30本
 - [high] [School] 親向けLP完全版
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Testall] X受験あるある投稿30本
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +51,7 @@ tags: [dashboard, system]
 - research : 23 件
 - newbiz : 197 件
 - ingest : 1 件
-- corp : 75 件
+- corp : 76 件
 - dev : 13 件
 
 ## 🔗 主要リンク
