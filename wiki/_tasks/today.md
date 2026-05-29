@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 16:34
+updated: 2026-05-29 16:39
 ---
 
 # Today 2026-05-27
@@ -27,9 +27,7 @@ updated: 2026-05-29 16:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 533分]** [School] 親FAQ 30問
-- [ ] **[処理中 529分]** AI 最新情報日次リサーチ
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 528分]** [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
