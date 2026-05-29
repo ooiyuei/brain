@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 03:46
+updated: 2026-05-30 03:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 03:46
+**最終更新**: 2026-05-30 03:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 118 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 38 |
+| ✅ 今日完了 | 39 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 858 (うち24h+古い: 669) |
+| 📝 wiki/_inbox 未レビュー | 859 (うち24h+古い: 669) |
 
 ### 処理中
-- ⚙️ **[571 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
-- ⚙️ **[571 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[576 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- ⚙️ **[570 分]** [Testall] コンテンツ戦略3ヶ月
 
 ### Inbox 上位
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 34 件
 - newbiz : 251 件
 - ingest : 1 件
-- corp : 101 件
+- corp : 102 件
 - dev : 16 件
 
 ## 🔗 主要リンク
