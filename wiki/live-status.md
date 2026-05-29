@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 00:26:46
+updated: 2026-05-30 00:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:26:46** | 🔥 **稼働中**
+**00:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,39 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **80%**
+- 使用率: **3%**
 - VRAM: 7021MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **82.1%** (26.2GB / 31.9GB)
+- 使用率: **83%** (26.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 115 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 114 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 8 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [33107 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
+- ⚡ [33348 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
+- ⚡ [32987 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] 親向けLP完全版
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 判定
 
