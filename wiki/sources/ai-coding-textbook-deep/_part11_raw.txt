@@ -1,0 +1,484 @@
+                                        9: AI
+
+
+AI 
+AI 
+
+AI 
+
+ 10 CLIAI
+
+
+                                                                                                                                                        201
+ AI 
+
+      AI 
+
+      AI 
+      lint test
+     
+     lint 
+     lint 
+     
+     
+     lint 
+
+     //  lint
+
+     const price = 100;
+
+     const tax = 10;
+
+     const total = price + tax;
+         console.log("
+                         :", total); //  console.log
+
+      const unusedData = "       ";  // 
+
+     //  lint
+
+     const price = 100;
+     const tax = 10;
+     const total = price + tax;
+
+      // console.log
+      //
+
+     AI lintAI
+     lint 
+     test 
+     test 
+
+202
+                                  9: AI
+
+TODO  TODO 
+test 
+OKNG
+
+t//estTO(D"OTODO", () => {
+
+ const todos = [];
+const newTodo = addTodo(todos, "        ");
+
+ expect(newTodo.length).toBe(1);        // 1
+
+  expect(newTodo[0].text).toBe("
+                                        "); //
+
+});
+
+test("TODO", () => {
+
+   const todos = [];
+
+   const newTodo = addTodo(todos, "");
+
+  expect(newTodo.length).toBe(0); //
+
+});
+
+AI test 
+
+
+lint  test AI 
+
+  lint  
+  test  
+AI 
+
+linter
+
+
+
+                                                203
+ AI 
+
+ 10 CLI
+
+CLI
+ CLIAI
+
+ Antigravity 
+CLI 
+ PDF
+PDF 
+
+    qpdf --empty --pages file1.pdf file2.pdf -- output.pdf
+
+...
+ AI file1  file2 
+ Enter 
+
+AI 
+Gemini CLI  AI 
+
+
+ 204
+                                                      10 CLI
+
+CLI 
+
+Antigravity  npm
+install  node index.js 
+
+  CLI Command Line
+Interface PC 
+
+CLI  PC  GUI 
+
+
+GUI
+
+ PC 
+  GUI Graphical User InterfaceGUI 
+
+CLI 
+GUI 
+CLI  AI 
+
+                                                                                                                                                        205
+ AI 
+
+CLI
+
+CLI  3 
+GUI 
+...CLI 
+
+AI CLI AI 
+GUI 
+CLI 
+
+
+
+
+
+CLI 
+PC 
+
+
+206
+                                                       10 CLI
+
+
+
+ 2  Antigravity 
+ 
+
+
+
+  
+   Ctrl +  J (Windows) Command +  J (Mac)
+
+
+
+AI
+
+...Antigravity  AI 
+
+ Command + I Windows: Ctrl + I AI 
+
+
+ PDF 
+AI 
+ Enter 
+
+
+                                                                                                                                                          207
+ AI 
+
+ 6 
+
+
+...
+ 6  6 
+
+
+
+
+CLI CLI 
+
+
+
+6
+
+ 3  Gemini Chat CLI  6 
+
+
+1. cd 
+
+ cd 
+
+
+208
+                                                      10 CLI
+
+ 3 
+
+   cd gemini-chat
+
+ cd .. 
+
+   cd ..
+
+Tab cd gem Tab gemini-chat 
+
+
+2. ls 
+
+ ls 
+
+
+   ls
+
+     index.html style.css main.js package.json
+
+
+3. mkdir 
+
+ mkdir 
+
+
+   mkdir backup
+
+                                                                                                                                                        209
+ AI 
+
+ ls 
+backup 
+
+4. mv 
+
+ mv 
+
+   mv README.md project-backup/
+
+ backup 
+
+
+   mv backup project-backup
+
+210
+                                                      10 CLI
+
+mv 
+
+5. cp 
+
+ cp  main.js 
+
+
+   cp main.js main.js.backup
+
+ -r 
+
+
+   cd ..
+   cp -r gemini-chat gemini-chat-backup
+
+                                                                                                                                                        211
+ AI 
+
+6. rm 
+
+ rm 
+
+
+
+   rm main.js.backup
+
+ -r 
+
+   rm -r project-backup
+
+ rm  rm -r 
+
+
+212
+                                                      10 CLI
+
+                       rm -rf / 
+
+  CLI rm -rf / 
+
+   / PC rm -rf 
+  PC 
+  AI 
+  ...
+  
+  AI 
+
+
+
+ cd ..  cp -r gemini-
+chat gemini-chat-backup 
+ CLI 
+
+~
+
+CLI ~ 
+ cd ~ 
+
+
+                                                                                                                                                        213
+ AI 
+
+   cd ~
+
+
+
+ 2 
+
+  /Users/username/Documents/report.txt
+
+ ./report.txt 
+ report.txt ../Documents   Documents
+
+
+214
+                                                      10 CLI
+
+               CLI  2 
+
+  CLI ...
+  ...
+  
+  
+  
+   OK 
+  
+   npm run dev 2
+  
+  
+  Tab 
+   Tab 
+   cd gem  Tab cd
+  gemini-chat 
+  Tab  2 
+  
+   2 CLI 
+  
+  
+
+CLI 
+
+ CLI 
+ PDF CLI 
+
+
+                                                                                                                                                        215
+ AI 
+
+
+
+Antigravity AI 
+
+
+qpdfPDF
+
+qpdf PDF GUI  PDF 
+
+
+ PDF  1 Antigravity file1.pdf  file2.pdf 
+
+
+qpdf --empty --pages file1.pdf file2.pdf -- output.pdf
+
+
+
+       AI 
+
+     PDF input.pdf 1 10
+
+     PDF input.pdf
+
+     PDF PDF
+
+
+
+ffmpeg
+
+ffmpeg 
+
+
+216
+                                               10 CLI
+
+
+
+                                              AI 
+
+ video.mp4
+
+ 1          video.mp4  1 
+
+MP4  WebM   video.mp4  WebM 
+
+            video.mp4  mp3 
+
+ 1  Antigravity 
+
+
+ffmpeg -i video.mp4 -t 60 -c copy output.mp4
+
+-t 60 60
+AI 
+
+Mac  brew
+   install qpdf brew install ffmpeg
+            Antigravity
+
+
+
+CLI AI 
+
+
+                                                   217
+ AI 
+
+Gemini CLI 
+
+ PDFCLI 
+ CLI  CLI 
+
+Gemini CLI  Gemini AI 
+ AI 
+
+
+Gemini CLI
+
+Node.js  2 
+Gemini CLI 
+
+   npm install -g @google/gemini-cli
+
+ gemini  
+ 1,2,3 Login with
+Google Enter  Google 
+
+
+218
+                                                      10 CLI
+
+
+
+
+
+ 3  Gemini Chat README.md 
+
+
+                                                                                                                                                        219
+ AI 
+
+ README.md  Enter 
+
+AI  README.md 
+
+
+AI CLIAI
+
+
+
+ 220
+

@@ -2,11 +2,34 @@
 type: entity
 title: AIpaX
 created: 2026-05-14
-updated: 2026-05-14
-tags: [project, AI, consulting, active, knowledge-core, B2B]
-status: 仕様v1完成（会社別AI保存庫コア構想）
-related: [[ooi-yuei]], [[aipax-school]], [[aipa-web]], [[concepts/ai-knowledge-core]], [[concepts/ai-consulting-hearing]]
+updated: 2026-05-19
+tags: [project, AI, consulting, active, knowledge-core, B2B, contracted-4]
+status: 4社契約済・追加3社獲得＋通常価格移行ステージ
+related: [[ooi-yuei]], [[aipax-school]], [[aipa-web]], [[concepts/ai-knowledge-core]], [[concepts/ai-consulting-hearing]], [[sources/aipax-spec-v1-2026-05-19]]
+contracts:
+  signed: 4
+  target_5th: 通常価格(初期100-150万・月額10-15万)へ移行
+  pricing_now: 初期50-80万・月額5万 (初回事例)
 ---
+## 🎯 30秒サマリー (Entity Latent・2026-05-19最新)
+- **何**: 会社別AI保存庫コア + 業務AIツール
+- **誰に**: 中小企業の経営者 (AI導入意欲あり・予算50万出せる)
+- **価格**: 初回50-80万 + 月額 (5社目から通常100-150万/月10-15万)
+- **状態**: **既に4社契約済**・5社目営業中
+- **最新仕様**: sources/aipax-spec-v1-2026-05-19 必読
+
+
+## 🔥 2026-05-19 ステータス更新
+
+**既に4社契約済**(初回事例価格 初期50-80万/月額5万 レンジ)。
+最新仕様書: [[sources/aipax-spec-v1-2026-05-19]]
+
+### 今やること
+- 既存4社のオンボーディング (入庫前処理→確認シート→保存庫反映)
+- 追加3社接触 (5/26時点で目標)
+- 5社目以降は通常価格(初期100-150万/月額10-15万)へ移行
+- 「会社別AI保存庫コア」を全顧客共通の汎用基盤として標準化
+
 
 # AIpaX
 

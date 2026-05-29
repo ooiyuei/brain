@@ -1,0 +1,364 @@
+{
+    "history":  [
+                    {
+                        "slug":  "school-m4-w1-service-design",
+                        "time":  "2026-05-24T01:32:02.0669824+09:00"
+                    },
+                    {
+                        "slug":  "school-student-x-content",
+                        "time":  "2026-05-24T01:47:01.9893822+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-monthly-report",
+                        "time":  "2026-05-24T02:02:01.9045464+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-consensus",
+                        "time":  "2026-05-24T02:17:02.0678697+09:00"
+                    },
+                    {
+                        "slug":  "school-student-success-stories",
+                        "time":  "2026-05-24T02:32:02.1516476+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T02:47:02.3143036+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T03:02:02.1535967+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w3-vibe-spread",
+                        "time":  "2026-05-24T03:17:02.1369741+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T03:32:02.1714186+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-11item-worksheet",
+                        "time":  "2026-05-24T03:47:02.3094305+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-w1-automation",
+                        "time":  "2026-05-24T04:02:02.2145205+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-w1-tankyu",
+                        "time":  "2026-05-24T04:17:02.0920862+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T04:32:02.1302755+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-monetize",
+                        "time":  "2026-05-24T04:47:02.2662158+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T05:02:02.2008049+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T05:17:02.2462930+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T05:32:02.2824301+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T05:47:01.9524976+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-consensus",
+                        "time":  "2026-05-24T06:02:02.0342985+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-monetize",
+                        "time":  "2026-05-24T06:17:03.3125927+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T06:32:01.9713412+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T06:47:01.8500432+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T07:02:02.0695306+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-w1-service-design",
+                        "time":  "2026-05-24T07:17:02.0561031+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T07:32:02.0779381+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T07:47:02.0050891+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T08:02:02.0523493+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T08:17:02.1076369+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T08:32:02.0874914+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T08:47:02.0151206+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T09:02:02.0832244+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T09:17:02.1320524+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-monthly-report",
+                        "time":  "2026-05-24T09:32:02.1968995+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T09:47:02.1597499+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-w1-automation",
+                        "time":  "2026-05-24T10:02:02.1666192+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-monetize",
+                        "time":  "2026-05-24T10:17:02.1330513+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-11item-worksheet",
+                        "time":  "2026-05-24T10:32:02.1206279+09:00"
+                    },
+                    {
+                        "slug":  "school-student-x-content",
+                        "time":  "2026-05-24T10:47:02.0377691+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T11:02:02.1331899+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T11:17:02.1808409+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T11:32:02.1432175+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-11item-worksheet",
+                        "time":  "2026-05-24T11:47:02.2086548+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T12:02:02.1938172+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-w1-service-design",
+                        "time":  "2026-05-24T12:17:02.2078482+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-11item-worksheet",
+                        "time":  "2026-05-24T12:32:02.2279510+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T12:47:02.2746053+09:00"
+                    },
+                    {
+                        "slug":  "school-student-success-stories",
+                        "time":  "2026-05-24T13:02:02.2129536+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T13:17:02.2676247+09:00"
+                    },
+                    {
+                        "slug":  "school-student-x-content",
+                        "time":  "2026-05-24T13:32:02.0706199+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-monetize",
+                        "time":  "2026-05-24T13:47:02.1721154+09:00"
+                    },
+                    {
+                        "slug":  "school-student-x-content",
+                        "time":  "2026-05-24T14:02:02.3203939+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-w1-service-design",
+                        "time":  "2026-05-24T14:17:02.1749845+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T14:32:02.2855769+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T14:47:02.3234776+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-monetize",
+                        "time":  "2026-05-24T15:02:02.3245368+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w3-vibe-spread",
+                        "time":  "2026-05-24T15:17:02.3421807+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T15:32:02.3197597+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-consensus",
+                        "time":  "2026-05-24T15:47:02.3625868+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T16:02:02.3649904+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-w1-tankyu",
+                        "time":  "2026-05-24T16:17:02.3655511+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T16:32:02.3200768+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w3-vibe-spread",
+                        "time":  "2026-05-24T16:47:02.2024596+09:00"
+                    },
+                    {
+                        "slug":  "school-student-success-stories",
+                        "time":  "2026-05-24T17:02:02.3630891+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T17:17:02.3859721+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w3-vibe-spread",
+                        "time":  "2026-05-24T17:32:02.4233893+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T17:47:02.4915877+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-w1-tankyu",
+                        "time":  "2026-05-24T18:02:02.2868386+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-w1-automation",
+                        "time":  "2026-05-24T18:17:02.3045887+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-graduation-presentation",
+                        "time":  "2026-05-24T18:32:02.2204506+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-w1-tankyu",
+                        "time":  "2026-05-24T18:47:02.4644450+09:00"
+                    },
+                    {
+                        "slug":  "school-m5-monetize",
+                        "time":  "2026-05-24T19:02:02.4278252+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T19:17:02.6962225+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-w1-tankyu",
+                        "time":  "2026-05-24T19:32:02.6728640+09:00"
+                    },
+                    {
+                        "slug":  "school-student-success-stories",
+                        "time":  "2026-05-24T19:47:02.3683785+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T20:02:02.6369768+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T20:17:02.4626074+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-w1-service-design",
+                        "time":  "2026-05-24T20:32:02.4141009+09:00"
+                    },
+                    {
+                        "slug":  "school-student-x-content",
+                        "time":  "2026-05-24T20:47:02.4838206+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T21:02:02.2923713+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w2-vibe-coding",
+                        "time":  "2026-05-24T21:17:02.7468266+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-monthly-report",
+                        "time":  "2026-05-24T21:32:02.7962307+09:00"
+                    },
+                    {
+                        "slug":  "school-m4-app-spec-templates",
+                        "time":  "2026-05-24T21:47:02.8703732+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-consensus",
+                        "time":  "2026-05-24T22:02:02.5415776+09:00"
+                    },
+                    {
+                        "slug":  "school-m1-w1-mindset",
+                        "time":  "2026-05-24T22:17:03.1129104+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-monthly-report",
+                        "time":  "2026-05-24T22:32:02.8697941+09:00"
+                    },
+                    {
+                        "slug":  "school-m3-11item-worksheet",
+                        "time":  "2026-05-24T22:47:02.9483902+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T23:02:03.0014250+09:00"
+                    },
+                    {
+                        "slug":  "school-student-success-stories",
+                        "time":  "2026-05-24T23:17:02.5626195+09:00"
+                    },
+                    {
+                        "slug":  "school-m2-w1-automation",
+                        "time":  "2026-05-24T23:32:02.8769055+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-anxiety-q-a",
+                        "time":  "2026-05-24T23:47:02.8690845+09:00"
+                    }
+                ]
+}

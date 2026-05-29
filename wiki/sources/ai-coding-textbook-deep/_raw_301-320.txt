@@ -1,0 +1,491 @@
+                                                           13 : AI 
+
+ AI 
+AI  Manus Manus 
+ 50 50 
+
+MCP
+
+ 8   MCP Model Context ProtocolMCP 
+ Tool Calling 
+MCP 
+
+
+                                                                                                                                                        301
+ AI 
+
+ Tool Calling 
+ MCP 
+ MCP 
+
+MCP  MCP AI 
+
+
+
+
+ AI 
+
+
+302
+                                                           13 : AI 
+
+ 9 
+AI 
+
+
+
+
+AI 
+AI 
+ 9 
+
+
+
+
+
+ 3  Gemini  Tool Calling AI 
+
+
+
+Tool Calling  Antigravity 
+
+ 
+Tool Calling 
+
+ main.jsTool Calling
+ e#---n#t`,:`-`-c:cool`locorhr`a-nb(goer_dtehre`,meh_ecxolor`)`--color-acc
+
+                                                                                                                                                        303
+ AI 
+
+  ##
+     @google/genai SDK v1
+
+ 1. ****:
+       - `Type` `@google/genai`
+   - `change_theme_color`
+                           `ai.chats.create` `config.tools`
+
+2.*-***: CSS changeThemeColor(color) 
+
+3.*-*F`ucnhcattiSoenssCiaolnl.isnegndMessage`**:  `functionCalls` 
+e` - ******(:`message` )**SDK`functionRespons
+
+     `/`/`javascript
+
+     const content = [{
+            functionResponse: {
+                   name: "change_theme_color",
+                   response: { result: toolResult }
+            }
+
+     }];
+
+     result = await chatSession.sendMessage({
+            message: content
+
+     });
+
+
+
+
+const themeColorTool = {
+       name: "change_theme_color",
+       description: "Changes the accent color of the system UI. Use this when
+
+the user asks to change the color.",
+       parameters: {
+              type: Type.OBJECT,
+              properties: {
+                     color: {
+                     type: Type.STRING,
+                     description: "The color to change to. Can be hex code (e.g. #f
+
+f0000) or color name (e.g. red, blue).",
+
+304
+                                                           13 : AI 
+
+                         },
+                 },
+                 required: ["color"],
+          },
+   };
+
+AI 
+
+   chatSession = ai.chats.create({
+          model: "gemini-3-flash-preview",
+
+ confisygs:te{mInstruction: "",AI
+
+                 temperature: 2,
+                 tools: [{ functionDeclarations: [themeColorTool] }],
+          }
+   });
+
+
+
+
+   if (call.name === "change_theme_color") {
+        const color = call.args.color;
+        addMessage("system", `EXECUTING: CHANGE COLOR TO ${color.toUpperCase()}
+
+   ...`);
+
+        // Execute Tool
+        const toolResult = changeThemeColor(color);
+
+        // Send result back to model
+        const content = [{
+
+                functionResponse: {
+                       name: "change_theme_color",
+                       response: { result: toolResult }
+
+                }
+        }];
+
+        result = await chatSession.sendMessage({
+                message: content
+
+        });
+   }
+
+                                                                                                                                                        305
+ AI 
+
+ AI 
+
+
+AI AI
+
+ 1 ""
+
+
+306
+                                                           13 : AI 
+
+               AI SDK
+
+  AI  SDK 
+   1 
+   Web 
+   SDK 
+  
+  SDK
+
+    Google Agent Development KitADKGooglePythonAI
+    Gemini API
+     ADK*2 
+    Claude Agent SDKAnthropic SDKClaude Code
+    Web 
+    PythonTypeScript Agent SDK*3 
+    
+    LangChainAI SDKPydantic AI
+    
+  AI 
+  
+  
+  
+   SDK 
+  
+
+2. https://google.github.io/adk-docs/
+3. https://platform.claude.com/docs/en/agent-sdk/overview
+
+                                                                                                                                                        307
+ AI 
+
+AI 
+
+
+AI 
+
+AI 
+ AI 
+
+
+Manus  Genspark  AI 
+
+
+ 11  GitHub Actions  AI API 
+ AI 
+
+
+
+308
+                                                           13 : AI 
+
+
+
+AI 
+AI AI 
+
+
+Tool Calling ReAct 
+
+ AI 
+
+AI 
+
+
+AI 
+
+
+
+
+                                                                                                                                                        309
+ AI 
+
+  
+
+
+AI 
+ AI AI 
+AI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PC
+
+ Downloads ......
+
+Downloads 
+
+ ---D-ownloadsYYYY-MMpdf,images,videos, docs,  archives
+
+310
+     
+
+
+
+
+   jpg,png,webp_compressed
+-                           
+-
+-
+-
+
+
+
+
+ AI 
+
+
+Google
+
+ Google 
+
+Google Apps   Script GAS GmailGoogle
+
+
+ 
+ 
+ Google 
+
+                                                                                                                                                        311
+ AI 
+
+JavaScript 
+
+clasp  Google  CLI  GAS 
+ Antigravity  AI 
+GAS clasp push 
+
+
+Google Apps Script
+
+
+     Google
+-    Slack
+-
+-
+
+claspGAS
+
+
+
+
+312
+                                           
+
+GAS  Google 
+ AI 
+
+Chrome
+
+ Chrome
+
+
+
+  Chrome
+  
+  - WebAI
+  - Gemini API
+  Gemini API
+  Chrome
+
+
+
+
+                                                                                                                                                          313
+ AI 
+
+Bot
+
+Slack  Discord Bot 
+ AI API  AI  Bot 
+
+Bot 
+
+ Bot 
+ 
+
+Slack  Discord  Bot Web 
+
+
+ 314
+                                          
+
+
+
+n8nDify 
+ GUI 
+
+
+
+
+
+
+
+
+ 
+  API 
+ 
+
+
+                                                                                                                                                        315
+ AI 
+
+/
+
+
+
+n8n
+   Google Workspace Studio Google Workspace
+                                                     Google
+
+
+ Dify AIRAG
+
+n8n  Google Workspace Studio YouTube 
+
+
+n8n 
+
+https://youtu.be/SPHnWPTql0s?si=GVga0yjLRBAWgFXZ*1
+
+  Google Workspace Studio
+      Google Workspace Flows
+
+
+
+https://youtu.be/8_WpF708h8c?si=AB1wS3IBLnNePwYs*2
+
+1. https://youtu.be/SPHnWPTql0s?si=GVga0yjLRBAWgFXZ
+2. https://youtu.be/8_WpF708h8c?si=AB1wS3IBLnNePwYs
+
+316
+                                           
+
+
+
+ PC 
+ PC 
+
+ 
+
+
+
+Web
+
+ 3  Gemini  Web 
+
+
+
+   Vercel Next.jsGitHub
+  
+  Netlify
+  Cloudflare Pages CDN 
+  GitHub  Pages GitHub
+ 11 
+ GitHub 
+
+
+ API 
+
+
+""
+
+ Web 
+
+
+                                                                                                                                                          317
+ AI 
+
+ Web 
+
+
+
+ Web 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+ 318
+                                          
+
+AI 
+AI 
+
+AI AI 
+
+
+AI 
+
+API AI 
+
+
+
+
+
+
+
+                                                                                                                                                        319
+ AI 
+
+320
+

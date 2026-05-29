@@ -1,0 +1,289 @@
+                                                                11 : Git + GitHub
+
+Create Repository
+
+                                                                                                                                                        241
+ AI 
+
+ GitHub  Git 
+ PC  gemini-chat 
+
+Git  GUI 
+
+Git CLI
+GitHub  GitHub Desktop 
+GitHub Desktop 
+GitHub  Git 
+
+
+GitHub Desktop
+
+GitHub Desktop*3
+
+
+GitHub 
+
+
+3. https://desktop.github.com/download/
+
+242
+                                                                 11 : Git + GitHub
+
+Clone
+
+
+AddClone Repository
+
+                                                                                                                                                          243
+ AI 
+
+
+1. gemini  gemini-chat 
+2.  gemini-chat  gemini-chat-git 
+
+   gemini-chat 
+3.  Clone 
+
+ gemini-chat  gemini-chat-git 
+
+
+
+   cp -a gemini-chat/. gemini-chat-git/
+
+  cp 
+  -a  .env 
+  gemini-chat/.  /. 
+
+244
+                                                                11 : Git + GitHub
+
+Antigravity gemini-chat-git 
+  GUI 
+ Antigravity gemini-chat 
+  .env 
+ 
+  GitCLI
+ 
+
+ 
+ 6  node_modules 
+
+
+API .env  GitHub
+ .gitignore 
+
+                                                                                                                                                        245
+ AI 
+
+.gitignore Git
+Git 
+API node_modules 
+
+3 .gitignore  .env 
+ .gitignore  .env 
+
+
+   .env
+   /node_modules
+
+
+
+246
+                                                                11 : Git + GitHub
+
+ UI 
+ 
+ 
+
+
+                                                                                                                                                        247
+ AI 
+
+
+
+
+  
+ Commit Files to  main
+
+
+ Publish branch 
+
+248
+                                                                 11 : Git + GitHub
+
+ GitHub 
+
+
+
+
+                                                                                                                                                          249
+ AI 
+
+Git 
+
+
+
+
+ : 
+ : 
+ Jules  AI 
+
+
+250
+                                                                11 : Git + GitHub
+
+                     Git  CLI 
+
+  GitHubGitHub DesktopClone
+   Git 
+  
+  GitHub DesktopFile > New Repository
+   Initial
+  Commit .gitignore 
+   .env 
+  
+  Git  CLI 
+   git init  git remote add origin 
+   Git GitHub 
+  CLIGitGitHubSSHGitHub CLI
+  SSH 
+  GitHub 
+  
+  
+  GUIGitHub Desktop
+   Git  CLI GitHub 
+  
+  https://docs.github.com/ja/get-started/git-basics/set-up-git*4
+  Git SSHGitHub CLI
+  CLI  Git 
+  
+
+4. https://docs.github.com/ja/get-started/git-basics/set-up-git
+
+                                                                                                                                                        251
+ AI 
+
+ AI 
+
+ Git + GitHub GitHub 
+ AI 
+
+AI
+
+GitHub  AI 
+
+PC 
+
+
+ PC AI 
+ PC
+
+
+
+AI 
+
+AI
+
+2025 GitHub  AI 
+
+
+252
+           11 : Git + GitHub
+
+Jules - Google 1  15 
+
+   Claude Code Web - Anthropic Claude Code
+         Claude Pro/MAX
+
+GitHub 
+
+Codex - OpenAI ChatGPT 
+GitHub 
+Devin - $500 
+
+
+Jules
+
+ Jules  AI Jules 
+1  15 
+
+Jules  Google  AI GitHub 
+
+
+ Jules 
+
+                         253
+ AI 
+
+https://jules.google/*5
+
+ Try Jules 
+
+Google   GitHub 
+ Connect 
+
+5. https://jules.google/
+
+254
+                                                                11 : Git + GitHub
+
+GitHub Jules 
+GitHub  Jules 
+ GitHub 
+
+                                                                                                                                                        255
+ AI 
+
+ 
+ 
+
+
+256
+                                                                11 : Git + GitHub
+
+ 
+
+
+ "Ready for review"  View PR 
+
+
+
+
+
+                                                                                                                                                        257
+ AI 
+
+    merge
+  
+   main 
+  Jules feature/japanese-style-chat-1594991732611710560
+
+ main 
+
+Files Changed
+
+
+ 258
+                                                                 11 : Git + GitHub
+
+Merge Pull
+RequestJules 
+ main 
+
+GitHub  main 
+ GitHub Desktop 
+Fetch Origin
+
+ 2 Pull  origin
+ Jules 
+
+
+                                                                                                                                                          259
+ AI 
+
+History
+Revert Changes in Commit
+
+
+ 260
+

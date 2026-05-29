@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node C:\Users\Owner\business\brain\scripts\dashboard_server.js", 0, False

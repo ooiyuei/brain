@@ -1,0 +1,934 @@
+{
+    "brushed":  {
+                    "marketing/write-write-note-aipa-deep-research-20260519-1711-df2d.md":  {
+                                                                                                "score":  0,
+                                                                                                "final":  "write-write-note-aipa-deep-research-20260519-1711-df2d-90pt-20260525-1538-7cb4.md",
+                                                                                                "at":  "2026-05-25T15:38:40.6796563+09:00"
+                                                                                            },
+                    "newbiz/biz-aipa-aipa-proposal-15man-full-20260519-0641-da42.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "biz-aipa-aipa-proposal-15man-full-20260519-0641-da42-90pt-20260525-1508-5908.md",
+                                                                                           "at":  "2026-05-25T15:08:40.6282952+09:00"
+                                                                                       },
+                    "newbiz/biz-eemus-target-schools-20-20260520-0521-5fe3.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-target-schools-20-20260520-0521-5fe3-90pt-20260525-1408-5042.md",
+                                                                                     "at":  "2026-05-25T14:08:40.3834292+09:00"
+                                                                                 },
+                    "marketing/biz-aipax-seo-chusho-ai-20260524-1221-92df.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "biz-aipax-seo-chusho-ai-20260524-1221-92df-90pt-20260525-1738-6805.md",
+                                                                                    "at":  "2026-05-25T17:38:40.7992840+09:00"
+                                                                                },
+                    "newbiz/school-school-student-success-stories-20260519-1717-dd1f.md":  {
+                                                                                               "score":  0,
+                                                                                               "final":  "school-school-student-success-stories-20260519-1717-dd1f-90pt-20260525-1608-7fee.md",
+                                                                                               "at":  "2026-05-25T16:08:40.3441404+09:00"
+                                                                                           },
+                    "newbiz/school-school-m5-monetize-20260519-0635-3715.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "school-school-m5-monetize-20260519-0635-3715-90pt-20260525-1227-74a1.md",
+                                                                                   "at":  "2026-05-25T12:27:19.8143798+09:00"
+                                                                               },
+                    "newbiz/school-school-parent-monthly-report-20260524-0202-692f.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "school-school-parent-monthly-report-20260524-0202-692f-90pt-20260525-1538-43ac.md",
+                                                                                             "at":  "2026-05-25T15:38:40.8205834+09:00"
+                                                                                         },
+                    "marketing/sales-sales-prospect-aipa-construction-20260519-1721-7ed1.md":  {
+                                                                                                   "score":  0,
+                                                                                                   "final":  "sales-sales-prospect-aipa-construction-20260519-1721-7ed1-90pt-20260525-0138-fde2.md",
+                                                                                                   "at":  "2026-05-25T01:38:40.1402741+09:00"
+                                                                                               },
+                    "newbiz/school-school-m5-graduation-presentation-20260524-1832-19b9.md":  {
+                                                                                                  "score":  0,
+                                                                                                  "final":  "school-school-m5-graduation-presentation-20260524-1832-19b9-90pt-20260525-1508-d901.md",
+                                                                                                  "at":  "2026-05-25T15:08:40.8016710+09:00"
+                                                                                              },
+                    "marketing/idle-is-email-templates-20260519-0445-bf96.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "idle-is-email-templates-20260519-0445-bf96-90pt-20260525-1638-1357.md",
+                                                                                    "at":  "2026-05-25T16:38:40.5314518+09:00"
+                                                                                },
+                    "newbiz/biz-eemus-dream-award-story-20260519-1721-877e.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-dream-award-story-20260519-1721-877e-90pt-20260525-1438-e0ce.md",
+                                                                                     "at":  "2026-05-25T14:38:40.7495260+09:00"
+                                                                                 },
+                    "marketing/biz-testall-x-content-30-20260524-0211-db23.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-testall-x-content-30-20260524-0211-db23-90pt-20260525-1708-ffcd.md",
+                                                                                     "at":  "2026-05-25T17:08:40.6658394+09:00"
+                                                                                 },
+                    "marketing/biz-aipa-aipa-seo-saiyo-ai-20260524-0211-e3c7.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-aipa-aipa-seo-saiyo-ai-20260524-0211-e3c7-90pt-20260525-1838-e1b0.md",
+                                                                                       "at":  "2026-05-25T18:38:40.6122198+09:00"
+                                                                                   },
+                    "newbiz/school-school-parent-monthly-report-20260519-1732-0691.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "school-school-parent-monthly-report-20260519-1732-0691-90pt-20260525-1538-39f1.md",
+                                                                                             "at":  "2026-05-25T15:38:40.7484208+09:00"
+                                                                                         },
+                    "marketing/sales-sales-prospect-aipa-mfg-20260519-1811-d83b.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "sales-sales-prospect-aipa-mfg-20260519-1811-d83b-90pt-20260525-0008-50a5.md",
+                                                                                          "at":  "2026-05-25T00:08:40.3752449+09:00"
+                                                                                      },
+                    "newbiz/school-school-parent-anxiety-q-a-20260519-2002-92ad.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "school-school-parent-anxiety-q-a-20260519-2002-92ad-90pt-20260525-1227-5836.md",
+                                                                                          "at":  "2026-05-25T12:27:19.6332237+09:00"
+                                                                                      },
+                    "newbiz/biz-eemus-dream-award-story-20260524-1551-0788.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-dream-award-story-20260524-1551-0788-90pt-20260525-1438-cd29.md",
+                                                                                     "at":  "2026-05-25T14:38:40.5695787+09:00"
+                                                                                 },
+                    "marketing/biz-aipa-aipa-prospect-mfg-30-20260520-0726-53c7.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-prospect-mfg-30-20260520-0726-53c7-90pt-20260525-0138-e597.md",
+                                                                                          "at":  "2026-05-25T01:38:40.2162840+09:00"
+                                                                                      },
+                    "marketing/biz-aipa-aipa-prospect-logistics-20260524-1556-db52.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "biz-aipa-aipa-prospect-logistics-20260524-1556-db52-90pt-20260525-1908-c92d.md",
+                                                                                             "at":  "2026-05-25T19:08:40.6172114+09:00"
+                                                                                         },
+                    "newbiz/biz-eemus-dream-award-story-20260519-1731-2073.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-dream-award-story-20260519-1731-2073-90pt-20260525-1438-2f89.md",
+                                                                                     "at":  "2026-05-25T14:38:40.6434755+09:00"
+                                                                                 },
+                    "newbiz/biz-aipax-proposal-80man-20260520-0421-842b.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-aipax-proposal-80man-20260520-0421-842b-90pt-20260525-1508-a45d.md",
+                                                                                  "at":  "2026-05-25T15:08:40.5932276+09:00"
+                                                                              },
+                    "newbiz/bg-business-testall-proposal-2026-05-24.md":  {
+                                                                              "score":  0,
+                                                                              "final":  "bg-business-testall-proposal-2026-05-24-90pt-20260525-1538-0fdc.md",
+                                                                              "at":  "2026-05-25T15:38:40.5805039+09:00"
+                                                                          },
+                    "marketing/biz-aipa-aipa-note-deep-essay-20260519-1756-4e30.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-note-deep-essay-20260519-1756-4e30-90pt-20260525-2008-625d.md",
+                                                                                          "at":  "2026-05-25T20:08:40.3814751+09:00"
+                                                                                      },
+                    "marketing/biz-school-note-parent-essay-20260524-1641-2732.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-school-note-parent-essay-20260524-1641-2732-90pt-20260525-1738-b30e.md",
+                                                                                         "at":  "2026-05-25T17:38:40.6153445+09:00"
+                                                                                     },
+                    "newbiz/school-school-parent-monthly-report-20260519-2032-37f1.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "school-school-parent-monthly-report-20260519-2032-37f1-90pt-20260525-1538-d78f.md",
+                                                                                             "at":  "2026-05-25T15:38:40.7841842+09:00"
+                                                                                         },
+                    "marketing/biz-aipa-aipa-prospect-shizuoka-priority-20260520-0641-7556.md":  {
+                                                                                                     "score":  0,
+                                                                                                     "final":  "biz-aipa-aipa-prospect-shizuoka-priority-20260520-0641-7556-90pt-20260525-1908-1a69.md",
+                                                                                                     "at":  "2026-05-25T19:08:40.5099572+09:00"
+                                                                                                 },
+                    "marketing/biz-testall-teacher-outreach-20260519-1711-d972.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-testall-teacher-outreach-20260519-1711-d972-90pt-20260525-1708-df17.md",
+                                                                                         "at":  "2026-05-25T17:08:40.5176254+09:00"
+                                                                                     },
+                    "marketing/biz-aipa-aipa-followup-rules-20260524-1641-f23f.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-aipa-aipa-followup-rules-20260524-1641-f23f-90pt-20260525-2038-a7d1.md",
+                                                                                         "at":  "2026-05-25T20:38:40.5407487+09:00"
+                                                                                     },
+                    "marketing/money-money-twitter-aipax-20260519-0455-8539.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "money-money-twitter-aipax-20260519-0455-8539-90pt-20260525-1638-399c.md",
+                                                                                      "at":  "2026-05-25T16:38:40.4999370+09:00"
+                                                                                  },
+                    "marketing/biz-aipax-x-thread-tips-20260524-1541-634d.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "biz-aipax-x-thread-tips-20260524-1541-634d-90pt-20260525-1808-0505.md",
+                                                                                    "at":  "2026-05-25T18:08:40.5709159+09:00"
+                                                                                },
+                    "marketing/biz-eemus-lp-mvp-20260524-0231-1355.md":  {
+                                                                             "score":  0,
+                                                                             "final":  "biz-eemus-lp-mvp-20260524-0231-1355-90pt-20260525-1708-c472.md",
+                                                                             "at":  "2026-05-25T17:08:40.7349044+09:00"
+                                                                         },
+                    "marketing/biz-aipa-aipa-x-thread-weekly-20260520-0411-1dc1.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-x-thread-weekly-20260520-0411-1dc1-90pt-20260525-1808-25aa.md",
+                                                                                          "at":  "2026-05-25T18:08:40.8215818+09:00"
+                                                                                      },
+                    "marketing/biz-school-onboarding-20260524-0241-34e8.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-school-onboarding-20260524-0241-34e8-90pt-20260525-1738-bbfa.md",
+                                                                                  "at":  "2026-05-25T17:38:40.5051152+09:00"
+                                                                              },
+                    "marketing/biz-aipa-aipa-objection-20-20260524-1926-286a.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-aipa-aipa-objection-20-20260524-1926-286a-90pt-20260525-1938-6983.md",
+                                                                                       "at":  "2026-05-25T19:38:40.6305579+09:00"
+                                                                                   },
+                    "research/priority-aipa-web-monitor-3companies-20260519-2034-c2ac.md":  {
+                                                                                                "score":  0,
+                                                                                                "final":  "priority-aipa-web-monitor-3companies-20260519-2034-c2ac-90pt-20260525-1938-539f.md",
+                                                                                                "at":  "2026-05-25T19:38:40.7927584+09:00"
+                                                                                            },
+                    "marketing/biz-aipax-seo-chusho-ai-20260524-0151-4b63.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "biz-aipax-seo-chusho-ai-20260524-0151-4b63-90pt-20260525-1808-e0c9.md",
+                                                                                    "at":  "2026-05-25T18:08:40.7155249+09:00"
+                                                                                },
+                    "marketing/biz-school-x-content-20260524-2141-0b81.md":  {
+                                                                                 "score":  0,
+                                                                                 "final":  "biz-school-x-content-20260524-2141-0b81-90pt-20260525-1708-7be1.md",
+                                                                                 "at":  "2026-05-25T17:08:40.4824222+09:00"
+                                                                             },
+                    "newbiz/biz-eemus-target-companies-20-20260520-0631-2c41.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-eemus-target-companies-20-20260520-0631-2c41-90pt-20260525-1408-5e58.md",
+                                                                                       "at":  "2026-05-25T14:08:40.4715100+09:00"
+                                                                                   },
+                    "marketing/idle-is-customer-list-aipa-web-20260519-0425-4a74.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "idle-is-customer-list-aipa-web-20260519-0425-4a74-90pt-20260525-1638-513b.md",
+                                                                                           "at":  "2026-05-25T16:38:40.5880917+09:00"
+                                                                                       },
+                    "marketing/biz-school-onboarding-20260524-1911-f048.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-school-onboarding-20260524-1911-f048-90pt-20260525-1738-2a7f.md",
+                                                                                  "at":  "2026-05-25T17:38:40.5493650+09:00"
+                                                                              },
+                    "newbiz/biz-eemus-target-companies-20-20260519-0631-bd38.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-eemus-target-companies-20-20260519-0631-bd38-90pt-20260525-1408-4586.md",
+                                                                                       "at":  "2026-05-25T14:08:40.5069330+09:00"
+                                                                                   },
+                    "marketing/sleep-aipa-web-contact-5-20260520-0403-6285.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "sleep-aipa-web-contact-5-20260520-0403-6285-90pt-20260525-1538-3e70.md",
+                                                                                     "at":  "2026-05-25T15:38:40.6149536+09:00"
+                                                                                 },
+                    "newbiz/school-school-m1-w1-mindset-20260524-2217-0238.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "school-school-m1-w1-mindset-20260524-2217-0238-90pt-20260525-1408-41cb.md",
+                                                                                     "at":  "2026-05-25T14:08:40.4132544+09:00"
+                                                                                 },
+                    "research/biz-aipa-aipa-competitor-deep-20260524-1811-3abb.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-aipa-aipa-competitor-deep-20260524-1811-3abb-90pt-20260525-1838-5383.md",
+                                                                                         "at":  "2026-05-25T18:38:40.5047888+09:00"
+                                                                                     },
+                    "newbiz/school-school-m2-consensus-20260519-0732-9a5c.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "school-school-m2-consensus-20260519-0732-9a5c-90pt-20260525-1338-6876.md",
+                                                                                    "at":  "2026-05-25T13:38:40.6104488+09:00"
+                                                                                },
+                    "marketing/biz-aipa-aipa-prospect-construction-30-20260524-2056-9e07.md":  {
+                                                                                                   "score":  0,
+                                                                                                   "final":  "biz-aipa-aipa-prospect-construction-30-20260524-2056-9e07-90pt-20260525-1938-f6b5.md",
+                                                                                                   "at":  "2026-05-25T19:38:40.7033413+09:00"
+                                                                                               },
+                    "marketing/sales-sales-prospect-aipa-mfg-20260519-0541-27a9.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "sales-sales-prospect-aipa-mfg-20260519-0541-27a9-90pt-20260525-0138-5fd6.md",
+                                                                                          "at":  "2026-05-25T01:38:40.1831501+09:00"
+                                                                                      },
+                    "research/idle-ai-models-week-20260518-1920-fb21.md":  {
+                                                                               "score":  28,
+                                                                               "final":  "idle-ai-models-week-20260518-1920-fb21-90pt-20260525-1308-1dbb.md",
+                                                                               "at":  "2026-05-25T13:08:40.4975199+09:00"
+                                                                           },
+                    "newbiz/biz-eemus-pitch-deck-10p-20260524-2051-f2ae.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-eemus-pitch-deck-10p-20260524-2051-f2ae-90pt-20260525-1238-7b66.md",
+                                                                                  "at":  "2026-05-25T12:38:40.5127329+09:00"
+                                                                              },
+                    "marketing/sales-sales-followup-rules-20260519-1751-8788.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "sales-sales-followup-rules-20260519-1751-8788-90pt-20260525-1608-67b2.md",
+                                                                                       "at":  "2026-05-25T16:08:40.2145604+09:00"
+                                                                                   },
+                    "newbiz/biz-eemus-pitch-deck-10p-20260520-0731-3880.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-eemus-pitch-deck-10p-20260520-0731-3880-90pt-20260524-2355-fa3e.md",
+                                                                                  "at":  "2026-05-24T23:55:31.8394255+09:00"
+                                                                              },
+                    "newbiz/priority-eemus-yume-award-v3-20260519-2034-dfb4.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "priority-eemus-yume-award-v3-20260519-2034-dfb4-90pt-20260525-1308-1a8c.md",
+                                                                                      "at":  "2026-05-25T13:08:40.6424770+09:00"
+                                                                                  },
+                    "newbiz/biz-cross-investor-pitch-20260524-1831-b9b1.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-cross-investor-pitch-20260524-1831-b9b1-90pt-20260525-1508-2989.md",
+                                                                                  "at":  "2026-05-25T15:08:40.5560187+09:00"
+                                                                              },
+                    "research/biz-aipa-aipa-market-trend-20260524-2211-5301.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-aipa-aipa-market-trend-20260524-2211-5301-90pt-20260525-1908-9197.md",
+                                                                                      "at":  "2026-05-25T19:08:40.5429224+09:00"
+                                                                                  },
+                    "marketing/sales-sales-prospect-aipa-service-20260519-0531-5fc0.md":  {
+                                                                                              "score":  0,
+                                                                                              "final":  "sales-sales-prospect-aipa-service-20260519-0531-5fc0-90pt-20260525-1608-2958.md",
+                                                                                              "at":  "2026-05-25T16:08:40.3238255+09:00"
+                                                                                          },
+                    "newbiz/biz-aipax-prospect-30-20260520-0541-d5bd.md":  {
+                                                                               "score":  0,
+                                                                               "final":  "biz-aipax-prospect-30-20260520-0541-d5bd-90pt-20260524-2355-4d2b.md",
+                                                                               "at":  "2026-05-24T23:55:31.8055190+09:00"
+                                                                           },
+                    "newbiz/biz-aipa-aipa-proposal-15man-full-20260524-1841-8f7d.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "biz-aipa-aipa-proposal-15man-full-20260524-1841-8f7d-90pt-20260525-1508-6687.md",
+                                                                                           "at":  "2026-05-25T15:08:40.6983036+09:00"
+                                                                                       },
+                    "marketing/biz-testall-x-content-30-20260524-1351-c79b.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-testall-x-content-30-20260524-1351-c79b-90pt-20260525-1708-e206.md",
+                                                                                     "at":  "2026-05-25T17:08:40.7013204+09:00"
+                                                                                 },
+                    "marketing/priority-aipax-sales-5patterns-20260519-2034-43e8.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "priority-aipax-sales-5patterns-20260519-2034-43e8-90pt-20260525-1638-ab6b.md",
+                                                                                           "at":  "2026-05-25T16:38:40.7407628+09:00"
+                                                                                       },
+                    "newbiz/school-school-m2-w1-automation-20260520-0532-0bf0.md":  {
+                                                                                        "score":  0,
+                                                                                        "final":  "school-school-m2-w1-automation-20260520-0532-0bf0-90pt-20260525-1408-bffb.md",
+                                                                                        "at":  "2026-05-25T14:08:40.6009393+09:00"
+                                                                                    },
+                    "research/biz-aipa-aipa-market-trend-20260519-1926-7156.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-aipa-aipa-market-trend-20260519-1926-7156-90pt-20260525-1838-611f.md",
+                                                                                      "at":  "2026-05-25T18:38:40.4736915+09:00"
+                                                                                  },
+                    "research/idle-biz-saas-trends-20260519-0435-ee33.md":  {
+                                                                                "score":  0,
+                                                                                "final":  "idle-biz-saas-trends-20260519-0435-ee33-90pt-20260525-1938-5c18.md",
+                                                                                "at":  "2026-05-25T19:38:40.7333590+09:00"
+                                                                            },
+                    "marketing/biz-aipa-aipa-cold-email-sequence-7-20260524-1656-9687.md":  {
+                                                                                                "score":  0,
+                                                                                                "final":  "biz-aipa-aipa-cold-email-sequence-7-20260524-1656-9687-90pt-20260525-2008-4e24.md",
+                                                                                                "at":  "2026-05-25T20:08:40.6093833+09:00"
+                                                                                            },
+                    "newbiz/idle-existing-pricing-testall-20260518-1845-e999-d2.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "idle-existing-pricing-testall-20260518-1845-e999-d2-90pt-20260525-1338-c11e.md",
+                                                                                          "at":  "2026-05-25T13:38:40.4589309+09:00"
+                                                                                      },
+                    "newbiz/bg-business-testall-next-2026-05-25.md":  {
+                                                                          "score":  0,
+                                                                          "final":  "bg-business-testall-next-2026-05-25-90pt-20260525-1538-0657.md",
+                                                                          "at":  "2026-05-25T15:38:40.5455447+09:00"
+                                                                      },
+                    "marketing/write-write-seo-saiyo-cost-20260519-1721-0b20.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "write-write-seo-saiyo-cost-20260519-1721-0b20-90pt-20260525-1538-bf5e.md",
+                                                                                       "at":  "2026-05-25T15:38:40.4970516+09:00"
+                                                                                   },
+                    "marketing/biz-aipa-aipa-x-thread-weekly-20260524-1911-0382.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-x-thread-weekly-20260524-1911-0382-90pt-20260525-1808-2639.md",
+                                                                                          "at":  "2026-05-25T18:08:40.7846223+09:00"
+                                                                                      },
+                    "marketing/biz-aipa-aipa-onboarding-30days-20260524-1541-c914.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "biz-aipa-aipa-onboarding-30days-20260524-1541-c914-90pt-20260525-1938-d705.md",
+                                                                                            "at":  "2026-05-25T19:38:40.6667466+09:00"
+                                                                                        },
+                    "marketing/biz-aipa-aipa-prospect-construction-30-20260524-0241-d81f.md":  {
+                                                                                                   "score":  0,
+                                                                                                   "final":  "biz-aipa-aipa-prospect-construction-30-20260524-0241-d81f-90pt-20260525-0008-ef13.md",
+                                                                                                   "at":  "2026-05-25T00:08:40.3060211+09:00"
+                                                                                               },
+                    "marketing/biz-aipa-aipa-followup-rules-20260519-2011-1b5b.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-aipa-aipa-followup-rules-20260519-2011-1b5b-90pt-20260525-2038-58db.md",
+                                                                                         "at":  "2026-05-25T20:38:40.6165552+09:00"
+                                                                                     },
+                    "marketing/biz-aipa-aipa-lp-monitor-3sha-20260520-0511-56bf.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-lp-monitor-3sha-20260520-0511-56bf-90pt-20260525-2008-1e18.md",
+                                                                                          "at":  "2026-05-25T20:08:40.4443215+09:00"
+                                                                                      },
+                    "newbiz/school-school-m1-w3-vibe-spread-20260520-0417-4c55.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-m1-w3-vibe-spread-20260520-0417-4c55-90pt-20260525-0038-6e48.md",
+                                                                                         "at":  "2026-05-25T00:38:40.1804317+09:00"
+                                                                                     },
+                    "research/biz-aipa-aipa-competitor-deep-20260520-0656-0dc0.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-aipa-aipa-competitor-deep-20260520-0656-0dc0-90pt-20260525-1238-0734.md",
+                                                                                         "at":  "2026-05-25T12:38:40.4816531+09:00"
+                                                                                     },
+                    "newbiz/school-school-m3-11item-worksheet-20260519-1702-0c44.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "school-school-m3-11item-worksheet-20260519-1702-0c44-90pt-20260525-0038-6d25.md",
+                                                                                           "at":  "2026-05-25T00:38:40.2727838+09:00"
+                                                                                       },
+                    "dev/biz-cross-stripe-setup-20260519-0741-61d1.md":  {
+                                                                             "score":  0,
+                                                                             "final":  "biz-cross-stripe-setup-20260519-0741-61d1-90pt-20260525-1226-6c5f.md",
+                                                                             "at":  "2026-05-25T12:26:52.2830427+09:00"
+                                                                         },
+                    "newbiz/biz-eemus-target-companies-20-20260524-1331-e9a5.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-eemus-target-companies-20-20260524-1331-e9a5-90pt-20260525-1408-3f73.md",
+                                                                                       "at":  "2026-05-25T14:08:40.5700779+09:00"
+                                                                                   },
+                    "newbiz/biz-eemus-target-schools-20-20260519-0701-0b1b.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-target-schools-20-20260519-0701-0b1b-90pt-20260525-1408-7c07.md",
+                                                                                     "at":  "2026-05-25T14:08:40.5399937+09:00"
+                                                                                 },
+                    "newbiz/school-school-student-x-content-20260524-0147-698e.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-student-x-content-20260524-0147-698e-90pt-20260525-1638-ab07.md",
+                                                                                         "at":  "2026-05-25T16:38:40.6674366+09:00"
+                                                                                     },
+                    "marketing/biz-school-note-parent-essay-20260524-0141-746d.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-school-note-parent-essay-20260524-0141-746d-90pt-20260525-1738-4962.md",
+                                                                                         "at":  "2026-05-25T17:38:40.5871040+09:00"
+                                                                                     },
+                    "marketing/biz-aipax-seo-chusho-ai-20260520-0601-0f9d.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "biz-aipax-seo-chusho-ai-20260520-0601-0f9d-90pt-20260525-1838-7234.md",
+                                                                                    "at":  "2026-05-25T18:38:40.3793939+09:00"
+                                                                                },
+                    "research/idle-biz-saas-trends-20260518-1925-4965-d2.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "idle-biz-saas-trends-20260518-1925-4965-d2-90pt-20260525-2008-54e3.md",
+                                                                                   "at":  "2026-05-25T20:08:40.5005590+09:00"
+                                                                               },
+                    "corp/biz-aipa-aipa-pl-monthly-20260524-1711-9a25.md":  {
+                                                                                "score":  0,
+                                                                                "final":  "biz-aipa-aipa-pl-monthly-20260524-1711-9a25-90pt-20260525-1227-5422.md",
+                                                                                "at":  "2026-05-25T12:27:19.8512257+09:00"
+                                                                            },
+                    "newbiz/refresh-ipak-cafe-2026-05-25.md":  {
+                                                                   "score":  0,
+                                                                   "final":  "refresh-ipak-cafe-2026-05-25-90pt-20260525-1308-f49b.md",
+                                                                   "at":  "2026-05-25T13:08:40.7031744+09:00"
+                                                               },
+                    "marketing/idle-is-customer-list-agents-of-flag-20260519-0450-4627.md":  {
+                                                                                                 "score":  0,
+                                                                                                 "final":  "idle-is-customer-list-agents-of-flag-20260519-0450-4627-90pt-20260525-1638-fc82.md",
+                                                                                                 "at":  "2026-05-25T16:38:40.5595648+09:00"
+                                                                                             },
+                    "newbiz/school-school-m5-monetize-20260520-0432-15b2.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "school-school-m5-monetize-20260520-0432-15b2-90pt-20260525-0108-d311.md",
+                                                                                   "at":  "2026-05-25T01:08:40.0377087+09:00"
+                                                                               },
+                    "newbiz/school-school-m1-w2-vibe-coding-20260524-2117-d525.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-m1-w2-vibe-coding-20260524-2117-d525-90pt-20260525-1438-d5bf.md",
+                                                                                         "at":  "2026-05-25T14:38:40.7890497+09:00"
+                                                                                     },
+                    "marketing/biz-aipax-x-thread-tips-20260520-0531-4902.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "biz-aipax-x-thread-tips-20260520-0531-4902-90pt-20260525-1738-c12e.md",
+                                                                                    "at":  "2026-05-25T17:38:40.8374180+09:00"
+                                                                                },
+                    "marketing/biz-aipa-aipa-cold-email-sequence-7-20260524-0126-9d2d.md":  {
+                                                                                                "score":  0,
+                                                                                                "final":  "biz-aipa-aipa-cold-email-sequence-7-20260524-0126-9d2d-90pt-20260525-2008-7e0c.md",
+                                                                                                "at":  "2026-05-25T20:08:40.6394300+09:00"
+                                                                                            },
+                    "newbiz/biz-testall-content-strategy-20260519-2021-2e45.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-testall-content-strategy-20260519-2021-2e45-90pt-20260525-1338-e734.md",
+                                                                                      "at":  "2026-05-25T13:38:40.4879883+09:00"
+                                                                                  },
+                    "marketing/sales-sales-cold-call-script-aipa-20260524-0141-eca9.md":  {
+                                                                                              "score":  0,
+                                                                                              "final":  "sales-sales-cold-call-script-aipa-20260524-0141-eca9-90pt-20260525-1608-a9de.md",
+                                                                                              "at":  "2026-05-25T16:08:40.2819258+09:00"
+                                                                                          },
+                    "marketing/money-money-content-school-20260519-0455-f2b4.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "money-money-content-school-20260519-0455-f2b4-90pt-20260525-1638-9b54.md",
+                                                                                       "at":  "2026-05-25T16:38:40.4665137+09:00"
+                                                                                   },
+                    "marketing/biz-aipa-aipa-onboarding-30days-20260520-0611-8a18.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "biz-aipa-aipa-onboarding-30days-20260520-0611-8a18-90pt-20260525-0012-3883.md",
+                                                                                            "at":  "2026-05-25T00:12:44.8617044+09:00"
+                                                                                        },
+                    "corp/biz-aipa-aipa-kpi-dashboard-20260524-2111-3908.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "biz-aipa-aipa-kpi-dashboard-20260524-2111-3908-90pt-20260525-1738-c6e3.md",
+                                                                                   "at":  "2026-05-25T17:38:40.6924350+09:00"
+                                                                               },
+                    "corp/biz-aipa-aipa-pl-monthly-20260519-1811-0484.md":  {
+                                                                                "score":  0,
+                                                                                "final":  "biz-aipa-aipa-pl-monthly-20260519-1811-0484-90pt-20260525-1226-537d.md",
+                                                                                "at":  "2026-05-25T12:26:52.3746310+09:00"
+                                                                            },
+                    "newbiz/school-school-m4-w1-service-design-20260524-0132-8da3.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "school-school-m4-w1-service-design-20260524-0132-8da3-90pt-20260525-1508-e942.md",
+                                                                                            "at":  "2026-05-25T15:08:40.7288375+09:00"
+                                                                                        },
+                    "marketing/biz-aipa-aipa-objection-20-20260520-0426-8db1.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-aipa-aipa-objection-20-20260520-0426-8db1-90pt-20260525-2008-efed.md",
+                                                                                       "at":  "2026-05-25T20:08:40.5547276+09:00"
+                                                                                   },
+                    "newbiz/school-school-m1-w3-vibe-spread-20260519-0717-3e8a.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-m1-w3-vibe-spread-20260519-0717-3e8a-90pt-20260525-1538-04bb.md",
+                                                                                         "at":  "2026-05-25T15:38:40.7133624+09:00"
+                                                                                     },
+                    "marketing/biz-aipa-aipa-faq-30q-20260524-1726-cea2.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-aipa-aipa-faq-30q-20260524-1726-cea2-90pt-20260525-2038-533c.md",
+                                                                                  "at":  "2026-05-25T20:38:40.5754894+09:00"
+                                                                              },
+                    "newbiz/biz-school-trial-2h-program-20260519-1751-0d8d.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-school-trial-2h-program-20260519-1751-0d8d-90pt-20260525-1238-77f6.md",
+                                                                                     "at":  "2026-05-25T12:38:40.4422995+09:00"
+                                                                                 },
+                    "marketing/biz-aipa-aipa-faq-30q-20260524-0156-5965.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-aipa-aipa-faq-30q-20260524-0156-5965-90pt-20260525-2008-2ace.md",
+                                                                                  "at":  "2026-05-25T20:08:40.5841201+09:00"
+                                                                              },
+                    "marketing/sales-sales-email-sequence-aipa-20260519-1731-bdc0.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "sales-sales-email-sequence-aipa-20260519-1731-bdc0-90pt-20260525-1608-95e9.md",
+                                                                                            "at":  "2026-05-25T16:08:40.3030921+09:00"
+                                                                                        },
+                    "newbiz/school-school-m4-w1-service-design-20260524-2032-4b7b.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "school-school-m4-w1-service-design-20260524-2032-4b7b-90pt-20260525-1508-ffcc.md",
+                                                                                            "at":  "2026-05-25T15:08:40.7611699+09:00"
+                                                                                        },
+                    "newbiz/biz-school-curriculum-v2-20260524-0131-8b24.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-school-curriculum-v2-20260524-0131-8b24-90pt-20260524-2355-d9d2.md",
+                                                                                  "at":  "2026-05-24T23:55:31.8720397+09:00"
+                                                                              },
+                    "marketing/biz-aipax-lp-beta-20260524-1501-334e.md":  {
+                                                                              "score":  0,
+                                                                              "final":  "biz-aipax-lp-beta-20260524-1501-334e-90pt-20260525-1838-e86a.md",
+                                                                              "at":  "2026-05-25T18:38:40.4159976+09:00"
+                                                                          },
+                    "newbiz/biz-testall-content-strategy-20260524-0221-852b.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-testall-content-strategy-20260524-0221-852b-90pt-20260525-1338-aa72.md",
+                                                                                      "at":  "2026-05-25T13:38:40.5784932+09:00"
+                                                                                  },
+                    "marketing/biz-aipax-lp-beta-20260520-0721-12a2.md":  {
+                                                                              "score":  0,
+                                                                              "final":  "biz-aipax-lp-beta-20260520-0721-12a2-90pt-20260525-1838-6271.md",
+                                                                              "at":  "2026-05-25T18:38:40.5356205+09:00"
+                                                                          },
+                    "newbiz/school-school-m1-w1-mindset-20260520-0732-2a2c.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "school-school-m1-w1-mindset-20260520-0732-2a2c-90pt-20260525-1408-7f72.md",
+                                                                                     "at":  "2026-05-25T14:08:40.4426746+09:00"
+                                                                                 },
+                    "research/idle-existing-customer-eemus-20260518-1900-62c2-d2.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "idle-existing-customer-eemus-20260518-1900-62c2-d2-90pt-20260525-1908-5ee0.md",
+                                                                                           "at":  "2026-05-25T19:08:40.7943788+09:00"
+                                                                                       },
+                    "dev/biz-cross-stripe-setup-20260520-0651-a777.md":  {
+                                                                             "score":  0,
+                                                                             "final":  "biz-cross-stripe-setup-20260520-0651-a777-90pt-20260525-1708-9da6.md",
+                                                                             "at":  "2026-05-25T17:08:40.6311365+09:00"
+                                                                         },
+                    "marketing/biz-testall-teacher-outreach-20260524-1941-15b8.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-testall-teacher-outreach-20260524-1941-15b8-90pt-20260525-1708-5c4c.md",
+                                                                                         "at":  "2026-05-25T17:08:40.4503481+09:00"
+                                                                                     },
+                    "corp/biz-aipax-pl-monthly-20260524-1731-fbe7.md":  {
+                                                                            "score":  0,
+                                                                            "final":  "biz-aipax-pl-monthly-20260524-1731-fbe7-90pt-20260525-1838-cc37.md",
+                                                                            "at":  "2026-05-25T18:38:40.4431567+09:00"
+                                                                        },
+                    "marketing/biz-aipa-aipa-seo-saiyo-ai-20260520-0441-a8d1.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-aipa-aipa-seo-saiyo-ai-20260520-0441-a8d1-90pt-20260525-1838-6454.md",
+                                                                                       "at":  "2026-05-25T18:38:40.5662315+09:00"
+                                                                                   },
+                    "research/biz-testall-competitor-studyplus-20260519-0621-fc74.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "biz-testall-competitor-studyplus-20260519-0621-fc74-90pt-20260525-1908-19be.md",
+                                                                                            "at":  "2026-05-25T19:08:40.7577385+09:00"
+                                                                                        },
+                    "marketing/biz-aipa-aipa-prospect-logistics-20260520-0541-db90.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "biz-aipa-aipa-prospect-logistics-20260520-0541-db90-90pt-20260525-1938-88ee.md",
+                                                                                             "at":  "2026-05-25T19:38:40.5599497+09:00"
+                                                                                         },
+                    "newbiz/school-school-m1-w1-mindset-20260520-0602-fd1a.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "school-school-m1-w1-mindset-20260520-0602-fd1a-90pt-20260525-1338-78fc.md",
+                                                                                     "at":  "2026-05-25T13:38:40.4260479+09:00"
+                                                                                 },
+                    "newbiz/biz-aipax-proposal-80man-20260524-1301-421f.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-aipax-proposal-80man-20260524-1301-421f-90pt-20260525-1508-e9ca.md",
+                                                                                  "at":  "2026-05-25T15:08:40.4795095+09:00"
+                                                                              },
+                    "corp/biz-aipax-contract-template-20260520-0451-afc3.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "biz-aipax-contract-template-20260520-0451-afc3-90pt-20260525-1808-774e.md",
+                                                                                   "at":  "2026-05-25T18:08:40.6454789+09:00"
+                                                                               },
+                    "marketing/biz-aipa-aipa-prospect-shizuoka-priority-20260524-2226-644b.md":  {
+                                                                                                     "score":  0,
+                                                                                                     "final":  "biz-aipa-aipa-prospect-shizuoka-priority-20260524-2226-644b-90pt-20260525-1838-33c9.md",
+                                                                                                     "at":  "2026-05-25T18:38:40.5857963+09:00"
+                                                                                                 },
+                    "corp/biz-aipa-aipa-contract-template-20260520-0711-7bae.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-aipa-aipa-contract-template-20260520-0711-7bae-90pt-20260525-1226-d57b.md",
+                                                                                       "at":  "2026-05-25T12:26:52.3327542+09:00"
+                                                                                   },
+                    "corp/biz-aipa-aipa-kpi-dashboard-20260519-1741-e822.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "biz-aipa-aipa-kpi-dashboard-20260519-1741-e822-90pt-20260525-1738-b85a.md",
+                                                                                   "at":  "2026-05-25T17:38:40.6573846+09:00"
+                                                                               },
+                    "newbiz/school-school-m1-w3-vibe-spread-20260524-1732-803a.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-m1-w3-vibe-spread-20260524-1732-803a-90pt-20260525-1608-5a54.md",
+                                                                                         "at":  "2026-05-25T16:08:40.4095900+09:00"
+                                                                                     },
+                    "newbiz/school-school-student-success-stories-20260524-0232-f13a.md":  {
+                                                                                               "score":  0,
+                                                                                               "final":  "school-school-student-success-stories-20260524-0232-f13a-90pt-20260525-1638-5d68.md",
+                                                                                               "at":  "2026-05-25T16:38:40.7019731+09:00"
+                                                                                           },
+                    "newbiz/idle-existing-pricing-testall-20260518-1845-e999.md":  {
+                                                                                       "score":  28,
+                                                                                       "final":  "idle-existing-pricing-testall-20260518-1845-e999-90pt-20260525-1308-8a65.md",
+                                                                                       "at":  "2026-05-25T13:08:40.5772865+09:00"
+                                                                                   },
+                    "newbiz/school-school-m2-consensus-20260524-2202-bffc.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "school-school-m2-consensus-20260524-2202-bffc-90pt-20260525-1408-886d.md",
+                                                                                    "at":  "2026-05-25T14:08:40.6316829+09:00"
+                                                                                },
+                    "marketing/sales-sales-email-sequence-aipax-20260524-0131-5491.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "sales-sales-email-sequence-aipax-20260524-0131-5491-90pt-20260525-1608-ee4b.md",
+                                                                                             "at":  "2026-05-25T16:08:40.2607595+09:00"
+                                                                                         },
+                    "marketing/biz-aipa-aipa-prospect-logistics-20260524-0141-6b11.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "biz-aipa-aipa-prospect-logistics-20260524-0141-6b11-90pt-20260525-1908-d805.md",
+                                                                                             "at":  "2026-05-25T19:08:40.6530626+09:00"
+                                                                                         },
+                    "marketing/biz-aipa-aipa-prospect-logistics-20260519-1726-f0b4.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "biz-aipa-aipa-prospect-logistics-20260519-1726-f0b4-90pt-20260525-1938-9c05.md",
+                                                                                             "at":  "2026-05-25T19:38:40.5107121+09:00"
+                                                                                         },
+                    "marketing/biz-aipax-lp-beta-20260519-1811-ee9f.md":  {
+                                                                              "score":  0,
+                                                                              "final":  "biz-aipax-lp-beta-20260519-1811-ee9f-90pt-20260525-1808-be03.md",
+                                                                              "at":  "2026-05-25T18:08:40.7460133+09:00"
+                                                                          },
+                    "research/idle-biz-saas-trends-20260518-1925-4965.md":  {
+                                                                                "score":  28,
+                                                                                "final":  "idle-biz-saas-trends-20260518-1925-4965-90pt-20260525-1308-36cd.md",
+                                                                                "at":  "2026-05-25T13:08:40.5392060+09:00"
+                                                                            },
+                    "newbiz/school-school-m1-w2-vibe-coding-20260520-0517-db85.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-m1-w2-vibe-coding-20260520-0517-db85-90pt-20260525-1438-201c.md",
+                                                                                         "at":  "2026-05-25T14:38:40.6062195+09:00"
+                                                                                     },
+                    "marketing/biz-aipa-aipa-seo-saiyo-ai-20260524-1756-f03b.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-aipa-aipa-seo-saiyo-ai-20260524-1756-f03b-90pt-20260525-1908-a055.md",
+                                                                                       "at":  "2026-05-25T19:08:40.4711377+09:00"
+                                                                                   },
+                    "marketing/biz-aipa-aipa-meeting-flow-90min-20260524-1626-e70b.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "biz-aipa-aipa-meeting-flow-90min-20260524-1626-e70b-90pt-20260525-2008-8301.md",
+                                                                                             "at":  "2026-05-25T20:08:40.4149252+09:00"
+                                                                                         },
+                    "marketing/biz-aipa-aipa-prospect-mfg-30-20260519-1956-dae5.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-prospect-mfg-30-20260519-1956-dae5-90pt-20260525-1908-11b2.md",
+                                                                                          "at":  "2026-05-25T19:08:40.7183894+09:00"
+                                                                                      },
+                    "newbiz/money-money-contest-list-20260519-0455-1957.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "money-money-contest-list-20260519-0455-1957-90pt-20260525-1308-d84f.md",
+                                                                                  "at":  "2026-05-25T13:08:40.7416296+09:00"
+                                                                              },
+                    "marketing/biz-aipa-aipa-note-deep-essay-20260524-2126-faf4.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-note-deep-essay-20260524-2126-faf4-90pt-20260525-2008-dcf5.md",
+                                                                                          "at":  "2026-05-25T20:08:40.4741671+09:00"
+                                                                                      },
+                    "marketing/biz-aipa-aipa-seo-saiyo-cost-20260520-0456-3020.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-aipa-aipa-seo-saiyo-cost-20260520-0456-3020-90pt-20260525-1838-b67e.md",
+                                                                                         "at":  "2026-05-25T18:38:40.6438830+09:00"
+                                                                                     },
+                    "newbiz/school-school-student-x-content-20260524-2047-309e.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-student-x-content-20260524-2047-309e-90pt-20260525-1227-7920.md",
+                                                                                         "at":  "2026-05-25T12:27:19.6847744+09:00"
+                                                                                     },
+                    "newbiz/idle-existing-strategy-testall-20260519-0440-9302.md":  {
+                                                                                        "score":  0,
+                                                                                        "final":  "idle-existing-strategy-testall-20260519-0440-9302-90pt-20260525-1308-d40c.md",
+                                                                                        "at":  "2026-05-25T13:08:40.7708020+09:00"
+                                                                                    },
+                    "newbiz/school-school-m2-consensus-20260524-0217-c00b.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "school-school-m2-consensus-20260524-0217-c00b-90pt-20260525-1308-0c3c.md",
+                                                                                    "at":  "2026-05-25T13:08:40.8082240+09:00"
+                                                                                },
+                    "newbiz/money-money-aipax-prospects-20260519-0455-25f6.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "money-money-aipax-prospects-20260519-0455-25f6-90pt-20260525-1338-b67e.md",
+                                                                                     "at":  "2026-05-25T13:38:40.3650363+09:00"
+                                                                                 },
+                    "dev/biz-cross-stripe-setup-20260519-1801-aa0d.md":  {
+                                                                             "score":  0,
+                                                                             "final":  "biz-cross-stripe-setup-20260519-1801-aa0d-90pt-20260525-1708-0de4.md",
+                                                                             "at":  "2026-05-25T17:08:40.5943491+09:00"
+                                                                         },
+                    "marketing/biz-school-parent-lp-20260524-1701-ee8e.md":  {
+                                                                                 "score":  0,
+                                                                                 "final":  "biz-school-parent-lp-20260524-1701-ee8e-90pt-20260525-1738-8796.md",
+                                                                                 "at":  "2026-05-25T17:38:40.7247206+09:00"
+                                                                             },
+                    "research/biz-testall-user-personas-5-20260520-0431-b664.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-testall-user-personas-5-20260520-0431-b664-90pt-20260525-1238-b7a8.md",
+                                                                                       "at":  "2026-05-25T12:38:40.5853993+09:00"
+                                                                                   },
+                    "newbiz/school-school-m1-w1-mindset-20260520-0717-9e17.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "school-school-m1-w1-mindset-20260520-0717-9e17-90pt-20260525-1338-ade5.md",
+                                                                                     "at":  "2026-05-25T13:38:40.3951816+09:00"
+                                                                                 },
+                    "newbiz/biz-testall-content-strategy-20260524-1711-0c98.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-testall-content-strategy-20260524-1711-0c98-90pt-20260525-1338-de71.md",
+                                                                                      "at":  "2026-05-25T13:38:40.5459786+09:00"
+                                                                                  },
+                    "marketing/biz-eemus-content-stories-20260520-0711-d292.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-eemus-content-stories-20260520-0711-d292-90pt-20260525-1808-55e2.md",
+                                                                                      "at":  "2026-05-25T18:08:40.4906908+09:00"
+                                                                                  },
+                    "newbiz/biz-cross-portfolio-prioritize-20260524-2131-9724.md":  {
+                                                                                        "score":  0,
+                                                                                        "final":  "biz-cross-portfolio-prioritize-20260524-2131-9724-90pt-20260525-1438-c309.md",
+                                                                                        "at":  "2026-05-25T14:38:40.6807381+09:00"
+                                                                                    },
+                    "marketing/sleep-aipax-qa10-20260520-0403-0cee.md":  {
+                                                                             "score":  0,
+                                                                             "final":  "sleep-aipax-qa10-20260520-0403-0cee-90pt-20260525-1538-add1.md",
+                                                                             "at":  "2026-05-25T15:38:40.6409862+09:00"
+                                                                         },
+                    "marketing/sales-sales-prospect-aipa-construction-20260519-0551-9652.md":  {
+                                                                                                   "score":  0,
+                                                                                                   "final":  "sales-sales-prospect-aipa-construction-20260519-0551-9652-90pt-20260525-0208-744a.md",
+                                                                                                   "at":  "2026-05-25T02:08:40.1646489+09:00"
+                                                                                               },
+                    "newbiz/school-school-m1-w1-mindset-20260519-1747-437a.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "school-school-m1-w1-mindset-20260519-1747-437a-90pt-20260525-1308-9454.md",
+                                                                                     "at":  "2026-05-25T13:08:40.6775910+09:00"
+                                                                                 },
+                    "research/biz-testall-user-personas-5-20260524-2221-8a4d.md":  {
+                                                                                       "score":  0,
+                                                                                       "final":  "biz-testall-user-personas-5-20260524-2221-8a4d-90pt-20260525-1238-316b.md",
+                                                                                       "at":  "2026-05-25T12:38:40.6148839+09:00"
+                                                                                   },
+                    "research/biz-testall-competitor-studyplus-20260524-0201-23ad.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "biz-testall-competitor-studyplus-20260524-0201-23ad-90pt-20260525-1938-e39b.md",
+                                                                                            "at":  "2026-05-25T19:38:40.8331604+09:00"
+                                                                                        },
+                    "corp/biz-aipax-pl-monthly-20260520-0401-e6bb.md":  {
+                                                                            "score":  0,
+                                                                            "final":  "biz-aipax-pl-monthly-20260520-0401-e6bb-90pt-20260525-1808-a434.md",
+                                                                            "at":  "2026-05-25T18:08:40.6063737+09:00"
+                                                                        },
+                    "marketing/biz-eemus-lp-mvp-20260524-2101-87e6.md":  {
+                                                                             "score":  0,
+                                                                             "final":  "biz-eemus-lp-mvp-20260524-2101-87e6-90pt-20260525-1808-ad4b.md",
+                                                                             "at":  "2026-05-25T18:08:40.6803270+09:00"
+                                                                         },
+                    "newbiz/biz-aipa-aipa-proposal-15man-full-20260519-2026-7b00.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "biz-aipa-aipa-proposal-15man-full-20260519-2026-7b00-90pt-20260525-1508-eedd.md",
+                                                                                           "at":  "2026-05-25T15:08:40.6624766+09:00"
+                                                                                       },
+                    "marketing/sales-sales-prospect-aipa-mfg-20260519-1801-414b.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "sales-sales-prospect-aipa-mfg-20260519-1801-414b-90pt-20260525-0108-1a2e.md",
+                                                                                          "at":  "2026-05-25T01:08:40.0079222+09:00"
+                                                                                      },
+                    "newbiz/school-school-student-success-stories-20260519-1817-2ede.md":  {
+                                                                                               "score":  0,
+                                                                                               "final":  "school-school-student-success-stories-20260519-1817-2ede-90pt-20260525-1608-c46f.md",
+                                                                                               "at":  "2026-05-25T16:08:40.3652846+09:00"
+                                                                                           },
+                    "newbiz/school-school-m3-w1-tankyu-20260519-2017-4b59.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "school-school-m3-w1-tankyu-20260519-2017-4b59-90pt-20260525-1608-7736.md",
+                                                                                    "at":  "2026-05-25T16:08:40.3864200+09:00"
+                                                                                },
+                    "newbiz/school-school-m5-monetize-20260524-1902-347c.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "school-school-m5-monetize-20260524-1902-347c-90pt-20260525-1227-8b04.md",
+                                                                                   "at":  "2026-05-25T12:27:19.7301538+09:00"
+                                                                               },
+                    "marketing/biz-eemus-content-stories-20260519-1741-658d.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-eemus-content-stories-20260519-1741-658d-90pt-20260525-1808-0a9b.md",
+                                                                                      "at":  "2026-05-25T18:08:40.5319945+09:00"
+                                                                                  },
+                    "corp/biz-aipa-aipa-kpi-dashboard-20260519-0611-3757.md":  {
+                                                                                   "score":  0,
+                                                                                   "final":  "biz-aipa-aipa-kpi-dashboard-20260519-0611-3757-90pt-20260525-1738-b7c3.md",
+                                                                                   "at":  "2026-05-25T17:38:40.7596013+09:00"
+                                                                               },
+                    "newbiz/school-school-student-x-content-20260520-0632-bf21.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-student-x-content-20260520-0632-bf21-90pt-20260525-1638-4ba2.md",
+                                                                                         "at":  "2026-05-25T16:38:40.6310160+09:00"
+                                                                                     },
+                    "newbiz/money-money-school-parent-lp-20260519-0455-a289.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "money-money-school-parent-lp-20260519-0455-a289-90pt-20260525-1308-069e.md",
+                                                                                      "at":  "2026-05-25T13:08:40.6039152+09:00"
+                                                                                  },
+                    "marketing/biz-testall-teacher-outreach-20260520-0511-c2a1.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-testall-teacher-outreach-20260520-0511-c2a1-90pt-20260525-1708-a72e.md",
+                                                                                         "at":  "2026-05-25T17:08:40.4097371+09:00"
+                                                                                     },
+                    "marketing/sales-sales-objection-handling-20260519-1741-80cb.md":  {
+                                                                                           "score":  0,
+                                                                                           "final":  "sales-sales-objection-handling-20260519-1741-80cb-90pt-20260525-1608-d0f7.md",
+                                                                                           "at":  "2026-05-25T16:08:40.2397010+09:00"
+                                                                                       },
+                    "marketing/biz-testall-x-content-30-20260520-0611-4f4a.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-testall-x-content-30-20260520-0611-4f4a-90pt-20260525-1708-3a90.md",
+                                                                                     "at":  "2026-05-25T17:08:40.5561964+09:00"
+                                                                                 },
+                    "newbiz/school-school-m4-app-spec-templates-20260524-2147-64a4.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "school-school-m4-app-spec-templates-20260524-2147-64a4-90pt-20260525-1227-d5d5.md",
+                                                                                             "at":  "2026-05-25T12:27:19.7741098+09:00"
+                                                                                         },
+                    "research/biz-testall-competitor-studyplus-20260519-2031-5696.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "biz-testall-competitor-studyplus-20260519-2031-5696-90pt-20260525-1938-5c5e.md",
+                                                                                            "at":  "2026-05-25T19:38:40.5935162+09:00"
+                                                                                        },
+                    "newbiz/biz-eemus-dream-award-story-20260519-0721-9bf0.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-dream-award-story-20260519-0721-9bf0-90pt-20260525-1438-19ac.md",
+                                                                                     "at":  "2026-05-25T14:38:40.7146061+09:00"
+                                                                                 },
+                    "marketing/biz-aipa-aipa-prospect-mfg-30-20260524-2156-a306.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "biz-aipa-aipa-prospect-mfg-30-20260524-2156-a306-90pt-20260525-1908-17d9.md",
+                                                                                          "at":  "2026-05-25T19:08:40.6886559+09:00"
+                                                                                      },
+                    "newbiz/biz-cross-investor-pitch-20260520-0411-3eec.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-cross-investor-pitch-20260520-0411-3eec-90pt-20260525-1508-3c94.md",
+                                                                                  "at":  "2026-05-25T15:08:40.5214660+09:00"
+                                                                              },
+                    "marketing/biz-aipa-aipa-meeting-flow-90min-20260520-0556-b0cc.md":  {
+                                                                                             "score":  0,
+                                                                                             "final":  "biz-aipa-aipa-meeting-flow-90min-20260520-0556-b0cc-90pt-20260525-0008-b8b1.md",
+                                                                                             "at":  "2026-05-25T00:08:40.4141360+09:00"
+                                                                                         },
+                    "newbiz/school-school-m3-w1-tankyu-20260519-0632-2b2a.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "school-school-m3-w1-tankyu-20260519-0632-2b2a-90pt-20260525-1638-c6f9.md",
+                                                                                    "at":  "2026-05-25T16:38:40.7722862+09:00"
+                                                                                },
+                    "newbiz/biz-school-trial-2h-program-20260524-2201-c6c6.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-school-trial-2h-program-20260524-2201-c6c6-90pt-20260525-1338-d17e.md",
+                                                                                     "at":  "2026-05-25T13:38:40.5183016+09:00"
+                                                                                 },
+                    "newbiz/biz-eemus-target-schools-20-20260519-1701-0120.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-target-schools-20-20260519-1701-0120-90pt-20260525-0038-2370.md",
+                                                                                     "at":  "2026-05-25T00:38:40.2294068+09:00"
+                                                                                 },
+                    "research/idle-existing-customer-testall-20260519-0415-476b.md":  {
+                                                                                          "score":  0,
+                                                                                          "final":  "idle-existing-customer-testall-20260519-0415-476b-90pt-20260525-1938-bb37.md",
+                                                                                          "at":  "2026-05-25T19:38:40.7612331+09:00"
+                                                                                      },
+                    "newbiz/school-school-m4-w1-service-design-20260520-0402-d081.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "school-school-m4-w1-service-design-20260520-0402-d081-90pt-20260525-1438-2202.md",
+                                                                                            "at":  "2026-05-25T14:38:40.8614752+09:00"
+                                                                                        },
+                    "research/biz-aipa-aipa-market-trend-20260520-0626-ac98.md":  {
+                                                                                      "score":  0,
+                                                                                      "final":  "biz-aipa-aipa-market-trend-20260520-0626-ac98-90pt-20260525-1908-35d2.md",
+                                                                                      "at":  "2026-05-25T19:08:40.5747269+09:00"
+                                                                                  },
+                    "newbiz/biz-eemus-dream-award-story-20260519-2011-135f.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-dream-award-story-20260519-2011-135f-90pt-20260525-1438-d60a.md",
+                                                                                     "at":  "2026-05-25T14:38:40.5291519+09:00"
+                                                                                 },
+                    "newbiz/school-school-m3-w1-tankyu-20260524-1932-68d4.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "school-school-m3-w1-tankyu-20260524-1932-68d4-90pt-20260525-1438-bedd.md",
+                                                                                    "at":  "2026-05-25T14:38:40.8251139+09:00"
+                                                                                },
+                    "newbiz/money-money-app-niche-hunt-20260519-0455-a4e6.md":  {
+                                                                                    "score":  0,
+                                                                                    "final":  "money-money-app-niche-hunt-20260519-0455-a4e6-90pt-20260525-1338-bbc0.md",
+                                                                                    "at":  "2026-05-25T13:38:40.3342823+09:00"
+                                                                                },
+                    "newbiz/biz-school-curriculum-v2-20260519-0651-5004.md":  {
+                                                                                  "score":  0,
+                                                                                  "final":  "biz-school-curriculum-v2-20260519-0651-5004-90pt-20260525-1238-b62b.md",
+                                                                                  "at":  "2026-05-25T12:38:40.5580946+09:00"
+                                                                              },
+                    "newbiz/school-school-student-x-content-20260519-1802-3896.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "school-school-student-x-content-20260519-1802-3896-90pt-20260525-0108-f241.md",
+                                                                                         "at":  "2026-05-25T01:08:40.0585523+09:00"
+                                                                                     },
+                    "newbiz/biz-eemus-target-schools-20-20260524-2121-640e.md":  {
+                                                                                     "score":  0,
+                                                                                     "final":  "biz-eemus-target-schools-20-20260524-2121-640e-90pt-20260525-1408-c1d1.md",
+                                                                                     "at":  "2026-05-25T14:08:40.3460088+09:00"
+                                                                                 },
+                    "research/biz-testall-competitor-studyplus-20260524-1951-6f97.md":  {
+                                                                                            "score":  0,
+                                                                                            "final":  "biz-testall-competitor-studyplus-20260524-1951-6f97-90pt-20260525-2008-ec71.md",
+                                                                                            "at":  "2026-05-25T20:08:40.5294444+09:00"
+                                                                                        },
+                    "marketing/biz-aipa-aipa-followup-rules-20260520-0526-cac7.md":  {
+                                                                                         "score":  0,
+                                                                                         "final":  "biz-aipa-aipa-followup-rules-20260520-0526-cac7-90pt-20260525-2038-f653.md",
+                                                                                         "at":  "2026-05-25T20:38:40.4989973+09:00"
+                                                                                     }
+                }
+}

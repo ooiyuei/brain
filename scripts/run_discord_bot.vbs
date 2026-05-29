@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node C:\Users\Owner\business\brain\scripts\discord_bot.js", 0, False

@@ -1,0 +1,156 @@
+{
+    "history":  [
+                    {
+                        "slug":  "aipa-kpi-dashboard",
+                        "time":  "2026-05-28T07:26:05.6331642+09:00"
+                    },
+                    {
+                        "slug":  "aipa-x-thread-weekly",
+                        "time":  "2026-05-28T07:41:02.8256187+09:00"
+                    },
+                    {
+                        "slug":  "aipa-seo-saiyo-ai",
+                        "time":  "2026-05-28T07:56:02.0982721+09:00"
+                    },
+                    {
+                        "slug":  "aipa-seo-saiyo-cost",
+                        "time":  "2026-05-28T08:11:01.8698446+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-service",
+                        "time":  "2026-05-28T08:26:04.6814166+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-shizuoka-priority",
+                        "time":  "2026-05-28T08:41:01.9448259+09:00"
+                    },
+                    {
+                        "slug":  "aipa-pl-monthly",
+                        "time":  "2026-05-28T08:56:01.9777850+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-logistics",
+                        "time":  "2026-05-28T09:11:02.0726176+09:00"
+                    },
+                    {
+                        "slug":  "aipa-phone-script-30s",
+                        "time":  "2026-05-28T09:26:02.0607181+09:00"
+                    },
+                    {
+                        "slug":  "aipa-lp-monitor-3sha",
+                        "time":  "2026-05-28T09:41:02.0156908+09:00"
+                    },
+                    {
+                        "slug":  "aipa-meeting-flow-90min",
+                        "time":  "2026-05-28T09:56:02.0465632+09:00"
+                    },
+                    {
+                        "slug":  "aipa-note-deep-essay",
+                        "time":  "2026-05-28T10:11:02.0698674+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-mfg-30",
+                        "time":  "2026-05-28T10:26:01.8559381+09:00"
+                    },
+                    {
+                        "slug":  "aipa-faq-30q",
+                        "time":  "2026-05-28T10:41:02.1481487+09:00"
+                    },
+                    {
+                        "slug":  "aipa-competitor-deep",
+                        "time":  "2026-05-28T10:56:01.8551425+09:00"
+                    },
+                    {
+                        "slug":  "aipa-followup-rules",
+                        "time":  "2026-05-28T11:11:02.4430255+09:00"
+                    },
+                    {
+                        "slug":  "aipa-contract-template",
+                        "time":  "2026-05-28T11:26:02.0729144+09:00"
+                    },
+                    {
+                        "slug":  "aipa-objection-20",
+                        "time":  "2026-05-28T11:41:02.1873102+09:00"
+                    },
+                    {
+                        "slug":  "aipa-onboarding-30days",
+                        "time":  "2026-05-28T11:56:02.1136595+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-construction-30",
+                        "time":  "2026-05-28T12:11:02.1446718+09:00"
+                    },
+                    {
+                        "slug":  "aipa-market-trend",
+                        "time":  "2026-05-28T12:26:02.1391306+09:00"
+                    },
+                    {
+                        "slug":  "aipa-cold-email-sequence-7",
+                        "time":  "2026-05-28T12:41:02.0997865+09:00"
+                    },
+                    {
+                        "slug":  "aipa-proposal-15man-full",
+                        "time":  "2026-05-28T12:56:01.9127386+09:00"
+                    },
+                    {
+                        "slug":  "aipa-competitor-deep",
+                        "time":  "2026-05-28T13:11:01.9906020+09:00"
+                    },
+                    {
+                        "slug":  "aipa-onboarding-30days",
+                        "time":  "2026-05-28T13:26:02.1155605+09:00"
+                    },
+                    {
+                        "slug":  "aipa-phone-script-30s",
+                        "time":  "2026-05-28T13:41:02.7083426+09:00"
+                    },
+                    {
+                        "slug":  "aipa-followup-rules",
+                        "time":  "2026-05-28T13:56:02.1254838+09:00"
+                    },
+                    {
+                        "slug":  "aipa-competitor-deep",
+                        "time":  "2026-05-28T14:11:02.2413082+09:00"
+                    },
+                    {
+                        "slug":  "aipa-kpi-dashboard",
+                        "time":  "2026-05-28T14:26:02.1791352+09:00"
+                    },
+                    {
+                        "slug":  "aipa-note-deep-essay",
+                        "time":  "2026-05-28T14:41:02.4467290+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-shizuoka-priority",
+                        "time":  "2026-05-28T14:56:02.1591941+09:00"
+                    },
+                    {
+                        "slug":  "aipa-lp-monitor-3sha",
+                        "time":  "2026-05-28T15:11:02.2628249+09:00"
+                    },
+                    {
+                        "slug":  "aipa-objection-20",
+                        "time":  "2026-05-28T15:26:02.1194473+09:00"
+                    },
+                    {
+                        "slug":  "aipa-phone-script-30s",
+                        "time":  "2026-05-28T15:41:02.1872227+09:00"
+                    },
+                    {
+                        "slug":  "aipa-x-thread-weekly",
+                        "time":  "2026-05-28T15:56:02.3452765+09:00"
+                    },
+                    {
+                        "slug":  "aipa-seo-saiyo-ai",
+                        "time":  "2026-05-28T16:11:02.2664901+09:00"
+                    },
+                    {
+                        "slug":  "aipa-seo-saiyo-cost",
+                        "time":  "2026-05-28T16:26:02.2454059+09:00"
+                    },
+                    {
+                        "slug":  "aipa-prospect-service",
+                        "time":  "2026-05-28T16:41:02.3604664+09:00"
+                    }
+                ]
+}

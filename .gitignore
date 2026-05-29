@@ -9,8 +9,25 @@ _attachments/
 # ログ
 scripts/*.log
 scripts/daily_brain.log
+scripts/harvest.log
+scripts/health.log
+
+# 秘密情報（Webhook URL、APIキー等）
+scripts/config.json
+.env
+*.secret
+*.key
 
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# OpenClaw runtime queue (Windows-only, do NOT sync to Mac/GitHub)
+queue/
+node_modules/
+
+# Per-machine Obsidian UI state (conflicts across Mac/Windows)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json

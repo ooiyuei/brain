@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac032fe4b3fd54eb",
+        "id": "46b5d4f1394963ab",
         "type": "tabs",
         "children": [
           {
-            "id": "af9d735f8df2b3b1",
+            "id": "17ede7130f17c0c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "01_ceo/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -173,21 +177,60 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "af9d735f8df2b3b1",
+  "active": "78df4faa47be77b6",
   "lastOpenFiles": [
-    "wiki/entities/gymee.md",
-    "skills/wiki-lint/SKILL.md",
-    "30_resources/占いデータ.md",
-    "30_resources/AIコンサル-ヒアリング.md",
-    "無題のファイル 1.base",
-    "無題のファイル.canvas",
-    "無題のファイル.base",
-    "無題のファイル 1.canvas",
-    "無題のファイル 2.base",
+    "queue/done/1-20260529-032102-036-33ea79e2.json",
+    "wiki/_inbox/marketing/biz-testall-teacher-outreach-20260529-0321-299a.md",
+    "queue/results/33ea79e2.md",
+    "queue/inbox/1-20260529-080104-519-7375953f.json",
+    "wiki/daily/2026-05-29.md",
+    "_system/monitor/screens/2026-05-29/0800.jpg",
+    "07_research/ai-news/2026-05-29.md",
+    "wiki/_routines/health-2026-05-29.md",
+    "queue/done/1-20260529-031502-189-47e04eec.json",
+    "wiki/_inbox/newbiz/shincoder-s1-繝槭う繧ｯ繝ｭ繝輔λ繧ｹ繝医ξ繝ｼ繧ｷ繝ｧ繝ｳ-10蛟句庶髮--2026-05--20260529-0315-6c9f.md",
+    "queue/results/47e04eec.md",
+    "queue/inbox/1-20260529-075102-201-3541f6f1.json",
+    "queue/inbox/1-20260529-074502-088-ca1bb97c.json",
+    "queue/processing/1-20260529-032102-036-33ea79e2.json",
+    "queue/processing/1-20260529-031502-189-47e04eec.json",
+    "queue/done/1-20260529-031502-110-ee4829e2.json",
+    "wiki/_inbox/corp/shincoder-s9-繝輔ぃ繝阪ν蛻-梵繧ｷ繝ｼ繝--2026-05-29-騾ｱ蛻--20260529-0315-5195.md",
+    "queue/results/ee4829e2.md",
+    "queue/inbox/1-20260529-074102-182-50e2d8f5.json",
+    "queue/processing/1-20260529-031502-110-ee4829e2.json",
+    "queue/done/1-20260529-030102-137-e57f7aeb.json",
+    "wiki/_inbox/corp/biz-school-tos-20260529-0301-3d42.md",
+    "queue/results/e57f7aeb.md",
+    "wiki/_inbox/marketing/biz-eemus-lp-mvp-20260529-0311-65e6.md",
+    "queue/results/4e31f56d.md",
+    "_system/monitor/screens/2026-05-29/0730.jpg",
+    "wiki/_inbox/research/biz-testall-competitor-studyplus-20260529-0251-443f.md",
+    "queue/results/e82f8b7e.md",
+    "wiki/_inbox/marketing/biz-testall-x-content-30-20260529-0241-644c.md",
+    "queue/results/e13f8e4d.md",
+    "wiki/_inbox/marketing/biz-aipax-seo-chusho-ai-20260529-0231-2ae8.md",
+    "queue/results/a1bb7bde.md",
+    "_system/monitor/screens/2026-05-29/0700.jpg",
+    "wiki/_inbox/newbiz/biz-eemus-dream-award-story-20260529-0221-5f16.md",
+    "queue/results/3bf5de97.md",
+    "wiki/_inbox/corp/shincoder-s9-繝輔ぃ繝阪ν蛻-梵繧ｷ繝ｼ繝--2026-05-29-騾ｱ蛻--20260529-0215-646f.md",
+    "queue/results/fbfdb2a1.md",
+    "wiki/_inbox/newbiz/shincoder-s1-繝槭う繧ｯ繝ｭ繝輔λ繧ｹ繝医ξ繝ｼ繧ｷ繝ｧ繝ｳ-10蛟句庶髮--2026-05--20260529-0215-3735.md",
+    "queue/results/3df0796d.md",
+    "_system/monitor/screens/2026-05-29/0630.jpg",
+    "_system/monitor/screens/2026-05-29/0600.jpg",
+    "_system/monitor/screens/2026-05-29/0530.jpg",
+    "_system/monitor/screens/2026-05-29/0500.jpg",
+    "_system/monitor/screens/2026-05-29/0430.jpg",
+    "_system/monitor/screens/2026-05-29/0400.jpg",
+    "_system/monitor/screens/2026-05-29/0330.jpg",
     "無題のファイル 2.canvas",
-    "wiki/concepts/aipa-web-form-design.md"
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas"
   ]
 }

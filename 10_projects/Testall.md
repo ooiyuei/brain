@@ -3,19 +3,42 @@
 > **一言**: テスト結果を、次の45分でやるべき勉強に変える。受験戦略OS。
 > 「勉強は才能よりマネジメント」
 
-## 現状
-- フェーズ: 開発中（v1.5 事業計画）
-- スタック: Next.js + Supabase + Claude AI
-- アプリ: `~/business/アプリ/testall/`
-- localhost:3010 で稼働中
-- ドキュメント: Testall.pdf（v1.5事業計画書）
+## 現状 (2026-05-27 更新)
+- フェーズ: **v0.6+ 本番運用可能レベル** (HANDOFF_AUTH.md / dev-plan.md より)
+- スタック: Next.js 16.2.6 + React 19.2.4 + Supabase (ssr) + Anthropic SDK 0.95 + Sentry + Tailwind v4
+- アプリ実体: `C:\Users\Owner\business\apps\testall\` (日本語パス `アプリ/testall` は空フォルダ・名残)
+- リポ: github.com/ooiyuei/testall (public, main, 直 main 運用、PR/Issue 0件)
+- Vercel deploy: prj_rVwl6zmRFWhsJOURnEW8HMuzlzu6 / team_3HJIyzwuV3Jou9KUAwoi5W2B 自動デプロイ稼働中
+- 本番 URL: testall-git-main-ooiyuei-4097s-projects.vercel.app (branch alias)
+- localhost:3010 dev
+- **別 Claude Code セッション (`session_01LHsTLTpRMK5mUXkbGF9yx4`) で現在 a11y 改善コミット連投中** — 干渉禁止
 
-## 次のアクション（開発優先順位）
-1. [ ] テスト追加フォーム実体化（/app/test/new）
-2. [ ] 集中モード本体（/app/focus/run）
-3. [ ] AI診断結果ページ（/app/test/[id]）
-4. [ ] データ永続化（Supabase接続）
-5. [ ] Stripe課金
+## 完了済み (v0.5-0.6)
+- ✅ Supabase Auth (Google OAuth, magic link, ゲストモード)
+- ✅ 全データ Supabase 同期 (profile/tests/blockLogs/tasks/events/dailyMoodLogs/planning/weeklyGoals/fixedSlots)
+- ✅ RLS (user_id = auth.uid())
+- ✅ Claude Vision で画像入力 (`/api/diagnose-from-image` 4MB制限・mediaType検証)
+- ✅ dnd-kit で計画ドラッグ&ドロップ
+- ✅ TodaySuggestion (AI提案)
+- ✅ AIチャット Sara (Anthropic SDK + 音声入力)
+- ✅ PWA + GuideTour + Service Worker + InstallPrompt
+- ✅ 参考書DB 2,888冊 (NDL+openBD + community_textbooks UGC + ISBNバーコード読取)
+- ✅ ダークモード + Cmd+K 検索パレット + Onboarding + StreakHeatmap + LoginBonus
+- ✅ Sentry 統合 (DSN設定待ち)
+- ✅ 共通テスト予想・偏差値自動補正・週次振り返り・固定スロット
+
+## 残課題 (優先順)
+1. **Sentry DSN セット** (`.env.local` + Vercel 環境変数)
+2. **Stripe 課金** (無料:テスト1件 / 有料:無制限+画像入力)
+3. **Phase B AI深掘り 200冊** (`scripts/enrich-textbooks.ts` + ANTHROPIC_API_KEY、5-10分で完了)
+4. Apple OAuth (Apple Developer $99/年 + Service ID 設定)
+5. 通知 (Web Push)
+6. E2E テスト (Playwright)
+7. (v0.7+) 主要200冊の目次手書きレビュー、AI チャット会話履歴 RAG 化
+
+## β5名リリース (シンコーダー 11ステップ Step 5 適用)
+- 期限: **2026-06 中** (大井の方針)
+- 必要機能: Supabase Auth ✅ + 画像入力 ✅ + Stripe ❌ ← Stripe 完成すれば β リリース可能
 
 ---
 
@@ -108,3 +131,10 @@ src/app/
 - mainブランチは動くものだけ
 
 ## メモ
+
+
+---
+
+## 活動ログ
+
+<!-- セッション終了プロトコル: ここに `### YYYY-MM-DD HH:MM` 形式で Claude が自動追記する -->

@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "powershell.exe -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\Users\Owner\business\brain\scripts\bg_entities_refresh.ps1", 0, False

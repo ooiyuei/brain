@@ -1,0 +1,5 @@
+[08:36:30] === OCR batch start ===
+[08:36:30] img dir: C:\Users\Owner\Pictures\auto-screenshots-20260526-075018
+[08:36:30] out dir: C:\Users\Owner\business\brain\.local\morioka-ocr
+[08:36:30] found 500 PNG files
+[08:36:30] loading easyocr (Japanese+English)... (first run downloads models ~100MB)

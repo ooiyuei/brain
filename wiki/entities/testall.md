@@ -9,6 +9,13 @@ related: [[ooi-yuei]], [[goals]]
 dir: ~/business/アプリ/testall/
 port: localhost:3010
 ---
+## 🎯 30秒サマリー (Entity Latent)
+- **何**: 受験生向けAI学習マネージャー (旧称: 受験OS から進化)
+- **誰に**: 高校1-3年の独学受験生 (塾なし層70万人)
+- **価格**: 月980-2,980円
+- **状態**: MVP実装済・教育者連携準備中
+- **キー**: 大井自身が受験世代 = Founder-Market Fit最強
+
 
 # Testall
 
@@ -114,3 +121,15 @@ src/app/
 - Supabase接続前はsessionStorageで仮実装OK
 - 1機能動いたらコミット（ビルドが通る状態で）
 - mainブランチは動くものだけ
+
+## 活動ログ
+
+### 2026-05-27 08:00 Phase 2 brain 同期更新 (大幅進捗反映)
+- brain/10_projects/Testall.md と entities/testall.md の進捗が「未着手だらけ」だったが、git/Vercel 確認で **実際は v0.6+ までほぼ完了** と判明
+- 完了確認: Supabase Auth ✅ / 全データ同期 ✅ / Claude Vision 画像入力 ✅ / 2888冊参考書DB ✅ / PWA/Sentry/ダークモード/Cmd+K ✅
+- 残: Stripe 課金 (最優先) / Sentry DSN / 200冊 enrich / Apple OAuth
+- **別 Claude Code セッション (session_01LHsTLTpRMK5mUXkbGF9yx4) が現在 a11y 改善コミット連投中** — 干渉禁止
+- 直近20件以上の Vercel デプロイが連続 (5/27 直近のは BUILDING / READY が交互)
+- 11ステップ的位置: Step 5-9 (開発+SNS運用並行+MVPローンチ後+アップデート) を回している
+- 次やるべき: **Stripe 課金実装** → β5名リリース (6月中)
+- 関連: [[03_dev/projects/Testall]] (将来作る予定) / [[02_newbiz/prospects/testall-beta]] (将来作る予定)

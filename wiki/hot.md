@@ -1,65 +1,141 @@
 ---
 type: hot-cache
-updated: 2026-05-14
+updated: 2026-05-27 22:10
+structure_version: 2
+managed_by: Claude (must update every session)
 ---
 
-# Hot Cache — 直近コンテキスト
+# 🔥 hot.md — 直近コンテキスト & 先回りヒント貯蔵庫
 
-**Last Updated**: 2026-05-14（第5セッション）
+> **このファイルは Claude が毎セッション読み・毎セッション更新する。**
+> 単なる「直近の事実」ではなく「Claude が次に動くために必要な全情報」を集約。
+> 詳細スナップショット (静的) → [[dashboards/business-snapshot]]
+> 大井プロファイル入口 → [[meta/ooi-profile-index]]
+> OpenClaw稼働状況 → [[dashboards/openclaw-activity]]
 
-## Key Recent Facts
+---
 
-- wiki総ページ数: 27（entities 17 + concepts 5 + meta 4 + daily 1）
-- **第5セッション追加**: AI開発フロー（ChatGPT×DR×Claude）/ AI開発哲学（新人マニュアル統合）/ 高校生ビジコン管理132件 / AIpa Web Deep Research知見追加 / 森岡v2.0スキル更新
-- **AIpa Web Deep Research**: 主戦場は制作会社より**無料採用ツール+AIビルダー**。標的=地方30〜300名建設・製造・運輸・サービス業。基準シナリオ月8件+25社=月315万売上/192万粗利
-- **AI開発フロー確立**: ChatGPT(設計)→Deep Research(調査)→Claude(実装)の3段構え。役割固定が肝
-- **コンテスト戦略**: 直近5件（夢AWARD/コムロ/GTE/StartupBase/KANSAI）を優先応募候補に
-- **組織化完了**: ORGANIZATION.md（35人・6部署）+ CEO自走ルーティング + 4新スキル（grill-me/obsidian-vault/triage/systematic-debugging）
-- **launchd日報**: 毎晩23時に今日のClaude会話を要約してwiki/daily/に自動投稿
-- **ピボット確定**: IPAK-fishing → **FishOps Agent**（水産AI基盤）
-- **AIpaX中核**: 「会社別AI保存庫コア + 業務ツール」モデル。初手は保存庫＋リアルタイム電話/営業回答支援
-- **AIpa Web完全仕様化**: 16セクションフォーム/3プラン/モニター15万円/月額運用「社外Web担当者」構造
-- 数字訂正：dinii実績 **800→1100は137.5%（37.5%増）**
-- 大井のSFC AO志望テーマ：「AIによる思考の外部化と人間の主体性」
-- HR高等学院インタビュー掲載確認 https://hr-highschool.com/interviews/yueioi
+## 🌅 Today（2026-05-27 朝の作戦）
 
-## Vault状態
+**絶対やる1個**: 夢AWARD 応募骨子を書く（残11日・今週末デッドライン）
+**一言**: 骨子の30分が残11日の全部を動かす。
 
-- 総ページ数: 27（entities 17 + concepts 5 + meta 4 + daily 1）
-- `.raw/2026-05-14-session-3/`: 5素材（aipa-web/fishops/aof/ooi-profile/ai-consulting-core）
-- `.raw/2026-05-14-session-5/`: 5素材（ai-dev-procedure/ai-dev-manual/ai-dev-flow/business-contests.csv/aipa-web-deep-research）
-- Slack #all-hado が競合ウォッチの自動投稿チャンネル（scoutエージェント稼働中）
+## ☀️ Midday（12:30 昼チェック）
 
-## Active Threads
+**日付**: 2026-05-28
+**進捗**: 静岡財団TEL ❌未着手 / Workspace設定 ❌未確認 / SFC AO論点 ⏳着手済み（19時枠）
+**PDCA**: inbox 3件昇格・3件削除。[[research/testall-vs-studyplus-planning-2026-05-28]]・[[research/aipa-web-market-trend-2026-05-28]]・[[marketing/aipax-closing-qa-2026-05-28]] 昇格。
+**午後**: 静岡財団TEL（054-254-4511）を今日中に。Workspace設定はClaude担当可。inbox重複大量（300件超）→ 別タスクで整理。
+**詳細**: [[_routines/midday-20260528]]
 
-- **Testall**: JUDGE 75点/Tier A。競合：Studyplus Planning（最大脅威）・atama+（塾向けAI）
-- **Gymee**: Stripe本番keys未設定がブロッカー。**大井本人がテーマの狭さに懸念→ピボット検討中**
-- **IPAK-ダーツ**: 事業計画書完成。次：出店候補エリア3か所の物件調査。BEP37名
-- **EEMUS**: 静岡ローカル展開。次：高校1〜2校との連携話・企業選定
-- **AOF**: 仕様完全化。次：ホットスプリングス面談→既存機材でPoC打診
-- **AIpaX**: 仕様v1完成。初回事例価格50〜80万でβ顧客1社獲得が次の一手
-- **AIpa Web**: Deep Research知見追加。次：Googleフォーム実装→架空企業サンプル→Claude初稿→モニター3社獲得（15万円）。シナリオ：月8件で月315万
-- **FishOps Agent**: 次：管理釣り場ヒアリング・釣具屋ヒアリング・10人初心者体験イベント
-- **コンテスト応募**: 夢AWARD（6/7・準備中）が最短。優先5件決定
+## 🌙 Tomorrow（2026-05-29）
 
-## 大井の今月フォーカス
+**最優先**: **夢AWARD応募骨子を書く** — Calendar 14:00（6/7締切・残10日）。Claude叩き台仕込み済み→`02_newbiz/pitch-eemus/2026-05-29-yume-award-draft-v4.md`
+**サブ①**: 静岡産業振興財団 TEL（054-254-4511）— 最大200万・残12日。午前中に電話1本。大井のみ。
+**サブ②**: Claude × Workspace コネクタ設定 — Gmail/Calendar/Drive。Claude担当・朝ブリーフ自動化の起点。
+**詳細**: [[_routines/evening-20260528]]
 
-- Web制作（AIpa Web着手 — Deep Research完了済み）
-- AIコンサル（AIpaX保存庫コア仕様詰め）
-- AI業務導入支援
-- トーマツのAIアプリコンペ
-- 高校生ビジコン応募（夢AWARDから）
-- Wantedly面談（プレミアムスカウトあり）
-- SFC AO構想整理
-- Claude Maxを制作ブースターとして1ヶ月使い倒す
+---
 
-## 認知プロファイル（Claude対話用）
+## 📍 今ここ (Live State)
 
-大井の思考スタイル：話しながら考える・比喩モデルで掴む・OS化したがる・勝ち筋で脳汁・証明欲求が根底
+**Last session**: 2026-05-27 深夜 — 自走モード (コメダ事件後の整理・Almeo MVV・クローンv4・夜ルーティン)
+**Last touched files**:
+- `brain/wiki/_routines/evening-20260527.md` (夜メモ生成)
+- `brain/wiki/_tasks/done.md` (今日の完了15件 archive)
+- `brain/00_YUEI/TOMORROW.md` (明日の優先順位・Q1-Q6)
+- `brain/00_YUEI/REPORT.md` (日次サマリー全更新)
+- `brain/wiki/hot.md` (Tomorrow section 追加)
 
-Claude対話のルール：
-- 脳汁が出たら「税金として1アクション」を促す
-- 事業案が増えたら「今週の本命は？」に絞る
-- 「証拠は？」「誰が明日使う？」を問いかけ軸にする
-- 報連相テンプレを出す（気合いではなくフォーマット）
-- 結論→具体例→学びの順で整理する（口癖：えっと/まー/みたいな/っていう）
+**現在の Mode**: 夜ルーティン完了 → 就寝前
+**完了**: インフラ/Phase2/inbox9件/MCP/クローンv4/MVV/コメダ事件回復 — 全部今日
+**未完**: 夢AWARD骨子 (5/29 Calendar済み) / AIpaX 5社目実況共有 (大井待ち)
+
+---
+
+## 🚨 今日 (2026-05-27) 必ずやる
+
+> 期限が近い / 大井の手が必要 / 放置すると損失。
+
+| # | やること | 期限 | 担当 | 状態 |
+|---|---|---|---|---|
+| 1 | 夢AWARD骨子 (5日連続未着手) | 5/29 14時 (Calendar済) | 大井のみ | ❌ 持ち越し |
+| 2 | AIpaX 5社目クロージング状況確認 | 5/28 (昨夜20時 Calendar) | 大井 | ⏳ 5/28へ |
+| 3 | AIpa Web inbox 9件昇格判定 | ✅完了 | Claude | ✅ 完了 |
+| 4 | SFC AO論点メモ | 5/28 19時 (Calendar済) | 大井+Claude | ⏳ ドラフト完成済み |
+| 5 | queue/inbox 1521件滞留解消 | ✅完了 | Claude | ✅ 完了 (archive+AutoReview停止) |
+| 6 | 会社インフラ確立 | ✅完了 | 大井 | ✅ 完了 (ドメイン+G Suite+Slack+Notion) |
+
+---
+
+## 💡 Claude からの先回り提案 (3案)
+
+> 大井から指示が来てない時、Claude が「これやっとこ」と能動的に提案する候補。
+
+### A. AIpa Web inbox 5件昇格判定 (推奨)
+- 5/26 着弾済み: 商工会メール3パターン・静岡企業10社リスト・LP最適化3案・X広告コピー5案・月10万モニター契約書テンプレ
+- Claude が `wiki/_inbox/_reviews/marketing/` か `newbiz/` を読んで PROMOTE/KEEP/ARCHIVE 判定 → 該当ファイルを `wiki/{正式パス}/` へ移動
+- 効果: 5/26 の成果物が今日中に正式蓄積、AIpa Web の営業準備が一段進む
+- 工数: 15-30分
+
+### B. 大井プロファイル統合の品質チェック
+- [[meta/ooi-profile-index]] を作ったが、各 ooi-* ファイル間の矛盾チェックは未実施
+- ooi-deep-synthesis-2026-05-20 を最新マスターとして、矛盾点があれば旧文献に「過去の認識」タグ
+- 効果: 大井クローン応答の精度向上
+
+### C. シンコード/森岡素材のスキル化
+- 5/26 取り込んだ森岡続編・AIコーディング教科書・シンコードraw が `_inbox/` 5件
+- スキル化候補: 「明日使う1人」フレーム、「絶対に買う1人」フレーム、F1ストーリーテリング雛形等
+- 効果: 営業文・LP・X投稿で常時呼び出せるテンプレ完成
+
+---
+
+## 📥 新着インテリ (取り込み待ち)
+
+> `.raw/` `_inbox/` に届いてるが未消化のもの。
+
+- `wiki/_inbox/ingest/2026-05-27-0540-manifest.md` — `.raw/` 15件の取り込み manifest (新規生成)
+- `wiki/_inbox/aipa-web/` (5/26時点で5件) — 契約書テンプレ・X広告・LP案・企業リスト・商工会メール
+- ChatGPT 履歴系: notion-export-2026-05-19 (ファイル名 cp932 化け、対処要)
+
+---
+
+## 🎯 直近30日の太線 (shincoder-actions より)
+
+- 期限: **2026-06-21** までに月収100万円 (残25日、現在 AIpaX 約20万/月)
+- ギャップ: **80万/月**
+- 主戦場: AIpaX 5社目クロージング + AIpa Web モニター獲得 + 中規模ビジコン入賞
+- 詳細: [[meta/shincoder-actions-for-ooi-2026-05-25]]
+
+---
+
+## 🎚️ 認知プロファイル (Claude 対話で常に意識)
+
+- 大井の WISC: 言語理解150・視空間140・流動性推理135 / WM110・処理速度115
+- 「アイデア生成 >> 実装処理」 → 外部臓器 (Obsidian/Claude/相方) に流す方が早い
+- 「努力不足」って感じる時は実は「処理キャパオーバー」。Claude は dispatch で受け止める
+- 詳細: [[meta/ooi-deep-synthesis-2026-05-20]]
+
+---
+
+## 📂 入口リスト (Claude が引くべき主要ファイル)
+
+| 用途 | 入口 |
+|---|---|
+| 全体地図 | [[index]] |
+| 静的事業スナップショット | [[dashboards/business-snapshot]] |
+| 大井プロファイル統合 | [[meta/ooi-profile-index]] |
+| OpenClaw 稼働 | [[dashboards/openclaw-activity]] |
+| 部署フロー | [[_routines/department-flow]] |
+| 3本柱戦略 | [[meta/three-pillars]] |
+| 直近の優先順位 (アクション) | [[meta/shincoder-actions-for-ooi-2026-05-25]] |
+
+---
+
+## 🛠️ hot.md 保守ルール (Claude へ)
+
+1. セッション開始 = まず読む
+2. 「今ここ」「今日必ずやる」「先回り提案」「新着インテリ」の4セクションは **動的**。毎セッションで更新する責任あり
+3. 太線セクション (`認知プロファイル` 以降) は **準静的**。週1で見直す
+4. ファイルが400行超えたら、過去情報を `dashboards/business-snapshot.md` に圧縮
+5. 静的詳細は `dashboards/` か `meta/` に外出し

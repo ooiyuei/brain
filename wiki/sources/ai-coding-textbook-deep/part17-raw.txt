@@ -1,0 +1,510 @@
+                               
+
+
+
+
+
+
+
+
+: 
+
+: IDENode.jsnpm
+
+: 
+
+API:  API REST  API HTTP /
+ JSON API
+
+: package.json
+node_modules
+
+AI: AIAIAI
+MCP
+
+
+   Git/GitHub: Git GitHub
+    .gitignore GitHub Actions
+
+CLI: CLI
+
+: .env
+AI API: temperatureStructured Output
+Tool CallingBatch API
+AI : AI ReAct
+
+
+                               321
+ AI 
+
+
+
+
+
+
+
+
+ JavaScript 
+
+
+
+
+IDE
+
+Integrated Development Environment 
+
+ Cursor  VS Code 
+IDE 
+
+
+
+
+
+
+
+
+
+Node.js
+
+JavaScript 
+ JavaScript  Web Node.js 
+ JavaScript 
+
+
+322
+                                                                       
+
+ npm
+
+Node Package Manager JavaScript 
+Node.js 
+ npm install  npm run 
+
+
+
+
+
+npm 
+
+npm 
+
+
+
+
+
+
+
+
+ console.log 1
+AI 
+
+
+API
+
+ API
+
+Application Programming Interface 
+
+
+                                                                                                                                                          323
+ AI 
+
+
+ API 
+
+REST API
+
+Web  API HTTP  Web 
+
+
+URLHTTP 
+
+
+HTTP
+
+REST API4
+
+
+ GET: 
+ POST: 
+ PUT: 
+ DELETE: 
+
+ / 
+
+API 
+
+
+
+
+
+
+API  URL API 
+
+    API
+     https://api.weather.com/current  URL
+
+ URL 
+
+324
+                                  
+
+JSON
+
+JavaScript Object Notation 
+
+API 
+
+
+ {
+   "name": " ",
+   "age": 30,
+   "hobbies": [" ", " "]
+}
+
+API
+
+API  API 
+
+
+API 
+API 
+
+
+
+ 3 
+
+    200 :
+200 OK 201 Created
+
+400: 400 Bad  Request 404 Not Found
+500 : 500 Internal Server Error 
+
+
+
+
+
+
+
+                                     325
+ AI 
+
+
+
+
+
+
+ npm
+
+
+
+
+
+
+
+ A  B A  B 
+
+
+ package.json
+
+Node.js 
+
+ npm install 
+
+
+ node_modules
+
+ npm install 
+Git .gitignore
+ package.json  npm install 
+
+
+
+
+ 1.2.3 3
+
+ 326
+                                   
+
+1.x.x: 
+x.2.x: 
+x.x.3: 
+
+AI 
+
+AI
+
+AI 
+
+
+CursorGitHub  Copilot Claude Code
+
+
+
+AI 
+
+
+ Tab 
+
+
+AI
+
+AI 
+
+
+   Cursor Ctrl + L (Windows)
+     Command + L (Mac)
+
+AI
+
+AI 
+
+
+Cursor  Composer  Claude Code 
+
+
+                                   327
+ AI 
+
+
+
+AI 
+AI 
+
+
+
+
+AI 
+
+AI 
+
+
+CLAUDE.md
+
+AI 
+
+TypeScript 
+AI 
+
+  MCP Model Context Protocol
+
+AI Anthropic 
+MCP AI  API
+
+
+
+
+AI Andrej Karpathy
+OpenAI, Tesla  AI  2025 
+AI 
+
+
+
+328
+                                                                      
+
+
+
+AI 
+
+AI Cursor Allow List
+Deny List
+
+
+
+AI 
+
+Cursor / 
+
+
+
+
+
+AI 
+
+
+Git / GitHub
+
+Git
+
+
+
+
+
+GitHub
+
+Git 
+
+
+                                                                                                                                                        329
+ AI 
+
+
+
+
+
+
+Git 
+ PC 
+GitHub 
+
+ .gitignore
+
+Git 
+ node_modules API .env 
+
+
+ GitHub Actions
+
+GitHub 
+
+ YAML 
+
+CLI
+
+CLI
+
+GUI 
+
+ GUI 
+
+ 330
+                                                                      
+
+
+
+
+
+API 
+
+
+
+.env
+
+ KEY=value 
+
+   GOOGLE_API_KEY=your-api-key-here
+   DATABASE_URL=...
+
+ .gitignore GitHub
+
+
+
+
+API 
+GitHub Actions Secrets
+
+
+
+ AI 
+AI 
+ AI 
+
+                                                                                                                                                        331
+ AI 
+
+AI API
+
+
+
+AI 
+
+
+    Gemini API
+             gemini-2.0-flash gemini-1.5-pro
+
+
+
+
+
+AI 
+
+
+
+AI 
+
+temperature
+
+AI 02 
+
+0: 
+2: 
+
+
+
+
+ Structured Output
+
+AI JSON 
+
+: , 
+  Structured Output
+               {"keywords": ["
+             ", "                             "]}
+
+
+
+332
+                                                                      
+
+
+
+AI 
+
+1  1 API 
+
+
+Tool Calling
+
+AI Web 
+AI AI 
+
+
+
+
+
+
+2 API 
+
+
+Batch API
+
+ API 
+
+ API 
+
+AI 
+
+AI
+
+ AI 
+
+
+                                                                                                                                                        333
+ AI 
+
+
+
+ ReAct
+
+Reason ActionAI 
+
+
+ 1. Reason: 
+ 2. Action: 
+ 3.   Observation : 
+
+
+
+
+AI 
+
+
+
+
+AI 
+AI 
+
+
+ 334
+

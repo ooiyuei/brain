@@ -1,0 +1,501 @@
+                                                                11 : Git + GitHub
+
+
+
+
+    Jules feature/japanese-style-chat-...
+ 
+ Jules GitHub Desktop Pull origin
+ 
+AI 
+
+
+
+
+ AI PC 
+Jules PC 
+
+AI 
+ AI 
+Jules  ChatGPT  Claude 
+Codex  Claude Code  AI 
+
+
+                                                                                                                                                        261
+ AI 
+
+Codex 
+1. ChatGPT 
+ 2. Codex
+3. 
+4. 
+ Claude Code Web
+1. Claude 
+2. 
+3. 
+4. 
+
+ OK 
+
+
+262
+                                                                11 : Git + GitHub
+
+ 
+ 
+ 
+ 
+  AI 
+ 
+
+
+AI  GitHub
+
+ Jules 
+
+
+                                                                                                                                                        263
+ AI 
+
+                   
+
+  AI conflict
+  Git 
+  
+
+  
+  
+   1.  style.css 
+   2. Jules style.css 
+   3. Jules...
+  Git 
+  
+  
+  GitHub Desktop
+  
+
+264
+                                                             11 : Git + GitHub
+
+
+1. AI
+
+  
+2. 
+3. AIAI
+
+ AI 
+ 
+ AI 
+ 
+
+Git 
+
+
+                                                                                                                                                 265
+ AI 
+
+              GitHub Actions
+
+  GitHub GitHub Actions
+   YAML 
+  GitHub Actions
+  
+   1. Google Form
+   2. n8n GitHub
+   3. GitHub Actions
+   4. AI
+   5. 
+   6. 
+  
+
+         name: Feedback Rewrite
+         on:
+
+       issues:
+                 types: [opened] # Issue
+         jobs:
+             rewrite:
+
+                 runs-on: ubuntu-latest
+                 steps:
+
+                    - uses: actions/checkout@v4
+                    - uses: anthropics/claude-code-action@v1
+
+                        with:
+
+              prompt:|Issue
+               PR
+
+                               ...
+
+266
+                                                                11 : Git + GitHub
+
+   on: issues: types: [opened] Issue 
+   anthropics/claude-code-action AI
+   AI 
+  
+  
+  
+  
+  
+   GitHub Actions
+  
+  https://docs.github.com/ja/actions*6
+
+
+
+Git  GitHub  AI 
+Git Google Docs 
+ Git 
+AI Git 
+
+GitHub  Git 
+ AI   Jules Claude Code  Web
+Codex  AI 
+
+GitHub
+Desktop 
+
+6. https://docs.github.com/ja/actions
+
+                                                                                                                                                        267
+ AI 
+
+AIJulesClaude Code  Web Codex
+ AI 
+
+AI  11.5 AI API  AI 
+ AI 
+
+
+268
+                      11.5 : AI API/
+
+11.5: AI API/
+
+ 6.5  11 
+
+ 7 AI 
+ 8 AI 
+ 9 AI 
+ 10 CLI 
+  11 Git + GitHub
+
+ AI 
+
+
+
+AI 
+
+ChatGPT  Gemini 
+
+
+ ChatGPT  OpenAI 
+ AI Web 
+
+ AI  API 
+
+AI API  ChatGPT  Gemini 
+temperatureAI 
+Tool   Calling       
+                Web
+
+
+
+
+
+ AI 
+ 2000 ...
+
+
+                     269
+  AI 
+
+   AI 
+ 
+ 
+
+
+
+  AI 
+ 
+  AI API/
+ 
+ 
+
+    AI 
+    AI 
+   
+ 
+
+   270
+                                                  11.5 : AI API/
+
+
+
+ 2  12  13 AI API/
+
+12AI API
+
+AI  API 
+
+
+ AI API 
+  AI 
+ temperature 
+ Structured Output 
+ 
+AI APIAI
+ AI 
+
+
+13AI
+
+AI  AI 
+ 
+
+
+ AI 
+  Tool Calling
+ ReAct 
+ 
+ AI Web 
+ AI
+
+ 12 
+
+                                                                                                                                                        271
+ AI 
+
+12: AI API
+
+AI API
+
+AI API
+
+
+1. AI 
+AI API  ChatGPT  Gemini 
+ AI  Web 
+AI API 
+2. 
+AI APIAI
+ 1 
+
+
+
+
+  AI APIAI
+  temperatureStructured Output 
+  
+  AI AI 
+  
+
+AI API 
+
+AI API 
+
+AI API 
+
+ 272
+                                                  12 : AI API 
+
+ 5  API API 
+
+AI API   OpenAI Google AnthropicAI
+ API ChatGPT  Gemini  Web  AI 
+
+
+Web
+
+ChatGPT  Gemini 
+
+Web 
+
+  1 100 100 
+ temperature 
+  AI 
+
+   ChatGPT  GPTs  Gemini  Gem 
+   
+AI API 
+ 100 
+ 
+ 
+AI APIWeb
+
+                                                                                                                                                        273
+ AI 
+
+AI API 
+
+AI API  3 
+
+1. HTTP
+
+HTTP5 fetch 
+AI 
+ JSON 
+
+
+
+2. AISDK
+
+ AI  SDK 
+  OpenAI openai
+  Google @google/genai
+  Anthropic @anthropic-ai/sdk
+
+ 3  Gemini  SDK 
+
+274
+                                                  12 : AI API 
+
+ SDK  HTTP 
+SDK 
+AI 
+AI  SDK 
+
+
+
+3. AI
+
+LangChain.js  LlamaIndex  AI 
+
+
+ AI 
+ AI
+
+ SDK 
+ SDK  3 
+
+
+ AI 
+
+ Gemini API 
+ 3  Gemini AI API 
+
+
+                                                                                                                                                        275
+ AI 
+
+
+
+ 3  gemini-chat  Antigravity  npm
+run dev 
+ main.js AI API
+Antigravity 
+
+
+  AI
+
+   chatSession = ai.chats.create({
+          model: "gemini-3-flash-preview",
+
+   });
+
+ ai.chats.create() AI model 
+AI 
+
+
+
+
+AI
+
+AI APIAI
+
+276
+                                                  12 : AI API 
+
+ AI  30 
+AI 
+ main.js 
+
+
+AI
+
+AI 
+ChatGPT AI  OpenAI 
+OpenAI 
+WebAI API
+
+
+                                                                                                                                                        277
+ AI 
+
+ main.js  ai.chats.create() 
+
+
+chatSession = ai.chats.create({
+
+     model: "gemini-3-flash-preview",
+
+     config: {                  "AI",
+            systemInstruction:
+
+     }
+
+});
+
+AI 
+
+
+
+
+
+ 
+  5 
+ 
+ AI 
+AI 
+
+278
+                                                  12 : AI API 
+
+          
+
+   AI 
+  
+  AI 
+  
+  
+  AI 
+  
+  
+  
+   AI 
+
+temperature
+
+temperature AI 
+
+temperature 
+
+ 0 
+ 1 
+main.js  config  temperature 
+
+   chatSession = ai.chats.create({
+          model: "gemini-3-flash-preview",
+          config: {
+
+        systemInstruction: "AI",
+
+                 temperature: 0
+          }
+   });
+
+                                                                                                                                                        279
+ AI 
+
+
+ 3 
+
+temperature 2 
+
+
+280
+

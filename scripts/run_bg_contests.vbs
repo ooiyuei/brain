@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "powershell.exe -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\Users\Owner\business\brain\scripts\bg_contest_review.ps1", 0, False

@@ -7,6 +7,12 @@ tags: [project, HR, highschool, shizuoka, career, planning]
 status: 企画中（静岡ローカル展開）
 related: [[ooi-yuei]]
 ---
+## 🎯 30秒サマリー (Entity Latent)
+- **何**: 高校生×地元企業マッチング (高校生版Wantedly)
+- **誰に**: 静岡の高校生 + 中堅・成長企業
+- **状態**: 夢AWARD 2026応募代表事業
+- **タイミング**: 締切6/7 (残18日)・今週末リミット
+
 
 # EEMUS（エームス）
 

@@ -7,6 +7,13 @@ tags: [project, web, AI, planning, saas, recruiting]
 status: 仕様詳細化完了（β顧客獲得フェーズ）
 related: [[ooi-yuei]], [[aipax]], [[concepts/aipa-web-form-design]]
 ---
+## 🎯 30秒サマリー (Entity Latent)
+- **何**: 中小企業向け採用サイト+AI応募者対応SaaS
+- **誰に**: 地方の建設/製造/運輸/サービス業 (従業員30-300名)
+- **価格**: 月15万円 (モニター3社限定・通常100-150万)
+- **状態**: Deep Research完了・Googleフォーム実装待ち
+- **キー**: AIが応募者の質問に24h対応 = 採用業界初
+
 
 # AIpa Web
 
@@ -216,3 +223,22 @@ Step9: 月額運用
 3. Claudeに投げて初稿作成→1サイト完成
 4. モニター3社獲得（15万円・事例掲載条件）
 5. IT導入補助金の申請サポート体制を整える
+
+## 活動ログ
+
+### 2026-05-27 09:45 5/26着弾の5素材を整理・PROMOTE 判定
+- 5/26 dispatch分の AIpa Web 関連 5素材を Claude-CEO が PROMOTE 判定
+- **PROMOTE 3件** (`04_sales_mkt_cs/` 系の新フォルダに昇格):
+  - 静岡商工会経由メール3パターン → `04_sales_mkt_cs/leads/aipa-web/2026-05-26-shoukou-mail-3patterns.md`
+  - LP最適化ヒーロー3案 → `04_sales_mkt_cs/lp/aipa-web/2026-05-26-hero-3cases.md` (推奨案A+案C結合)
+  - 月10万モニター契約書テンプレ → `05_corp/legal/contracts/2026-05-26-aipa-web-monitor-10man-template.md`
+- **再dispatch 2件** (品質改善必要):
+  - X広告コピー5案 (末尾wikilink重複地獄) → OpenClaw 1321e603 で整形版投入中
+  - 静岡10社リスト (架空URL) → OpenClaw 43c2d51d で実在版リサーチ投入中
+- MCP 能動使用: Gmail 下書き3パターン (A/B/C) 大井宛保存済
+- 次やること: 大井が下書き確認 → 商工会議所3カ所 (静岡・浜松・沼津) に Bcc 送信開始
+
+### 2026-05-27 07:35 横展開戦略の発見 (主力5事業のシナジー)
+- AIpa Web は単独事業ではなく、AIpaX (会社別AI保存庫コア) の「採用領域への適用」として再定義可能
+- 共通基盤マルチテナント化により、AIpax/AIpa Web/AIpaX school/EEMUS/Testall を1基盤×5UIで運用
+- 詳細: [[09_knowledge/learnings/2026-05-27-cross-business-connections]]

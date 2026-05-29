@@ -1,0 +1,283 @@
+ 12 : AI API 
+
+   
+
+temperature
+0 0.2  0.5 0.7  0.8 1.5
+
+   AI  
+
+temperature AI 
+
+281
+
+ AI 
+temperature  0 
+temperature  0   AI GPU     AI   temperature    
+Structured Output
+Structured Output AI  JSON   AI  30    Structured Output  
+282
+
+ 12 : AI API 
+
+ { "name": " ",
+
+"age": 30,
+
+ "occupation": "
+
+"
+
+}
+
+ Structured Output   AI 
+AI    Structured Output JSON AI ...... Structured Output 
+Tool CallingAI
+Tool Calling AI Web   ChatGPT AI  Web  Tool Calling  AI   AI  Web AI  Web AI   Tool Calling 1. AI
+
+283
+
+ AI 
+2. AI 3. AI 4. AIAI
+AI   13  AI API API  
+284
+
+ 12 : AI API 
+
+
+
+AI API AI 
+
+
+      
+
+   GPT-5.2 Gemini 3 Pro Claude
+Opus 4.5
+ GPT-4.1 Claude Sonnet 4.5
+ GPT-5 mini, Gemini 2.5 Flash
+Claude Haiku 4.5
+
+
+
+    
+
+
+
+
+ 
+
+ 
+
+ 
+
+285
+
+ AI 
+      
+   OpenAI Claude Gemini   Claude  OpenAI Gemini     
+
+AI API
+286
+
+ 12 : AI API 
+AI  1 0.50.7 1000   500 700
+GPT-4.1  100  2  300  100  8  1,200 
+100  150  400  3,750  3,750   300    
+
+AI API  1.   AI    OpenAI  
+287
+
+ AI 
+
+  
+
+
+   OpenAI:
+
+https://platform.openai.com/docs/guides/prompt-caching*1
+
+Gemini:
+
+https://ai.google.dev/gemini-api/docs/caching?hl=ja&lang=python*2 Claude:
+
+https://platform.claude.com/docs/ja/build-with-claude/prompt-caching*3
+
+2. Batch API
+Batch API 24 
+
+1. https://platform.openai.com/docs/guides/prompt-caching 2. https://ai.google.dev/gemini-api/docs/caching?hl=ja&lang=python 3. https://platform.claude.com/docs/ja/build-with-claude/prompt-caching
+288
+
+ 12 : AI API 
+ AI  Batch API
+https://platform.openai.com/docs/guides/batch*4
+ Tips
+AI  
+
+API   OpenAI  Tier  API 
+4. https://platform.openai.com/docs/guides/batch
+289
+
+ AI 
+https://platform.openai.com/docs/guides/rate-limits*5
+ RPM(Request Per Minute - 1 ) TPM(Token Per Minute - 1 ) Tier  
+https://platform.openai.com/docs/models/gpt-5.2*6 5. https://platform.openai.com/docs/guides/rate-limits 6. https://platform.openai.com/docs/models/gpt-5.2
+290
+
+ 12 : AI API 
+10 100  
+
+OpenAI  Claude    API    
+291
+
+ AI 
+
+AI API   AI API AI API  ChatGPT  Gemini AI  AI  AI  AI API  AI   3  Gemini  AI  
+systemInstructionAI   AI AI  temperature0 1   Structured  Output JSONAI  Tool  Calling AI   Tips  13 Tool Calling  AI  AI  
+292
+
+ 13 : AI 
+ 13 : AI 
+AI API AI temperature Structured Output    Tool Calling AI   AI 2025  AI Manus   Genspark ChatGPT  Operator   AI   Antigravity  Gemini CLI  ( )  
+293
+
+ AI 
+AI   
+AI 
+AI  
+
+AI  OpenAI  AI  
+ AI  AI 
+294
+
+ 13 : AI 
+  AI  
+AI3
+AI  AI  AI 3 
+1.  2. AI  3. AI 
+1 2  AI  AI 
+ 1 
+ ChatGPT  
+295
+
+ AI 
+   AI   AI 
+ 2 
+2  AI    AI   
+AI  n8n  Zapier  Web   AI   AI AI   
+296
+
+ 13 : AI 
+  AI 
+ 3 AI 
+ AI  ReAct  AI  
+ReAct
+ReAct*1 Reason Action   AI  AI  1. AI AI   2025
+Web  2. Web 3. 
+
+1. https://arxiv.org/abs/2210.03629
+297
+
+ AI 
+  ReAct    AI 
+
+ AI   ReAct AI   " " AI 
+AI 
+AI 
+298
+
+ 13 : AI 
+ AI  Tool Calling 
+ Tool Calling
+ Tool Calling Web AI    AI 
+
+const tools = [
+
+{
+
+type: "function",
+
+function: {
+
+name: "web_search",
+description: "Web",
+
+parameters: {
+
+type: "object",
+
+properties: {
+
+query: {
+
+type: "string",
+
+ description: "
+
+"
+
+}
+
+},
+
+required: ["query"]
+
+}
+
+}
+
+}
+
+];
+
+  Web  
+
+299
+
+ AI 
+
+AIAI   2025  Web  AI  AI Web    AI 
+
+// AI
+
+if (response.toolCalls) {
+
+for (const toolCall of response.toolCalls) {
+
+if (toolCall.function.name === "web_search") {
+
+  const args = JSON.parse(toolCall.function.arguments);
+
+//
+
+Web
+
+  const searchResult = await executeWebSearch(args.query);
+
+//
+
+AI
+
+messages.push({
+
+role: "tool",
+
+content: JSON.stringify(searchResult)
+
+});
+
+}
+
+}
+
+}
+
+AI  
+
+ 
+ AI Web  
+AI  
+
+300
+
+

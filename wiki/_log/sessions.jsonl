@@ -1,0 +1,12 @@
+{"ts": "2026-05-27T05:17:34+09:00", "event": "Stop", "session_id": "test1234-abcd-efgh", "cwd": "C:\\Users\\Owner\\business", "host": "大井"}
+{"ts": "2026-05-27T05:34:16+09:00", "event": "SessionStart", "session_id": "sess-real0001", "cwd": "C:\\Users\\Owner\\business", "host": "大井", "source": "startup"}
+{"ts": "2026-05-27T06:26:51+09:00", "event": "SessionStart", "session_id": "276a1a99-15e2-437d-8098-dc5a732c2b4b", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-27T06:27:33+09:00", "event": "Stop", "session_id": "276a1a99-15e2-437d-8098-dc5a732c2b4b", "cwd": "C:\\Users\\Owner", "host": "大井"}
+{"ts": "2026-05-28T13:32:02+09:00", "event": "SessionStart", "session_id": "8367c677-735c-4548-b02e-ebd47e151dc8", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-29T08:00:59+09:00", "event": "SessionStart", "session_id": "fffc6e90-511c-4a2d-84bb-e3e0ba6d4378", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-29T08:04:39+09:00", "event": "SessionStart", "session_id": "e50447c3-4158-4ca8-9a85-a8b56463377a", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-29T08:04:39+09:00", "event": "SessionStart", "session_id": "f4c034e7-4bb8-41e7-8aa1-a87b7ace3b10", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-29T08:08:26+09:00", "event": "SessionStart", "session_id": "5712802a-846a-4e42-b05e-5b221a260f80", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-29T08:25:31+09:00", "event": "SessionStart", "session_id": "f2661044-ddca-40f7-9495-b2164a3e7395", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-05-29T08:29:29+09:00", "event": "Stop", "session_id": "f2661044-ddca-40f7-9495-b2164a3e7395", "cwd": "C:\\Users\\Owner", "host": "大井"}
+{"ts": "2026-05-29T08:38:10+09:00", "event": "SessionStart", "session_id": "fcfa52fa-aab6-4dd8-a217-e3f1732cf4c8", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}

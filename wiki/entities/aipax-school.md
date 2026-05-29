@@ -2,15 +2,43 @@
 type: entity
 title: AIpaX school
 created: 2026-05-14
-updated: 2026-05-14
-tags: [project, AI, education, planning]
-status: 企画中
-related: [[ooi-yuei]], [[aipax]], [[eemus]]
+updated: 2026-05-19
+tags: [project, AI, education, contracted-prep]
+status: カリキュラムv2完成・第1期生5名募集開始ステージ
+related: [[ooi-yuei]], [[aipax]], [[eemus]], [[concepts/thinking-frameworks-hr]], [[sources/hr-academy-workshops-2026-05-19]]
 ---
+## 🎯 30秒サマリー (Entity Latent)
+- **何**: 中高生向けAIスクール (旧称: AI塾 から進化)
+- **誰に**: 中高生本人 + 親 (子のAI時代不安)
+- **価格**: 月3万円
+- **状態**: カリキュラムv2完成・第1期生5名募集
+- **キー**: 17歳現役AI起業家(大井)が直接教える + HR高等学院ノウハウ統合
+
 
 # AIpaX school
 
 小中高生向けオンラインAIスクール。AIを手足のように使えるスキルを実践で身につける。
+
+## 🆕 2026-05-19 カリキュラム強化
+
+大井自身が受講した **HR高等学院** の授業ノウハウ7本を統合 → カリキュラムv2として確定。
+
+### 採用するフレームワーク (HR高等学院ベース)
+- **F1 ストーリーテリング 3軸** (普通の思考×武器×提案) — Module 1 マインドセット
+- **F2 合意形成 4ステップ** — Module 2 チームでアイデア
+- **F3 11項目ロジックモデル** — Module 3 個人探究テーマ (卒業課題)
+- **F4 CHINTAI型 5項目企画** — Module 4 サービス企画
+- **F5 産業課題×AI 4項目** — Module 5 業界分析
+
+詳細: [[concepts/thinking-frameworks-hr]]
+元素材: [[sources/hr-academy-workshops-2026-05-19]]
+
+### カリキュラム v2 (5モジュール × 2ヶ月 = 1年)
+- **Module 1 (Month 1-2)**: AIマインドセット + バイブコーディング体験
+- **Module 2 (Month 3-4)**: 日常業務自動化 + チーム合意形成
+- **Module 3 (Month 5-6)**: エンジニアリング思考 + 個人探究テーマ設定
+- **Module 4 (Month 7-8)**: 本格アプリ開発 + サービス企画
+- **Module 5 (Month 9-12)**: データ分析 + マネタイズ + 卒業課題発表
 
 ## コンセプト
 
