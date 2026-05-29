@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 07:21
+updated: 2026-05-30 07:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 07:21
+**最終更新**: 2026-05-30 07:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 72 |
+| ✅ 今日完了 | 74 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 892 (うち24h+古い: 697) |
+| 📝 wiki/_inbox 未レビュー | 894 (うち24h+古い: 697) |
 
 ### 処理中
-- ⚙️ **[606 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- ⚙️ **[600 分]** [EEMUS] 高校生インターン体験談コンテンツ3本
+- ⚙️ **[595 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[585 分]** [AIpaX] 業務委託契約書テンプレ
 
 ### Inbox 上位
-- [high] [AIpaX] 業務委託契約書テンプレ
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Testall] X受験あるある投稿30本
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 298 件
+- marketing : 299 件
 - research : 35 件
-- newbiz : 263 件
+- newbiz : 264 件
 - ingest : 1 件
 - corp : 112 件
 - dev : 17 件

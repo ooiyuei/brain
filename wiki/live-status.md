@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 07:22:47
+updated: 2026-05-30 07:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:22:47** | 🔥 **稼働中**
+**07:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7162MB / 8151MB (**87.9%**)
+- 使用率: **68%**
+- VRAM: 7025MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **54.4%** (17.4GB / 31.9GB)
+- 使用率: **81.7%** (26.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 73 |
+| 📥 inbox | 121 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 74 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36108 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
+- ⚡ [35747 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [35146 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] 業務委託契約書テンプレ
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Testall] X受験あるある投稿30本
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 判定
 
