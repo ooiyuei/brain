@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 23:22:47
+updated: 2026-05-29 23:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:22:47** | 🔥 **稼働中**
+**23:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7162MB / 8151MB (**87.9%**)
+- 使用率: **3%**
+- VRAM: 7026MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **52.9%** (16.9GB / 31.9GB)
+- 使用率: **81.4%** (26GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 188 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 189 |
+
+## 🔄 処理中タスク
+
+- ⚡ [34786 秒経過] **[Money] EEMUS 連携企業5社 具体接触メール**
+- ⚡ [34786 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [School] 親向けLP完全版
+- [high] [AIpaX] 月次PL試算
+- [high] [EEMUS] MVP LP完全版
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 
 ## 🎯 判定
 
