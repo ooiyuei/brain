@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 19:51
+updated: 2026-05-29 19:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 19:51
+**最終更新**: 2026-05-29 19:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 120 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 149 |
+| ✅ 今日完了 | 151 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 772 (うち24h+古い: 595) |
+| 📝 wiki/_inbox 未レビュー | 774 (うち24h+古い: 596) |
 
 ### 処理中
-- ⚙️ **[600 分]** [Testall] コンテンツ戦略3ヶ月
-- ⚙️ **[590 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[595 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[581 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [School] 入学後30日プラン
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -54,9 +54,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 264 件
+- marketing : 265 件
 - research : 26 件
-- newbiz : 215 件
+- newbiz : 216 件
 - ingest : 1 件
 - corp : 86 件
 - dev : 14 件
