@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 01:01
+updated: 2026-05-30 01:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 01:01
+**最終更新**: 2026-05-30 01:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 114 |
+| 📥 inbox | 111 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 14 |
+| ✅ 今日完了 | 17 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 834 (うち24h+古い: 644) |
+| 📝 wiki/_inbox 未レビュー | 837 (うち24h+古い: 645) |
 
 ### 処理中
-- ⚙️ **[554 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[545 分]** [School] 体験会2時間プログラム
 
 ### Inbox 上位
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 入学後30日プラン
 
 ## 🎯 今日のフォーカス
 
@@ -47,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 282 件
+- marketing : 284 件
 - research : 31 件
 - newbiz : 241 件
 - ingest : 1 件
-- corp : 98 件
+- corp : 99 件
 - dev : 15 件
 
 ## 🔗 主要リンク
