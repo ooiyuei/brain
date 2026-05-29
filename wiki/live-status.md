@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 08:42:47
+updated: 2026-05-30 08:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:42:47** | 🔥 **稼働中**
+**08:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,37 +21,37 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7019MB / 8151MB (**86.1%**)
+- VRAM: 7022MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **81.4%** (26GB / 31.9GB)
+- 使用率: **82.3%** (26.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 127 |
+| 📥 inbox | 126 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 87 |
+| ✅ 今日完了 | 88 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35747 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [35986 秒経過] **[Money] EEMUS 連携企業5社 具体接触メール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
