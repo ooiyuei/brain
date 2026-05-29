@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 09:56
+updated: 2026-05-29 10:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 09:56
+**最終更新**: 2026-05-29 10:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,15 +14,16 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 78 |
-| ⚙️ processing | 2 |
+| 📥 inbox | 80 |
+| ⚙️ processing | 3 |
 | ✅ 今日完了 | 81 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 714 (うち24h+古い: 477) |
+| 📝 wiki/_inbox 未レビュー | 714 (うち24h+古い: 478) |
 
 ### 処理中
-- ⚙️ **[335 分]** [School] 入学後30日プラン
-- ⚙️ **[325 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[340 分]** [School] 入学後30日プラン
+- ⚙️ **[330 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[1 分]** [BG-Entities] ipak-fishing 更新提案
 
 ### Inbox 上位
 - [high] [School] 親向けLP完全版
@@ -42,7 +43,7 @@ tags: [dashboard, system]
 | タスク | 進捗 |
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 9/14 (64%) |
-| 📚 entities更新 (9日サイクル) | ラウンド 1 / 16 件更新済 |
+| 📚 entities更新 (9日サイクル) | ラウンド 1 / 18 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 1/15 / 視点 3/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
