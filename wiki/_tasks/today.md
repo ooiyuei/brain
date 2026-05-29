@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-29
 tags: [tasks, today]
-updated: 2026-05-29 16:59
+updated: 2026-05-29 17:04
 ---
 
 # Today 2026-05-27
@@ -27,8 +27,8 @@ updated: 2026-05-29 16:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 548分]** [AIpaX] X投稿『AI導入Tips』20本
-- [ ] **[処理中 538分]** [School] note『AI時代に子供に渡したいもの』
+- [ ] **[処理中 553分]** [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 543分]** [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
@@ -127,6 +127,7 @@ updated: 2026-05-29 16:59
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
+- [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
