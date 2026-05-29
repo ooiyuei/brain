@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 11:42:47
+updated: 2026-05-29 11:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:42:47** | 🔥 **稼働中**
+**11:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7213MB / 8151MB (**88.5%**)
+- VRAM: 7217MB / 8151MB (**88.5%**)
 
 ## 💾 RAM
 
-- 使用率: **53.5%** (17.1GB / 31.9GB)
+- 使用率: **56.4%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,23 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 99 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 87 |
+| 📥 inbox | 97 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 88 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [24708 秒経過] **[Testall] X受験あるある投稿30本**
-- ⚡ [764 秒経過] **[BG-Competitive] 採用ピックアップ**
+- ⚡ [1514 秒経過] **[School] 親向けLP完全版**
+- ⚡ [24348 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [1004 秒経過] **[BG-Competitive] 採用ピックアップ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 判定
 

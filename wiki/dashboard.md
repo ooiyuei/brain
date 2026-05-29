@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 11:41
+updated: 2026-05-29 11:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 11:41
+**最終更新**: 2026-05-29 11:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,23 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 99 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 87 |
+| 📥 inbox | 97 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 88 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 721 (うち24h+古い: 514) |
+| 📝 wiki/_inbox 未レビュー | 722 (うち24h+古い: 515) |
 
 ### 処理中
-- ⚙️ **[410 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[11 分]** [BG-Competitive] 採用ピックアップ
+- ⚙️ **[25 分]** [School] 親向けLP完全版
+- ⚙️ **[405 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[16 分]** [BG-Competitive] 採用ピックアップ
 
 ### Inbox 上位
-- [high] [School] 親向けLP完全版
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +49,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 240 件
+- marketing : 241 件
 - research : 23 件
 - newbiz : 202 件
 - ingest : 1 件
