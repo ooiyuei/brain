@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 05:01
+updated: 2026-05-30 05:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 05:01
+**最終更新**: 2026-05-30 05:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 121 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 49 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 869 (うち24h+古い: 676) |
+| 📝 wiki/_inbox 未レビュー | 869 (うち24h+古い: 677) |
 
 ### 処理中
-- ⚙️ **[590 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[595 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[591 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] X受験あるある投稿30本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
