@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 06:26
+updated: 2026-05-30 06:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 06:26
+**最終更新**: 2026-05-30 06:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 62 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 882 (うち24h+古い: 689) |
 
 ### 処理中
-- ⚙️ **[595 分]** [EEMUS] MVP LP完全版
-- ⚙️ **[585 分]** [AIpaX] 月次PL試算
+- ⚙️ **[600 分]** [EEMUS] MVP LP完全版
+- ⚙️ **[590 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
 - [high] [Money] 紹介プログラム 5事業横断ルール

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 06:30:46
+updated: 2026-05-30 06:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:30:46** | 🔥 **稼働中**
+**06:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7305MB / 8151MB (**89.6%**)
+- 使用率: **4%**
+- VRAM: 7302MB / 8151MB (**89.6%**)
 
 ## 💾 RAM
 
-- 使用率: **52.5%** (16.8GB / 31.9GB)
+- 使用率: **53.7%** (17.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 62 |
+| ✅ 今日完了 | 63 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35987 秒経過] **[EEMUS] MVP LP完全版**
-- ⚡ [35387 秒経過] **[AIpaX] 月次PL試算**
+- ⚡ [35627 秒経過] **[AIpaX] 月次PL試算**
+- ⚡ [35267 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [EEMUS] 連携企業候補20社
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 判定
 
