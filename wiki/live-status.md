@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 02:22:47
+updated: 2026-05-30 02:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:22:47** | 🔥 **稼働中**
+**02:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7022MB / 8151MB (**86.1%**)
+- 使用率: **49%**
+- VRAM: 7157MB / 8151MB (**87.8%**)
 
 ## 💾 RAM
 
-- 使用率: **81%** (25.9GB / 31.9GB)
+- 使用率: **87.4%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 115 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 28 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34308 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [34547 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [33348 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 判定
 
