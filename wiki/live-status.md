@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 02:18:46
+updated: 2026-05-30 02:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:18:46** | 🔥 **稼働中**
+**02:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,36 +15,35 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7297MB / 8151MB (**89.5%**)
+- 使用率: **2%**
+- VRAM: 7022MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **56.5%** (18GB / 31.9GB)
+- 使用率: **81%** (25.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 115 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 27 |
+| 📥 inbox | 116 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 28 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34067 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [33468 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [34308 秒経過] **[Testall] Studyplus Planning徹底比較**
 
 ## 📥 待機タスク (上位5)
 
