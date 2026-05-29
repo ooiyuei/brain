@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-29 18:30:47
+updated: 2026-05-29 18:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:30:47** | 🔥 **稼働中**
+**18:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
+- 使用率: **2%**
 - VRAM: 7079MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **79.6%** (25.4GB / 31.9GB)
+- 使用率: **81.7%** (26.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 118 |
+| 📥 inbox | 117 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 138 |
+| ✅ 今日完了 | 140 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35027 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
+- ⚡ [35267 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] 親FAQ 30問
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 
