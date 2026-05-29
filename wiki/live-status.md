@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 01:10:47
+updated: 2026-05-30 01:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:10:47** | 🔥 **稼働中**
+**01:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7020MB / 8151MB (**86.1%**)
+- 使用率: **65%**
+- VRAM: 7025MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 110 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 18 |
+| 📥 inbox | 109 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 19 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32388 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [32388 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)**
+- ⚡ [32388 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 入学後30日プラン
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 判定
 
