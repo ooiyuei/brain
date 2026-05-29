@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-29 21:31
+updated: 2026-05-29 21:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-29 21:31
+**最終更新**: 2026-05-29 21:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 118 |
+| 📥 inbox | 117 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 172 |
+| ✅ 今日完了 | 173 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 795 (うち24h+古い: 609) |
+| 📝 wiki/_inbox 未レビュー | 796 (うち24h+古い: 609) |
 
 ### 処理中
-- ⚙️ **[580 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[585 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
-- [high] [School] 親FAQ 30問
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [Testall] 教育者連携アプローチ
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 今日のフォーカス
 
@@ -53,7 +53,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 272 件
+- marketing : 273 件
 - research : 28 件
 - newbiz : 224 件
 - ingest : 1 件
