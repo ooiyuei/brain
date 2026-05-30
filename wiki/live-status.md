@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 19:50:46
+updated: 2026-05-30 19:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:50:46** | 🔥 **稼働中**
+**19:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
+- 使用率: **64%**
 - VRAM: 7022MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **83.2%** (26.6GB / 31.9GB)
+- 使用率: **86%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 218 |
+| ✅ 今日完了 | 219 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34547 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
-- ⚡ [34547 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [34787 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [34427 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 判定
 
