@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 07:14:46
+updated: 2026-05-31 07:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:14:46** | 🔥 **稼働中**
+**07:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **80%**
-- VRAM: 7099MB / 8151MB (**87.1%**)
+- 使用率: **4%**
+- VRAM: 7223MB / 8151MB (**88.6%**)
 
 ## 💾 RAM
 
-- 使用率: **88.7%** (28.3GB / 31.9GB)
+- 使用率: **56.2%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 127 |
-| ⚙️ processing | 2 |
+| 📥 inbox | 130 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 70 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36826 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [36434 秒経過] **[Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台**
+- ⚡ [37067 秒経過] **[Testall] Studyplus Planning徹底比較**
 
 ## 📥 待機タスク (上位5)
 
+- [high] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
 - [high] [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
