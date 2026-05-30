@@ -1,34 +1,36 @@
 ---
 type: task-today
-date: 2026-05-30
+date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 08:04
+updated: 2026-05-31 08:09
 ---
 
-# Today 2026-05-30
+# Today 2026-05-31
 
 > **朝ルーティン（09:00）がClaudeとして書く。task_board.ps1（5分おき）がOpenClaw状況反映。**
 > 大井はチェック付けるか「終わった」と話すだけでOK。
 
 ## 📌 今週の攻める1個
-> **夢AWARD 応募骨子を書く** — 締切 6/7（残**8日**）。7日連続未着手。今日が事実上ラスト。
+> **夢AWARD 応募骨子を書く** — 締切 6/7（残**7日**）。9日連続未着手。今日が本当のラスト。
 
 ## 🔥 絶対やる（1個）
 
-- [ ] **夢AWARD 応募骨子を書く**（締切 6/7・残8日）
-  - Claudeに「骨子出して」で叩き台即生成。大井が14時に30分向かうだけ。今日逃すと詰む。
+- [ ] **⚠️ Digital AI補助金2026 要件確認**（第1次締切: 今日5/31）
+  - 静岡産業振興財団 TEL 054-254-4511 or Web確認。「第2次(8月末)で申請できるか」だけでOK。
+  - Almeoの補助対象可否を1本電話で掴む。
 
 ## 🌱 できれば（2個まで）
 
-- [ ] **静岡産業振興財団 TEL**（054-254-4511）— 最大200万・残8日。午前中に電話1本。Digital AI補助金確認も同時に。
-- [ ] **⚠️ Digital AI補助金2026 要件確認** — 第1次締切が**明日5/31**。Almeoの補助対象可否を今日中に確認。
+- [ ] **夢AWARD応募骨子を書く**（6/7締切・残7日）— [[entities/eemus]]
+  - OpenClawが叩き台生成中（キューにEEMUS夢AWARD骨子x3）。叩き台が出たら30分肉付けるだけ。
+- [ ] **AIpaX 5社目クロージング想定問答確認** — 月収80万ギャップを埋める最速手
+  - OpenClawキューに「5社目商談クロージング想定問答」あり。成果物出次第大井確認→即使う。
 
 ## ⏳ OpenClaw処理中
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 643分]** [School] 入学後30日プラン
-- [ ] [待機] [School] note『AI時代に子供に渡したいもの』
+- [ ] **[処理中 638分]** [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
@@ -167,26 +169,26 @@ updated: 2026-05-31 08:04
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
 
-- [x] Phase 1 残務処理: queue 1521件 archive、BrainAutoReview Disabled、Win CLI セットアップ（06:00頃）
-- [x] 朝ルーティン完了（09:00）— 5/27
-- [x] **AIpa Web inbox 5件昇格判定**（12:30 / 5/27）: 7件昇格・2件削除。[[marketing/aipa-web-monitor-contract-2026-05-26]] 他。詳細 → [[_routines/midday-20260527]]
-- [x] **昼チェック実行**（12:30 / 5/28）: inbox巡回 3件昇格・3件削除。詳細 → [[_routines/midday-20260528]]
-- [x] **昼チェック実行**（12:30 / 5/29）: inbox 0件昇格・3件削除（BG-Entities誤出力バグ確認）。詳細 → [[_routines/midday-20260529]]
-- [x] **昼チェック実行**（12:30 / 5/30）: 0件昇格・9件削除（studyplus比較7件=価格ハルシネーション、stripe-setup2件=事業理解ゼロ）。詳細 → [[_routines/midday-20260530]]
+- [x] Phase 1 残務処理: queue 1521件 archive、BrainAutoReview Disabled、Win CLI セットアップ（5/27 06:00）
+- [x] 朝ルーティン完了（5/27 09:00）
+- [x] AIpa Web inbox 5件昇格判定（5/27 12:30）
+- [x] 昼チェック実行（5/28 12:30）
+- [x] 昼チェック実行（5/29 12:30）
+- [x] 昼チェック実行（5/30 12:30）: 9件削除（studyplus比較7件+stripe-setup2件）
 
 ## 📅 今日の予定（Calendar）
 
-- 予定なし（Calendar MCP確認済み）
+- 予定なし（確認要：静岡財団TEL 054-254-4511 を午前中に入れる）
 
-## 🔍 監視結果（朝08:30 OpenClaw 5/30 ファイル未生成 / AI news 07:52から手動抽出）
+## 🔍 監視結果（朝08:30 OpenClaw 5/31）
 
-- 競合動向: [[_monitor/competitor-2026-05-30]] — 未生成
-- ビジコン締切: [[_monitor/deadlines-2026-05-30]] — 未生成
-- 朝の問い: [[_monitor/grill-2026-05-30]] — 未生成
-- ★ **AI news要点**: Digital AI補助金2026 第1次締切**明日5/31** / Claude Opus 4.8 リリース(価格据え置き) / 詳細→[[07_research/ai-news/2026-05-30]]
+- 競合動向: [[_monitor/competitor-20260531]] — 未生成
+- ビジコン締切: [[_monitor/deadlines-20260531]] — 未生成
+- 朝の問い: [[_monitor/grill-20260531]] — 未生成
+- ★ AI news要点（hot.mdより）: Anthropic $965B評価・ChatGPT広告プラットフォーム投入・補助金第1次締切は5/12完了済み（第2次8月末）
 
 ## 関連リンク
 - 思いつき箱: [[_tasks/inbox]]
 - 完了アーカイブ: [[_tasks/done]]
-- 今朝の作戦: [[_routines/morning-20260530]]
+- 今朝の作戦: [[_routines/morning-20260531]]
 - ホット: [[hot]]

@@ -1,6 +1,6 @@
 ---
 type: hot-cache
-updated: 2026-05-27 22:10
+updated: 2026-05-31 09:00
 structure_version: 2
 managed_by: Claude (must update every session)
 ---
@@ -15,11 +15,11 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-05-30 朝の作戦）
+## 🌅 Today（2026-05-31 朝の作戦）
 
-**絶対やる1個**: 夢AWARD 応募骨子を書く（残8日・7日連続未着手・今日が事実上ラスト）
-**一言**: 骨子1枚が6/7まで全部を動かす。Claudeは叩き台を即生成できる。
-**⚠️ 追加緊急**: Digital AI補助金2026 第1次締切が**明日5/31** — 静岡財団TELで補助対象確認を同日に。
+**絶対やる1個**: ⚠️ **Digital AI補助金2026 要件確認**（今日が第1次締切・静岡財団TEL 054-254-4511 or Web）
+**一言**: 今日電話1本で「第2次（8月末）に申請できるか」を掴む。1分の確認が最大200万を動かす。
+**サブ①**: 夢AWARD骨子を書く（9日連続積み残し・残7日・6/7締切）— OpenClaw叩き台生成中
 
 ## ☀️ Midday（12:30 昼チェック）
 
@@ -40,15 +40,15 @@ managed_by: Claude (must update every session)
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-05-30 夜 — 夜ルーティン (evening-20260530生成/done.md更新/hot.md更新)
+**Last session**: 2026-05-31 朝 — 朝ルーティン (morning-20260531生成/today.md更新/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/evening-20260530.md` (夜メモ生成)
-- `brain/wiki/_tasks/done.md` (5/30完了追記)
-- `brain/wiki/hot.md` (Tomorrow 5/31更新)
+- `brain/wiki/_routines/morning-20260531.md` (朝メモ生成)
+- `brain/wiki/_tasks/today.md` (5/31タスクボード更新)
+- `brain/wiki/hot.md` (Today 5/31更新)
 
-**現在の Mode**: 夜ルーティン完了
-**完了**: 昼チェック9件削除 / 夜ルーティン
-**未完**: 夢AWARD骨子（9日連続！残7日）/ 静岡財団TEL / Digital AI補助金要件確認(今日5/31締切・朝一必須)
+**現在の Mode**: 朝ルーティン完了
+**完了**: 朝メモ・today.md・hot.md更新
+**未完**: Digital AI補助金要件確認（大井TEL必須・今日第1次締切）/ 夢AWARD骨子（9日連続・残7日）
 
 ---
 
