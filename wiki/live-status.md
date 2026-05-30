@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 07:06:47
+updated: 2026-05-31 07:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:06:47** | 🔥 **稼働中**
+**07:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,29 +25,33 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **85.7%** (27.4GB / 31.9GB)
+- 使用率: **86.1%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 127 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 70 |
+
+## 🔄 処理中タスク
+
+- ⚡ [36587 秒経過] **[Testall] Studyplus Planning徹底比較**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
 - [high] [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
