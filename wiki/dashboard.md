@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 18:51
+updated: 2026-05-30 18:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 18:51
+**最終更新**: 2026-05-30 18:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 204 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 207 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1007 (うち24h+古い: 765) |
+| 📝 wiki/_inbox 未レビュー | 1010 (うち24h+古い: 766) |
 
 ### 処理中
-- ⚙️ **[604 分]** [Money] EEMUS 連携企業5社 具体接触メール
+- ⚙️ **[609 分]** [Money] AIpaX 5社目商談クロージング想定問答
+- ⚙️ **[595 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [School] 入学後30日プラン
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [School] 入学後30日プラン
 
 ## 🎯 今日のフォーカス
 
@@ -53,9 +54,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 337 件
+- marketing : 339 件
 - research : 37 件
-- newbiz : 314 件
+- newbiz : 315 件
 - ingest : 1 件
 - corp : 134 件
 - dev : 18 件
