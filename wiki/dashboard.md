@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 06:41
+updated: 2026-05-31 06:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 06:41
+**最終更新**: 2026-05-31 06:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 130 |
+| 📥 inbox | 129 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 64 |
+| ✅ 今日完了 | 65 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1126 (うち24h+古い: 880) |
+| 📝 wiki/_inbox 未レビュー | 1127 (うち24h+古い: 881) |
 
 ### 処理中
-- ⚙️ **[626 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[626 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[631 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[625 分]** [School] 利用規約・特商法表記
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] 利用規約・特商法表記
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 46 件
 - newbiz : 368 件
 - ingest : 1 件
-- corp : 154 件
+- corp : 155 件
 - dev : 19 件
 
 ## 🔗 主要リンク

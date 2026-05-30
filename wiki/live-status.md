@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 06:42:47
+updated: 2026-05-31 06:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:42:47** | 🔥 **稼働中**
+**06:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **60%**
-- VRAM: 7023MB / 8151MB (**86.2%**)
+- 使用率: **3%**
+- VRAM: 7027MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **84.9%** (27.1GB / 31.9GB)
+- 使用率: **86.1%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 130 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 129 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 65 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [37667 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [37907 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [37547 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] 利用規約・特商法表記
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
 
 ## 🎯 判定
 
