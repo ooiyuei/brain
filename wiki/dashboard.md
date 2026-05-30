@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 02:11
+updated: 2026-05-31 02:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 02:11
+**最終更新**: 2026-05-31 02:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 114 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 32 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 33 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1094 (うち24h+古い: 845) |
+| 📝 wiki/_inbox 未レビュー | 1095 (うち24h+古い: 845) |
 
 ### 処理中
-- ⚙️ **[540 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[541 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[535 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 368 件
 - research : 42 件
-- newbiz : 349 件
+- newbiz : 350 件
 - ingest : 1 件
 - corp : 150 件
 - dev : 18 件
