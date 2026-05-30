@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 16:22:46
+updated: 2026-05-30 16:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:22:46** | 🔥 **稼働中**
+**16:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残25分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7009MB / 8151MB (**86%**)
+- 使用率: **3%**
+- VRAM: 7014MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **86%** (27.4GB / 31.9GB)
+- 使用率: **85.9%** (27.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 127 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 176 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 177 |
+
+## 🔄 処理中タスク
+
+- ⚡ [34786 秒経過] **[Money] AIpa Web 商工会経由営業文**
+- ⚡ [34786 秒経過] **[Money] Testall 親向けLP コピー改善**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [横断] 投資家向けピッチ1分版
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 判定
 

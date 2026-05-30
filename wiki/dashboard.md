@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 16:21
+updated: 2026-05-30 16:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 16:21
+**最終更新**: 2026-05-30 16:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 175 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 177 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 981 (うち24h+古い: 748) |
+| 📝 wiki/_inbox 未レビュー | 983 (うち24h+古い: 748) |
+
+### 処理中
+- ⚙️ **[579 分]** [Money] AIpa Web 商工会経由営業文
+- ⚙️ **[579 分]** [Money] Testall 親向けLP コピー改善
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客5社募集LP完全版
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [EEMUS] 提携高校候補20校リスト
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [横断] 投資家向けピッチ1分版
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -44,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 328 件
+- marketing : 330 件
 - research : 35 件
 - newbiz : 305 件
 - ingest : 1 件
