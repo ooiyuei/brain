@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 21:46:46
+updated: 2026-05-30 21:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:46:46** | 🔥 **稼働中**
+**21:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残25分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **82%**
-- VRAM: 7031MB / 8151MB (**86.3%**)
+- 使用率: **0%**
+- VRAM: 7035MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **85.7%** (27.4GB / 31.9GB)
+- 使用率: **85.2%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 236 |
-
-## 🔄 処理中タスク
-
-- ⚡ [35747 秒経過] **[School] 1年カリキュラム詳細v2**
+| 📥 inbox | 125 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 238 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] 親向けLP完全版
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [Testall] 教育者連携アプローチ
 
 ## 🎯 判定
 
