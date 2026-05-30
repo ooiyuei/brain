@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 18:18:46
+updated: 2026-05-30 18:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:18:46** | 🔥 **稼働中**
+**18:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7149MB / 8151MB (**87.7%**)
+- 使用率: **73%**
+- VRAM: 7009MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **54.4%** (17.4GB / 31.9GB)
+- 使用率: **82.7%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 127 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 197 |
+| ✅ 今日完了 | 198 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35868 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [35567 秒経過] **[Monitor] 競合動向Top3 - 2026-05-30**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Monitor] 競合動向Top3 - 2026-05-30
 - [high] [Monitor] ビジコン締切 - 2026-05-30
 - [high] [Monitor] 朝の問い - 2026-05-30
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 判定
 
