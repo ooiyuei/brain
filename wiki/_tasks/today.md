@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-31 02:24
+updated: 2026-05-31 02:29
 ---
 
 # Today 2026-05-30
@@ -27,7 +27,6 @@ updated: 2026-05-31 02:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 543分]** [School] 1年カリキュラム詳細v2
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
