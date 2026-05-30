@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 13:01
+updated: 2026-05-30 13:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 13:01
+**最終更新**: 2026-05-30 13:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 133 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 136 |
+| 📥 inbox | 129 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 139 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 951 (うち24h+古い: 721) |
+| 📝 wiki/_inbox 未レビュー | 954 (うち24h+古い: 721) |
 
 ### 処理中
-- ⚙️ **[614 分]** [Money] Testall 親向けLP コピー改善
+- ⚙️ **[619 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[605 分]** [横断] 投資家向けピッチ1分版
 
 ### Inbox 上位
-- [high] [Money] 6/21月収100万 残30日アクションプラン
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [School] 入学後30日プラン
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [横断] 15事業の優先順位再評価
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [EEMUS] MVP LP完全版
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 今日のフォーカス
 
@@ -47,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 318 件
+- marketing : 320 件
 - research : 40 件
-- newbiz : 285 件
+- newbiz : 286 件
 - ingest : 1 件
 - corp : 124 件
 - dev : 17 件
