@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 10:34
+updated: 2026-05-30 10:39
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,8 @@ updated: 2026-05-30 10:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 593分]** [横断] 投資家向けピッチ1分版
-- [ ] **[処理中 4分]** [BG-Business] agents-of-flag 現状診断
-- [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 592分]** [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 9分]** [BG-Business] agents-of-flag 現状診断
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
