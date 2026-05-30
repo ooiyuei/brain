@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 11:54
+updated: 2026-05-30 11:59
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,8 @@ updated: 2026-05-30 11:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 623分]** [AIpaX] β顧客80万提案書フル版
-- [ ] **[処理中 54分]** [BG-Competitive] Gusto
+- [ ] **[処理中 628分]** [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 59分]** [BG-Competitive] Gusto
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
