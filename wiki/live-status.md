@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 01:46:46
+updated: 2026-05-31 01:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:46:46** | 🔥 **稼働中**
+**01:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **84.1%** (26.8GB / 31.9GB)
+- 使用率: **84.8%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 118 |
+| 📥 inbox | 117 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 25 |
+| ✅ 今日完了 | 26 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32386 秒経過] **[Money] AIpa Web 商工会経由営業文**
+- ⚡ [32626 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] X『中高生×AI』20投稿
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
