@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 18:26
+updated: 2026-05-30 18:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 18:26
+**最終更新**: 2026-05-30 18:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,19 +16,19 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 126 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 199 |
+| ✅ 今日完了 | 200 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1004 (うち24h+古い: 759) |
+| 📝 wiki/_inbox 未レビュー | 1004 (うち24h+古い: 762) |
 
 ### 処理中
-- ⚙️ **[596 分]** [Monitor] ビジコン締切 - 2026-05-30
+- ⚙️ **[601 分]** [Monitor] 朝の問い - 2026-05-30
 
 ### Inbox 上位
-- [high] [Monitor] 朝の問い - 2026-05-30
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 今日のフォーカス
 
@@ -48,6 +48,7 @@ tags: [dashboard, system]
 ## 🌅 今朝の監視結果
 
 - [[_monitor/competitor-2026-05-30|competitor]]
+- [[_monitor/deadlines-2026-05-30|deadlines]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 

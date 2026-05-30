@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 18:30:46
+updated: 2026-05-30 18:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:30:46** | 🔥 **稼働中**
+**18:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,34 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7009MB / 8151MB (**86%**)
+- 使用率: **83%**
+- VRAM: 7011MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **82.4%** (26.3GB / 31.9GB)
+- 使用率: **85.7%** (27.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 200 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 202 |
+
+## 🔄 処理中タスク
+
+- ⚡ [35628 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Monitor] 朝の問い - 2026-05-30
-- [high] [EEMUS] MVP LP完全版
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
