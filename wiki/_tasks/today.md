@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-31 07:14
+updated: 2026-05-31 07:19
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,8 @@ updated: 2026-05-31 07:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 613分]** [Testall] Studyplus Planning徹底比較
-- [ ] **[処理中 607分]** [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
+- [ ] **[処理中 618分]** [Testall] Studyplus Planning徹底比較
+- [ ] [待機] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
 - [ ] [待機] [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
@@ -135,6 +135,8 @@ updated: 2026-05-31 07:14
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] 入学後30日プラン
+- [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
