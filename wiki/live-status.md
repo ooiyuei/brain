@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 01:42:46
+updated: 2026-05-31 01:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:42:46** | 🔥 **稼働中**
+**01:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7161MB / 8151MB (**87.9%**)
+- 使用率: **2%**
+- VRAM: 7021MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **55.1%** (17.6GB / 31.9GB)
+- 使用率: **84.1%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
+| 📥 inbox | 118 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 22 |
+| ✅ 今日完了 | 25 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [33707 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [32386 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] 教育者連携アプローチ
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
