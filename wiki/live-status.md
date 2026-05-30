@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 07:50:47
+updated: 2026-05-31 07:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:50:47** | 🔥 **稼働中**
+**07:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **76%**
-- VRAM: 7073MB / 8151MB (**86.8%**)
+- 使用率: **3%**
+- VRAM: 7076MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **82.8%** (26.4GB / 31.9GB)
+- 使用率: **85.3%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 135 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 72 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [38148 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [38387 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [38387 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [School] 入学後30日プラン
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
