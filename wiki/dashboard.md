@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 18:41
+updated: 2026-05-30 18:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 18:41
+**最終更新**: 2026-05-30 18:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 202 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 1005 (うち24h+古い: 765) |
 
 ### 処理中
-- ⚙️ **[600 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[605 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[599 分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ### Inbox 上位
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [School] 入学後30日プラン
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 今日のフォーカス
 
