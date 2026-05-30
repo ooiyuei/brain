@@ -1,14 +1,14 @@
 ---
 type: dashboard
-updated: 2026-05-31 04:41
+updated: 2026-05-31 04:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 04:41
+**最終更新**: 2026-05-31 04:46
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
@@ -18,11 +18,11 @@ tags: [dashboard, system]
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 46 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1108 (うち24h+古い: 862) |
+| 📝 wiki/_inbox 未レビュー | 1108 (うち24h+古い: 863) |
 
 ### 処理中
-- ⚙️ **[610 分]** [EEMUS] 連携企業候補20社
-- ⚙️ **[600 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[615 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[605 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
