@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 21:46
+updated: 2026-05-30 21:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 21:46
+**最終更新**: 2026-05-30 21:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,18 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 235 |
+| 📥 inbox | 125 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 239 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1038 (うち24h+古い: 797) |
-
-### 処理中
-- ⚙️ **[599 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
-- ⚙️ **[595 分]** [School] 1年カリキュラム詳細v2
+| 📝 wiki/_inbox 未レビュー | 1042 (うち24h+古い: 797) |
 
 ### Inbox 上位
-- [high] [Testall] コンテンツ戦略3ヶ月
-- [high] [School] 親向けLP完全版
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [Testall] 教育者連携アプローチ
+- [high] [EEMUS] ピッチデック10枚構成
 
 ## 🎯 今日のフォーカス
 
@@ -54,9 +50,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 348 件
+- marketing : 350 件
 - research : 39 件
-- newbiz : 326 件
+- newbiz : 328 件
 - ingest : 1 件
 - corp : 140 件
 - dev : 18 件
