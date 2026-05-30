@@ -23,11 +23,11 @@ managed_by: Claude (must update every session)
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-05-29
-**進捗**: 夢AWARD骨子 ❌未着手（14:00予定） / 静岡財団TEL ❌未着手 / Workspace設定 ❌未着手
-**PDCA**: inbox 0件昇格・3件削除（BG系全滅：qwen3:8bがooi profileを誤出力する根本バグ確認）
-**午後**: ①14:00 夢AWARD骨子セッション（大井）②静岡財団TEL（054-254-4511）③Workspace設定（Claude）④BG-Entities promptを qwen3.6:latest に昇格して再設計
-**詳細**: [[_routines/midday-20260529]]
+**日付**: 2026-05-30
+**進捗**: 夢AWARD骨子 ❌未着手（14:00本番） / 静岡財団TEL ❌未着手 / Digital AI補助金要件確認 ❌未着手（明日5/31締切）
+**PDCA**: 0件昇格・9件削除（studyplus比較7件=価格ハルシネ、stripe-setup2件=事業理解ゼロ）
+**午後**: ①14:00 夢AWARD骨子（大井）②静岡財団TEL 054-254-4511（Digital AI補助金同時確認）③OpenClaw617分処理中タスク異常確認
+**詳細**: [[_routines/midday-20260530]]
 
 ## 🌙 Tomorrow（2026-05-30）
 
