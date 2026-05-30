@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 05:16
+updated: 2026-05-31 05:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 05:16
+**最終更新**: 2026-05-31 05:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 129 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 53 |
+| ✅ 今日完了 | 54 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1115 (うち24h+古い: 866) |
+| 📝 wiki/_inbox 未レビュー | 1116 (うち24h+古い: 866) |
 
 ### 処理中
-- ⚙️ **[625 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[605 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[610 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[606 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 370 件
 - research : 44 件
-- newbiz : 363 件
+- newbiz : 364 件
 - ingest : 1 件
 - corp : 153 件
 - dev : 18 件
