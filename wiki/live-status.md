@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 15:50:46
+updated: 2026-05-30 15:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:50:46** | 🔥 **稼働中**
+**15:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **65%**
+- 使用率: **0%**
 - VRAM: 7009MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **84.2%** (26.9GB / 31.9GB)
+- 使用率: **84.6%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,16 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 131 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 165 |
-
-## 🔄 処理中タスク
-
-- ⚡ [37188 秒経過] **[横断] 投資家向けピッチ1分版**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 167 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 判定
 

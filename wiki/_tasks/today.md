@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 15:49
+updated: 2026-05-30 15:54
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,7 @@ updated: 2026-05-30 15:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 628分]** [School] 体験会2時間プログラム
-- [ ] [待機] [横断] 投資家向けピッチ1分版
-- [ ] [待機] [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 613分]** [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
@@ -139,6 +137,7 @@ updated: 2026-05-30 15:49
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [EEMUS] MVP LP完全版
+- [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
