@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 14:34
+updated: 2026-05-30 14:39
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,7 @@ updated: 2026-05-30 14:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 603分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] **[処理中 593分]** [AIpaX] 月次PL試算
+- [ ] **[処理中 608分]** [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
