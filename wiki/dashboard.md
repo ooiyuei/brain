@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 21:21
+updated: 2026-05-30 21:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 21:21
+**最終更新**: 2026-05-30 21:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 124 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 230 |
+| ✅ 今日完了 | 231 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1033 (うち24h+古い: 792) |
+| 📝 wiki/_inbox 未レビュー | 1034 (うち24h+古い: 794) |
 
 ### 処理中
-- ⚙️ **[590 分]** [School] 体験会2時間プログラム
-- ⚙️ **[580 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[585 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[579 分]** [Money] Testall 親向けLP コピー改善
 
 ### Inbox 上位
-- [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 今日のフォーカス
 
@@ -56,7 +56,7 @@ tags: [dashboard, system]
 
 - marketing : 346 件
 - research : 39 件
-- newbiz : 323 件
+- newbiz : 324 件
 - ingest : 1 件
 - corp : 140 件
 - dev : 18 件
