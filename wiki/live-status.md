@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 09:58:46
+updated: 2026-05-30 10:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:58:46** | 🔥 **稼働中**
+**10:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,35 +15,36 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残14分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残10分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **80%**
-- VRAM: 7017MB / 8151MB (**86.1%**)
+- 使用率: **0%**
+- VRAM: 7155MB / 8151MB (**87.8%**)
 
 ## 💾 RAM
 
-- 使用率: **83%** (26.5GB / 31.9GB)
+- 使用率: **84.4%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 124 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 126 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 104 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35027 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [35267 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [167 秒経過] **[BG-Entities] ai-juku 更新提案**
 
 ## 📥 待機タスク (上位5)
 
