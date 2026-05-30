@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 11:22:47
+updated: 2026-05-30 11:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:22:47** | 🔥 **稼働中**
+**11:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **57.3%** (18.3GB / 31.9GB)
+- 使用率: **56.5%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,8 +43,8 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [36107 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [1368 秒経過] **[BG-Competitive] Microsoft Copilot**
+- ⚡ [36347 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [1608 秒経過] **[BG-Competitive] Microsoft Copilot**
 
 ## 📥 待機タスク (上位5)
 

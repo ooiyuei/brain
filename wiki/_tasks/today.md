@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 11:19
+updated: 2026-05-30 11:24
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,8 @@ updated: 2026-05-30 11:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 604分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- [ ] **[処理中 19分]** [BG-Competitive] Microsoft Copilot
-- [ ] [待機] [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 603分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 24分]** [BG-Competitive] Microsoft Copilot
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
@@ -137,6 +136,7 @@ updated: 2026-05-30 11:19
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ

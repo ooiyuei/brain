@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 11:21
+updated: 2026-05-30 11:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 11:21
+**最終更新**: 2026-05-30 11:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 133 |
+| 📥 inbox | 132 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 116 |
+| ✅ 今日完了 | 117 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 935 (うち24h+古い: 718) |
+| 📝 wiki/_inbox 未レビュー | 936 (うち24h+古い: 718) |
 
 ### 処理中
-- ⚙️ **[606 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[21 分]** [BG-Competitive] Microsoft Copilot
+- ⚙️ **[605 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[26 分]** [BG-Competitive] Microsoft Copilot
 
 ### Inbox 上位
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] MVP LP完全版
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 37 件
 - newbiz : 283 件
 - ingest : 1 件
-- corp : 119 件
+- corp : 120 件
 - dev : 17 件
 
 ## 🔗 主要リンク
