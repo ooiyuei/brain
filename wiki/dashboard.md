@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 17:36
+updated: 2026-05-30 17:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 17:36
+**最終更新**: 2026-05-30 17:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 124 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 191 |
+| ✅ 今日完了 | 194 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 997 (うち24h+古い: 754) |
+| 📝 wiki/_inbox 未レビュー | 1000 (うち24h+古い: 754) |
 
 ### 処理中
-- ⚙️ **[589 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[570 分]** [School] 体験会2時間プログラム
 
 ### Inbox 上位
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [EEMUS] 連携企業候補20社
+- [high] [Monitor] 競合動向Top3 - 2026-05-30
+- [high] [Monitor] ビジコン締切 - 2026-05-30
 
 ## 🎯 今日のフォーカス
 
@@ -47,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 333 件
+- marketing : 335 件
 - research : 37 件
 - newbiz : 311 件
 - ingest : 1 件
-- corp : 132 件
+- corp : 133 件
 - dev : 17 件
 
 ## 🔗 主要リンク

@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 17:34
+updated: 2026-05-30 17:39
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,7 @@ updated: 2026-05-30 17:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 578分]** [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
