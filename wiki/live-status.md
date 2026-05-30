@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 13:22:47
+updated: 2026-05-30 13:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:22:47** | 🔥 **稼働中**
+**13:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **4%**
-- VRAM: 7149MB / 8151MB (**87.7%**)
+- VRAM: 7287MB / 8151MB (**89.4%**)
 
 ## 💾 RAM
 
-- 使用率: **52.3%** (16.7GB / 31.9GB)
+- 使用率: **56.3%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 130 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 142 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36707 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [36947 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [36708 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 判定
 

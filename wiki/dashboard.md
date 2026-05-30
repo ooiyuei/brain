@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 13:21
+updated: 2026-05-30 13:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 13:21
+**最終更新**: 2026-05-30 13:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
+| 📥 inbox | 130 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 141 |
+| ✅ 今日完了 | 142 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 947 (うち24h+古い: 723) |
+| 📝 wiki/_inbox 未レビュー | 948 (うち24h+古い: 724) |
 
 ### 処理中
-- ⚙️ **[610 分]** [横断] 15事業の優先順位再評価
-- ⚙️ **[606 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- ⚙️ **[615 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[611 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 34 件
 - newbiz : 287 件
 - ingest : 1 件
-- corp : 124 件
+- corp : 125 件
 - dev : 15 件
 
 ## 🔗 主要リンク
