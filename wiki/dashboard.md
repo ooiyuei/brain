@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 05:11
+updated: 2026-05-31 05:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 05:11
+**最終更新**: 2026-05-31 05:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
+| 📥 inbox | 129 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 52 |
+| ✅ 今日完了 | 53 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1114 (うち24h+古い: 865) |
+| 📝 wiki/_inbox 未レビュー | 1115 (うち24h+古い: 866) |
 
 ### 処理中
-- ⚙️ **[620 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[610 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[625 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[605 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
-- [high] [横断] 15事業の優先順位再評価
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 370 件
-- research : 43 件
+- research : 44 件
 - newbiz : 363 件
 - ingest : 1 件
 - corp : 153 件
