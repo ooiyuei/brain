@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 12:34
+updated: 2026-05-30 12:39
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,7 @@ updated: 2026-05-30 12:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 643分]** [School] 利用規約・特商法表記
-- [ ] [待機] [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 628分]** [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
