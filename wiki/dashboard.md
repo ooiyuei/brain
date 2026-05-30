@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 12:31
+updated: 2026-05-30 12:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 12:31
+**最終更新**: 2026-05-30 12:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,18 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 135 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 128 |
+| 📥 inbox | 134 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 130 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 943 (うち24h+古い: 720) |
-
-### 処理中
-- ⚙️ **[640 分]** [School] 利用規約・特商法表記
+| 📝 wiki/_inbox 未レビュー | 945 (うち24h+古い: 720) |
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -47,11 +44,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 315 件
+- marketing : 316 件
 - research : 38 件
 - newbiz : 284 件
 - ingest : 1 件
-- corp : 122 件
+- corp : 123 件
 - dev : 17 件
 
 ## 🔗 主要リンク
