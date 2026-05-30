@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 22:18:46
+updated: 2026-05-30 22:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:18:46** | 🔥 **稼働中**
+**22:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残23分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残19分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7038MB / 8151MB (**86.3%**)
+- 使用率: **0%**
+- VRAM: 7034MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **84.1%** (26.9GB / 31.9GB)
+- 使用率: **84.8%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 245 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 246 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34306 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
-- ⚡ [34306 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [34546 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
 
 ## 📥 待機タスク (上位5)
 
