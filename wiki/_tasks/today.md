@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 18:04
+updated: 2026-05-30 18:09
 ---
 
 # Today 2026-05-30
@@ -27,7 +27,7 @@ updated: 2026-05-30 18:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 583分]** [EEMUS] 連携企業候補20社
+- [ ] **[処理中 588分]** [EEMUS] 連携企業候補20社
 - [ ] [待機] [Monitor] 競合動向Top3 - 2026-05-30
 - [ ] [待機] [Monitor] ビジコン締切 - 2026-05-30
 - [ ] [待機] [Monitor] 朝の問い - 2026-05-30
