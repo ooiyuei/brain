@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 22:21
+updated: 2026-05-30 22:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 22:21
+**最終更新**: 2026-05-30 22:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 246 |
+| ✅ 今日完了 | 247 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1049 (うち24h+古い: 803) |
+| 📝 wiki/_inbox 未レビュー | 1050 (うち24h+古い: 803) |
 
 ### 処理中
-- ⚙️ **[574 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[575 分]** [AIpaX] β顧客候補30社プロファイル
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 親FAQ 30問
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 今日のフォーカス
 
@@ -57,7 +57,7 @@ tags: [dashboard, system]
 - research : 41 件
 - newbiz : 330 件
 - ingest : 1 件
-- corp : 142 件
+- corp : 143 件
 - dev : 18 件
 
 ## 🔗 主要リンク
