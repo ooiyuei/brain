@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 11:10:47
+updated: 2026-05-30 11:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:10:47** | 🔥 **稼働中**
+**11:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7157MB / 8151MB (**87.8%**)
+- 使用率: **78%**
+- VRAM: 7152MB / 8151MB (**87.7%**)
 
 ## 💾 RAM
 
-- 使用率: **54.3%** (17.3GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
+| 📥 inbox | 130 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 114 |
+| ✅ 今日完了 | 116 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35987 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [648 秒経過] **[BG-Competitive] ChatGPT Team**
+- ⚡ [35988 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [888 秒経過] **[BG-Competitive] Microsoft Copilot**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] MVP LP完全版
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 判定
 
