@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 11:34
+updated: 2026-05-30 11:39
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,8 @@ updated: 2026-05-30 11:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 613分]** [Testall] Studyplus Planning徹底比較
-- [ ] **[処理中 34分]** [BG-Competitive] Salesforce Einstein
-- [ ] [待機] [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 608分]** [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 39分]** [BG-Competitive] Salesforce Einstein
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
