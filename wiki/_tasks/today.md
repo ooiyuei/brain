@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 10:14
+updated: 2026-05-30 10:19
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,8 @@ updated: 2026-05-30 10:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 583分]** [EEMUS] ピッチデック10枚構成
-- [ ] **[処理中 14分]** [BG-Entities] ai-juku 更新提案
+- [ ] **[処理中 588分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 19分]** [BG-Entities] business-contests-expanded 更新提案
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [School] 親FAQ 30問
@@ -133,6 +133,8 @@ updated: 2026-05-30 10:14
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
+- [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
@@ -154,7 +156,6 @@ updated: 2026-05-30 10:14
 - [ ] [待機] [BG-Contests] バッチ9 (81-90)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-30
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
-- [ ] [待機] [BG-Entities] business-contests-expanded 更新提案
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
