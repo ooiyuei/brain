@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 01:14:47
+updated: 2026-05-31 01:18:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:14:47** | 🔥 **稼働中**
+**01:18:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **82%**
-- VRAM: 7024MB / 8151MB (**86.2%**)
+- 使用率: **0%**
+- VRAM: 7021MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **83.9%** (26.8GB / 31.9GB)
+- 使用率: **85.8%** (27.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 17 |
-
-## 🔄 処理中タスク
-
-- ⚡ [33828 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+| 📥 inbox | 122 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 19 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 連携企業候補20社
+- [high] [Testall] 教育者連携アプローチ
 
 ## 🎯 判定
 
