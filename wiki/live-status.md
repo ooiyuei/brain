@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 04:14:46
+updated: 2026-05-31 04:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:14:46** | 🔥 **稼働中**
+**04:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,34 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7023MB / 8151MB (**86.2%**)
+- 使用率: **4%**
+- VRAM: 7025MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **84.4%** (26.9GB / 31.9GB)
+- 使用率: **85.5%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 126 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 45 |
+
+## 🔄 処理中タスク
+
+- ⚡ [35865 秒経過] **[School] 1年カリキュラム詳細v2**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] AIpaX 既存4社 アップセル提案
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 判定
 
