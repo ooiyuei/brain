@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 08:21
+updated: 2026-05-31 08:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 08:21
+**最終更新**: 2026-05-31 08:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 136 |
+| 📥 inbox | 135 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 77 |
+| ✅ 今日完了 | 78 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1139 (うち24h+古い: 898) |
+| 📝 wiki/_inbox 未レビュー | 1140 (うち24h+古い: 899) |
 
 ### 処理中
-- ⚙️ **[640 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[639 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ### Inbox 上位
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] β顧客80万提案書フル版
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +51,7 @@ tags: [dashboard, system]
 - research : 47 件
 - newbiz : 373 件
 - ingest : 1 件
-- corp : 158 件
+- corp : 159 件
 - dev : 19 件
 
 ## 🔗 主要リンク
