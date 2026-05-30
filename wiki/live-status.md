@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 10:42:46
+updated: 2026-05-30 10:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:42:46** | 🔥 **稼働中**
+**10:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7292MB / 8151MB (**89.5%**)
+- 使用率: **2%**
+- VRAM: 7013MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **57.2%** (18.2GB / 31.9GB)
+- 使用率: **83.3%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 109 |
+| 📥 inbox | 127 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 111 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35747 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
-- ⚡ [768 秒経過] **[BG-Business] agents-of-flag 現状診断**
+- ⚡ [35987 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 
