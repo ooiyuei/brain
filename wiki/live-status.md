@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 15:54:46
+updated: 2026-05-30 15:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:54:46** | 🔥 **稼働中**
+**15:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **84.6%** (27GB / 31.9GB)
+- 使用率: **84%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,17 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
+| 📥 inbox | 130 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 167 |
+| ✅ 今日完了 | 168 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
