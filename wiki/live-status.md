@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 04:54:47
+updated: 2026-05-31 04:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:54:47** | 🔥 **稼働中**
+**04:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
+- 使用率: **3%**
 - VRAM: 7026MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **83.4%** (26.6GB / 31.9GB)
+- 使用率: **82.8%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 130 |
+| 📥 inbox | 129 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 48 |
+| ✅ 今日完了 | 49 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36466 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
-- ⚡ [36466 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [36706 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [36706 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [横断] 15事業の優先順位再評価
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
