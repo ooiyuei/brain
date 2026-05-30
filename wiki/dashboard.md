@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 18:21
+updated: 2026-05-30 18:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 18:21
+**最終更新**: 2026-05-30 18:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 127 |
+| 📥 inbox | 126 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 198 |
+| ✅ 今日完了 | 199 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1004 (うち24h+古い: 758) |
+| 📝 wiki/_inbox 未レビュー | 1004 (うち24h+古い: 759) |
 
 ### 処理中
-- ⚙️ **[591 分]** [Monitor] 競合動向Top3 - 2026-05-30
+- ⚙️ **[596 分]** [Monitor] ビジコン締切 - 2026-05-30
 
 ### Inbox 上位
-- [high] [Monitor] ビジコン締切 - 2026-05-30
 - [high] [Monitor] 朝の問い - 2026-05-30
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 今日のフォーカス
 
@@ -44,6 +44,10 @@ tags: [dashboard, system]
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 20 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 1/4 |
 | ⚔️ 競合監視 (3日サイクル) | 15/15 社 |
+
+## 🌅 今朝の監視結果
+
+- [[_monitor/competitor-2026-05-30|competitor]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
