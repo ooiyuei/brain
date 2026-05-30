@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 12:22:46
+updated: 2026-05-30 12:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:22:46** | 🔥 **稼働中**
+**12:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残25分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7012MB / 8151MB (**86%**)
+- 使用率: **2%**
+- VRAM: 7016MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **83.3%** (26.6GB / 31.9GB)
+- 使用率: **84.2%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,17 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 137 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 126 |
+| 📥 inbox | 135 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 127 |
+
+## 🔄 処理中タスク
+
+- ⚡ [38386 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [School] 利用規約・特商法表記
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 判定
 
