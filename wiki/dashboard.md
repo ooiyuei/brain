@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 20:36
+updated: 2026-05-30 20:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 20:36
+**最終更新**: 2026-05-30 20:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 121 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 225 |
+| ✅ 今日完了 | 226 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1028 (うち24h+古い: 780) |
+| 📝 wiki/_inbox 未レビュー | 1029 (うち24h+古い: 781) |
 
 ### 処理中
-- ⚙️ **[585 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[565 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[570 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[566 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 今日のフォーカス
 
@@ -56,7 +56,7 @@ tags: [dashboard, system]
 
 - marketing : 345 件
 - research : 39 件
-- newbiz : 320 件
+- newbiz : 321 件
 - ingest : 1 件
 - corp : 139 件
 - dev : 18 件
