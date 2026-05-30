@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 07:21
+updated: 2026-05-31 07:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 07:21
+**最終更新**: 2026-05-31 07:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
+| 📥 inbox | 129 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 70 |
+| ✅ 今日完了 | 71 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1132 (うち24h+古い: 887) |
+| 📝 wiki/_inbox 未レビュー | 1133 (うち24h+古い: 889) |
 
 ### 処理中
-- ⚙️ **[620 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[619 分]** [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 
 ### Inbox 上位
-- [high] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
-- [high] [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [School] 入学後30日プラン
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 372 件
-- research : 46 件
+- research : 47 件
 - newbiz : 371 件
 - ingest : 1 件
 - corp : 157 件
