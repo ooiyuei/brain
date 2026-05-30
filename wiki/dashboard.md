@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 00:01
+updated: 2026-05-31 00:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 00:01
+**最終更新**: 2026-05-31 00:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1062 (うち24h+古い: 820) |
 
 ### 処理中
-- ⚙️ **[610 分]** [School] 1年カリキュラム詳細v2
-- ⚙️ **[600 分]** [School] 体験会2時間プログラム
+- ⚙️ **[615 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[605 分]** [School] 体験会2時間プログラム
 
 ### Inbox 上位
 - [high] [School] X『中高生×AI』20投稿
