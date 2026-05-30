@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 09:30:47
+updated: 2026-05-30 09:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:30:47** | 🔥 **稼働中**
+**09:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **8%**
-- VRAM: 7155MB / 8151MB (**87.8%**)
+- 使用率: **78%**
+- VRAM: 7018MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **55.2%** (17.6GB / 31.9GB)
+- 使用率: **84.2%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 97 |
+| 📥 inbox | 127 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 98 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35987 秒経過] **[School] 親向けLP完全版**
+- ⚡ [35626 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [35026 秒経過] **[AIpaX] 月次PL試算**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
-- [high] [AIpaX] 月次PL試算
 - [high] [School] 親FAQ 30問
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [Testall] 教育者連携アプローチ
 
 ## 🎯 判定
 
