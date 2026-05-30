@@ -1,14 +1,14 @@
 ---
 type: dashboard
-updated: 2026-05-31 00:11
+updated: 2026-05-31 00:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 00:11
+**最終更新**: 2026-05-31 00:16
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 128 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 0 |
+| ✅ 今日完了 | 2 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1062 (うち24h+古い: 821) |
+| 📝 wiki/_inbox 未レビュー | 1064 (うち24h+古い: 823) |
 
 ### 処理中
-- ⚙️ **[620 分]** [School] 1年カリキュラム詳細v2
-- ⚙️ **[610 分]** [School] 体験会2時間プログラム
+- ⚙️ **[625 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[601 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 354 件
+- marketing : 355 件
 - research : 41 件
-- newbiz : 337 件
+- newbiz : 338 件
 - ingest : 1 件
 - corp : 145 件
 - dev : 18 件
