@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 22:11
+updated: 2026-05-30 22:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 22:11
+**最終更新**: 2026-05-30 22:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 122 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 243 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 244 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1046 (うち24h+古い: 798) |
+| 📝 wiki/_inbox 未レビュー | 1047 (うち24h+古い: 800) |
 
 ### 処理中
-- ⚙️ **[570 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[569 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[569 分]** [Money] 紹介プログラム 5事業横断ルール
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 親FAQ 30問
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 今日のフォーカス
 
@@ -55,7 +56,7 @@ tags: [dashboard, system]
 
 - marketing : 351 件
 - research : 40 件
-- newbiz : 329 件
+- newbiz : 330 件
 - ingest : 1 件
 - corp : 141 件
 - dev : 18 件
