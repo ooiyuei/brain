@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 18:31
+updated: 2026-05-30 18:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 18:31
+**最終更新**: 2026-05-30 18:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
+| 📥 inbox | 124 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 200 |
+| ✅ 今日完了 | 202 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1004 (うち24h+古い: 762) |
+| 📝 wiki/_inbox 未レビュー | 1005 (うち24h+古い: 763) |
 
 ### 処理中
-- ⚙️ **[601 分]** [Monitor] 朝の問い - 2026-05-30
+- ⚙️ **[595 分]** [横断] Stripe決済設定 5事業ロードマップ
 
 ### Inbox 上位
-- [high] [EEMUS] MVP LP完全版
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [School] 入学後30日プラン
 
 ## 🎯 今日のフォーカス
 
@@ -49,10 +49,11 @@ tags: [dashboard, system]
 
 - [[_monitor/competitor-2026-05-30|competitor]]
 - [[_monitor/deadlines-2026-05-30|deadlines]]
+- [[_monitor/grill-2026-05-30|grill]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 335 件
+- marketing : 336 件
 - research : 37 件
 - newbiz : 314 件
 - ingest : 1 件
