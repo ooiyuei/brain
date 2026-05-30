@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 02:30:47
+updated: 2026-05-31 02:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:30:47** | 🔥 **稼働中**
+**02:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **70%**
-- VRAM: 7021MB / 8151MB (**86.1%**)
+- 使用率: **69%**
+- VRAM: 7024MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **82.9%** (26.5GB / 31.9GB)
+- 使用率: **84.8%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 114 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 35 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32388 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [32627 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [32027 秒経過] **[Testall] コンテンツ戦略3ヶ月**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [横断] 15事業の優先順位再評価
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 
