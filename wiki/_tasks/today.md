@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-31 05:54
+updated: 2026-05-31 05:59
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,7 @@ updated: 2026-05-31 05:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 613分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 607分]** [Money] EEMUS 連携企業5社 具体接触メール
+- [ ] **[処理中 618分]** [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
