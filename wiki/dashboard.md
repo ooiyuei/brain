@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 11:51
+updated: 2026-05-30 11:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 11:51
+**最終更新**: 2026-05-30 11:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 937 (うち24h+古い: 719) |
 
 ### 処理中
-- ⚙️ **[620 分]** [AIpaX] β顧客80万提案書フル版
-- ⚙️ **[51 分]** [BG-Competitive] Gusto
+- ⚙️ **[625 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[56 分]** [BG-Competitive] Gusto
 
 ### Inbox 上位
 - [high] [EEMUS] MVP LP完全版
