@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 08:51
+updated: 2026-05-31 08:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 08:51
+**最終更新**: 2026-05-31 08:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 139 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 138 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 83 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1145 (うち24h+古い: 905) |
+| 📝 wiki/_inbox 未レビュー | 1145 (うち24h+古い: 906) |
 
 ### 処理中
-- ⚙️ **[640 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[645 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[641 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 入学後30日プラン
 - [high] [Testall] X受験あるある投稿30本
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
