@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-31 06:59
+updated: 2026-05-31 07:04
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,8 @@ updated: 2026-05-31 06:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 628分]** [AIpaX] β顧客80万提案書フル版
-- [ ] [待機] [EEMUS] ピッチデック10枚構成
-- [ ] [待機] [School] 利用規約・特商法表記
+- [ ] **[処理中 623分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 613分]** [School] 利用規約・特商法表記
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
 - [ ] [待機] [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
@@ -136,6 +135,7 @@ updated: 2026-05-31 06:59
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] 体験会2時間プログラム
+- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
