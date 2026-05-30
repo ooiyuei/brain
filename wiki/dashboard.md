@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 07:26
+updated: 2026-05-31 07:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 07:26
+**最終更新**: 2026-05-31 07:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,14 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 129 |
+| 📥 inbox | 131 |
 | ⚙️ processing | 1 |
 | ✅ 今日完了 | 71 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 1133 (うち24h+古い: 889) |
 
 ### 処理中
-- ⚙️ **[619 分]** [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
+- ⚙️ **[2 分]** [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 
 ### Inbox 上位
 - [high] [AIpaX] β顧客候補30社プロファイル
