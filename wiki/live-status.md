@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 01:50:46
+updated: 2026-05-31 01:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:50:46** | 🔥 **稼働中**
+**01:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7021MB / 8151MB (**86.1%**)
+- VRAM: 7026MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **84.8%** (27.1GB / 31.9GB)
+- 使用率: **84.9%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 117 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 26 |
+| 📥 inbox | 116 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 27 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [32626 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
+- ⚡ [32866 秒経過] **[Money] Testall 親向けLP コピー改善**
+- ⚡ [32866 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 親向けLP コピー改善
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
