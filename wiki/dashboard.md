@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 17:56
+updated: 2026-05-30 18:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 17:56
+**最終更新**: 2026-05-30 18:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,19 +16,19 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 124 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 196 |
+| ✅ 今日完了 | 197 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1002 (うち24h+古い: 756) |
+| 📝 wiki/_inbox 未レビュー | 1003 (うち24h+古い: 756) |
 
 ### 処理中
-- ⚙️ **[581 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[580 分]** [EEMUS] 連携企業候補20社
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
 - [high] [Monitor] 競合動向Top3 - 2026-05-30
 - [high] [Monitor] ビジコン締切 - 2026-05-30
 - [high] [Monitor] 朝の問い - 2026-05-30
 - [high] [EEMUS] MVP LP完全版
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 335 件
 - research : 37 件
-- newbiz : 312 件
+- newbiz : 313 件
 - ingest : 1 件
 - corp : 134 件
 - dev : 17 件
