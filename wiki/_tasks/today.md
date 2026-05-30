@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 11:29
+updated: 2026-05-30 11:34
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,8 @@ updated: 2026-05-30 11:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 608分]** [Testall] Studyplus Planning徹底比較
-- [ ] **[処理中 29分]** [BG-Competitive] Microsoft Copilot
+- [ ] **[処理中 613分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 34分]** [BG-Competitive] Salesforce Einstein
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
@@ -137,6 +137,7 @@ updated: 2026-05-30 11:29
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
+- [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
@@ -158,7 +159,6 @@ updated: 2026-05-30 11:29
 - [ ] [待機] [BG-Contests] バッチ9 (81-90)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-30
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
-- [ ] [待機] [BG-Competitive] Salesforce Einstein
 - [ ] [待機] [BG-Competitive] Gusto
 - [ ] [待機] [BG-Competitive] Manebi
 
