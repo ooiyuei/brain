@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 06:46:47
+updated: 2026-05-31 06:50:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:46:47** | 🔥 **稼働中**
+**06:50:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7027MB / 8151MB (**86.2%**)
+- 使用率: **5%**
+- VRAM: 7302MB / 8151MB (**89.6%**)
 
 ## 💾 RAM
 
-- 使用率: **86.1%** (27.5GB / 31.9GB)
+- 使用率: **58.9%** (18.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 129 |
+| 📥 inbox | 128 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 65 |
+| ✅ 今日完了 | 66 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [37907 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
-- ⚡ [37547 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [37788 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [37187 秒経過] **[AIpaX] β顧客80万提案書フル版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] 利用規約・特商法表記
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Evening] EEMUS 夢AWARD応募ストーリー骨子 叩き台
+- [high] [Evening] Digital AI補助金2026 要件詳細・第2次締切調査
 
 ## 🎯 判定
 
