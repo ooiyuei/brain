@@ -29,26 +29,26 @@ managed_by: Claude (must update every session)
 **午後**: ①14:00 夢AWARD骨子（大井）②静岡財団TEL 054-254-4511（Digital AI補助金同時確認）③OpenClaw617分処理中タスク異常確認
 **詳細**: [[_routines/midday-20260530]]
 
-## 🌙 Tomorrow（2026-05-30）
+## 🌙 Tomorrow（2026-05-31）
 
-**最優先**: **夢AWARD応募骨子を書く** — 6/7締切・残**8日**。5日連続未着手。今日こそ骨子30分。大井のみ（Claudeは「骨子出して」で叩き台即生成）
-**サブ①**: 静岡産業振興財団 TEL（054-254-4511）— 最大200万・残8日。午前中に電話1本。大井のみ。
-**サブ②**: Mac obsidian-git 自動push設定（[[00_YUEI/工場-使い方]]）— 大井1クリック → 外出先から工場フル稼働
-**詳細**: [[_routines/evening-20260529]]
+**最優先**: ⚠️**Digital AI補助金2026 要件確認** — 今日が第1次締切(5/31)。朝一でWeb or 静岡財団TEL(054-254-4511)。第2次(8月末)狙い根拠の確認だけでも。
+**サブ①**: **夢AWARD応募骨子を書く** — 6/7締切・残**7日**。9日連続積み残し。朝30分だけ。Claudeが叩き台を今夜生成済み。
+**サブ②**: 静岡産業振興財団 TEL（054-254-4511）— Digital AI補助金確認と同時に午前中に1本。
+**詳細**: [[_routines/evening-20260530]]
 
 ---
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-05-30 朝 — 朝ルーティン (morning-20260530生成/today.md更新/hot.md更新)
+**Last session**: 2026-05-30 夜 — 夜ルーティン (evening-20260530生成/done.md更新/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/morning-20260530.md` (朝メモ生成)
-- `brain/wiki/_tasks/today.md` (5/30版に更新)
-- `brain/wiki/hot.md` (Today section 5/30更新)
+- `brain/wiki/_routines/evening-20260530.md` (夜メモ生成)
+- `brain/wiki/_tasks/done.md` (5/30完了追記)
+- `brain/wiki/hot.md` (Tomorrow 5/31更新)
 
-**現在の Mode**: 朝ルーティン完了
-**完了**: 朝の作戦会議 / Digital AI補助金2026緊急フラグ確認
-**未完**: 夢AWARD骨子（7日連続・今日絶対）/ 静岡財団TEL(054-254-4511) / Digital AI補助金要件確認(明日5/31締切) / Mac obsidian-git自動push
+**現在の Mode**: 夜ルーティン完了
+**完了**: 昼チェック9件削除 / 夜ルーティン
+**未完**: 夢AWARD骨子（9日連続！残7日）/ 静岡財団TEL / Digital AI補助金要件確認(今日5/31締切・朝一必須)
 
 ---
 
