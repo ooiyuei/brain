@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 01:26
+updated: 2026-05-31 01:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 01:26
+**最終更新**: 2026-05-31 01:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 120 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 20 |
+| ✅ 今日完了 | 21 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1082 (うち24h+古い: 838) |
+| 📝 wiki/_inbox 未レビュー | 1083 (うち24h+古い: 839) |
 
 ### 処理中
-- ⚙️ **[551 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[551 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[556 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[550 分]** [EEMUS] 連携企業候補20社
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] 教育者連携アプローチ
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 42 件
 - newbiz : 346 件
 - ingest : 1 件
-- corp : 148 件
+- corp : 149 件
 - dev : 18 件
 
 ## 🔗 主要リンク
