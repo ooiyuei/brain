@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 14:21
+updated: 2026-05-30 14:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 14:21
+**最終更新**: 2026-05-30 14:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 154 |
+| 📥 inbox | 128 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 156 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 960 (うち24h+古い: 732) |
+| 📝 wiki/_inbox 未レビュー | 962 (うち24h+古い: 732) |
 
 ### 処理中
-- ⚙️ **[610 分]** [横断] 投資家向けピッチ1分版
+- ⚙️ **[611 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[595 分]** [AIpaX] β顧客候補30社プロファイル
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 親向けLP完全版
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -47,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 324 件
+- marketing : 325 件
 - research : 34 件
-- newbiz : 293 件
+- newbiz : 294 件
 - ingest : 1 件
 - corp : 127 件
 - dev : 15 件

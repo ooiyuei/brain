@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 14:22:46
+updated: 2026-05-30 14:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:22:46** | 🔥 **稼働中**
+**14:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7149MB / 8151MB (**87.7%**)
+- 使用率: **0%**
+- VRAM: 7012MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **54.1%** (17.3GB / 31.9GB)
+- 使用率: **83.6%** (26.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 131 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 154 |
+| 📥 inbox | 128 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 156 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36708 秒経過] **[横断] 投資家向けピッチ1分版**
+- ⚡ [36707 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [35746 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 親向けLP完全版
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 判定
 
