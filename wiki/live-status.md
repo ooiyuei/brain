@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 12:14:46
+updated: 2026-05-30 12:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:14:46** | 🔥 **稼働中**
+**12:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7291MB / 8151MB (**89.4%**)
+- 使用率: **2%**
+- VRAM: 7012MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **82.8%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 135 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 123 |
+| 📥 inbox | 136 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 125 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [37666 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
-- ⚡ [4487 秒経過] **[BG-Competitive] Manebi**
+- ⚡ [37906 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [School] 利用規約・特商法表記
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 

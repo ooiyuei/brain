@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 12:11
+updated: 2026-05-30 12:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 12:11
+**最終更新**: 2026-05-30 12:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 135 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 123 |
+| 📥 inbox | 137 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 124 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 939 (うち24h+古い: 719) |
 
 ### 処理中
-- ⚙️ **[624 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
-- ⚙️ **[71 分]** [BG-Competitive] Manebi
+- ⚙️ **[629 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ### Inbox 上位
 - [high] [Money] AIpa Web 商工会経由営業文
