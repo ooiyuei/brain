@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 10:02:46
+updated: 2026-05-30 10:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:02:46** | 🔥 **稼働中**
+**10:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残10分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7155MB / 8151MB (**87.8%**)
+- VRAM: 7293MB / 8151MB (**89.5%**)
 
 ## 💾 RAM
 
-- 使用率: **84.4%** (26.9GB / 31.9GB)
+- 使用率: **57.2%** (18.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
+| 📥 inbox | 125 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 104 |
+| ✅ 今日完了 | 105 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35267 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
-- ⚡ [167 秒経過] **[BG-Entities] ai-juku 更新提案**
+- ⚡ [34546 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [407 秒経過] **[BG-Entities] ai-juku 更新提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [School] 親FAQ 30問
 - [high] [横断] 投資家向けピッチ1分版
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 
