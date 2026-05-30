@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 03:01
+updated: 2026-05-31 03:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 03:01
+**最終更新**: 2026-05-31 03:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1097 (うち24h+古い: 849) |
 
 ### 処理中
-- ⚙️ **[570 分]** [EEMUS] ピッチデック10枚構成
-- ⚙️ **[560 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[575 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[565 分]** [Testall] コンテンツ戦略3ヶ月
 
 ### Inbox 上位
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
