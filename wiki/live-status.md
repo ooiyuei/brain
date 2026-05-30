@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 12:06:46
+updated: 2026-05-30 12:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:06:46** | 🔥 **稼働中**
+**12:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,39 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **9%**
+- 使用率: **10%**
 - VRAM: 7291MB / 8151MB (**89.4%**)
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **56.9%** (18.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 136 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 122 |
+| 📥 inbox | 134 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 123 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [4007 秒経過] **[BG-Competitive] Manebi**
+- ⚡ [37426 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
+- ⚡ [4247 秒経過] **[BG-Competitive] Manebi**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [School] 利用規約・特商法表記
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
