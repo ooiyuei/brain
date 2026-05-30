@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 08:26
+updated: 2026-05-31 08:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 08:26
+**最終更新**: 2026-05-31 08:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 135 |
+| 📥 inbox | 138 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 78 |
+| ✅ 今日完了 | 79 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1140 (うち24h+古い: 899) |
+| 📝 wiki/_inbox 未レビュー | 1141 (うち24h+古い: 899) |
 
 ### 処理中
-- ⚙️ **[639 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- ⚙️ **[644 分]** [Money] AIpa Web 商工会経由営業文
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] 連携企業候補20社
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 375 件
+- marketing : 376 件
 - research : 47 件
 - newbiz : 373 件
 - ingest : 1 件
