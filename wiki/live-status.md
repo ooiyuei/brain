@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 10:10:46
+updated: 2026-05-30 10:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:10:46** | 🔥 **稼働中**
+**10:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -37,14 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 126 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 105 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34786 秒経過] **[EEMUS] ピッチデック10枚構成**
-- ⚡ [647 秒経過] **[BG-Entities] ai-juku 更新提案**
+- ⚡ [35026 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [887 秒経過] **[BG-Entities] ai-juku 更新提案**
 
 ## 📥 待機タスク (上位5)
 
