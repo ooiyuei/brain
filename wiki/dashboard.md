@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 20:56
+updated: 2026-05-30 21:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 20:56
+**最終更新**: 2026-05-30 21:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,19 +16,19 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 122 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 227 |
+| ✅ 今日完了 | 228 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1030 (うち24h+古い: 785) |
+| 📝 wiki/_inbox 未レビュー | 1031 (うち24h+古い: 787) |
 
 ### 処理中
-- ⚙️ **[585 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[586 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 今日のフォーカス
 
@@ -55,7 +55,7 @@ tags: [dashboard, system]
 
 - marketing : 345 件
 - research : 39 件
-- newbiz : 321 件
+- newbiz : 322 件
 - ingest : 1 件
 - corp : 140 件
 - dev : 18 件
