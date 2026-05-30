@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 16:01
+updated: 2026-05-30 16:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 16:01
+**最終更新**: 2026-05-30 16:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 130 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 169 |
+| 📥 inbox | 127 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 171 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 975 (うち24h+古い: 748) |
+| 📝 wiki/_inbox 未レビュー | 977 (うち24h+古い: 748) |
+
+### 処理中
+- ⚙️ **[591 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [School] note『AI時代に子供に渡したいもの』
-- [high] [School] 1年カリキュラム詳細v2
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [School] 入学後30日プラン
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 今日のフォーカス
 
@@ -44,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 326 件
+- marketing : 327 件
 - research : 35 件
-- newbiz : 302 件
+- newbiz : 303 件
 - ingest : 1 件
 - corp : 129 件
 - dev : 16 件

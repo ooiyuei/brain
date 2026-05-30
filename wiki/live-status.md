@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 16:02:46
+updated: 2026-05-30 16:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:02:46** | 🔥 **稼働中**
+**16:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
@@ -25,29 +25,33 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **85.7%** (27.4GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 129 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 170 |
+| 📥 inbox | 127 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 171 |
+
+## 🔄 処理中タスク
+
+- ⚡ [35506 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [School] 入学後30日プラン
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
