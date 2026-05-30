@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 18:24
+updated: 2026-05-30 18:29
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,7 @@ updated: 2026-05-30 18:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 594分]** [Monitor] 競合動向Top3 - 2026-05-30
-- [ ] [待機] [Monitor] ビジコン締切 - 2026-05-30
+- [ ] **[処理中 599分]** [Monitor] ビジコン締切 - 2026-05-30
 - [ ] [待機] [Monitor] 朝の問い - 2026-05-30
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
