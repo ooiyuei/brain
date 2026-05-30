@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 08:06
+updated: 2026-05-31 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 08:06
+**最終更新**: 2026-05-31 08:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,23 +16,23 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 135 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 74 |
+| ✅ 今日完了 | 75 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1136 (うち24h+古い: 896) |
+| 📝 wiki/_inbox 未レビュー | 1137 (うち24h+古い: 897) |
 
 ### 処理中
-- ⚙️ **[645 分]** [School] 入学後30日プラン
+- ⚙️ **[640 分]** [School] note『AI時代に子供に渡したいもの』
 
 ### Inbox 上位
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 今日のフォーカス
 
-- [ ] **夢AWARD 応募骨子を書く**（締切 6/7・残8日） - Claudeに「骨子出して」で叩き台即生成。大井が14時に30分向かうだけ。今日逃すと詰む。
+- [ ] **⚠️ Digital AI補助金2026 要件確認**（第1次締切: 今日5/31） - 静岡産業振興財団 TEL 054-254-4511 or Web確認。「第2次(8月末)で申請...
 
 → 詳細: [[_tasks/today]]
 
@@ -47,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 372 件
+- marketing : 373 件
 - research : 47 件
 - newbiz : 373 件
 - ingest : 1 件
