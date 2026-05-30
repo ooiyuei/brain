@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 11:16
+updated: 2026-05-30 11:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 11:16
+**最終更新**: 2026-05-30 11:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 132 |
+| 📥 inbox | 133 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 116 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 935 (うち24h+古い: 718) |
 
 ### 処理中
-- ⚙️ **[601 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[16 分]** [BG-Competitive] Microsoft Copilot
+- ⚙️ **[606 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- ⚙️ **[21 分]** [BG-Competitive] Microsoft Copilot
 
 ### Inbox 上位
 - [high] [Testall] Studyplus Planning徹底比較
