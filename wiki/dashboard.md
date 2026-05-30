@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 21:51
+updated: 2026-05-30 21:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 21:51
+**最終更新**: 2026-05-30 21:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 123 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 239 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 1042 (うち24h+古い: 797) |
 
+### 処理中
+- ⚙️ **[581 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[581 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [Testall] 教育者連携アプローチ
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
