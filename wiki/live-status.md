@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 12:54:47
+updated: 2026-05-30 12:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:54:47** | 🔥 **稼働中**
+**12:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7149MB / 8151MB (**87.7%**)
+- 使用率: **2%**
+- VRAM: 7009MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **52.4%** (16.7GB / 31.9GB)
+- 使用率: **79.9%** (25.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 134 |
+| 📥 inbox | 132 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 134 |
+| ✅ 今日完了 | 136 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [38027 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [36707 秒経過] **[Money] Testall 親向けLP コピー改善**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客5社募集LP完全版
-- [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [School] 入学後30日プラン
+- [high] [横断] 投資家向けピッチ1分版
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 判定
 
