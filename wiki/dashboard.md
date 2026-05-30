@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 21:41
+updated: 2026-05-30 21:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 21:41
+**最終更新**: 2026-05-30 21:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 233 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 235 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1036 (うち24h+古い: 797) |
+| 📝 wiki/_inbox 未レビュー | 1038 (うち24h+古い: 797) |
 
 ### 処理中
-- ⚙️ **[594 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[599 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- ⚙️ **[595 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] 親向けLP完全版
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 今日のフォーカス
 
@@ -53,9 +54,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 347 件
+- marketing : 348 件
 - research : 39 件
-- newbiz : 325 件
+- newbiz : 326 件
 - ingest : 1 件
 - corp : 140 件
 - dev : 18 件
