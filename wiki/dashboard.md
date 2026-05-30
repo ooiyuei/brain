@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 03:56
+updated: 2026-05-31 04:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 03:56
+**最終更新**: 2026-05-31 04:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,19 +16,19 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 125 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 42 |
+| ✅ 今日完了 | 43 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1104 (うち24h+古い: 856) |
+| 📝 wiki/_inbox 未レビュー | 1105 (うち24h+古い: 856) |
 
 ### 処理中
-- ⚙️ **[585 分]** [横断] 投資家向けピッチ1分版
+- ⚙️ **[586 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 368 件
 - research : 43 件
-- newbiz : 356 件
+- newbiz : 357 件
 - ingest : 1 件
 - corp : 152 件
 - dev : 18 件
