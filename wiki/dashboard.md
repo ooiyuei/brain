@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 23:41
+updated: 2026-05-30 23:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 23:41
+**最終更新**: 2026-05-30 23:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 255 |
+| 📥 inbox | 124 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 256 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1058 (うち24h+古い: 817) |
+| 📝 wiki/_inbox 未レビュー | 1059 (うち24h+古い: 818) |
 
 ### 処理中
-- ⚙️ **[600 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[599 分]** [Money] EEMUS 連携企業5社 具体接触メール
+- ⚙️ **[599 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ### Inbox 上位
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [School] 体験会2時間プログラム
+- [high] [School] X『中高生×AI』20投稿
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -55,7 +56,7 @@ tags: [dashboard, system]
 
 - marketing : 353 件
 - research : 41 件
-- newbiz : 334 件
+- newbiz : 335 件
 - ingest : 1 件
 - corp : 145 件
 - dev : 18 件
