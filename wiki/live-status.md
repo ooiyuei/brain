@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 03:22:47
+updated: 2026-05-31 03:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:22:47** | 🔥 **稼働中**
+**03:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7022MB / 8151MB (**86.1%**)
+- VRAM: 7029MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **83.8%** (26.8GB / 31.9GB)
+- 使用率: **85.3%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 124 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 37 |
+| 📥 inbox | 122 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 38 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34547 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [34786 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [34786 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [横断] 15事業の優先順位再評価
 - [high] [EEMUS] 連携企業候補20社
 - [high] [横断] 投資家向けピッチ1分版
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ## 🎯 判定
 
