@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 19:01
+updated: 2026-05-30 19:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 19:01
+**最終更新**: 2026-05-30 19:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 123 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 208 |
+| ✅ 今日完了 | 210 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1011 (うち24h+古い: 766) |
+| 📝 wiki/_inbox 未レビュー | 1013 (うち24h+古い: 766) |
 
 ### 処理中
-- ⚙️ **[600 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[591 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [School] 入学後30日プラン
+- [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
@@ -53,8 +53,8 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 339 件
-- research : 37 件
+- marketing : 340 件
+- research : 38 件
 - newbiz : 316 件
 - ingest : 1 件
 - corp : 134 件
