@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 00:41
+updated: 2026-05-31 00:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 00:41
+**最終更新**: 2026-05-31 00:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,18 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 127 |
+| 📥 inbox | 125 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 8 |
+| ✅ 今日完了 | 10 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1070 (うち24h+古い: 827) |
+| 📝 wiki/_inbox 未レビュー | 1072 (うち24h+古い: 827) |
 
 ### Inbox 上位
-- [high] [Money] AIpaX 既存4社 アップセル提案
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 今日のフォーカス
 
@@ -44,9 +44,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 357 件
+- marketing : 358 件
 - research : 41 件
-- newbiz : 341 件
+- newbiz : 342 件
 - ingest : 1 件
 - corp : 146 件
 - dev : 18 件
