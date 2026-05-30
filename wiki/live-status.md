@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 14:58:47
+updated: 2026-05-30 15:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:58:47** | 🔥 **稼働中**
+**15:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,12 +25,12 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **55.7%** (17.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 128 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 161 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36468 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [36708 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [35267 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [School] 体験会2時間プログラム
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 判定
 

@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 14:56
+updated: 2026-05-30 15:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 14:56
+**最終更新**: 2026-05-30 15:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 128 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 160 |
+| ✅ 今日完了 | 161 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 966 (うち24h+古い: 735) |
+| 📝 wiki/_inbox 未レビュー | 967 (うち24h+古い: 736) |
 
 ### 処理中
-- ⚙️ **[605 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[585 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[610 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[586 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [School] 体験会2時間プログラム
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
@@ -53,7 +53,7 @@ tags: [dashboard, system]
 - newbiz : 296 件
 - ingest : 1 件
 - corp : 128 件
-- dev : 15 件
+- dev : 16 件
 
 ## 🔗 主要リンク
 
