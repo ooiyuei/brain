@@ -1,34 +1,34 @@
 ---
 type: dashboard
-updated: 2026-05-31 01:16
+updated: 2026-05-31 01:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 01:16
+**最終更新**: 2026-05-31 01:21
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 17 |
+| ✅ 今日完了 | 20 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1079 (うち24h+古い: 837) |
+| 📝 wiki/_inbox 未レビュー | 1082 (うち24h+古い: 838) |
 
 ### 処理中
-- ⚙️ **[565 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[546 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
-- [high] [Testall] ユーザーペルソナ5パターン
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 連携企業候補20社
+- [high] [Testall] 教育者連携アプローチ
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -48,10 +48,10 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 361 件
-- research : 41 件
-- newbiz : 345 件
+- research : 42 件
+- newbiz : 346 件
 - ingest : 1 件
-- corp : 147 件
+- corp : 148 件
 - dev : 18 件
 
 ## 🔗 主要リンク
