@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 16:30:46
+updated: 2026-05-30 16:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:30:46** | 🔥 **稼働中**
+**16:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残21分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7011MB / 8151MB (**86%**)
+- VRAM: 7014MB / 8151MB (**86.1%**)
 
 ## 💾 RAM
 
-- 使用率: **84.4%** (27GB / 31.9GB)
+- 使用率: **86.3%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 124 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 178 |
+| 📥 inbox | 123 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 179 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35026 秒経過] **[Money] Testall 親向けLP コピー改善**
+- ⚡ [35266 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [35027 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 
