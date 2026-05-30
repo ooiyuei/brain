@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 17:06:47
+updated: 2026-05-30 17:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:06:47** | 🔥 **稼働中**
+**17:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7012MB / 8151MB (**86%**)
+- 使用率: **4%**
+- VRAM: 7287MB / 8151MB (**89.4%**)
 
 ## 💾 RAM
 
-- 使用率: **85.3%** (27.2GB / 31.9GB)
+- 使用率: **59%** (18.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 123 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 184 |
+| ✅ 今日完了 | 186 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35507 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
-- ⚡ [35148 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [35388 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [34188 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
-- [high] [School] 体験会2時間プログラム
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 
