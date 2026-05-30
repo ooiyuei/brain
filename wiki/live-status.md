@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 17:02:47
+updated: 2026-05-30 17:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:02:47** | 🔥 **稼働中**
+**17:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **64%**
-- VRAM: 7009MB / 8151MB (**86%**)
+- 使用率: **3%**
+- VRAM: 7012MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **84.4%** (27GB / 31.9GB)
+- 使用率: **85.3%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 125 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 184 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35267 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [35507 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [35148 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
 - [high] [School] 親向けLP完全版
 - [high] [School] 体験会2時間プログラム
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 判定
 
