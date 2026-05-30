@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 10:26
+updated: 2026-05-30 10:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 10:26
+**最終更新**: 2026-05-30 10:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 127 |
+| 📥 inbox | 128 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 107 |
+| ✅ 今日完了 | 108 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 927 (うち24h+古い: 715) |
+| 📝 wiki/_inbox 未レビュー | 928 (うち24h+古い: 715) |
 
 ### 処理中
-- ⚙️ **[585 分]** [横断] 投資家向けピッチ1分版
-- ⚙️ **[26 分]** [BG-Entities] business-contests-expanded 更新提案
+- ⚙️ **[590 分]** [横断] 投資家向けピッチ1分版
+- ⚙️ **[1 分]** [BG-Business] agents-of-flag 現状診断
 
 ### Inbox 上位
 - [high] [Money] AIpaX 既存4社 アップセル提案
@@ -43,14 +43,14 @@ tags: [dashboard, system]
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 10/14 (71%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 20 件更新済 |
-| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 0/4 |
+| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 1/4 |
 | ⚔️ 競合監視 (3日サイクル) | 10/15 社 |
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 311 件
 - research : 36 件
-- newbiz : 277 件
+- newbiz : 278 件
 - ingest : 1 件
 - corp : 119 件
 - dev : 17 件
