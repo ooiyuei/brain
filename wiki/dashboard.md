@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 16:51
+updated: 2026-05-30 16:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 16:51
+**最終更新**: 2026-05-30 16:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 182 |
+| 📥 inbox | 125 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 183 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 988 (うち24h+古い: 751) |
+| 📝 wiki/_inbox 未レビュー | 989 (うち24h+古い: 751) |
+
+### 処理中
+- ⚙️ **[581 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- ⚙️ **[581 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ### Inbox 上位
-- [high] [横断] 投資家向けピッチ1分版
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] 親向けLP完全版
+- [high] [School] 体験会2時間プログラム
+- [high] AI 最新情報日次リサーチ
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 今日のフォーカス
 
@@ -46,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 332 件
 - research : 35 件
-- newbiz : 306 件
+- newbiz : 307 件
 - ingest : 1 件
 - corp : 131 件
 - dev : 17 件
