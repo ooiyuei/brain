@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 09:01
+updated: 2026-05-30 09:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 09:01
+**最終更新**: 2026-05-30 09:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
+| 📥 inbox | 127 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 91 |
+| ✅ 今日完了 | 92 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 911 (うち24h+古い: 709) |
+| 📝 wiki/_inbox 未レビュー | 912 (うち24h+古い: 709) |
 
 ### 処理中
-- ⚙️ **[610 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[600 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[605 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[595 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-29 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-29)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] 親向けLP完全版
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 306 件
+- marketing : 307 件
 - research : 36 件
 - newbiz : 270 件
 - ingest : 1 件
