@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 05:36
+updated: 2026-05-31 05:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 05:36
+**最終更新**: 2026-05-31 05:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 128 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 56 |
+| ✅ 今日完了 | 57 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1118 (うち24h+古い: 869) |
+| 📝 wiki/_inbox 未レビュー | 1119 (うち24h+古い: 870) |
 
 ### 処理中
-- ⚙️ **[621 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[615 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[620 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[610 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 44 件
 - newbiz : 366 件
 - ingest : 1 件
-- corp : 153 件
+- corp : 154 件
 - dev : 18 件
 
 ## 🔗 主要リンク
