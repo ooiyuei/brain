@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 19:58:46
+updated: 2026-05-30 20:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:58:46** | 🔥 **稼働中**
+**20:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7022MB / 8151MB (**86.1%**)
+- VRAM: 7026MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **84.9%** (27.1GB / 31.9GB)
+- 使用率: **85.2%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 121 |
+| 📥 inbox | 119 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 219 |
+| ✅ 今日完了 | 222 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35027 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
-- ⚡ [34667 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [34907 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [33346 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [Testall] X受験あるある投稿30本
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
