@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 11:11
+updated: 2026-05-30 11:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 11:11
+**最終更新**: 2026-05-30 11:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 132 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 114 |
+| ✅ 今日完了 | 116 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 934 (うち24h+古い: 718) |
+| 📝 wiki/_inbox 未レビュー | 935 (うち24h+古い: 718) |
 
 ### 処理中
-- ⚙️ **[600 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[11 分]** [BG-Competitive] ChatGPT Team
+- ⚙️ **[601 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- ⚙️ **[16 分]** [BG-Competitive] Microsoft Copilot
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] MVP LP完全版
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 312 件
-- research : 36 件
+- research : 37 件
 - newbiz : 283 件
 - ingest : 1 件
 - corp : 119 件
