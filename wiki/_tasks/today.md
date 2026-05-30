@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-31 06:54
+updated: 2026-05-31 06:59
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,7 @@ updated: 2026-05-31 06:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 633分]** [School] 利用規約・特商法表記
-- [ ] **[処理中 623分]** [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 628分]** [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
