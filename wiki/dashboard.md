@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 17:06
+updated: 2026-05-30 17:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 17:06
+**最終更新**: 2026-05-30 17:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 124 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 184 |
+| ✅ 今日完了 | 186 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 990 (うち24h+古い: 751) |
+| 📝 wiki/_inbox 未レビュー | 992 (うち24h+古い: 751) |
 
 ### 処理中
-- ⚙️ **[591 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- ⚙️ **[585 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[590 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[570 分]** [School] 体験会2時間プログラム
 
 ### Inbox 上位
-- [high] [School] 親向けLP完全版
-- [high] [School] 体験会2時間プログラム
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 332 件
+- marketing : 333 件
 - research : 35 件
-- newbiz : 307 件
+- newbiz : 308 件
 - ingest : 1 件
 - corp : 132 件
 - dev : 17 件
