@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 21:02:47
+updated: 2026-05-30 21:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:02:47** | 🔥 **稼働中**
+**21:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **29%**
+- 使用率: **3%**
 - VRAM: 7029MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **82.1%** (26.2GB / 31.9GB)
+- 使用率: **85.5%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
+| 📥 inbox | 121 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 228 |
+| ✅ 今日完了 | 229 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35267 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [35508 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 判定
 
