@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 11:59
+updated: 2026-05-30 12:04
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,8 @@ updated: 2026-05-30 11:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 628分]** [AIpaX] β顧客80万提案書フル版
-- [ ] **[処理中 59分]** [BG-Competitive] Gusto
+- [ ] **[処理中 633分]** [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 64分]** [BG-Competitive] Manebi
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
@@ -143,6 +143,7 @@ updated: 2026-05-30 11:59
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [School] 1年カリキュラム詳細v2
+- [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
@@ -164,7 +165,6 @@ updated: 2026-05-30 11:59
 - [ ] [待機] [BG-Contests] バッチ9 (81-90)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-30
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
-- [ ] [待機] [BG-Competitive] Manebi
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
