@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 01:56
+updated: 2026-05-31 02:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 01:56
+**最終更新**: 2026-05-31 02:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 116 |
+| 📥 inbox | 114 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 28 |
+| ✅ 今日完了 | 31 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1090 (うち24h+古い: 843) |
+| 📝 wiki/_inbox 未レビュー | 1093 (うち24h+古い: 843) |
 
 ### 処理中
-- ⚙️ **[549 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- ⚙️ **[530 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [School] X『中高生×AI』20投稿
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 365 件
+- marketing : 368 件
 - research : 42 件
 - newbiz : 349 件
 - ingest : 1 件
