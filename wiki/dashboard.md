@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 10:21
+updated: 2026-05-30 10:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 10:21
+**最終更新**: 2026-05-30 10:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
+| 📥 inbox | 127 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 106 |
+| ✅ 今日完了 | 107 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 926 (うち24h+古い: 715) |
+| 📝 wiki/_inbox 未レビュー | 927 (うち24h+古い: 715) |
 
 ### 処理中
-- ⚙️ **[590 分]** [EEMUS] ピッチデック10枚構成
-- ⚙️ **[21 分]** [BG-Entities] business-contests-expanded 更新提案
+- ⚙️ **[585 分]** [横断] 投資家向けピッチ1分版
+- ⚙️ **[26 分]** [BG-Entities] business-contests-expanded 更新提案
 
 ### Inbox 上位
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [School] 親FAQ 30問
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 311 件
 - research : 36 件
-- newbiz : 276 件
+- newbiz : 277 件
 - ingest : 1 件
 - corp : 119 件
 - dev : 17 件

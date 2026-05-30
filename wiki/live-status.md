@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 10:22:46
+updated: 2026-05-30 10:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:22:46** | 🔥 **稼働中**
+**10:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **55.9%** (17.9GB / 31.9GB)
+- 使用率: **56.9%** (18.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
+| 📥 inbox | 127 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 106 |
+| ✅ 今日完了 | 107 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35506 秒経過] **[EEMUS] ピッチデック10枚構成**
-- ⚡ [1367 秒経過] **[BG-Entities] business-contests-expanded 更新提案**
+- ⚡ [35147 秒経過] **[横断] 投資家向けピッチ1分版**
+- ⚡ [1607 秒経過] **[BG-Entities] business-contests-expanded 更新提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [School] 親FAQ 30問
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
