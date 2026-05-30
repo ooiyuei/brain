@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 00:46:46
+updated: 2026-05-31 00:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:46:46** | 🔥 **稼働中**
+**00:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **83.2%** (26.6GB / 31.9GB)
+- 使用率: **84.8%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,17 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 124 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 10 |
+| ✅ 今日完了 | 12 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] 教育者連携アプローチ
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [横断] 15事業の優先順位再評価
+- [high] [School] 親向けLP完全版
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 判定
 
