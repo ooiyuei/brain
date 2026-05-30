@@ -1,26 +1,31 @@
 ---
 type: live-status
-updated: 2026-05-30 23:30:46
+updated: 2026-05-30 23:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:30:46** | 🔥 **稼働中**
+**23:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
-- 状態: 🔴 応答なし
+- 状態: 🟢 稼働中
+- ロード済みモデル: 1
+
+| モデル | サイズ | VRAM | 残時間 |
+|---|---|---|---|
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **63%**
-- VRAM: 7029MB / 8151MB (**86.2%**)
+- 使用率: **0%**
+- VRAM: 7162MB / 8151MB (**87.9%**)
 
 ## 💾 RAM
 
-- 使用率: **83.2%** (26.6GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -33,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 125 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 254 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35397 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [35627 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [35266 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 
