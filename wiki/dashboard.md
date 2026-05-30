@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 03:31
+updated: 2026-05-31 03:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 03:31
+**最終更新**: 2026-05-31 03:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 39 |
+| ✅ 今日完了 | 40 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1101 (うち24h+古い: 851) |
+| 📝 wiki/_inbox 未レビュー | 1102 (うち24h+古い: 851) |
 
 ### 処理中
-- ⚙️ **[584 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[585 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
-- [high] [横断] 15事業の優先順位再評価
 - [high] [EEMUS] 連携企業候補20社
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +51,7 @@ tags: [dashboard, system]
 - research : 43 件
 - newbiz : 354 件
 - ingest : 1 件
-- corp : 151 件
+- corp : 152 件
 - dev : 18 件
 
 ## 🔗 主要リンク
