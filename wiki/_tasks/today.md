@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 12:24
+updated: 2026-05-30 12:29
 ---
 
 # Today 2026-05-30
@@ -27,9 +27,8 @@ updated: 2026-05-30 12:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 637分]** [Money] 主力5事業 月次キャッシュフロー6月予測
-- [ ] **[処理中 637分]** [Money] 紹介プログラム 5事業横断ルール
-- [ ] [待機] [School] 利用規約・特商法表記
+- [ ] **[処理中 642分]** [Money] 紹介プログラム 5事業横断ルール
+- [ ] **[処理中 638分]** [School] 利用規約・特商法表記
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
