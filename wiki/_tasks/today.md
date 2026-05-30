@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-30
 tags: [tasks, today]
-updated: 2026-05-30 11:39
+updated: 2026-05-30 11:44
 ---
 
 # Today 2026-05-30
@@ -27,8 +27,8 @@ updated: 2026-05-30 11:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 608分]** [AIpaX] β顧客80万提案書フル版
-- [ ] **[処理中 39分]** [BG-Competitive] Salesforce Einstein
+- [ ] **[処理中 613分]** [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 44分]** [BG-Competitive] Salesforce Einstein
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
@@ -137,6 +137,7 @@ updated: 2026-05-30 11:39
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [School] 体験会2時間プログラム
+- [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ

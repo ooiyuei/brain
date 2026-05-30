@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 11:41
+updated: 2026-05-30 11:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 11:41
+**最終更新**: 2026-05-30 11:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -18,11 +18,11 @@ tags: [dashboard, system]
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 119 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 937 (うち24h+古い: 718) |
+| 📝 wiki/_inbox 未レビュー | 937 (うち24h+古い: 719) |
 
 ### 処理中
-- ⚙️ **[610 分]** [AIpaX] β顧客80万提案書フル版
-- ⚙️ **[41 分]** [BG-Competitive] Salesforce Einstein
+- ⚙️ **[615 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[46 分]** [BG-Competitive] Salesforce Einstein
 
 ### Inbox 上位
 - [high] [EEMUS] MVP LP完全版
