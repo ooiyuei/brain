@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-30 18:46
+updated: 2026-05-30 18:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-30 18:46
+**最終更新**: 2026-05-30 18:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 124 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 202 |
+| 📥 inbox | 128 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 204 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1005 (うち24h+古い: 765) |
+| 📝 wiki/_inbox 未レビュー | 1007 (うち24h+古い: 765) |
 
 ### 処理中
-- ⚙️ **[605 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[599 分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- ⚙️ **[604 分]** [Money] EEMUS 連携企業5社 具体接触メール
 
 ### Inbox 上位
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [School] 入学後30日プラン
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 今日のフォーカス
 
@@ -54,12 +53,12 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 336 件
+- marketing : 337 件
 - research : 37 件
 - newbiz : 314 件
 - ingest : 1 件
 - corp : 134 件
-- dev : 17 件
+- dev : 18 件
 
 ## 🔗 主要リンク
 
