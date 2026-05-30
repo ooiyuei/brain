@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 17:18:47
+updated: 2026-05-30 17:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:18:47** | 🔥 **稼働中**
+**17:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7284MB / 8151MB (**89.4%**)
+- 使用率: **2%**
+- VRAM: 7009MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **56.8%** (18.1GB / 31.9GB)
+- 使用率: **82.7%** (26.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 126 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 187 |
+| ✅ 今日完了 | 188 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [34668 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [34668 秒経過] **AI 最新情報日次リサーチ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] AI 最新情報日次リサーチ
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 
