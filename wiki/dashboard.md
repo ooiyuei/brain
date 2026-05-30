@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 00:56
+updated: 2026-05-31 01:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 00:56
+**最終更新**: 2026-05-31 01:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 123 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 12 |
+| ✅ 今日完了 | 13 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1074 (うち24h+古い: 831) |
+| 📝 wiki/_inbox 未レビュー | 1075 (うち24h+古い: 832) |
 
 ### 処理中
-- ⚙️ **[581 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[581 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[586 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[580 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
-- [high] [横断] 15事業の優先順位再評価
 - [high] [School] 親向けLP完全版
 - [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 利用規約・特商法表記
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 41 件
 - newbiz : 343 件
 - ingest : 1 件
-- corp : 146 件
+- corp : 147 件
 - dev : 18 件
 
 ## 🔗 主要リンク
