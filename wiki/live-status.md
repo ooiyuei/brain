@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 01:06:47
+updated: 2026-05-31 01:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:06:47** | 🔥 **稼働中**
+**01:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **54.3%** (17.3GB / 31.9GB)
+- 使用率: **54.7%** (17.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,7 +43,7 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [35148 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [35388 秒経過] **[横断] 15事業の優先順位再評価**
 
 ## 📥 待機タスク (上位5)
 
