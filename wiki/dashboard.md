@@ -1,34 +1,35 @@
 ---
 type: dashboard
-updated: 2026-05-31 02:31
+updated: 2026-05-31 02:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 02:31
+**最終更新**: 2026-05-31 02:36
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 115 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 114 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 35 |
 | ❌ failed | 1 |
 | 📝 wiki/_inbox 未レビュー | 1097 (うち24h+古い: 846) |
 
 ### 処理中
-- ⚙️ **[540 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[545 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[535 分]** [Testall] コンテンツ戦略3ヶ月
 
 ### Inbox 上位
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [横断] 15事業の優先順位再評価
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 今日のフォーカス
 
