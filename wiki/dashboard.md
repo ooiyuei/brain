@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 00:26
+updated: 2026-05-31 00:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 00:26
+**最終更新**: 2026-05-31 00:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 128 |
+| 📥 inbox | 127 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 3 |
+| ✅ 今日完了 | 5 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1065 (うち24h+古い: 826) |
+| 📝 wiki/_inbox 未レビュー | 1067 (うち24h+古い: 826) |
 
 ### 処理中
-- ⚙️ **[611 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
-- ⚙️ **[611 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[616 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[600 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [Testall] 教育者連携アプローチ
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +48,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 355 件
+- marketing : 356 件
 - research : 41 件
 - newbiz : 339 件
 - ingest : 1 件
-- corp : 145 件
+- corp : 146 件
 - dev : 18 件
 
 ## 🔗 主要リンク

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 00:30:46
+updated: 2026-05-31 00:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:30:46** | 🔥 **稼働中**
+**00:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7029MB / 8151MB (**86.2%**)
+- 使用率: **4%**
+- VRAM: 7165MB / 8151MB (**87.9%**)
 
 ## 💾 RAM
 
-- 使用率: **85.3%** (27.2GB / 31.9GB)
+- 使用率: **54.8%** (17.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 126 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 5 |
+| 📥 inbox | 127 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 6 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [36947 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
-- ⚡ [35987 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [36228 秒経過] **[School] 1年カリキュラム詳細v2**
 
 ## 📥 待機タスク (上位5)
 
