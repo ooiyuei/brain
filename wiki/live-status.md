@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-30 19:10:47
+updated: 2026-05-30 19:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:10:47** | 🔥 **稼働中**
+**19:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
+- 使用率: **83%**
 - VRAM: 7010MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **82.7%** (26.4GB / 31.9GB)
+- 使用率: **84.3%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 210 |
+| ✅ 今日完了 | 212 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [35748 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [35988 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [School] 入学後30日プラン
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 判定
 
