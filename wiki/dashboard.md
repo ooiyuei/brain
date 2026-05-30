@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 06:21
+updated: 2026-05-31 06:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 06:21
+**最終更新**: 2026-05-31 06:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 132 |
+| 📥 inbox | 130 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 60 |
+| ✅ 今日完了 | 62 |
 | ❌ failed | 1 |
-| 📝 wiki/_inbox 未レビュー | 1122 (うち24h+古い: 876) |
+| 📝 wiki/_inbox 未レビュー | 1124 (うち24h+古い: 877) |
 
 ### 処理中
-- ⚙️ **[640 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[630 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[625 分]** [EEMUS] 高校生インターン体験談コンテンツ3本
+- ⚙️ **[615 分]** [AIpaX] X投稿『AI導入Tips』20本
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [School] 利用規約・特商法表記
+- [high] [AIpaX] β顧客80万提案書フル版
+- [high] [EEMUS] ピッチデック10枚構成
 
 ## 🎯 今日のフォーカス
 
@@ -49,11 +49,11 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 370 件
-- research : 45 件
+- research : 46 件
 - newbiz : 368 件
 - ingest : 1 件
 - corp : 154 件
-- dev : 18 件
+- dev : 19 件
 
 ## 🔗 主要リンク
 
