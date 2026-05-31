@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 17:38:46
+updated: 2026-05-31 17:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:38:46** | 🔥 **稼働中**
+**17:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7223MB / 8151MB (**88.6%**)
+- 使用率: **82%**
+- VRAM: 7090MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
-- 使用率: **84.5%** (27GB / 31.9GB)
+- 使用率: **84.1%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 169 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 154 |
+| ✅ 今日完了 | 155 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49668 秒経過] **[EEMUS] MVP LP完全版**
-- ⚡ [49068 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [49308 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [48708 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [EEMUS] MVP LP完全版
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Testall] 教育者連携アプローチ
 
 ## 🎯 判定
 
