@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 16:41
+updated: 2026-05-31 16:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 16:41
+**最終更新**: 2026-05-31 16:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 167 |
+| 📥 inbox | 166 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 145 |
+| ✅ 今日完了 | 146 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1147 (うち24h+古い: 949) |
+| 📝 wiki/_inbox 未レビュー | 1148 (うち24h+古い: 949) |
 
 ### 処理中
-- ⚙️ **[810 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[806 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[815 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[811 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 391 件
 - research : 7 件
-- newbiz : 402 件
+- newbiz : 403 件
 - ingest : 1 件
 - corp : 171 件
 - dev : 9 件
