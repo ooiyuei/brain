@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 13:49
+updated: 2026-05-31 13:54
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 13:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 10分]** [Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md
-- [ ] **[処理中 778分]** [AIpaX] β顧客候補30社プロファイル
+- [ ] **[処理中 15分]** [Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md
+- [ ] **[処理中 783分]** [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [School] 利用規約・特商法表記
@@ -172,6 +172,7 @@ updated: 2026-05-31 13:49
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
+- [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
