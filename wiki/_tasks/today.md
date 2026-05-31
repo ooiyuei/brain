@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 11:39
+updated: 2026-05-31 11:44
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,8 @@ updated: 2026-05-31 11:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 728分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] **[処理中 39分]** [BG-Competitive] atama+
-- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 723分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 44分]** [BG-Competitive] Notion AI
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
@@ -161,6 +160,7 @@ updated: 2026-05-31 11:39
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [AIpaX] 月次PL試算
+- [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
@@ -184,7 +184,6 @@ updated: 2026-05-31 11:39
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-31
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
-- [ ] [待機] [BG-Competitive] Notion AI
 - [ ] [待機] [BG-Competitive] Sansan
 - [ ] [待機] [BG-Competitive] engage
 
