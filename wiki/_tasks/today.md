@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 12:09
+updated: 2026-05-31 12:14
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,9 @@ updated: 2026-05-31 12:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 742分]** [Money] AIpaX 既存4社 アップセル提案
-- [ ] **[処理中 742分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [ ] **[処理中 69分]** [BG-Competitive] engage
+- [ ] **[処理中 747分]** [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 747分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [ ] **[処理中 74分]** [BG-Competitive] engage
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
@@ -162,6 +162,7 @@ updated: 2026-05-31 12:09
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] X『中高生×AI』20投稿
+- [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ

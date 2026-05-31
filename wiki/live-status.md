@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 12:10:46
+updated: 2026-05-31 12:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:10:46** | 🔥 **稼働中**
+**12:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残22分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残18分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7357MB / 8151MB (**90.3%**)
+- VRAM: 7359MB / 8151MB (**90.3%**)
 
 ## 💾 RAM
 
-- 使用率: **60%** (19.2GB / 31.9GB)
+- 使用率: **59.7%** (19GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,15 +37,15 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 152 |
+| 📥 inbox | 153 |
 | ⚙️ processing | 3 |
 | ✅ 今日完了 | 107 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [44626 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
-- ⚡ [44626 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
-- ⚡ [4247 秒経過] **[BG-Competitive] engage**
+- ⚡ [44866 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [44866 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
+- ⚡ [4487 秒経過] **[BG-Competitive] engage**
 
 ## 📥 待機タスク (上位5)
 
