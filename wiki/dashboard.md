@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 10:56
+updated: 2026-05-31 11:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 10:56
+**最終更新**: 2026-05-31 11:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,23 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 149 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 97 |
+| 📥 inbox | 153 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 98 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1159 (うち24h+古い: 928) |
+| 📝 wiki/_inbox 未レビュー | 1160 (うち24h+古い: 929) |
 
 ### 処理中
-- ⚙️ **[20 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[701 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- ⚙️ **[706 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- ⚙️ **[706 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[1 分]** [BG-Competitive] Studyplus Planning
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Money] AIpaX 既存4社 アップセル提案
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 今日のフォーカス
 
@@ -44,13 +45,13 @@ tags: [dashboard, system]
 | 📅 ビジコン分析 (14日) | バッチ 11/14 (79%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 22 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 2/4 |
-| ⚔️ 競合監視 (3日サイクル) | 15/15 社 |
+| ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 380 件
 - research : 48 件
-- newbiz : 383 件
+- newbiz : 384 件
 - ingest : 1 件
 - corp : 162 件
 - dev : 19 件

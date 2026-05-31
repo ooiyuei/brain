@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 10:58:47
+updated: 2026-05-31 11:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:58:47** | 🔥 **稼働中**
+**11:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,45 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7351MB / 8151MB (**90.2%**)
+- 使用率: **3%**
+- VRAM: 7216MB / 8151MB (**88.5%**)
 
 ## 💾 RAM
 
-- 使用率: **59.6%** (19GB / 31.9GB)
+- 使用率: **86.2%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 149 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 97 |
+| 📥 inbox | 153 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 98 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [1333 秒経過] **[AIpaX] β顧客候補30社プロファイル**
-- ⚡ [42227 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [42467 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・**
+- ⚡ [42467 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)**
+- ⚡ [168 秒経過] **[BG-Competitive] Studyplus Planning**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Money] AIpaX 既存4社 アップセル提案
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 判定
 
