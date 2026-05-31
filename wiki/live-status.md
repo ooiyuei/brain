@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 23:22:46
+updated: 2026-05-31 23:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:22:46** | 🔥 **稼働中**
+**23:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7099MB / 8151MB (**87.1%**)
+- VRAM: 7101MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **85.8%** (27.4GB / 31.9GB)
+- 使用率: **86.3%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 177 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 209 |
+| 📥 inbox | 175 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 210 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52546 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [52786 秒経過] **[Money] AIpa Web 商工会経由営業文**
+- ⚡ [52786 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 
