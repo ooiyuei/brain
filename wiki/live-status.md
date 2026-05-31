@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 09:54:46
+updated: 2026-05-31 09:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:54:46** | 🔥 **稼働中**
+**09:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
+- 使用率: **4%**
 - VRAM: 7079MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **87%** (27.8GB / 31.9GB)
+- 使用率: **85.7%** (27.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 142 |
+| 📥 inbox | 141 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 92 |
+| ✅ 今日完了 | 93 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [39826 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [39226 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [39466 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [38867 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 

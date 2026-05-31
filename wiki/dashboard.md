@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 09:51
+updated: 2026-05-31 09:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 09:51
+**最終更新**: 2026-05-31 09:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 142 |
+| 📥 inbox | 141 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 92 |
+| ✅ 今日完了 | 93 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1154 (うち24h+古い: 917) |
+| 📝 wiki/_inbox 未レビュー | 1155 (うち24h+古い: 918) |
 
 ### 処理中
-- ⚙️ **[660 分]** [EEMUS] 連携企業候補20社
-- ⚙️ **[650 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[655 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[645 分]** [AIpaX] β顧客候補30社プロファイル
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 380 件
 - research : 48 件
-- newbiz : 378 件
+- newbiz : 379 件
 - ingest : 1 件
 - corp : 162 件
 - dev : 19 件
