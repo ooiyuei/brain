@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 23:56
+updated: 2026-06-01 00:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 23:56
+**最終更新**: 2026-06-01 00:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 173 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 219 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 0 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1007 (うち24h+古い: 858) |
+| 📝 wiki/_inbox 未レビュー | 1009 (うち24h+古い: 858) |
 
 ### 処理中
-- ⚙️ **[875 分]** [School] 利用規約・特商法表記
-- ⚙️ **[849 分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- ⚙️ **[854 分]** [Money] AIpaX 既存4社 アップセル提案
 
 ### Inbox 上位
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] 連携企業候補20社
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 今日のフォーカス
 
@@ -46,19 +45,13 @@ tags: [dashboard, system]
 | 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 2/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
-## 🌅 今朝の監視結果
-
-- [[_monitor/competitor-2026-05-31|competitor]]
-- [[_monitor/deadlines-2026-05-31|deadlines]]
-- [[_monitor/grill-2026-05-31|grill]]
-
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 417 件
+- marketing : 418 件
 - research : 11 件
 - newbiz : 306 件
 - ingest : 1 件
-- corp : 98 件
+- corp : 99 件
 - dev : 8 件
 
 ## 🔗 主要リンク
