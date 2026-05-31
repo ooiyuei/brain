@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 23:02:46
+updated: 2026-05-31 23:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:02:46** | 🔥 **稼働中**
+**23:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残19分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残15分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7098MB / 8151MB (**87.1%**)
+- VRAM: 7101MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **85.9%** (27.4GB / 31.9GB)
+- 使用率: **86.5%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 175 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 174 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 207 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52307 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [52547 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [51947 秒経過] **[EEMUS] ピッチデック10枚構成**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 判定
 

@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 23:01
+updated: 2026-05-31 23:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 23:01
+**最終更新**: 2026-05-31 23:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 175 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 174 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 207 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 995 (うち24h+古い: 852) |
+| 📝 wiki/_inbox 未レビュー | 995 (うち24h+古い: 853) |
 
 ### 処理中
-- ⚙️ **[870 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[875 分]** [Testall] コンテンツ戦略3ヶ月
+- ⚙️ **[865 分]** [EEMUS] ピッチデック10枚構成
 
 ### Inbox 上位
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 今日のフォーカス
 
