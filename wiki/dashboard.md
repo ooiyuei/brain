@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 06:41
+updated: 2026-06-01 06:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 06:41
+**最終更新**: 2026-06-01 06:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 185 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 183 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 59 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 1068 (うち24h+古い: 901) |
 
+### 処理中
+- ⚙️ **[931 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[931 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [School] 親FAQ 30問
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 今日のフォーカス
 
