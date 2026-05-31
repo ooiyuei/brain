@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 00:02:47
+updated: 2026-06-01 00:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:02:47** | 🔥 **稼働中**
+**00:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残23分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
+- 使用率: **2%**
 - VRAM: 7095MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
-- 使用率: **86.4%** (27.6GB / 31.9GB)
+- 使用率: **86.3%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 173 |
+| 📥 inbox | 171 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 0 |
+| ✅ 今日完了 | 2 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [51347 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [51587 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] 体験会2時間プログラム
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 
