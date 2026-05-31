@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 23:31
+updated: 2026-05-31 23:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 23:31
+**最終更新**: 2026-05-31 23:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 176 |
+| 📥 inbox | 172 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 211 |
+| ✅ 今日完了 | 215 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 999 (うち24h+古い: 854) |
+| 📝 wiki/_inbox 未レビュー | 1003 (うち24h+古い: 854) |
 
 ### 処理中
-- ⚙️ **[884 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[861 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [School] note『AI時代に子供に渡したいもの』
-- [high] [AIpaX] β顧客5社募集LP完全版
-- [high] [School] X『中高生×AI』20投稿
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [School] 利用規約・特商法表記
+- [high] [School] X『中高生×AI』20投稿
+- [high] [School] 親向けLP完全版
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 今日のフォーカス
 
@@ -53,9 +53,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 412 件
+- marketing : 415 件
 - research : 11 件
-- newbiz : 304 件
+- newbiz : 305 件
 - ingest : 1 件
 - corp : 97 件
 - dev : 8 件
