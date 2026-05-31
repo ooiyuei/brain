@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 20:56
+updated: 2026-05-31 21:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 20:56
+**最終更新**: 2026-05-31 21:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 171 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 186 |
+| ✅ 今日完了 | 187 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1188 (うち24h+古い: 988) |
+| 📝 wiki/_inbox 未レビュー | 1189 (うち24h+古い: 989) |
 
 ### 処理中
-- ⚙️ **[821 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- ⚙️ **[821 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[826 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[820 分]** [School] 利用規約・特商法表記
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 1年カリキュラム詳細v2
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 406 件
 - research : 11 件
-- newbiz : 420 件
+- newbiz : 421 件
 - ingest : 1 件
 - corp : 175 件
 - dev : 9 件
