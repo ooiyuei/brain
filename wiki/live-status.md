@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 03:22:46
+updated: 2026-06-01 03:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:22:46** | 🔥 **稼働中**
+**03:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7083MB / 8151MB (**86.9%**)
+- VRAM: 7089MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
-- 使用率: **83.6%** (26.7GB / 31.9GB)
+- 使用率: **83.8%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 181 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 28 |
+| 📥 inbox | 179 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 29 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52546 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
+- ⚡ [52786 秒経過] **[Money] Testall 親向けLP コピー改善**
+- ⚡ [52786 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 親向けLP コピー改善
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [School] 利用規約・特商法表記
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 判定
 

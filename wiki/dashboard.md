@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 03:21
+updated: 2026-06-01 03:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 03:21
+**最終更新**: 2026-06-01 03:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 181 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 28 |
+| 📥 inbox | 179 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 29 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1037 (うち24h+古い: 885) |
+| 📝 wiki/_inbox 未レビュー | 1038 (うち24h+古い: 885) |
 
 ### 処理中
-- ⚙️ **[874 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[879 分]** [Money] Testall 親向けLP コピー改善
+- ⚙️ **[879 分]** [Money] AIpa Web 商工会経由営業文
 
 ### Inbox 上位
-- [high] [Money] Testall 親向けLP コピー改善
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [School] 利用規約・特商法表記
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 425 件
 - research : 13 件
-- newbiz : 319 件
+- newbiz : 320 件
 - ingest : 1 件
 - corp : 105 件
 - dev : 8 件
