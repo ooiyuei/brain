@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 00:41
+updated: 2026-06-01 00:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 00:41
+**最終更新**: 2026-06-01 00:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 173 |
+| 📥 inbox | 172 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 5 |
+| ✅ 今日完了 | 6 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1014 (うち24h+古い: 864) |
+| 📝 wiki/_inbox 未レビュー | 1015 (うち24h+古い: 866) |
 
 ### 処理中
-- ⚙️ **[870 分]** [School] 体験会2時間プログラム
-- ⚙️ **[866 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[875 分]** [School] 体験会2時間プログラム
+- ⚙️ **[871 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] 月次PL試算
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 418 件
 - research : 11 件
-- newbiz : 310 件
+- newbiz : 311 件
 - ingest : 1 件
 - corp : 100 件
 - dev : 8 件
