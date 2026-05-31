@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 08:51
+updated: 2026-06-01 08:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 08:51
+**最終更新**: 2026-06-01 08:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 202 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 71 |
+| 📥 inbox | 177 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 73 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1080 (うち24h+古い: 913) |
+| 📝 wiki/_inbox 未レビュー | 1082 (うち24h+古い: 913) |
 
 ### 処理中
-- ⚙️ **[980 分]** [EEMUS] MVP LP完全版
+- ⚙️ **[969 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[969 分]** [Money] AIpa Web 商工会経由営業文
 
 ### Inbox 上位
-- [high] [Money] Testall 親向けLP コピー改善
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Testall] 教育者連携アプローチ
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [EEMUS] 連携企業候補20社
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 438 件
+- marketing : 440 件
 - research : 16 件
 - newbiz : 336 件
 - ingest : 1 件

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 08:54:46
+updated: 2026-06-01 08:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:54:46** | 🔥 **稼働中**
+**08:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,13 +20,13 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
+- 使用率: **3%**
 - VRAM: 7056MB / 8151MB (**86.6%**)
 
 ## 💾 RAM
 
-- 使用率: **89.3%** (28.5GB / 31.9GB)
-- ✅ 適正
+- 使用率: **90.5%** (28.9GB / 31.9GB)
+- 🔴 高負荷
 
 ## ⚙️ Workers
 
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 178 |
+| 📥 inbox | 177 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 72 |
+| ✅ 今日完了 | 73 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [58062 秒経過] **[Money] Testall 親向けLP コピー改善**
-- ⚡ [58062 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [58302 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [58302 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Testall] 教育者連携アプローチ
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 連携企業候補20社
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 
