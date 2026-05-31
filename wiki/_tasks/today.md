@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-06-01 01:24
+updated: 2026-06-01 01:29
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-06-01 01:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 903分]** [School] 体験会2時間プログラム
-- [ ] **[処理中 877分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [ ] **[処理中 908分]** [School] 体験会2時間プログラム
+- [ ] **[処理中 882分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [School] 1年カリキュラム詳細v2
