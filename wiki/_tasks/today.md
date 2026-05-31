@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 19:24
+updated: 2026-05-31 19:29
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 19:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 823分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] **[処理中 817分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [ ] **[処理中 828分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- [ ] **[処理中 822分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [School] 親FAQ 30問
