@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 09:31
+updated: 2026-05-31 09:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 09:31
+**最終更新**: 2026-05-31 09:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 140 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 89 |
+| 📥 inbox | 138 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 90 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1151 (うち24h+古い: 912) |
+| 📝 wiki/_inbox 未レビュー | 1152 (うち24h+古い: 914) |
 
 ### 処理中
-- ⚙️ **[644 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[649 分]** [Money] 紹介プログラム 5事業横断ルール
+- ⚙️ **[649 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +52,7 @@ tags: [dashboard, system]
 - research : 47 件
 - newbiz : 378 件
 - ingest : 1 件
-- corp : 160 件
+- corp : 161 件
 - dev : 19 件
 
 ## 🔗 主要リンク

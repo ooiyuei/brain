@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 09:34:46
+updated: 2026-05-31 09:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:34:46** | 🔥 **稼働中**
+**09:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,37 +21,37 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7077MB / 8151MB (**86.8%**)
+- VRAM: 7074MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **84.2%** (26.9GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 139 |
+| 📥 inbox | 138 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 90 |
+| ✅ 今日完了 | 91 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [38866 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [39106 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 
 ## 🎯 判定
 
