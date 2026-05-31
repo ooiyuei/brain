@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 10:26
+updated: 2026-05-31 10:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 10:26
+**最終更新**: 2026-05-31 10:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 146 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 94 |
+| 📥 inbox | 148 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 95 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1156 (うち24h+古い: 922) |
+| 📝 wiki/_inbox 未レビュー | 1157 (うち24h+古い: 923) |
 
 ### 処理中
-- ⚙️ **[685 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[675 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[26 分]** [BG-Entities] business-contests-flat-top30 更新提案
+- ⚙️ **[680 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[31 分]** [BG-Entities] business-contests-flat-top30 更新提案
 
 ### Inbox 上位
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
@@ -44,14 +43,14 @@ tags: [dashboard, system]
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 11/14 (79%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 22 件更新済 |
-| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 1/4 |
+| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 2/4 |
 | ⚔️ 競合監視 (3日サイクル) | 15/15 社 |
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 380 件
 - research : 48 件
-- newbiz : 380 件
+- newbiz : 381 件
 - ingest : 1 件
 - corp : 162 件
 - dev : 19 件
