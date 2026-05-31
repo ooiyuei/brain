@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 01:18:46
+updated: 2026-06-01 01:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:18:46** | 🔥 **稼働中**
+**01:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7374MB / 8151MB (**90.5%**)
+- 使用率: **0%**
+- VRAM: 7100MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **59%** (18.8GB / 31.9GB)
+- 使用率: **87.9%** (28.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 179 |
+| 📥 inbox | 178 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 8 |
+| ✅ 今日完了 | 10 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [53868 秒経過] **[School] 体験会2時間プログラム**
-- ⚡ [53268 秒経過] **[AIpaX] 月次PL試算**
+- ⚡ [54107 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [52546 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親向けLP完全版
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 判定
 
