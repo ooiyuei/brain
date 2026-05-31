@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 17:04
+updated: 2026-05-31 17:09
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 17:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 813分]** [EEMUS] 提携高校候補20校リスト
-- [ ] **[処理中 803分]** [School] 親向けLP完全版
+- [ ] **[処理中 818分]** [EEMUS] 提携高校候補20校リスト
+- [ ] **[処理中 808分]** [School] 親向けLP完全版
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
