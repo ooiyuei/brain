@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 21:46
+updated: 2026-05-31 21:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 21:46
+**最終更新**: 2026-05-31 21:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 172 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 194 |
+| 📥 inbox | 177 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 195 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 984 (うち24h+古い: 841) |
+| 📝 wiki/_inbox 未レビュー | 985 (うち24h+古い: 845) |
 
 ### 処理中
-- ⚙️ **[839 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- ⚙️ **[839 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[844 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ### Inbox 上位
 - [high] [Money] Testall 親向けLP コピー改善
@@ -49,7 +48,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 406 件
-- research : 9 件
+- research : 10 件
 - newbiz : 300 件
 - ingest : 1 件
 - corp : 94 件
