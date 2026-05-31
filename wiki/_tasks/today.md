@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 16:04
+updated: 2026-05-31 16:09
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,7 @@ updated: 2026-05-31 16:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 797分]** [Money] 紹介プログラム 5事業横断ルール
-- [ ] **[処理中 797分]** [Money] 主力5事業 月次キャッシュフロー6月予測
-- [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン
+- [ ] **[処理中 802分]** [Money] 6/21月収100万 残30日アクションプラン
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
