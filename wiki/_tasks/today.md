@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 21:34
+updated: 2026-05-31 21:39
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,7 @@ updated: 2026-05-31 21:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 25分]** [Brushup 90pt] aipax-proposal-80man-2026-05-31.md
-- [ ] **[処理中 833分]** [School] 1年カリキュラム詳細v2
+- [ ] **[処理中 838分]** [School] 1年カリキュラム詳細v2
 - [ ] [待機] AI 最新情報日次リサーチ
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測

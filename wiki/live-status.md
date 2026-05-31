@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 21:38:46
+updated: 2026-05-31 21:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:38:46** | 🔥 **稼働中**
+**21:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7242MB / 8151MB (**88.8%**)
+- 使用率: **2%**
+- VRAM: 7102MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **84.3%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 174 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 192 |
+| ✅ 今日完了 | 193 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [50268 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [50268 秒経過] **AI 最新情報日次リサーチ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] AI 最新情報日次リサーチ
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [School] 親向けLP完全版
 
 ## 🎯 判定
 
