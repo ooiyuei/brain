@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 19:54:47
+updated: 2026-05-31 19:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:54:47** | 🔥 **稼働中**
+**19:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,39 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **73%**
+- 使用率: **3%**
 - VRAM: 7098MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **86.4%** (27.6GB / 31.9GB)
+- 使用率: **85.7%** (27.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 172 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 171 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 178 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49188 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [49427 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [49427 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] 体験会2時間プログラム
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 
