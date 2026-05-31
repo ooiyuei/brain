@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 22:50:46
+updated: 2026-05-31 22:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:50:46** | 🔥 **稼働中**
+**22:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7097MB / 8151MB (**87.1%**)
+- VRAM: 7100MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **87.2%** (27.8GB / 31.9GB)
+- 使用率: **87.2%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 176 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 204 |
+| 📥 inbox | 175 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 205 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [51647 秒経過] **[Monitor] 競合動向Top3 - 2026-05-31**
+- ⚡ [51887 秒経過] **[Monitor] ビジコン締切 - 2026-05-31**
+- ⚡ [51887 秒経過] **[Monitor] 朝の問い - 2026-05-31**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Monitor] ビジコン締切 - 2026-05-31
-- [high] [Monitor] 朝の問い - 2026-05-31
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 判定
 
