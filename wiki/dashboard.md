@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 06:46
+updated: 2026-06-01 06:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 06:46
+**最終更新**: 2026-06-01 06:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 183 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 59 |
+| ✅ 今日完了 | 60 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1068 (うち24h+古い: 901) |
+| 📝 wiki/_inbox 未レビュー | 1069 (うち24h+古い: 901) |
 
 ### 処理中
-- ⚙️ **[931 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[931 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[936 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[930 分]** [School] 親FAQ 30問
 
 ### Inbox 上位
-- [high] [School] 親FAQ 30問
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 15 件
 - newbiz : 332 件
 - ingest : 1 件
-- corp : 112 件
+- corp : 113 件
 - dev : 9 件
 
 ## 🔗 主要リンク
