@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 07:22:46
+updated: 2026-06-01 07:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:22:46** | 🔥 **稼働中**
+**07:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7199MB / 8151MB (**88.3%**)
+- VRAM: 7198MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **54.9%** (17.5GB / 31.9GB)
+- 使用率: **56.6%** (18.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 186 |
+| 📥 inbox | 185 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 63 |
+| ✅ 今日完了 | 64 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [56508 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [56147 秒経過] **[AIpaX] β顧客5社募集LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] 親FAQ 30問
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 
