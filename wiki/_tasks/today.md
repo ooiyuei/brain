@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 21:59
+updated: 2026-05-31 22:04
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,7 @@ updated: 2026-05-31 21:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 852分]** [Money] Testall 受験生インフルエンサー連携 DM10件
-- [ ] [待機] [School] 親向けLP完全版
+- [ ] **[処理中 857分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
@@ -183,6 +182,8 @@ updated: 2026-05-31 21:59
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
+- [ ] [待機] [Self-Review] Brain System 週次改善提案 2026-05-31
+- [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
