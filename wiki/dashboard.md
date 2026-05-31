@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 06:11
+updated: 2026-06-01 06:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 06:11
+**最終更新**: 2026-06-01 06:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 185 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 53 |
+| 📥 inbox | 184 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 55 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1062 (うち24h+古い: 899) |
+| 📝 wiki/_inbox 未レビュー | 1064 (うち24h+古い: 899) |
 
 ### 処理中
-- ⚙️ **[924 分]** [Money] AIpaX 既存4社 アップセル提案
+- ⚙️ **[929 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- ⚙️ **[925 分]** [AIpaX] X投稿『AI導入Tips』20本
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -49,9 +50,9 @@ tags: [dashboard, system]
 
 - marketing : 430 件
 - research : 15 件
-- newbiz : 330 件
+- newbiz : 331 件
 - ingest : 1 件
-- corp : 111 件
+- corp : 112 件
 - dev : 9 件
 
 ## 🔗 主要リンク

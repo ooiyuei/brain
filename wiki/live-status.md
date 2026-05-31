@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 06:14:47
+updated: 2026-06-01 06:18:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:14:47** | 🔥 **稼働中**
+**06:18:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7069MB / 8151MB (**86.7%**)
+- 使用率: **0%**
+- VRAM: 7207MB / 8151MB (**88.4%**)
 
 ## 💾 RAM
 
-- 使用率: **85.3%** (27.2GB / 31.9GB)
+- 使用率: **56.2%** (17.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 183 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 54 |
+| 📥 inbox | 184 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 56 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [55666 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
-- ⚡ [55666 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
+- ⚡ [55667 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [School] 親FAQ 30問
 
 ## 🎯 判定
 
