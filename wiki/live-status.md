@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 04:42:46
+updated: 2026-06-01 04:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:42:46** | 🔥 **稼働中**
+**04:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **4%**
-- VRAM: 7082MB / 8151MB (**86.9%**)
+- VRAM: 7219MB / 8151MB (**88.6%**)
 
 ## 💾 RAM
 
-- 使用率: **85.6%** (27.3GB / 31.9GB)
+- 使用率: **55.7%** (17.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 184 |
+| 📥 inbox | 183 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 39 |
+| ✅ 今日完了 | 40 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [54107 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [54347 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 判定
 
