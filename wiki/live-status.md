@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 17:18:46
+updated: 2026-05-31 17:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:18:46** | 🔥 **稼働中**
+**17:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7361MB / 8151MB (**90.3%**)
+- 使用率: **2%**
+- VRAM: 7085MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **58.6%** (18.7GB / 31.9GB)
+- 使用率: **84.6%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 172 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 150 |
+| ✅ 今日完了 | 151 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49668 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [48946 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [EEMUS] MVP LP完全版
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 判定
 

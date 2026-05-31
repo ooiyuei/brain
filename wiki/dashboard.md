@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 17:16
+updated: 2026-05-31 17:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 17:16
+**最終更新**: 2026-05-31 17:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,19 +16,19 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 172 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 150 |
+| ✅ 今日完了 | 151 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1152 (うち24h+古い: 954) |
+| 📝 wiki/_inbox 未レビュー | 1153 (うち24h+古い: 956) |
 
 ### 処理中
-- ⚙️ **[825 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[814 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [EEMUS] MVP LP完全版
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 393 件
 - research : 8 件
-- newbiz : 403 件
+- newbiz : 404 件
 - ingest : 1 件
 - corp : 172 件
 - dev : 9 件
