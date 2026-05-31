@@ -1,28 +1,28 @@
 ---
 type: dashboard
-updated: 2026-05-31 19:26
+updated: 2026-05-31 19:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 19:26
+**最終更新**: 2026-05-31 19:31
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 169 |
+| 📥 inbox | 170 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 173 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 1175 (うち24h+古い: 977) |
 
 ### 処理中
-- ⚙️ **[825 分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- ⚙️ **[819 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- ⚙️ **[830 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[824 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ### Inbox 上位
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
