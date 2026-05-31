@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 05:21
+updated: 2026-06-01 05:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 05:21
+**最終更新**: 2026-06-01 05:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1053 (うち24h+古い: 897) |
 
 ### 処理中
-- ⚙️ **[930 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[920 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[935 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[925 分]** [EEMUS] 提携高校候補20校リスト
 
 ### Inbox 上位
 - [high] [AIpaX] 月次PL試算
