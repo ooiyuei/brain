@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 15:38:46
+updated: 2026-05-31 15:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:38:46** | 🔥 **稼働中**
+**15:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7219MB / 8151MB (**88.6%**)
+- 使用率: **86%**
+- VRAM: 7079MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **56.9%** (18.2GB / 31.9GB)
+- 使用率: **86.6%** (27.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 167 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 137 |
+| ✅ 今日完了 | 138 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47867 秒経過] **[School] 親FAQ 30問**
+- ⚡ [46908 秒経過] **[Testall] コンテンツ戦略3ヶ月**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 判定
 
