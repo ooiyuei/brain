@@ -29,26 +29,27 @@ managed_by: Claude (must update every session)
 **午後**: ①TEL 054-254-4511（補助金確認・今すぐ）②_promoted/newbiz/の骨子v3読んで夢AWARD肉付け③AIpaXクロージング確認
 **詳細**: [[_routines/midday-20260531]]
 
-## 🌙 Tomorrow（2026-05-31）
+## 🌙 Tomorrow（2026-06-01）
 
-**最優先**: ⚠️**Digital AI補助金2026 要件確認** — 今日が第1次締切(5/31)。朝一でWeb or 静岡財団TEL(054-254-4511)。第2次(8月末)狙い根拠の確認だけでも。
-**サブ①**: **夢AWARD応募骨子を書く** — 6/7締切・残**7日**。9日連続積み残し。朝30分だけ。Claudeが叩き台を今夜生成済み。
-**サブ②**: 静岡産業振興財団 TEL（054-254-4511）— Digital AI補助金確認と同時に午前中に1本。
-**詳細**: [[_routines/evening-20260530]]
+**最優先**: **夢AWARD応募骨子を完成させる** — 6/7締切・残**6日**。叩き台2本揃ってる（`_promoted/newbiz/eemus-dream-award-骨子v3`・`eemus-dream-award-story-2026-05-31`）。朝30分だけ肉付けして完成。これ以上先延ばしは手遅れ。
+**サブ①**: **AIpaX 5社目クロージング接触** — 想定問答15選完成済み。次は大井からの接触だけ。月収80万ギャップの最速手。
+**サブ②**: **Digital AI補助金 第2次スケジュール確認** — 第1次は5/31で終了。第2次（8月末）の詳細をWebで確認（TEL不要）。格下げ。
+**詳細**: [[_routines/evening-20260531]]
 
 ---
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-05-31 朝 — 朝ルーティン (morning-20260531生成/today.md更新/hot.md更新)
+**Last session**: 2026-05-31 夜 — 夜ルーティン (evening-20260531生成/PDCA実行/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/morning-20260531.md` (朝メモ生成)
-- `brain/wiki/_tasks/today.md` (5/31タスクボード更新)
-- `brain/wiki/hot.md` (Today 5/31更新)
+- `brain/wiki/_routines/evening-20260531.md` (夜メモ生成)
+- `brain/wiki/_tasks/done.md` (5/31完了タスクアーカイブ)
+- `brain/wiki/hot.md` (Tomorrow 6/1更新)
+- `brain/wiki/_promoted/newbiz/` (2件昇格: AIpaX80万提案書・EEMUSストーリー)
 
-**現在の Mode**: 朝ルーティン完了
-**完了**: 朝メモ・today.md・hot.md更新
-**未完**: Digital AI補助金要件確認（大井TEL必須・今日第1次締切）/ 夢AWARD骨子（9日連続・残7日）
+**現在の Mode**: 夜ルーティン完了
+**完了**: 夜メモ・PDCA(4件昇格/225件削除)・hot.md更新
+**未完**: 夢AWARD骨子（大井の肉付け30分・残6日）/ AIpaX 5社目接触（大井アクション）
 
 ---
 

@@ -11,6 +11,11 @@ updated: 2026-05-18
 
 ## 2026-05-W4（5/25-31）
 
+### 2026-05-31
+
+- [x] **昼PDCA実行**（12:30 / Claude）: 2件昇格（夢AWARD骨子v3・AIpaXクロージング想定問答15選）・53件削除（ハルシネ企業リスト19+Studyplus重複7+ペルソナ15+Stripe11+EEMUS1）
+- [x] **夜PDCA実行**（22:00 / Claude）: 2件昇格（AIpaX80万提案書・EEMUS夢AWARDストーリー）・225件削除（shincoder文字化け197+portfolio-prioritizeハルシネ11+stripe1+studyplus2+80man重複14）
+
 ### 2026-05-30
 
 - [x] **昼チェック実行**（12:30 / Claude）: inbox 9件削除（studyplus比較7件=価格ハルシネーション、stripe-setup2件=事業理解ゼロ）。昇格0件。

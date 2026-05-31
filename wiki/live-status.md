@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 21:06:46
+updated: 2026-05-31 21:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:06:46** | 🔥 **稼働中**
+**21:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7240MB / 8151MB (**88.8%**)
+- 使用率: **78%**
+- VRAM: 7102MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **57.5%** (18.4GB / 31.9GB)
+- 使用率: **88.5%** (28.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 171 |
+| 📥 inbox | 172 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 188 |
+| ✅ 今日完了 | 189 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49547 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [49187 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客候補30社プロファイル
+- [super] [Brushup 90pt] eemus-dream-award-story-2026-05-31.md
+- [super] [Brushup 90pt] aipax-proposal-80man-2026-05-31.md
 - [high] [School] 1年カリキュラム詳細v2
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 判定
 
