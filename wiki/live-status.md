@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 03:54:47
+updated: 2026-06-01 03:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:54:47** | 🔥 **稼働中**
+**03:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **56%**
-- VRAM: 7083MB / 8151MB (**86.9%**)
+- 使用率: **0%**
+- VRAM: 7085MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **87.4%** (27.9GB / 31.9GB)
+- 使用率: **86.3%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 183 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 33 |
-
-## 🔄 処理中タスク
-
-- ⚡ [53627 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+| 📥 inbox | 182 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 35 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 利用規約・特商法表記
 - [high] [School] 体験会2時間プログラム
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 判定
 
