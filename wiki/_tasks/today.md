@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 08:34
+updated: 2026-06-01 08:39
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 08:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 963分]** [EEMUS] MVP LP完全版
-- [ ] **[処理中 953分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 968分]** [EEMUS] MVP LP完全版
+- [ ] **[処理中 958分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
