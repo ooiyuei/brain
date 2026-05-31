@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-06-01 07:04
+updated: 2026-06-01 07:09
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-06-01 07:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 933分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] **[処理中 923分]** [Testall] コンテンツ戦略3ヶ月
+- [ ] **[処理中 938分]** [AIpaX] β顧客候補30社プロファイル
+- [ ] **[処理中 928分]** [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [School] 親FAQ 30問
