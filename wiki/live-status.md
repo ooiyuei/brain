@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 20:42:47
+updated: 2026-05-31 20:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:42:47** | 🔥 **稼働中**
+**20:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7239MB / 8151MB (**88.8%**)
+- 使用率: **5%**
+- VRAM: 7241MB / 8151MB (**88.8%**)
 
 ## 💾 RAM
 
-- 使用率: **55.3%** (17.7GB / 31.9GB)
+- 使用率: **56.4%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 173 |
+| 📥 inbox | 172 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 184 |
+| ✅ 今日完了 | 185 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49908 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [50148 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 入学後30日プラン
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
