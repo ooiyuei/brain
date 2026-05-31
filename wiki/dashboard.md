@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 00:31
+updated: 2026-06-01 00:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 00:31
+**最終更新**: 2026-06-01 00:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 174 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 4 |
+| 📥 inbox | 172 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 5 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1013 (うち24h+古い: 862) |
+| 📝 wiki/_inbox 未レビュー | 1014 (うち24h+古い: 862) |
 
 ### 処理中
-- ⚙️ **[880 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[865 分]** [School] 体験会2時間プログラム
+- ⚙️ **[861 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [School] 体験会2時間プログラム
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] 月次PL試算
+- [high] [School] X『中高生×AI』20投稿
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +52,7 @@ tags: [dashboard, system]
 - research : 11 件
 - newbiz : 310 件
 - ingest : 1 件
-- corp : 99 件
+- corp : 100 件
 - dev : 8 件
 
 ## 🔗 主要リンク
