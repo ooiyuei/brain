@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 04:06:47
+updated: 2026-06-01 04:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:06:47** | 🔥 **稼働中**
+**04:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残25分 |
 
 ## 🎮 GPU
 
@@ -25,29 +25,33 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **85.5%** (27.3GB / 31.9GB)
+- 使用率: **86.5%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 182 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 181 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 36 |
+
+## 🔄 処理中タスク
+
+- ⚡ [53747 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 利用規約・特商法表記
 - [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
