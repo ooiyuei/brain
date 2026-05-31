@@ -1,34 +1,35 @@
 ---
 type: dashboard
-updated: 2026-06-01 08:11
+updated: 2026-06-01 08:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 08:11
+**最終更新**: 2026-06-01 08:16
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 193 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 67 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 68 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1076 (うち24h+古い: 906) |
+| 📝 wiki/_inbox 未レビュー | 1077 (うち24h+古い: 906) |
 
 ### 処理中
-- ⚙️ **[956 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[961 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[955 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [EEMUS] MVP LP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 437 件
 - research : 15 件
-- newbiz : 335 件
+- newbiz : 336 件
 - ingest : 1 件
 - corp : 113 件
 - dev : 9 件
