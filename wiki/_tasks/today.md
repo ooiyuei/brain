@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-06-01 04:54
+updated: 2026-06-01 04:59
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,7 @@ updated: 2026-06-01 04:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 907分]** [Money] Testall 受験生インフルエンサー連携 DM10件
-- [ ] **[処理中 907分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- [ ] **[処理中 912分]** [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
