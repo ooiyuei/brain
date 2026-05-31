@@ -91,13 +91,13 @@ managed_by: Claude (must update every session)
 ---
 
 ## 今日の AI ニュース
-*最終更新: 2026-05-31 07:30*
+*最終更新: 2026-06-01 07:00*
 
-1. ★ Anthropic Series H $65B 調達・評価額 $965B で OpenAI 超え (5/28) — 世界最大の AI スタートアップに。Almeo の Claude 主軸戦略は資金面で当面盤石。Mythos モデル数週間以内公開予告
-2. OpenAI、ChatGPT 内に自社広告プラットフォーム投入 — 中小経営者の業務利用障壁化 → Almeo の「広告フリー Claude / 日本語 / 補助金」が逆に売りやすくなる
-3. ★ デジタル化・AI 導入補助金 2026 第1次は 5/12 締切で完了済 — 第2次 (8月末) 狙いに切替。今日 5/31 は静岡産業振興財団 TEL 054-254-4511 で要件確認の日
+1. ★ 日本 SMB 向け AI 補助金 500 億円が承認、AI Promotion Act 施行から 9 か月 — METI は 2030 年までに最大 1 兆円規模の AI 投資補助を検討中。「AI Basic Plan」の安全プロトコル実装が補助対象。Almeo の AI 教育事業がド真ん中の補助対象になり得る
+2. Anthropic 6/15 課金変更：Claude Code は影響なし、Agent SDK / claude -p が別クレジットプールへ — Pro $20 / Max5x $100 / Max20x $200。Claude Opus 4 / Sonnet 4 は 6/15 で API 廃止、Opus 4.8 が 5/28 リリース済み
+3. OpenAI GPT-5.5 Instant が ChatGPT デフォルトに、6/27 に GPT-4.5 廃止 — GPT-5.5 Instant は前モデル比 52.5% ハルシネーション削減（医療・法律・金融）。Testall 等 GPT-4.5 利用箇所の移行確認が必要
 
-詳細: brain/07_research/ai-news/2026-05-31.md
+詳細: brain/07_research/ai-news/2026-06-01.md
 
 ---
 
