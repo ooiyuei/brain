@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 15:42:46
+updated: 2026-05-31 15:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:42:46** | 🔥 **稼働中**
+**15:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **86%**
-- VRAM: 7079MB / 8151MB (**86.8%**)
+- 使用率: **3%**
+- VRAM: 7086MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **86.6%** (27.7GB / 31.9GB)
+- 使用率: **86.1%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 167 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 166 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 138 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [46908 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [47148 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [46786 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 判定
 
