@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 10:34
+updated: 2026-05-31 10:39
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 10:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 683分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] **[処理中 34分]** [BG-Entities] business-contests-flat-top30 更新提案
+- [ ] **[処理中 3分]** [AIpaX] β顧客候補30社プロファイル
+- [ ] **[処理中 9分]** [BG-Business] agents-of-flag 深掘り
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
@@ -179,7 +179,6 @@ updated: 2026-05-31 10:34
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-31
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
-- [ ] [待機] [BG-Business] agents-of-flag 深掘り
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
