@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 21:54
+updated: 2026-05-31 21:59
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,7 @@ updated: 2026-05-31 21:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 847分]** [Money] Testall 親向けLP コピー改善
-- [ ] **[処理中 847分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] **[処理中 852分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [Testall] X受験あるある投稿30本
