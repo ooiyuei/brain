@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 16:46:47
+updated: 2026-05-31 16:50:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:46:47** | 🔥 **稼働中**
+**16:50:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7363MB / 8151MB (**90.3%**)
+- 使用率: **0%**
+- VRAM: 7222MB / 8151MB (**88.6%**)
 
 ## 💾 RAM
 
-- 使用率: **59.2%** (18.9GB / 31.9GB)
+- 使用率: **87.4%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 166 |
+| 📥 inbox | 169 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 146 |
+| ✅ 今日完了 | 147 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [48948 秒経過] **[Testall] Studyplus Planning徹底比較**
-- ⚡ [48708 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [48947 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [48588 秒経過] **[EEMUS] MVP LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
