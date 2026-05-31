@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 19:06
+updated: 2026-05-31 19:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 19:06
+**最終更新**: 2026-05-31 19:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 169 |
+| 📥 inbox | 168 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 169 |
+| ✅ 今日完了 | 171 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1171 (うち24h+古い: 972) |
+| 📝 wiki/_inbox 未レビュー | 1173 (うち24h+古い: 972) |
 
 ### 処理中
-- ⚙️ **[835 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[831 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[836 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[820 分]** [AIpaX] β顧客80万提案書フル版
 
 ### Inbox 上位
-- [high] [School] 入学後30日プラン
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 400 件
+- marketing : 401 件
 - research : 10 件
-- newbiz : 412 件
+- newbiz : 413 件
 - ingest : 1 件
 - corp : 173 件
 - dev : 9 件
