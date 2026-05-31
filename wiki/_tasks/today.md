@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 22:54
+updated: 2026-05-31 22:59
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,8 @@ updated: 2026-05-31 22:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 864分]** [Monitor] ビジコン締切 - 2026-05-31
-- [ ] **[処理中 864分]** [Monitor] 朝の問い - 2026-05-31
-- [ ] [待機] [Testall] コンテンツ戦略3ヶ月
+- [ ] **[処理中 869分]** [Monitor] 朝の問い - 2026-05-31
+- [ ] **[処理中 868分]** [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文

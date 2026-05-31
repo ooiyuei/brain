@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 22:56
+updated: 2026-05-31 23:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 22:56
+**最終更新**: 2026-05-31 23:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 175 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 205 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 207 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 995 (うち24h+古い: 852) |
 
 ### 処理中
-- ⚙️ **[866 分]** [Monitor] ビジコン締切 - 2026-05-31
-- ⚙️ **[866 分]** [Monitor] 朝の問い - 2026-05-31
+- ⚙️ **[870 分]** [Testall] コンテンツ戦略3ヶ月
 
 ### Inbox 上位
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -49,6 +48,8 @@ tags: [dashboard, system]
 ## 🌅 今朝の監視結果
 
 - [[_monitor/competitor-2026-05-31|competitor]]
+- [[_monitor/deadlines-2026-05-31|deadlines]]
+- [[_monitor/grill-2026-05-31|grill]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
