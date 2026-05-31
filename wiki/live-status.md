@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 02:34:46
+updated: 2026-06-01 02:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:34:46** | 🔥 **稼働中**
+**02:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **84%**
-- VRAM: 7082MB / 8151MB (**86.9%**)
+- 使用率: **0%**
+- VRAM: 7084MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **87.8%** (28GB / 31.9GB)
+- 使用率: **86.7%** (27.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 179 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 19 |
-
-## 🔄 処理中タスク
-
-- ⚡ [54227 秒経過] **[AIpaX] 月次PL試算**
+| 📥 inbox | 178 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 21 |
 
 ## 📥 待機タスク (上位5)
 
 - [high] [School] X『中高生×AI』20投稿
-- [high] [School] X『中高生×AI』20投稿
 - [high] [School] 入学後30日プラン
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 判定
 

@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 02:31
+updated: 2026-06-01 02:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 02:31
+**最終更新**: 2026-06-01 02:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 181 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 18 |
+| 📥 inbox | 179 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 19 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1027 (うち24h+古い: 883) |
+| 📝 wiki/_inbox 未レビュー | 1028 (うち24h+古い: 883) |
+
+### 処理中
+- ⚙️ **[905 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
-- [high] [AIpaX] 月次PL試算
-- [high] [School] 親向けLP完全版
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 入学後30日プラン
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 今日のフォーカス
 
@@ -44,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 421 件
+- marketing : 422 件
 - research : 12 件
 - newbiz : 316 件
 - ingest : 1 件
