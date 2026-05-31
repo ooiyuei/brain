@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 23:14:46
+updated: 2026-05-31 23:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:14:46** | 🔥 **稼働中**
+**23:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **1%**
-- VRAM: 7376MB / 8151MB (**90.5%**)
+- 使用率: **5%**
+- VRAM: 7377MB / 8151MB (**90.5%**)
 
 ## 💾 RAM
 
-- 使用率: **60.5%** (19.3GB / 31.9GB)
+- 使用率: **59.6%** (19GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 175 |
+| 📥 inbox | 176 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 207 |
+| ✅ 今日完了 | 208 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [53027 秒経過] **[Testall] コンテンツ戦略3ヶ月**
-- ⚡ [52427 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [52667 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [52306 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
