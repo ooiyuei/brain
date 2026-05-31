@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 11:24
+updated: 2026-05-31 11:29
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 11:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 713分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] **[処理中 24分]** [BG-Competitive] Studyplus Planning
+- [ ] **[処理中 718分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- [ ] **[処理中 29分]** [BG-Competitive] atama+
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
@@ -183,7 +183,6 @@ updated: 2026-05-31 11:24
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-31
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
-- [ ] [待機] [BG-Competitive] atama+
 - [ ] [待機] [BG-Competitive] Notion AI
 - [ ] [待機] [BG-Competitive] Sansan
 - [ ] [待機] [BG-Competitive] engage
