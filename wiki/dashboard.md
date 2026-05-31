@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 11:56
+updated: 2026-05-31 12:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 11:56
+**最終更新**: 2026-05-31 12:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,13 +16,13 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 155 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 104 |
+| ✅ 今日完了 | 105 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 1164 (うち24h+古い: 930) |
 
 ### 処理中
-- ⚙️ **[735 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[56 分]** [BG-Competitive] Notion AI
+- ⚙️ **[740 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[61 分]** [BG-Competitive] Sansan
 
 ### Inbox 上位
 - [high] [Money] AIpaX 既存4社 アップセル提案

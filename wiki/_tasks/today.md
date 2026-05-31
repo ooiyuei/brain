@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 11:54
+updated: 2026-05-31 11:59
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 11:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 733分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] **[処理中 54分]** [BG-Competitive] Notion AI
+- [ ] **[処理中 738分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 59分]** [BG-Competitive] Sansan
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
@@ -185,7 +185,6 @@ updated: 2026-05-31 11:54
 - [ ] [待機] [BG-Contests] バッチ10 (91-100)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-05-31
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
-- [ ] [待機] [BG-Competitive] Sansan
 - [ ] [待機] [BG-Competitive] engage
 
 

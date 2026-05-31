@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 11:58:46
+updated: 2026-05-31 12:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:58:46** | 🔥 **稼働中**
+**12:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,31 +20,30 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7218MB / 8151MB (**88.6%**)
+- 使用率: **11%**
+- VRAM: 7215MB / 8151MB (**88.5%**)
 
 ## 💾 RAM
 
-- 使用率: **57.7%** (18.4GB / 31.9GB)
+- 使用率: **57.4%** (18.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 155 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 104 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 106 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [44267 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [3527 秒経過] **[BG-Competitive] Notion AI**
+- ⚡ [44507 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
 
 ## 📥 待機タスク (上位5)
 
