@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 16:06
+updated: 2026-05-31 16:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 16:06
+**最終更新**: 2026-05-31 16:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 165 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 141 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 143 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1143 (うち24h+古い: 940) |
+| 📝 wiki/_inbox 未レビュー | 1145 (うち24h+古い: 941) |
 
 ### 処理中
-- ⚙️ **[799 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
-- ⚙️ **[799 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[800 分]** [横断] Stripe決済設定 5事業ロードマップ
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -50,9 +49,9 @@ tags: [dashboard, system]
 
 - marketing : 391 件
 - research : 7 件
-- newbiz : 400 件
+- newbiz : 401 件
 - ingest : 1 件
-- corp : 170 件
+- corp : 171 件
 - dev : 8 件
 
 ## 🔗 主要リンク
