@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-28T07:41:02.8098905+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-28T07:51:01.8450642+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-05-28T08:01:02.1977438+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-01T07:41:01.9917458+09:00"
+                    },
+                    {
+                        "slug":  "testall-competitor-studyplus",
+                        "time":  "2026-06-01T07:51:01.9294081+09:00"
                     }
                 ]
 }
