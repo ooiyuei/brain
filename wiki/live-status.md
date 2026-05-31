@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 14:30:47
+updated: 2026-05-31 14:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:30:47** | 🔥 **稼働中**
+**14:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7073MB / 8151MB (**86.8%**)
+- 使用率: **83%**
+- VRAM: 7075MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **84%** (26.8GB / 31.9GB)
+- 使用率: **87.4%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 165 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 126 |
+| 📥 inbox | 164 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 127 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47747 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [47987 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [47627 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [AIpaX] 月次PL試算
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [EEMUS] 連携企業候補20社
+- [high] [Testall] X受験あるある投稿30本
+- [high] [Testall] X受験あるある投稿30本
 
 ## 🎯 判定
 
