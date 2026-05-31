@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 02:42:46
+updated: 2026-06-01 02:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:42:46** | 🔥 **稼働中**
+**02:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残25分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残21分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **61%**
-- VRAM: 7083MB / 8151MB (**86.9%**)
+- 使用率: **3%**
+- VRAM: 7087MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **87.5%** (27.9GB / 31.9GB)
+- 使用率: **86.2%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 176 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 175 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 23 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52058 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [52298 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [52298 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 判定
 

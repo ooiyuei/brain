@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 02:41
+updated: 2026-06-01 02:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 02:41
+**最終更新**: 2026-06-01 02:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 176 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 175 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 23 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 1032 (うち24h+古い: 883) |
 
 ### 処理中
-- ⚙️ **[866 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[871 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[871 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 今日のフォーカス
 
