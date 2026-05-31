@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 21:42:46
+updated: 2026-05-31 21:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:42:46** | 🔥 **稼働中**
+**21:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7102MB / 8151MB (**87.1%**)
+- VRAM: 7107MB / 8151MB (**87.2%**)
 
 ## 💾 RAM
 
-- 使用率: **84.3%** (26.9GB / 31.9GB)
+- 使用率: **87.1%** (27.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 174 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 193 |
+| 📥 inbox | 172 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 194 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [50268 秒経過] **AI 最新情報日次リサーチ**
+- ⚡ [50386 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [50386 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [School] 親向けLP完全版
+- [high] [EEMUS] 連携企業候補20社
+- [high] [Testall] X受験あるある投稿30本
 
 ## 🎯 判定
 
