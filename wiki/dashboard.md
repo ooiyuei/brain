@@ -1,35 +1,34 @@
 ---
 type: dashboard
-updated: 2026-05-31 18:01
+updated: 2026-05-31 18:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 18:01
+**最終更新**: 2026-05-31 18:06
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 169 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 157 |
+| 📥 inbox | 168 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 159 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1159 (うち24h+古い: 964) |
+| 📝 wiki/_inbox 未レビュー | 1161 (うち24h+古い: 964) |
 
 ### 処理中
-- ⚙️ **[826 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[826 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[831 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [EEMUS] MVP LP完全版
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 396 件
+- marketing : 397 件
 - research : 10 件
 - newbiz : 405 件
 - ingest : 1 件
-- corp : 172 件
+- corp : 173 件
 - dev : 9 件
 
 ## 🔗 主要リンク
