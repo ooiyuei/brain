@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 00:56
+updated: 2026-06-01 01:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 00:56
+**最終更新**: 2026-06-01 01:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 176 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 7 |
+| ✅ 今日完了 | 8 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1016 (うち24h+古い: 868) |
+| 📝 wiki/_inbox 未レビュー | 1017 (うち24h+古い: 868) |
 
 ### 処理中
-- ⚙️ **[881 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[875 分]** [School] 体験会2時間プログラム
+- ⚙️ **[880 分]** [School] 体験会2時間プログラム
+- ⚙️ **[870 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
-- [high] [AIpaX] 月次PL試算
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親向けLP完全版
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 11 件
 - newbiz : 312 件
 - ingest : 1 件
-- corp : 100 件
+- corp : 101 件
 - dev : 8 件
 
 ## 🔗 主要リンク

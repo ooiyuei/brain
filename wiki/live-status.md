@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 00:58:46
+updated: 2026-06-01 01:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:58:46** | 🔥 **稼働中**
+**01:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7097MB / 8151MB (**87.1%**)
+- 使用率: **79%**
+- VRAM: 7099MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **86.8%** (27.7GB / 31.9GB)
+- 使用率: **86.9%** (27.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 176 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 8 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52667 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [52907 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [52307 秒経過] **[AIpaX] 月次PL試算**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] 月次PL試算
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親向けLP完全版
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
