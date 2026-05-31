@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 07:30:46
+updated: 2026-06-01 07:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:30:46** | 🔥 **稼働中**
+**07:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残29分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **56.1%** (17.9GB / 31.9GB)
+- 使用率: **58.6%** (18.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 186 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 64 |
+| ✅ 今日完了 | 65 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [56387 秒経過] **[AIpaX] β顧客5社募集LP完全版**
+- ⚡ [56027 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] 親FAQ 30問
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 判定
 
