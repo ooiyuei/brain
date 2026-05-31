@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 22:51
+updated: 2026-05-31 22:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 22:51
+**最終更新**: 2026-05-31 22:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 177 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 204 |
+| 📥 inbox | 175 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 205 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 995 (うち24h+古い: 852) |
 
 ### 処理中
-- ⚙️ **[861 分]** [Monitor] 競合動向Top3 - 2026-05-31
+- ⚙️ **[866 分]** [Monitor] ビジコン締切 - 2026-05-31
+- ⚙️ **[866 分]** [Monitor] 朝の問い - 2026-05-31
 
 ### Inbox 上位
-- [high] [Monitor] ビジコン締切 - 2026-05-31
-- [high] [Monitor] 朝の問い - 2026-05-31
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 今日のフォーカス
 
@@ -44,6 +45,10 @@ tags: [dashboard, system]
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 22 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 2/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
+
+## 🌅 今朝の監視結果
+
+- [[_monitor/competitor-2026-05-31|competitor]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
