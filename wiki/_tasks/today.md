@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 14:04
+updated: 2026-05-31 14:09
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 14:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 25分]** [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
-- [ ] **[処理中 783分]** [School] 親FAQ 30問
+- [ ] **[処理中 30分]** [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
+- [ ] **[処理中 788分]** [School] 親FAQ 30問
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
