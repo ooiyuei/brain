@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 11:31
+updated: 2026-05-31 11:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 11:31
+**最終更新**: 2026-05-31 11:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1163 (うち24h+古い: 930) |
 
 ### 処理中
-- ⚙️ **[720 分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- ⚙️ **[31 分]** [BG-Competitive] atama+
+- ⚙️ **[725 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[36 分]** [BG-Competitive] atama+
 
 ### Inbox 上位
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
