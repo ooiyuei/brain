@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 20:01
+updated: 2026-05-31 20:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 20:01
+**最終更新**: 2026-05-31 20:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 172 |
+| 📥 inbox | 171 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 178 |
+| ✅ 今日完了 | 179 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1180 (うち24h+古い: 983) |
+| 📝 wiki/_inbox 未レビュー | 1181 (うち24h+古い: 983) |
 
 ### 処理中
-- ⚙️ **[826 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- ⚙️ **[826 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[831 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[825 分]** [横断] 15事業の優先順位再評価
 
 ### Inbox 上位
-- [high] [横断] 15事業の優先順位再評価
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [School] 入学後30日プラン
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 404 件
 - research : 11 件
-- newbiz : 415 件
+- newbiz : 416 件
 - ingest : 1 件
 - corp : 174 件
 - dev : 9 件
