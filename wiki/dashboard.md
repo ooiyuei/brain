@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 03:31
+updated: 2026-06-01 03:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 03:31
+**最終更新**: 2026-06-01 03:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 180 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 30 |
+| 📥 inbox | 178 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 31 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1039 (うち24h+古い: 886) |
+| 📝 wiki/_inbox 未レビュー | 1040 (うち24h+古い: 887) |
 
 ### 処理中
-- ⚙️ **[884 分]** [Money] AIpa Web 商工会経由営業文
+- ⚙️ **[889 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[885 分]** [AIpaX] β顧客候補30社プロファイル
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] 利用規約・特商法表記
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 426 件
+- marketing : 427 件
 - research : 13 件
 - newbiz : 320 件
 - ingest : 1 件
