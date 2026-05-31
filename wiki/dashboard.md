@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 09:06
+updated: 2026-05-31 09:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 09:06
+**最終更新**: 2026-05-31 09:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 138 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 84 |
+| ✅ 今日完了 | 85 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1146 (うち24h+古い: 907) |
+| 📝 wiki/_inbox 未レビュー | 1147 (うち24h+古い: 908) |
 
 ### 処理中
-- ⚙️ **[655 分]** [EEMUS] 連携企業候補20社
-- ⚙️ **[651 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[656 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
+- ⚙️ **[650 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 入学後30日プラン
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 378 件
 - research : 47 件
-- newbiz : 375 件
+- newbiz : 376 件
 - ingest : 1 件
 - corp : 160 件
 - dev : 19 件
