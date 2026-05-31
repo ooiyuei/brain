@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 20:50:47
+updated: 2026-05-31 20:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:50:47** | 🔥 **稼働中**
+**20:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **59%**
-- VRAM: 7100MB / 8151MB (**87.1%**)
+- 使用率: **3%**
+- VRAM: 7104MB / 8151MB (**87.2%**)
 
 ## 💾 RAM
 
-- 使用率: **84.8%** (27.1GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 171 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 186 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [48948 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [49187 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [49186 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 1年カリキュラム詳細v2
 - [high] AI 最新情報日次リサーチ
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 判定
 
