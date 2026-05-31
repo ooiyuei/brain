@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 22:41
+updated: 2026-05-31 22:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 22:41
+**最終更新**: 2026-05-31 22:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 177 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 176 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 203 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 994 (うち24h+古い: 852) |
 
 ### 処理中
-- ⚙️ **[866 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[871 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[856 分]** [Monitor] 競合動向Top3 - 2026-05-31
 
 ### Inbox 上位
-- [high] [Monitor] 競合動向Top3 - 2026-05-31
 - [high] [Monitor] ビジコン締切 - 2026-05-31
 - [high] [Monitor] 朝の問い - 2026-05-31
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
