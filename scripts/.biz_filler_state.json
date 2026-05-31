@@ -2263,6 +2263,10 @@
                     {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-06-01T05:31:02.2336287+09:00"
+                    },
+                    {
+                        "slug":  "school-onboarding",
+                        "time":  "2026-06-01T05:41:01.8729254+09:00"
                     }
                 ]
 }
