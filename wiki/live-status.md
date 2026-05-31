@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 18:22:47
+updated: 2026-05-31 18:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:22:47** | 🔥 **稼働中**
+**18:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残16分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **3%**
-- VRAM: 7085MB / 8151MB (**86.9%**)
+- VRAM: 7087MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **86.3%** (27.6GB / 31.9GB)
+- 使用率: **87.7%** (28GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 167 |
+| 📥 inbox | 165 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 164 |
+| ✅ 今日完了 | 166 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [48946 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [48948 秒経過] **[横断] 投資家向けピッチ1分版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
