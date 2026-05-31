@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 03:02:46
+updated: 2026-06-01 03:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:02:46** | 🔥 **稼働中**
+**03:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7223MB / 8151MB (**88.6%**)
+- 使用率: **67%**
+- VRAM: 7090MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
-- 使用率: **57%** (18.2GB / 31.9GB)
+- 使用率: **87.3%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 180 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 25 |
+| 📥 inbox | 178 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 26 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52908 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [52547 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [51947 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 判定
 
