@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 20:51
+updated: 2026-05-31 20:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 20:51
+**最終更新**: 2026-05-31 20:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 172 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 171 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 186 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1188 (うち24h+古い: 987) |
+| 📝 wiki/_inbox 未レビュー | 1188 (うち24h+古い: 988) |
 
 ### 処理中
-- ⚙️ **[816 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[821 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[821 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 1年カリキュラム詳細v2
 - [high] AI 最新情報日次リサーチ
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 今日のフォーカス
 
