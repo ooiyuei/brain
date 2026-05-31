@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 04:11
+updated: 2026-06-01 04:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 04:11
+**最終更新**: 2026-06-01 04:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 182 |
+| 📥 inbox | 183 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 36 |
+| ✅ 今日完了 | 37 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1045 (うち24h+古い: 889) |
+| 📝 wiki/_inbox 未レビュー | 1046 (うち24h+古い: 889) |
 
 ### 処理中
-- ⚙️ **[896 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[895 分]** [School] 利用規約・特商法表記
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
 - [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +51,7 @@ tags: [dashboard, system]
 - research : 14 件
 - newbiz : 323 件
 - ingest : 1 件
-- corp : 106 件
+- corp : 107 件
 - dev : 8 件
 
 ## 🔗 主要リンク
