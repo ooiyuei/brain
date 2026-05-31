@@ -1,14 +1,14 @@
 ---
 type: dashboard
-updated: 2026-06-01 08:41
+updated: 2026-06-01 08:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 08:41
+**最終更新**: 2026-06-01 08:46
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1079 (うち24h+古い: 912) |
 
 ### 処理中
-- ⚙️ **[970 分]** [EEMUS] MVP LP完全版
-- ⚙️ **[960 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[975 分]** [EEMUS] MVP LP完全版
+- ⚙️ **[965 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ### Inbox 上位
 - [high] [Money] Testall 親向けLP コピー改善
