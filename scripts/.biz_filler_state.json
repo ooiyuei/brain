@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-28T07:31:02.1061938+09:00"
-                    },
-                    {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-05-28T07:41:02.8098905+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-06-01T07:31:01.9138414+09:00"
+                    },
+                    {
+                        "slug":  "eemus-dream-award-story",
+                        "time":  "2026-06-01T07:41:01.9917458+09:00"
                     }
                 ]
 }
