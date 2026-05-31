@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 19:22:47
+updated: 2026-05-31 19:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:22:47** | 🔥 **稼働中**
+**19:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **64%**
-- VRAM: 7088MB / 8151MB (**87%**)
+- 使用率: **3%**
+- VRAM: 7092MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
-- 使用率: **85.2%** (27.2GB / 31.9GB)
+- 使用率: **85.6%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 170 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 169 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 173 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49308 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [49547 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [49186 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] 親FAQ 30問
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 
