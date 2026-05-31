@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 21:09
+updated: 2026-05-31 21:14
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-05-31 21:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 818分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] [待機] [Brushup 90pt] eemus-dream-award-story-2026-05-31.md
+- [ ] **[処理中 5分]** [Brushup 90pt] eemus-dream-award-story-2026-05-31.md
+- [ ] **[処理中 823分]** [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [Brushup 90pt] aipax-proposal-80man-2026-05-31.md
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] AI 最新情報日次リサーチ
@@ -180,6 +180,7 @@ updated: 2026-05-31 21:09
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [School] 入学後30日プラン
+- [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ

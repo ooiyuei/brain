@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 21:06
+updated: 2026-05-31 21:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 21:06
+**最終更新**: 2026-05-31 21:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 171 |
+| 📥 inbox | 173 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 188 |
+| ✅ 今日完了 | 189 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1190 (うち24h+古い: 990) |
+| 📝 wiki/_inbox 未レビュー | 982 (うち24h+古い: 836) |
 
 ### 処理中
-- ⚙️ **[825 分]** [School] 利用規約・特商法表記
+- ⚙️ **[820 分]** [AIpaX] β顧客候補30社プロファイル
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客候補30社プロファイル
+- [super] [Brushup 90pt] eemus-dream-award-story-2026-05-31.md
+- [super] [Brushup 90pt] aipax-proposal-80man-2026-05-31.md
 - [high] [School] 1年カリキュラム詳細v2
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +48,11 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 406 件
-- research : 11 件
-- newbiz : 421 件
+- research : 9 件
+- newbiz : 298 件
 - ingest : 1 件
-- corp : 176 件
-- dev : 9 件
+- corp : 94 件
+- dev : 8 件
 
 ## 🔗 主要リンク
 
