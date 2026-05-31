@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-06-01 05:54
+updated: 2026-06-01 05:59
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,8 @@ updated: 2026-06-01 05:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 923分]** [AIpaX] X投稿『AI導入Tips』20本
-- [ ] **[処理中 913分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 928分]** [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 918分]** [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
