@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 02:16
+updated: 2026-06-01 02:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 02:16
+**最終更新**: 2026-06-01 02:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 180 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 15 |
+| ✅ 今日完了 | 16 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1024 (うち24h+古い: 882) |
+| 📝 wiki/_inbox 未レビュー | 1025 (うち24h+古い: 882) |
 
 ### 処理中
-- ⚙️ **[901 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[901 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[906 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[900 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [AIpaX] 月次PL試算
 - [high] [School] 親向けLP完全版
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
+- [high] [School] 入学後30日プラン
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 11 件
 - newbiz : 315 件
 - ingest : 1 件
-- corp : 102 件
+- corp : 103 件
 - dev : 8 件
 
 ## 🔗 主要リンク

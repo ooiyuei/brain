@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 02:18:47
+updated: 2026-06-01 02:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:18:47** | 🔥 **稼働中**
+**02:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **86%**
-- VRAM: 7087MB / 8151MB (**86.9%**)
+- 使用率: **0%**
+- VRAM: 7086MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **84.4%** (27GB / 31.9GB)
+- 使用率: **86%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 180 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 16 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [54227 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [54467 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [54108 秒経過] **[Testall] ユーザーペルソナ5パターン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [AIpaX] 月次PL試算
 - [high] [School] 親向けLP完全版
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
