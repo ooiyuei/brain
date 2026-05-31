@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 00:30:47
+updated: 2026-06-01 00:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:30:47** | 🔥 **稼働中**
+**00:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,22 +15,22 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7233MB / 8151MB (**88.7%**)
+- 使用率: **0%**
+- VRAM: 7099MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **56.1%** (17.9GB / 31.9GB)
+- 使用率: **84.8%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 173 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 4 |
+| ✅ 今日完了 | 5 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52788 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [51828 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] 月次PL試算
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
