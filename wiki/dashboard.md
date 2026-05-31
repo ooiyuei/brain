@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 16:01
+updated: 2026-05-31 16:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 16:01
+**最終更新**: 2026-05-31 16:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 168 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 140 |
+| 📥 inbox | 165 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 141 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1142 (うち24h+古い: 938) |
+| 📝 wiki/_inbox 未レビュー | 1143 (うち24h+古い: 940) |
+
+### 処理中
+- ⚙️ **[799 分]** [Money] 主力5事業 月次キャッシュフロー6月予測
+- ⚙️ **[799 分]** [Money] 6/21月収100万 残30日アクションプラン
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +52,7 @@ tags: [dashboard, system]
 - research : 7 件
 - newbiz : 400 件
 - ingest : 1 件
-- corp : 169 件
+- corp : 170 件
 - dev : 8 件
 
 ## 🔗 主要リンク

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 16:02:47
+updated: 2026-05-31 16:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:02:47** | 🔥 **稼働中**
+**16:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7079MB / 8151MB (**86.8%**)
+- VRAM: 7082MB / 8151MB (**86.9%**)
 
 ## 💾 RAM
 
-- 使用率: **85.4%** (27.3GB / 31.9GB)
+- 使用率: **86.3%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 167 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 140 |
+| 📥 inbox | 165 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 141 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47747 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [47986 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [47986 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 
