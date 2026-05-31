@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 08:18:47
+updated: 2026-06-01 08:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:18:47** | 🔥 **稼働中**
+**08:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7199MB / 8151MB (**88.3%**)
+- 使用率: **11%**
+- VRAM: 7201MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **63.3%** (20.2GB / 31.9GB)
+- 使用率: **62.9%** (20.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 193 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 69 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [57468 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [57707 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [57107 秒経過] **[EEMUS] MVP LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 判定
 
