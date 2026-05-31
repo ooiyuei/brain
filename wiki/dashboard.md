@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 10:51
+updated: 2026-05-31 10:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 10:51
+**最終更新**: 2026-05-31 10:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 150 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 149 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 97 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 1159 (うち24h+古い: 928) |
 
 ### 処理中
-- ⚙️ **[15 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[20 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[701 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-30 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-30)
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
