@@ -1,6 +1,6 @@
 ---
 type: hot-cache
-updated: 2026-05-31 09:00
+updated: 2026-06-01 09:30
 structure_version: 2
 managed_by: Claude (must update every session)
 ---
@@ -12,6 +12,23 @@ managed_by: Claude (must update every session)
 > 詳細スナップショット (静的) → [[dashboards/business-snapshot]]
 > 大井プロファイル入口 → [[meta/ooi-profile-index]]
 > OpenClaw稼働状況 → [[dashboards/openclaw-activity]]
+
+---
+
+## 📅 This Week [[2026-W22]] (5/25-5/31) — 棚卸し完了
+
+**主な動き** (詳細: [[_routines/weekly-2026-W22]]):
+- 会社インフラ4種同日契約 (ドメイン+Google Workspace+Slack+Notion) + Phase 2 (9部署+大井ホーム) 物理化
+- OpenClaw工場フル稼働: brain git 1067 commits, 4件昇格, 275件以上削除, 新規4案 (tobira-log/aisho-check/senbatsu-lp/大井塾)
+- Almeo MVV「熱狂を、つくる。」確定 + 大井クローンv4 spec + コメダ事件 → 7.5h完全復帰プロトコル化
+- AIpaX 80万提案書/クロージング想定問答15選 + EEMUS 夢AWARD骨子v3/ストーリー骨子 完備
+- Digital AI補助金 第1次 (5/31) ロスト → 第2次 (8月末) 切替確定
+
+## 📅 Next Week [[2026-W23]] (6/1-6/7)
+
+1. 🔥 **攻める: 夢AWARD 応募骨子完成 → 提出** (6/7締切・残6日・叩き台2本揃い済み・大井30分肉付けのみ)
+2. 🌱 **種まき: AIpaX 5社目クロージング接触** (想定問答15選+80万提案書完備・大井の連絡1本だけ・月収80万ギャップ最速手)
+3. 🪦 **やめる/寝かす: AIpaX school を独立事業から外し AIpaX 教育コースとして統合判断** (来週中に確定)
 
 ---
 

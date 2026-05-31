@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 08:06
+updated: 2026-06-01 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 08:06
+**最終更新**: 2026-06-01 08:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,14 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 192 |
+| 📥 inbox | 193 |
 | ⚙️ processing | 1 |
 | ✅ 今日完了 | 67 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1076 (うち24h+古い: 905) |
+| 📝 wiki/_inbox 未レビュー | 1076 (うち24h+古い: 906) |
 
 ### 処理中
-- ⚙️ **[951 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[956 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
@@ -32,7 +32,7 @@ tags: [dashboard, system]
 
 ## 🎯 今日のフォーカス
 
-- [ ] **⚠️ Digital AI補助金2026 要件確認**（第1次締切: 今日5/31） - 静岡産業振興財団 TEL 054-254-4511 or Web確認。「第2次(8月末)で申請...
+- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]] - 6/7締切・残6日。`_promoted/newbiz/eemus-dream-award-骨子...
 
 → 詳細: [[_tasks/today]]
 
