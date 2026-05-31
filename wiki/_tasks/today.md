@@ -1,37 +1,36 @@
 ---
 type: task-today
-date: 2026-05-31
+date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 08:04
+updated: 2026-06-01 08:09
 ---
 
-# Today 2026-05-31
+# Today 2026-06-01
 
 > **朝ルーティン（09:00）がClaudeとして書く。task_board.ps1（5分おき）がOpenClaw状況反映。**
 > 大井はチェック付けるか「終わった」と話すだけでOK。
 
 ## 📌 今週の攻める1個
-> **夢AWARD 応募骨子を書く** — 締切 6/7（残**7日**）。9日連続未着手。今日が本当のラスト。
+> **夢AWARD 応募骨子を完成させる** — 締切 6/7（残**6日**）。叩き台2本揃い済み。今日30分で出せる。
 
 ## 🔥 絶対やる（1個）
 
-- [ ] **⚠️ Digital AI補助金2026 要件確認**（第1次締切: 今日5/31）
-  - 静岡産業振興財団 TEL 054-254-4511 or Web確認。「第2次(8月末)で申請できるか」だけでOK。
-  - Almeoの補助対象可否を1本電話で掴む。
+- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]]
+  - 6/7締切・残6日。`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md` + `eemus-dream-award-story-2026-05-31.md` の2本を見て30分肉付け。
+  - 朝一番に着手。エネルギー使う。これだけで今日は勝ち。
 
 ## 🌱 できれば（2個まで）
 
-- [ ] **夢AWARD応募骨子を書く**（6/7締切・残7日）— [[entities/eemus]]
-  - OpenClawが叩き台生成中（キューにEEMUS夢AWARD骨子x3）。叩き台が出たら30分肉付けるだけ。
-- [ ] **AIpaX 5社目クロージング想定問答確認** — 月収80万ギャップを埋める最速手
-  - OpenClawキューに「5社目商談クロージング想定問答」あり。成果物出次第大井確認→即使う。
+- [ ] **AIpaX 5社目クロージング接触** — [[entities/aipax]]
+  - 想定問答15選が完成済み。大井が1社に連絡するだけ。月収80万ギャップの最速手。
+- [ ] **Digital AI補助金 第2次スケジュール確認** — [[entities/almeo]]
+  - 第1次5/31終了。静岡産業振興財団Webで第2次（8月末）申請要件を5分確認。TEL不要。
 
 ## ⏳ OpenClaw処理中
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 953分]** [School] 親FAQ 30問
-- [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [ ] **[処理中 954分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [EEMUS] MVP LP完全版
@@ -235,20 +234,21 @@ updated: 2026-06-01 08:04
 - [x] 昼チェック実行（5/29 12:30）
 - [x] 昼チェック実行（5/30 12:30）: 9件削除（studyplus比較7件+stripe-setup2件）
 - [x] 昼チェック実行（5/31 12:30）: 2件昇格・53件削除（ハルシネ企業リスト19+重複Studyplus7+重複ペルソナ15+Stripe11+EEMUS1）
+- [x] 夜PDCA（5/31 22:00）: 4件昇格・225件削除（shincoder197+portfolio11+stripe1+studyplus2+80man14）
 
 ## 📅 今日の予定（Calendar）
 
-- 予定なし（確認要：静岡財団TEL 054-254-4511 を午前中に入れる）
+- 特になし
 
-## 🔍 監視結果（朝08:30 OpenClaw 5/31）
+## 🔍 監視結果（朝08:30 OpenClaw 6/1）
 
-- 競合動向: [[_monitor/competitor-20260531]] — 未生成
-- ビジコン締切: [[_monitor/deadlines-20260531]] — 未生成
-- 朝の問い: [[_monitor/grill-20260531]] — 未生成
-- ★ AI news要点（hot.mdより）: Anthropic $965B評価・ChatGPT広告プラットフォーム投入・補助金第1次締切は5/12完了済み（第2次8月末）
+- 競合動向: [[_monitor/competitor-20260601]] — 未生成（08:30自動）
+- ビジコン締切: [[_monitor/deadlines-20260601]] — 未生成（08:30自動）
+- 朝の問い: [[_monitor/grill-20260601]] — 未生成（08:30自動）
+- ★ AI news要点（hot.mdより）: 日本SMB向けAI補助金500億承認・Anthropic 6/15課金変更（Claude Code影響なし）・GPT-5.5 Instant登場
 
 ## 関連リンク
 - 思いつき箱: [[_tasks/inbox]]
 - 完了アーカイブ: [[_tasks/done]]
-- 今朝の作戦: [[_routines/morning-20260531]]
+- 今朝の作戦: [[_routines/morning-20260601]]
 - ホット: [[hot]]
