@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 13:39
+updated: 2026-05-31 13:44
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,8 @@ updated: 2026-05-31 13:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 772分]** [Money] EEMUS 連携企業5社 具体接触メール
-- [ ] **[処理中 768分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] [待機] [Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md
+- [ ] **[処理中 5分]** [Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md
+- [ ] **[処理中 773分]** [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [School] 利用規約・特商法表記
@@ -168,6 +167,7 @@ updated: 2026-05-31 13:39
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [School] 体験会2時間プログラム
+- [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ

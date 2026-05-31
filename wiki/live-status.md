@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 13:42:46
+updated: 2026-05-31 13:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:42:46** | 🔥 **稼働中**
+**13:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7072MB / 8151MB (**86.8%**)
+- 使用率: **3%**
+- VRAM: 7073MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **85.8%** (27.4GB / 31.9GB)
+- 使用率: **85.6%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 160 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 159 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 121 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [46307 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [489 秒経過] **[Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md**
+- ⚡ [46547 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [super] [Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md
 - [super] [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
 - [high] [School] 親FAQ 30問
 - [high] [School] 利用規約・特商法表記
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 判定
 
