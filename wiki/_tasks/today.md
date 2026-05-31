@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 13:24
+updated: 2026-05-31 13:29
 ---
 
 # Today 2026-05-31
@@ -30,7 +30,7 @@ updated: 2026-05-31 13:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 763分]** [School] 利用規約・特商法表記
+- [ ] **[処理中 768分]** [School] 利用規約・特商法表記
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [School] 親FAQ 30問
