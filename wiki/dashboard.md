@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 13:11
+updated: 2026-05-31 13:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 13:11
+**最終更新**: 2026-05-31 13:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 159 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 115 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 116 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1172 (うち24h+古い: 946) |
+| 📝 wiki/_inbox 未レビュー | 1120 (うち24h+古い: 912) |
 
 ### 処理中
-- ⚙️ **[780 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[781 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[775 分]** [School] 体験会2時間プログラム
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [School] 体験会2時間プログラム
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 利用規約・特商法表記
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +49,11 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 384 件
-- research : 48 件
+- research : 7 件
 - newbiz : 391 件
 - ingest : 1 件
 - corp : 163 件
-- dev : 19 件
+- dev : 8 件
 
 ## 🔗 主要リンク
 
