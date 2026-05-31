@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-06-01 06:54
+updated: 2026-06-01 06:59
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,7 @@ updated: 2026-06-01 06:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 939分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- [ ] **[処理中 933分]** [School] 親FAQ 30問
+- [ ] **[処理中 938分]** [School] 親FAQ 30問
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
