@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 19:42:46
+updated: 2026-05-31 19:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:42:46** | 🔥 **稼働中**
+**19:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
+- 使用率: **47%**
 - VRAM: 7092MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
-- 使用率: **85.9%** (27.4GB / 31.9GB)
+- 使用率: **86.4%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 169 |
+| 📥 inbox | 168 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 176 |
+| ✅ 今日完了 | 177 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49308 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [49547 秒経過] **[Testall] Studyplus Planning徹底比較**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [AIpaX] β顧客80万提案書フル版
 
 ## 🎯 判定
 
