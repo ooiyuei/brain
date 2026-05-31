@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 08:44
+updated: 2026-06-01 08:49
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 08:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 973分]** [EEMUS] MVP LP完全版
-- [ ] **[処理中 963分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 978分]** [EEMUS] MVP LP完全版
+- [ ] **[処理中 968分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
@@ -205,6 +205,10 @@ updated: 2026-06-01 08:44
 - [ ] [待機] [Monitor] 朝の問い - 2026-06-01
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [横断] 15事業の優先順位再評価
+- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
+- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ

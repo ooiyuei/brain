@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-28T08:41:01.9607472+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-28T08:51:02.0765620+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-05-28T09:01:02.1476447+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-01T08:41:01.9546063+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-01T08:51:02.3165622+09:00"
                     }
                 ]
 }
