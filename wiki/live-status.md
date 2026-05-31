@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 18:06:47
+updated: 2026-05-31 18:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:06:47** | 🔥 **稼働中**
+**18:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,33 +25,29 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **85.9%** (27.4GB / 31.9GB)
+- 使用率: **85.7%** (27.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 168 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 159 |
-
-## 🔄 処理中タスク
-
-- ⚡ [49907 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+| 📥 inbox | 167 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 161 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
-- [high] [Testall] 教育者連携アプローチ
+- [] 
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 既存4社 アップセル提案
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 判定
 
