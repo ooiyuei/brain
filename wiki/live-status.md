@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 02:50:46
+updated: 2026-06-01 02:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:50:46** | 🔥 **稼働中**
+**02:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残17分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7088MB / 8151MB (**87%**)
+- 使用率: **4%**
+- VRAM: 7223MB / 8151MB (**88.6%**)
 
 ## 💾 RAM
 
-- 使用率: **87.3%** (27.9GB / 31.9GB)
+- 使用率: **57.8%** (18.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 178 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 24 |
+| 📥 inbox | 179 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 25 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [52538 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
-- ⚡ [52187 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [52428 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
 
 ## 📥 待機タスク (上位5)
 

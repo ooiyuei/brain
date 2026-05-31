@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 02:46
+updated: 2026-06-01 02:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 02:46
+**最終更新**: 2026-06-01 02:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 175 |
+| 📥 inbox | 179 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 23 |
+| ✅ 今日完了 | 24 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1032 (うち24h+古い: 883) |
+| 📝 wiki/_inbox 未レビュー | 1033 (うち24h+古い: 883) |
 
 ### 処理中
-- ⚙️ **[871 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[871 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[876 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[870 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 12 件
 - newbiz : 316 件
 - ingest : 1 件
-- corp : 104 件
+- corp : 105 件
 - dev : 8 件
 
 ## 🔗 主要リンク
