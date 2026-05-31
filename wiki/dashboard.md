@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 06:16
+updated: 2026-06-01 06:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 06:16
+**最終更新**: 2026-06-01 06:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 184 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 55 |
+| 📥 inbox | 185 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 56 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1064 (うち24h+古い: 899) |
+| 📝 wiki/_inbox 未レビュー | 1065 (うち24h+古い: 899) |
 
 ### 処理中
-- ⚙️ **[929 分]** [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- ⚙️ **[925 分]** [AIpaX] X投稿『AI導入Tips』20本
+- ⚙️ **[930 分]** [AIpaX] X投稿『AI導入Tips』20本
 
 ### Inbox 上位
 - [high] [EEMUS] MVP LP完全版
@@ -48,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 430 件
+- marketing : 431 件
 - research : 15 件
 - newbiz : 331 件
 - ingest : 1 件
