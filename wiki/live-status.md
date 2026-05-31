@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 15:30:46
+updated: 2026-05-31 15:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:30:46** | 🔥 **稼働中**
+**15:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7219MB / 8151MB (**88.6%**)
+- 使用率: **0%**
+- VRAM: 7223MB / 8151MB (**88.6%**)
 
 ## 💾 RAM
 
-- 使用率: **55.7%** (17.8GB / 31.9GB)
+- 使用率: **58.7%** (18.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 167 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 136 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47387 秒経過] **[School] 親FAQ 30問**
+- ⚡ [47626 秒経過] **[School] 親FAQ 30問**
+- ⚡ [47027 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] 6/21月収100万 残30日アクションプラン
 
 ## 🎯 判定
 
