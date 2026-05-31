@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 15:06:46
+updated: 2026-05-31 15:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:06:46** | 🔥 **稼働中**
+**15:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7358MB / 8151MB (**90.3%**)
+- 使用率: **94%**
+- VRAM: 7361MB / 8151MB (**90.3%**)
 
 ## 💾 RAM
 
-- 使用率: **61.5%** (19.6GB / 31.9GB)
+- 使用率: **61.7%** (19.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 167 |
+| 📥 inbox | 166 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 131 |
+| ✅ 今日完了 | 132 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47746 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [47146 秒経過] **[Testall] X受験あるある投稿30本**
+- ⚡ [47986 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [46786 秒経過] **[Testall] X受験あるある投稿30本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] X受験あるある投稿30本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 親FAQ 30問
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 判定
 
