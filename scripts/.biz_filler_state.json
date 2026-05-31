@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-28T08:21:02.6171344+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-05-28T08:31:02.0129654+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-05-28T08:41:01.9607472+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-01T08:21:02.0144448+09:00"
+                    },
+                    {
+                        "slug":  "testall-competitor-studyplus",
+                        "time":  "2026-06-01T08:31:02.0594729+09:00"
                     }
                 ]
 }
