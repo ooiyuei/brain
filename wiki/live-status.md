@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 14:10:47
+updated: 2026-05-31 14:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:10:47** | 🔥 **稼働中**
+**14:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7209MB / 8151MB (**88.4%**)
+- 使用率: **45%**
+- VRAM: 7213MB / 8151MB (**88.5%**)
 
 ## 💾 RAM
 
-- 使用率: **57.5%** (18.3GB / 31.9GB)
+- 使用率: **87.2%** (27.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 163 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 124 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47388 秒経過] **[School] 親FAQ 30問**
+- ⚡ [47628 秒経過] **[School] 親FAQ 30問**
+- ⚡ [47028 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [AIpaX] 月次PL試算
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 
