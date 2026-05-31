@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 13:34
+updated: 2026-05-31 13:39
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,10 @@ updated: 2026-05-31 13:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 773分]** [School] 利用規約・特商法表記
-- [ ] **[処理中 767分]** [Money] EEMUS 連携企業5社 具体接触メール
-- [ ] [待機] [AIpaX] β顧客候補30社プロファイル
+- [ ] **[処理中 772分]** [Money] EEMUS 連携企業5社 具体接触メール
+- [ ] **[処理中 768分]** [AIpaX] β顧客候補30社プロファイル
+- [ ] [待機] [Brushup 90pt] eemus-dream-award-骨子v3-2026-05-27.md
+- [ ] [待機] [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
