@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 17:11
+updated: 2026-05-31 17:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 17:11
+**最終更新**: 2026-05-31 17:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 170 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 149 |
+| 📥 inbox | 172 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 150 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1151 (うち24h+古い: 954) |
+| 📝 wiki/_inbox 未レビュー | 1152 (うち24h+古い: 954) |
 
 ### 処理中
-- ⚙️ **[820 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[810 分]** [School] 親向けLP完全版
+- ⚙️ **[825 分]** [EEMUS] 提携高校候補20校リスト
 
 ### Inbox 上位
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
@@ -48,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 392 件
+- marketing : 393 件
 - research : 8 件
 - newbiz : 403 件
 - ingest : 1 件
