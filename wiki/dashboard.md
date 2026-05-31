@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 16:46
+updated: 2026-05-31 16:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 16:46
+**最終更新**: 2026-05-31 16:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 166 |
+| 📥 inbox | 170 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 146 |
+| ✅ 今日完了 | 147 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1148 (うち24h+古い: 949) |
+| 📝 wiki/_inbox 未レビュー | 1149 (うち24h+古い: 950) |
 
 ### 処理中
-- ⚙️ **[815 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[811 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[816 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[810 分]** [EEMUS] MVP LP完全版
 
 ### Inbox 上位
-- [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 391 件
-- research : 7 件
+- research : 8 件
 - newbiz : 403 件
 - ingest : 1 件
 - corp : 171 件
