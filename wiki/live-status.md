@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 13:10:46
+updated: 2026-05-31 13:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:10:46** | 🔥 **稼働中**
+**13:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7211MB / 8151MB (**88.5%**)
+- 使用率: **89%**
+- VRAM: 7079MB / 8151MB (**86.8%**)
 
 ## 💾 RAM
 
-- 使用率: **58.4%** (18.6GB / 31.9GB)
+- 使用率: **88.4%** (28.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 158 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 115 |
+| 📥 inbox | 157 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 116 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [46787 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [46785 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [46426 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [School] 体験会2時間プログラム
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 利用規約・特商法表記
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 親FAQ 30問
 
 ## 🎯 判定
 

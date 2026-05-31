@@ -23,11 +23,11 @@ managed_by: Claude (must update every session)
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-05-30
-**進捗**: 夢AWARD骨子 ❌未着手（14:00本番） / 静岡財団TEL ❌未着手 / Digital AI補助金要件確認 ❌未着手（明日5/31締切）
-**PDCA**: 0件昇格・9件削除（studyplus比較7件=価格ハルシネ、stripe-setup2件=事業理解ゼロ）
-**午後**: ①14:00 夢AWARD骨子（大井）②静岡財団TEL 054-254-4511（Digital AI補助金同時確認）③OpenClaw617分処理中タスク異常確認
-**詳細**: [[_routines/midday-20260530]]
+**日付**: 2026-05-31
+**進捗**: Digital AI補助金TEL ❌未着手（⚠️今日第1次締切・午後即やる） / 夢AWARD骨子 ⏳叩き台あり（骨子v3昇格済み・大井の肉付け30分待ち） / AIpaX5社目クロージング ⏳成果物あり（今日12:27完成・確認待ち）
+**PDCA**: 2件昇格（夢AWARD骨子v3・AIpaXクロージング想定問答）・53件削除（ハルシネ企業リスト19+重複Studyplus7+重複ペルソナ15+Stripe11+EEMUS骨子1）
+**午後**: ①TEL 054-254-4511（補助金確認・今すぐ）②_promoted/newbiz/の骨子v3読んで夢AWARD肉付け③AIpaXクロージング確認
+**詳細**: [[_routines/midday-20260531]]
 
 ## 🌙 Tomorrow（2026-05-31）
 
