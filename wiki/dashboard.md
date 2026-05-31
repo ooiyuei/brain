@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 23:46
+updated: 2026-05-31 23:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 23:46
+**最終更新**: 2026-05-31 23:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 171 |
+| 📥 inbox | 174 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 216 |
+| ✅ 今日完了 | 218 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1004 (うち24h+古い: 855) |
+| 📝 wiki/_inbox 未レビュー | 1006 (うち24h+古い: 857) |
 
 ### 処理中
-- ⚙️ **[871 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[865 分]** [School] 利用規約・特商法表記
+- ⚙️ **[870 分]** [School] 利用規約・特商法表記
+- ⚙️ **[850 分]** [School] 親向けLP完全版
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
-- [high] [School] 親向けLP完全版
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
@@ -54,11 +54,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 415 件
+- marketing : 416 件
 - research : 11 件
 - newbiz : 306 件
 - ingest : 1 件
-- corp : 97 件
+- corp : 98 件
 - dev : 8 件
 
 ## 🔗 主要リンク
