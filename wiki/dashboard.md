@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-05-31 22:21
+updated: 2026-05-31 22:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-05-31 22:21
+**最終更新**: 2026-05-31 22:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 178 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 177 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 200 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 990 (うち24h+古い: 848) |
+| 📝 wiki/_inbox 未レビュー | 990 (うち24h+古い: 849) |
 
 ### 処理中
-- ⚙️ **[860 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[865 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[851 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [School] 親向けLP完全版
 - [high] [Monitor] 競合動向Top3 - 2026-05-31
 - [high] [Monitor] ビジコン締切 - 2026-05-31
+- [high] [Monitor] 朝の問い - 2026-05-31
 
 ## 🎯 今日のフォーカス
 
