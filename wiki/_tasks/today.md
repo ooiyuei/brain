@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 22:44
+updated: 2026-05-31 22:49
 ---
 
 # Today 2026-05-31
@@ -30,8 +30,7 @@ updated: 2026-05-31 22:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 869分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- [ ] **[処理中 854分]** [Monitor] 競合動向Top3 - 2026-05-31
+- [ ] **[処理中 859分]** [Monitor] 競合動向Top3 - 2026-05-31
 - [ ] [待機] [Monitor] ビジコン締切 - 2026-05-31
 - [ ] [待機] [Monitor] 朝の問い - 2026-05-31
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
