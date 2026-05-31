@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-05-31 12:42:47
+updated: 2026-05-31 12:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:42:47** | 🔥 **稼働中**
+**12:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7348MB / 8151MB (**90.1%**)
+- 使用率: **5%**
+- VRAM: 7350MB / 8151MB (**90.2%**)
 
 ## 💾 RAM
 
-- 使用率: **59.4%** (19GB / 31.9GB)
+- 使用率: **57.8%** (18.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,17 +38,16 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 154 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 112 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 113 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [46307 秒経過] **[AIpaX] β顧客80万提案書フル版**
-- ⚡ [45707 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [45948 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客80万提案書フル版
+- [] 
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [School] 体験会2時間プログラム
