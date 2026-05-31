@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 08:29
+updated: 2026-06-01 08:34
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 08:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 958分]** [EEMUS] MVP LP完全版
-- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 963分]** [EEMUS] MVP LP完全版
+- [ ] **[処理中 953分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
@@ -200,6 +200,10 @@ updated: 2026-06-01 08:29
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [ ] [待機] [School] 親向けLP完全版
+- [ ] [待機] [Monitor] 競合動向Top3 - 2026-06-01
+- [ ] [待機] [Monitor] ビジコン締切 - 2026-06-01
+- [ ] [待機] [Monitor] 朝の問い - 2026-06-01
+- [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
