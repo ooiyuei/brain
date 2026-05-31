@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 05:26
+updated: 2026-06-01 05:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 05:26
+**最終更新**: 2026-06-01 05:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 184 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 44 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 46 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1053 (うち24h+古い: 897) |
+| 📝 wiki/_inbox 未レビュー | 1055 (うち24h+古い: 897) |
 
 ### 処理中
-- ⚙️ **[935 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[925 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[920 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
-- [high] [AIpaX] 月次PL試算
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 今日のフォーカス
 
@@ -50,10 +49,10 @@ tags: [dashboard, system]
 
 - marketing : 429 件
 - research : 14 件
-- newbiz : 326 件
+- newbiz : 327 件
 - ingest : 1 件
 - corp : 109 件
-- dev : 8 件
+- dev : 9 件
 
 ## 🔗 主要リンク
 
