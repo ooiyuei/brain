@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-05-31
 tags: [tasks, today]
-updated: 2026-05-31 13:59
+updated: 2026-05-31 14:04
 ---
 
 # Today 2026-05-31
@@ -30,9 +30,8 @@ updated: 2026-05-31 13:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 788分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] [待機] [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
-- [ ] [待機] [School] 親FAQ 30問
+- [ ] **[処理中 25分]** [Brushup 90pt] aipax-closing-qa-5th-client-2026-05-31.md
+- [ ] **[処理中 783分]** [School] 親FAQ 30問
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
@@ -172,6 +171,7 @@ updated: 2026-05-31 13:59
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
+- [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
 - [ ] [待機] [Bank] 出店候補エリア3か所 物件調査詳細
 - [ ] [待機] [CS] 解約防止トーク 10シナリオ
