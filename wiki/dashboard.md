@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 19:51
+updated: 2026-06-01 19:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 19:51
+**最終更新**: 2026-06-01 19:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,23 +14,23 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 220 |
 | ⚙️ processing | 3 |
-| ✅ 今日完了 | 123 |
+| ✅ 今日完了 | 125 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1119 (うち24h+古い: 976) |
+| 📝 wiki/_inbox 未レビュー | 1121 (うち24h+古い: 976) |
 
 ### 処理中
-- ⚙️ **[1360 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[1356 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[1350 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1361 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[1345 分]** [横断] 投資家向けピッチ1分版
+- ⚙️ **[1335 分]** [School] 親FAQ 30問
 
 ### Inbox 上位
-- [high] [横断] 投資家向けピッチ1分版
-- [high] [School] 親FAQ 30問
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [Money] AIpa Web 商工会経由営業文
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
@@ -50,11 +50,11 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 458 件
-- research : 11 件
+- research : 12 件
 - newbiz : 352 件
 - ingest : 1 件
 - corp : 121 件
-- dev : 10 件
+- dev : 11 件
 
 ## 🔗 主要リンク
 
