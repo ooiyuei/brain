@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 10:46
+updated: 2026-06-01 10:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 10:46
+**最終更新**: 2026-06-01 10:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 185 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 84 |
+| 📥 inbox | 189 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 86 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1093 (うち24h+古い: 923) |
+| 📝 wiki/_inbox 未レビュー | 1095 (うち24h+古い: 924) |
 
 ### 処理中
-- ⚙️ **[1035 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[16 分]** [BG-Business] agents-of-flag 企画書初稿
+- ⚙️ **[1030 分]** [School] X『中高生×AI』20投稿
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 今日のフォーカス
 
@@ -50,10 +49,10 @@ tags: [dashboard, system]
 
 - marketing : 444 件
 - research : 17 件
-- newbiz : 341 件
+- newbiz : 342 件
 - ingest : 1 件
 - corp : 115 件
-- dev : 9 件
+- dev : 10 件
 
 ## 🔗 主要リンク
 
