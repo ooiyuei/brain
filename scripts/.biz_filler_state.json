@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-28T20:01:02.6599888+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-05-28T20:11:02.6691433+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-06-01T20:01:02.5484547+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-01T20:11:02.6536601+09:00"
                     }
                 ]
 }
