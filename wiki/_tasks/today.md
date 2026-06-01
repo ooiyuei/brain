@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 17:49
+updated: 2026-06-01 17:54
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 17:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1348分]** [Testall] Studyplus Planning徹底比較
-- [ ] **[処理中 1338分]** [School] 体験会2時間プログラム
+- [ ] **[処理中 1353分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 1343分]** [School] 体験会2時間プログラム
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
@@ -254,6 +254,7 @@ updated: 2026-06-01 17:49
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
+- [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 

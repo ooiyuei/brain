@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-28T17:41:02.8635512+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-28T17:51:02.5518029+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-05-28T18:01:03.9152267+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-01T17:41:02.2895441+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-01T17:51:02.5673939+09:00"
                     }
                 ]
 }
