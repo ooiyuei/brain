@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-28T19:41:02.9104911+09:00"
-                    },
-                    {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-05-28T19:51:02.6773950+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-06-01T19:41:02.5986058+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-01T19:51:02.6274232+09:00"
                     }
                 ]
 }

@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 19:44
+updated: 2026-06-01 19:49
 ---
 
 # Today 2026-06-01
@@ -30,9 +30,9 @@ updated: 2026-06-01 19:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1353分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 1349分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [ ] **[処理中 1343分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 1358分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 1354分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [ ] **[処理中 1348分]** [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
