@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-28T11:11:02.4430255+09:00"
-                    },
-                    {
                         "slug":  "aipax-lp-beta",
                         "time":  "2026-05-28T11:21:02.2206904+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-01T11:11:02.0012694+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-01T11:21:01.9584599+09:00"
                     }
                 ]
 }
