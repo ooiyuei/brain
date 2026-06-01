@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-28T19:21:02.4743211+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-28T19:31:02.6224374+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-06-01T19:21:02.3408103+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-01T19:31:02.5581192+09:00"
                     }
                 ]
 }
