@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 03:41
+updated: 2026-06-02 03:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 03:41
+**最終更新**: 2026-06-02 03:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 31 |
+| ✅ 今日完了 | 32 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1182 (うち24h+古い: 1036) |
+| 📝 wiki/_inbox 未レビュー | 1183 (うち24h+古い: 1036) |
 
 ### 処理中
-- ⚙️ **[1490 分]** [Testall] ユーザーペルソナ5パターン
-- ⚙️ **[1466 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1495 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[1471 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 480 件
 - research : 16 件
-- newbiz : 374 件
+- newbiz : 375 件
 - ingest : 1 件
 - corp : 134 件
 - dev : 11 件

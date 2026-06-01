@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 03:42:47
+updated: 2026-06-02 03:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:42:47** | 🔥 **稼働中**
+**03:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残9分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残5分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
+- 使用率: **2%**
 - VRAM: 7036MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **85.5%** (27.3GB / 31.9GB)
+- 使用率: **84.7%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 31 |
+| ✅ 今日完了 | 32 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [89508 秒経過] **[Testall] ユーザーペルソナ5パターン**
-- ⚡ [88067 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
+- ⚡ [89748 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [88306 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 
 ## 🎯 判定
 
