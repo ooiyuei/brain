@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 20:26
+updated: 2026-06-01 20:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 20:26
+**最終更新**: 2026-06-01 20:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,19 +16,19 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 222 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 130 |
+| ✅ 今日完了 | 131 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1126 (うち24h+古い: 976) |
+| 📝 wiki/_inbox 未レビュー | 1127 (うち24h+古い: 977) |
 
 ### 処理中
-- ⚙️ **[1359 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[1364 分]** [Money] AIpa Web 商工会経由営業文
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Self-Review] Brain System 週次改善提案 2026-05-31
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 460 件
-- research : 12 件
+- research : 13 件
 - newbiz : 354 件
 - ingest : 1 件
 - corp : 122 件
