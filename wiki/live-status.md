@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 10:26:47
+updated: 2026-06-01 10:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:26:47** | 🔥 **稼働中**
+**10:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7155MB / 8151MB (**87.8%**)
+- VRAM: 7272MB / 8151MB (**89.2%**)
 
 ## 💾 RAM
 
-- 使用率: **57.1%** (18.2GB / 31.9GB)
+- 使用率: **61.1%** (19.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 184 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 82 |
+| ✅ 今日完了 | 83 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [61547 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [1608 秒経過] **[BG-Entities] kasunote 更新提案**
+- ⚡ [61186 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [1847 秒経過] **[BG-Entities] kasunote 更新提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 

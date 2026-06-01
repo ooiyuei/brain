@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 10:24
+updated: 2026-06-01 10:29
 ---
 
 # Today 2026-06-01
@@ -30,9 +30,8 @@ updated: 2026-06-01 10:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1023分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] **[処理中 24分]** [BG-Entities] kasunote 更新提案
-- [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 1018分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 29分]** [BG-Entities] kasunote 更新提案
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
