@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 10:21
+updated: 2026-06-01 10:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 10:21
+**最終更新**: 2026-06-01 10:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1091 (うち24h+古い: 921) |
 
 ### 処理中
-- ⚙️ **[1020 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[21 分]** [BG-Entities] kasunote 更新提案
+- ⚙️ **[1025 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[26 分]** [BG-Entities] kasunote 更新提案
 
 ### Inbox 上位
 - [high] [横断] Stripe決済設定 5事業ロードマップ
