@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-29T02:41:01.9765741+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-05-29T02:51:02.2284657+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-06-02T02:41:01.7091374+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-02T02:51:02.2103807+09:00"
                     }
                 ]
 }
