@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-05-29T02:01:01.9450546+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-29T02:11:01.9539821+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-29T02:21:03.3738663+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-x-content",
                         "time":  "2026-06-02T02:01:01.6706165+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-02T02:11:02.0309468+09:00"
                     }
                 ]
 }
