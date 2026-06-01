@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 18:50:46
+updated: 2026-06-01 18:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:50:46** | 🔥 **稼働中**
+**18:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7147MB / 8151MB (**87.7%**)
+- 使用率: **0%**
+- VRAM: 7154MB / 8151MB (**87.8%**)
 
 ## 💾 RAM
 
-- 使用率: **53.8%** (17.2GB / 31.9GB)
+- 使用率: **57.2%** (18.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 119 |
+| 📥 inbox | 218 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 120 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [79787 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [79427 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [78826 秒経過] **[School] 入学後30日プラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] note『AI時代に子供に渡したいもの』
-- [high] [School] 入学後30日プラン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 
