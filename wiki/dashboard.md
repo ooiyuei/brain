@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 00:06
+updated: 2026-06-02 00:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 00:06
+**最終更新**: 2026-06-02 00:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 1 |
+| 📥 inbox | 223 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 2 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1152 (うち24h+古い: 1009) |
+| 📝 wiki/_inbox 未レビュー | 1153 (うち24h+古い: 1009) |
 
 ### 処理中
-- ⚙️ **[1431 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- ⚙️ **[1425 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[1430 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
 - [high] [School] note『AI時代に子供に渡したいもの』
@@ -52,7 +51,7 @@ tags: [dashboard, system]
 - research : 15 件
 - newbiz : 364 件
 - ingest : 1 件
-- corp : 128 件
+- corp : 129 件
 - dev : 11 件
 
 ## 🔗 主要リンク
