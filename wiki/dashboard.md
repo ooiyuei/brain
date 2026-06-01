@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 11:01
+updated: 2026-06-01 11:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 11:01
+**最終更新**: 2026-06-01 11:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -21,9 +21,9 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1095 (うち24h+古い: 925) |
 
 ### 処理中
-- ⚙️ **[1040 分]** [School] X『中高生×AI』20投稿
-- ⚙️ **[1030 分]** [School] X『中高生×AI』20投稿
-- ⚙️ **[1 分]** [BG-Competitive] 採用ピックアップ
+- ⚙️ **[1045 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[1035 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[6 分]** [BG-Competitive] 採用ピックアップ
 
 ### Inbox 上位
 - [high] [AIpaX] β顧客5社募集LP完全版

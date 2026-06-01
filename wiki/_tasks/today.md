@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 10:59
+updated: 2026-06-01 11:04
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,9 @@ updated: 2026-06-01 10:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1038分]** [School] X『中高生×AI』20投稿
-- [ ] **[処理中 1028分]** [School] X『中高生×AI』20投稿
+- [ ] **[処理中 1043分]** [School] X『中高生×AI』20投稿
+- [ ] **[処理中 1033分]** [School] X『中高生×AI』20投稿
+- [ ] **[処理中 4分]** [BG-Competitive] 採用ピックアップ
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
@@ -217,9 +218,14 @@ updated: 2026-06-01 10:59
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
+- [ ] [待機] [BG-Competitive] Wantedly
+- [ ] [待機] [BG-Competitive] Studyplus
+- [ ] [待機] [BG-Competitive] BizReach
+- [ ] [待機] [BG-Competitive] Indeed
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
