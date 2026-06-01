@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 04:26:46
+updated: 2026-06-02 04:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:26:46** | 🔥 **稼働中**
+**04:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,29 +25,33 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **53.5%** (17.1GB / 31.9GB)
+- 使用率: **54.5%** (17.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 218 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 217 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 43 |
+
+## 🔄 処理中タスク
+
+- ⚡ [87587 秒経過] **[School] note『AI時代に子供に渡したいもの』**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 
