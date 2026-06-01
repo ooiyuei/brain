@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 03:54:46
+updated: 2026-06-02 03:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:54:46** | 🔥 **稼働中**
+**03:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残-3分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7036MB / 8151MB (**86.3%**)
+- 使用率: **4%**
+- VRAM: 7309MB / 8151MB (**89.7%**)
 
 ## 💾 RAM
 
-- 使用率: **86.6%** (27.6GB / 31.9GB)
+- 使用率: **59.1%** (18.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 33 |
+| 📥 inbox | 218 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 36 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90227 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [90467 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [87106 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
-- [high] [School] X『中高生×AI』20投稿
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 

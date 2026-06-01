@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 03:51
+updated: 2026-06-02 03:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 03:51
+**最終更新**: 2026-06-02 03:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 32 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 35 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1183 (うち24h+古い: 1037) |
+| 📝 wiki/_inbox 未レビュー | 1186 (うち24h+古い: 1038) |
 
 ### 処理中
-- ⚙️ **[1500 分]** [Testall] ユーザーペルソナ5パターン
-- ⚙️ **[1476 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1505 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
-- [high] [School] X『中高生×AI』20投稿
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 480 件
+- marketing : 482 件
 - research : 16 件
 - newbiz : 375 件
 - ingest : 1 件
-- corp : 134 件
+- corp : 135 件
 - dev : 11 件
 
 ## 🔗 主要リンク
