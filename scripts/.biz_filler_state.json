@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-05-28T09:11:02.1379030+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-28T09:21:02.0160075+09:00"
-                    },
-                    {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-05-28T09:31:01.9172859+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-01T09:11:02.1162965+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-01T09:21:02.0161687+09:00"
                     }
                 ]
 }
