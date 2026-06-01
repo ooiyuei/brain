@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 22:30:46
+updated: 2026-06-01 22:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:30:46** | 🔥 **稼働中**
+**22:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **55.3%** (17.7GB / 31.9GB)
+- 使用率: **56.6%** (18.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 146 |
+| ✅ 今日完了 | 147 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [83386 秒経過] **[School] 体験会2時間プログラム**
-- ⚡ [82786 秒経過] **[EEMUS] MVP LP完全版**
+- ⚡ [83026 秒経過] **[EEMUS] MVP LP完全版**
+- ⚡ [82427 秒経過] **[School] 入学後30日プラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 入学後30日プラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 
