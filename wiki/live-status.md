@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 21:46:47
+updated: 2026-06-01 21:50:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:46:47** | 🔥 **稼働中**
+**21:50:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **9%**
-- VRAM: 7317MB / 8151MB (**89.8%**)
+- 使用率: **5%**
+- VRAM: 7316MB / 8151MB (**89.8%**)
 
 ## 💾 RAM
 
-- 使用率: **59.3%** (18.9GB / 31.9GB)
+- 使用率: **59.2%** (18.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
+| 📥 inbox | 220 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 140 |
+| ✅ 今日完了 | 141 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [84348 秒経過] **[EEMUS] 提携高校候補20校リスト**
-- ⚡ [82547 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [82787 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [82187 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [School] 体験会2時間プログラム
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 判定
 
