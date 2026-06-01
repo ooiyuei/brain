@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 08:46
+updated: 2026-06-02 08:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 08:46
+**最終更新**: 2026-06-02 08:51
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 76 |
+| 📥 inbox | 222 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 77 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1227 (うち24h+古い: 1072) |
+| 📝 wiki/_inbox 未レビュー | 1227 (うち24h+古い: 1073) |
 
 ### 処理中
-- ⚙️ **[1505 分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- ⚙️ **[1501 分]** AI 最新情報日次リサーチ
+- ⚙️ **[1510 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
 - [high] [Money] Testall 親向けLP コピー改善

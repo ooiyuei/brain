@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 08:49
+updated: 2026-06-02 08:54
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,8 @@ updated: 2026-06-02 08:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1508分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] [待機] [Money] Testall 親向けLP コピー改善
-- [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [ ] **[処理中 1507分]** [Money] Testall 親向けLP コピー改善
+- [ ] **[処理中 1507分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
@@ -249,6 +248,7 @@ updated: 2026-06-02 08:49
 - [ ] [待機] [Monitor] ビジコン締切 - 2026-06-02
 - [ ] [待機] [Monitor] 朝の問い - 2026-06-02
 - [ ] [待機] [EEMUS] 連携企業候補20社
+- [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
