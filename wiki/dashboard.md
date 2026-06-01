@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 21:41
+updated: 2026-06-01 21:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 21:41
+**最終更新**: 2026-06-01 21:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 139 |
+| ✅ 今日完了 | 140 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1134 (うち24h+古い: 982) |
+| 📝 wiki/_inbox 未レビュー | 1135 (うち24h+古い: 984) |
 
 ### 処理中
-- ⚙️ **[1400 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[1380 分]** [School] 親向けLP完全版
+- ⚙️ **[1405 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[1375 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 461 件
+- marketing : 462 件
 - research : 14 件
 - newbiz : 356 件
 - ingest : 1 件
