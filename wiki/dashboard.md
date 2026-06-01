@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 06:01
+updated: 2026-06-02 06:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 06:01
+**最終更新**: 2026-06-02 06:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 216 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 56 |
+| 📥 inbox | 214 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 57 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1207 (うち24h+古い: 1054) |
+| 📝 wiki/_inbox 未レビュー | 1208 (うち24h+古い: 1055) |
 
 ### 処理中
-- ⚙️ **[1460 分]** [School] 入学後30日プラン
+- ⚙️ **[1459 分]** [Money] AIpaX 既存4社 アップセル提案
+- ⚙️ **[1459 分]** [Money] 紹介プログラム 5事業横断ルール
 
 ### Inbox 上位
-- [high] [Money] AIpaX 既存4社 アップセル提案
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 489 件
+- marketing : 490 件
 - research : 20 件
 - newbiz : 382 件
 - ingest : 1 件

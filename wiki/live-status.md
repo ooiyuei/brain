@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 06:02:46
+updated: 2026-06-02 06:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:02:46** | 🔥 **稼働中**
+**06:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残29分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7169MB / 8151MB (**88%**)
+- VRAM: 7033MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **55.1%** (17.6GB / 31.9GB)
+- 使用率: **83.2%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 216 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 214 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 57 |
+
+## 🔄 処理中タスク
+
+- ⚡ [87585 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [87585 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 既存4社 アップセル提案
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 判定
 
