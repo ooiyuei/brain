@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 18:44
+updated: 2026-06-01 18:49
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,7 @@ updated: 2026-06-01 18:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1343分]** [AIpaX] β顧客80万提案書フル版
-- [ ] **[処理中 1323分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 1328分]** [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
