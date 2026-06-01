@@ -1,29 +1,28 @@
 ---
 type: dashboard
-updated: 2026-06-01 15:56
+updated: 2026-06-01 16:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 15:56
+**最終更新**: 2026-06-01 16:01
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 88 |
+| 📥 inbox | 226 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 89 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1086 (うち24h+古い: 948) |
+| 📝 wiki/_inbox 未レビュー | 1087 (うち24h+古い: 949) |
 
 ### 処理中
-- ⚙️ **[13 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[1301 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[296 分]** [BG-Competitive] BizReach
+- ⚙️ **[1306 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[301 分]** [BG-Competitive] BizReach
 
 ### Inbox 上位
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
@@ -49,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 446 件
+- marketing : 447 件
 - research : 9 件
 - newbiz : 339 件
 - ingest : 1 件

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 15:58:47
+updated: 2026-06-01 16:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:58:47** | 🔥 **稼働中**
+**16:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 6.1GB | 残-277分 |
+| qwen3:8b | 15.6GB | 6.1GB | 残-281分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **100%**
-- VRAM: 7549MB / 8151MB (**92.6%**)
+- VRAM: 7545MB / 8151MB (**92.6%**)
 
 ## 💾 RAM
 
-- 使用率: **65.1%** (20.8GB / 31.9GB)
+- 使用率: **64.4%** (20.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,15 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 88 |
+| 📥 inbox | 226 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 89 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [939 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [78226 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
-- ⚡ [17928 秒経過] **[BG-Competitive] BizReach**
+- ⚡ [78466 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [18168 秒経過] **[BG-Competitive] BizReach**
 
 ## 📥 待機タスク (上位5)
 

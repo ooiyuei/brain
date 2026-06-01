@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-28T15:51:02.2870205+09:00"
-                    },
-                    {
                         "slug":  "school-tos",
                         "time":  "2026-05-28T16:01:02.3862350+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-01T15:51:02.1915865+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-01T16:01:02.2577526+09:00"
                     }
                 ]
 }
