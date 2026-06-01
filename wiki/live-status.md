@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 22:10:48
+updated: 2026-06-01 22:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:10:48** | 🔥 **稼働中**
+**22:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **70%**
-- VRAM: 7039MB / 8151MB (**86.4%**)
+- 使用率: **3%**
+- VRAM: 7043MB / 8151MB (**86.4%**)
 
 ## 💾 RAM
 
-- 使用率: **84%** (26.8GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 219 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 145 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [82548 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [82786 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [82426 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] MVP LP完全版
 - [high] [School] 入学後30日プラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
 
 ## 🎯 判定
 
