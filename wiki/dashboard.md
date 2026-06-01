@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 08:06
+updated: 2026-06-02 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 08:06
+**最終更新**: 2026-06-02 08:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,24 +16,24 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 219 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 69 |
+| ✅ 今日完了 | 70 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1220 (うち24h+古い: 1070) |
+| 📝 wiki/_inbox 未レビュー | 1221 (うち24h+古い: 1070) |
 
 ### 処理中
-- ⚙️ **[1515 分]** [AIpaX] β顧客80万提案書フル版
-- ⚙️ **[1505 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[1520 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[1500 分]** [School] X『中高生×AI』20投稿
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [AIpaX] 月次PL試算
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 今日のフォーカス
 
-- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]] - 6/7締切・残6日。`_promoted/newbiz/eemus-dream-award-骨子...
+- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]] - 残5日（6/7締切）。叩き台2本：`_promoted/newbiz/eemus-dream-a...
 
 → 詳細: [[_tasks/today]]
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 494 件
-- research : 20 件
+- research : 21 件
 - newbiz : 388 件
 - ingest : 1 件
 - corp : 140 件
