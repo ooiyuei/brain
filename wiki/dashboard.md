@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 05:36
+updated: 2026-06-02 05:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 05:36
+**最終更新**: 2026-06-02 05:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 216 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 52 |
+| 📥 inbox | 217 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 53 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1203 (うち24h+古い: 1051) |
+| 📝 wiki/_inbox 未レビュー | 1204 (うち24h+古い: 1052) |
 
 ### 処理中
-- ⚙️ **[1475 分]** [School] note『AI時代に子供に渡したいもの』
-- ⚙️ **[1461 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1466 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
 - [high] [EEMUS] 連携企業候補20社
@@ -48,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 488 件
+- marketing : 489 件
 - research : 19 件
 - newbiz : 381 件
 - ingest : 1 件
