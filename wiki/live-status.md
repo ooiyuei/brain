@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 09:22:46
+updated: 2026-06-01 09:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:22:46** | 🔥 **稼働中**
+**09:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,22 +15,22 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **7%**
-- VRAM: 7197MB / 8151MB (**88.3%**)
+- 使用率: **100%**
+- VRAM: 7196MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **62.1%** (19.8GB / 31.9GB)
+- 使用率: **63.2%** (20.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,13 +38,12 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 179 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 76 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 77 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [59507 秒経過] **[Testall] 教育者連携アプローチ**
-- ⚡ [58907 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
+- ⚡ [59147 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
 
 ## 📥 待機タスク (上位5)
 
