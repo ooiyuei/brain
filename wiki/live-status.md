@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 16:02:47
+updated: 2026-06-01 16:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:02:47** | 🔥 **稼働中**
+**16:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 6.1GB | 残-281分 |
+| qwen3:8b | 15.6GB | 6.1GB | 残-285分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **64.4%** (20.6GB / 31.9GB)
+- 使用率: **64.7%** (20.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,8 +43,8 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [78466 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
-- ⚡ [18168 秒経過] **[BG-Competitive] BizReach**
+- ⚡ [78706 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [18408 秒経過] **[BG-Competitive] BizReach**
 
 ## 📥 待機タスク (上位5)
 
