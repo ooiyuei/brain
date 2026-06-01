@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 18:10:47
+updated: 2026-06-01 18:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:10:47** | 🔥 **稼働中**
+**18:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **84.2%** (26.9GB / 31.9GB)
+- 使用率: **84.4%** (26.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 223 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 109 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [80627 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [80866 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [80866 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 判定
 
