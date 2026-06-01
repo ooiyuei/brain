@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-28T14:41:02.6197690+09:00"
-                    },
-                    {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-05-28T14:51:02.2718229+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-01T14:41:02.1131261+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-01T14:51:02.1032123+09:00"
                     }
                 ]
 }
