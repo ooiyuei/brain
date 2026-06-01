@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 17:14:46
+updated: 2026-06-01 17:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:14:46** | 🔥 **稼働中**
+**17:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,39 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
+- 使用率: **0%**
 - VRAM: 7012MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **83%** (26.5GB / 31.9GB)
+- 使用率: **83.2%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 228 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 229 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 97 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [80866 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [81106 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [81106 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Testall] X受験あるある投稿30本
 - [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 判定
 

@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 17:11
+updated: 2026-06-01 17:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 17:11
+**最終更新**: 2026-06-01 17:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 229 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 95 |
+| ✅ 今日完了 | 97 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1091 (うち24h+古い: 954) |
+| 📝 wiki/_inbox 未レビュー | 1093 (うち24h+古い: 955) |
 
 ### 処理中
-- ⚙️ **[1350 分]** [AIpaX] β顧客80万提案書フル版
-- ⚙️ **[1344 分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- ⚙️ **[1349 分]** [Money] AIpaX 5社目商談クロージング想定問答
+- ⚙️ **[1349 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ### Inbox 上位
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Testall] X受験あるある投稿30本
+- [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 448 件
+- marketing : 449 件
 - research : 9 件
-- newbiz : 341 件
+- newbiz : 342 件
 - ingest : 1 件
 - corp : 116 件
 - dev : 10 件
