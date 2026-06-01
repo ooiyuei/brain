@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 20:26:46
+updated: 2026-06-01 20:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:26:46** | 🔥 **稼働中**
+**20:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7039MB / 8151MB (**86.4%**)
+- 使用率: **2%**
+- VRAM: 7035MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **83.7%** (26.7GB / 31.9GB)
+- 使用率: **84.1%** (26.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 130 |
+| ✅ 今日完了 | 131 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [81586 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [81826 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Self-Review] Brain System 週次改善提案 2026-05-31
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 

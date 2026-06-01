@@ -2,10 +2,6 @@
     "history":  [
                     {
                         "slug":  "eemus-dream-award-story",
-                        "time":  "2026-05-28T20:31:02.6324746+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-28T20:41:02.8363279+09:00"
                     },
                     {
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-01T20:21:02.8264236+09:00"
+                    },
+                    {
+                        "slug":  "testall-competitor-studyplus",
+                        "time":  "2026-06-01T20:31:02.7316319+09:00"
                     }
                 ]
 }
