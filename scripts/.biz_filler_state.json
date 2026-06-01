@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-05-29T00:11:01.7123792+09:00"
-                    },
-                    {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-05-29T00:21:02.0405390+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-02T00:01:02.0941591+09:00"
+                    },
+                    {
+                        "slug":  "school-faq-parent-30",
+                        "time":  "2026-06-02T00:11:01.8710497+09:00"
                     }
                 ]
 }
