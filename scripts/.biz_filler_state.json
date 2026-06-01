@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-05-29T03:21:02.0679806+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-05-29T03:31:02.0092733+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-x-content",
                         "time":  "2026-06-02T03:21:01.9401544+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-02T03:31:01.9517226+09:00"
                     }
                 ]
 }
