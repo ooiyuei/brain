@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 17:02:47
+updated: 2026-06-01 17:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:02:47** | 🔥 **稼働中**
+**17:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **6%**
-- VRAM: 7149MB / 8151MB (**87.7%**)
+- 使用率: **4%**
+- VRAM: 7287MB / 8151MB (**89.4%**)
 
 ## 💾 RAM
 
-- 使用率: **52.7%** (16.8GB / 31.9GB)
+- 使用率: **57.4%** (18.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 230 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 229 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 94 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [81708 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [81947 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [80747 秒経過] **[AIpaX] β顧客80万提案書フル版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 

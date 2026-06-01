@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 17:01
+updated: 2026-06-01 17:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 17:01
+**最終更新**: 2026-06-01 17:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 230 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 229 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 94 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1090 (うち24h+古い: 954) |
 
 ### 処理中
-- ⚙️ **[1360 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[1365 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[1345 分]** [AIpaX] β顧客80万提案書フル版
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 今日のフォーカス
 
