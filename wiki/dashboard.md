@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 10:31
+updated: 2026-06-01 10:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 10:31
+**最終更新**: 2026-06-01 10:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 185 |
+| 📥 inbox | 184 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 83 |
+| ✅ 今日完了 | 84 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1092 (うち24h+古い: 922) |
+| 📝 wiki/_inbox 未レビュー | 1093 (うち24h+古い: 923) |
 
 ### 処理中
-- ⚙️ **[1020 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[31 分]** [BG-Entities] kasunote 更新提案
+- ⚙️ **[1025 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[6 分]** [BG-Business] agents-of-flag 企画書初稿
 
 ### Inbox 上位
 - [high] [School] X『中高生×AI』20投稿
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 444 件
 - research : 17 件
-- newbiz : 340 件
+- newbiz : 341 件
 - ingest : 1 件
 - corp : 115 件
 - dev : 9 件
