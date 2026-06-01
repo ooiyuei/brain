@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 22:50:46
+updated: 2026-06-01 22:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:50:46** | 🔥 **稼働中**
+**22:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残24分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残20分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **57.3%** (18.3GB / 31.9GB)
+- 使用率: **57.2%** (18.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 223 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 147 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [83986 秒経過] **[EEMUS] MVP LP完全版**
-- ⚡ [83387 秒経過] **[School] 入学後30日プラン**
+- ⚡ [84226 秒経過] **[EEMUS] MVP LP完全版**
+- ⚡ [83627 秒経過] **[School] 入学後30日プラン**
 
 ## 📥 待機タスク (上位5)
 
