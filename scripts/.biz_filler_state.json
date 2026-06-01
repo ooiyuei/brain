@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-29T01:41:01.9114120+09:00"
-                    },
-                    {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-05-29T01:51:04.6456476+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-02T01:41:01.9092372+09:00"
+                    },
+                    {
+                        "slug":  "eemus-content-stories",
+                        "time":  "2026-06-02T01:51:01.9238530+09:00"
                     }
                 ]
 }
