@@ -2,14 +2,6 @@
     "history":  [
                     {
                         "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-29T08:11:02.1495159+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-29T08:21:01.9340356+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
                         "time":  "2026-05-29T08:31:02.0560928+09:00"
                     },
                     {
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-06-02T08:11:01.9425791+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-02T08:21:02.3309336+09:00"
                     }
                 ]
 }
