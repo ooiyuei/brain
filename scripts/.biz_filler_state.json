@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-28T12:21:02.2596336+09:00"
-                    },
-                    {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-05-28T12:31:02.2875617+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-06-01T12:21:02.0083443+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-01T12:31:02.0086344+09:00"
                     }
                 ]
 }
