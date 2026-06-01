@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 01:30:47
+updated: 2026-06-02 01:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:30:47** | 🔥 **稼働中**
+**01:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7306MB / 8151MB (**89.6%**)
+- 使用率: **0%**
+- VRAM: 1233MB / 8151MB (**15.1%**)
 
 ## 💾 RAM
 
-- 使用率: **57.2%** (18.3GB / 31.9GB)
-- ✅ 適正
+- 使用率: **24.5%** (7.8GB / 31.9GB)
+- ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,16 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 226 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 10 |
-
-## 🔄 処理中タスク
-
-- ⚡ [88787 秒経過] **[EEMUS] 提携高校候補20校リスト**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 12 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [AIpaX] 月次PL試算
 - [high] [School] 利用規約・特商法表記
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 判定
 
