@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-05-28T16:31:02.6070132+09:00"
-                    },
-                    {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-05-28T16:41:02.4699288+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-01T16:31:02.5583971+09:00"
+                    },
+                    {
+                        "slug":  "cross-investor-pitch",
+                        "time":  "2026-06-01T16:41:02.3707743+09:00"
                     }
                 ]
 }

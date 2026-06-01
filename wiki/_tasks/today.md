@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 16:34
+updated: 2026-06-01 16:39
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 16:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1339分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- [ ] **[処理中 334分]** [BG-Competitive] Indeed
+- [ ] **[処理中 1344分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [ ] **[処理中 339分]** [BG-Competitive] Indeed
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
