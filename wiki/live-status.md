@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 10:06:47
+updated: 2026-06-01 10:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:06:47** | 🔥 **稼働中**
+**10:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7194MB / 8151MB (**88.3%**)
+- 使用率: **11%**
+- VRAM: 7195MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **87.4%** (27.9GB / 31.9GB)
+- 使用率: **57.3%** (18.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,14 +38,13 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 181 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 80 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 81 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [60706 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
-- ⚡ [60347 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [408 秒経過] **[BG-Entities] testall 更新提案**
+- ⚡ [60587 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [648 秒経過] **[BG-Entities] testall 更新提案**
 
 ## 📥 待機タスク (上位5)
 
