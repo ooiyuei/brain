@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 18:38:46
+updated: 2026-06-01 18:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:38:46** | 🔥 **稼働中**
+**18:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残23分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **4%**
-- VRAM: 7147MB / 8151MB (**87.7%**)
+- VRAM: 7285MB / 8151MB (**89.4%**)
 
 ## 💾 RAM
 
-- 使用率: **87.9%** (28GB / 31.9GB)
+- 使用率: **60.2%** (19.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
+| 📥 inbox | 219 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 116 |
+| ✅ 今日完了 | 118 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [80627 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
-- ⚡ [80266 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [80507 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [79307 秒経過] **[EEMUS] ピッチデック10枚構成**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [School] 入学後30日プラン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 判定
 
