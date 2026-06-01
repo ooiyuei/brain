@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 03:30:47
+updated: 2026-06-02 03:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:30:47** | 🔥 **稼働中**
+**03:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,22 +15,22 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残21分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残17分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7032MB / 8151MB (**86.3%**)
+- 使用率: **0%**
+- VRAM: 7036MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **85.5%** (27.3GB / 31.9GB)
+- 使用率: **87.8%** (28GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 224 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 28 |
+| ✅ 今日完了 | 29 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [89026 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [89028 秒経過] **[Testall] ユーザーペルソナ5パターン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
-- [high] [School] X『中高生×AI』20投稿
+- [] 
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 

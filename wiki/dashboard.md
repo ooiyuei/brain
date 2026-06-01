@@ -1,28 +1,27 @@
 ---
 type: dashboard
-updated: 2026-06-02 03:26
+updated: 2026-06-02 03:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 03:26
+**最終更新**: 2026-06-02 03:31
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 224 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 27 |
+| 📥 inbox | 225 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 28 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1178 (うち24h+古い: 1034) |
+| 📝 wiki/_inbox 未レビュー | 1179 (うち24h+古い: 1035) |
 
 ### 処理中
-- ⚙️ **[1479 分]** [Money] AIpa Web 商工会経由営業文
-- ⚙️ **[1479 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[1484 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ### Inbox 上位
 - [high] [Testall] ユーザーペルソナ5パターン
@@ -48,7 +47,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 477 件
+- marketing : 478 件
 - research : 15 件
 - newbiz : 374 件
 - ingest : 1 件
