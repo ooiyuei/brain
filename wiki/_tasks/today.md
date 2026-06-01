@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 17:09
+updated: 2026-06-01 17:14
 ---
 
 # Today 2026-06-01
@@ -30,9 +30,8 @@ updated: 2026-06-01 17:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1348分]** [AIpaX] β顧客80万提案書フル版
-- [ ] **[処理中 1342分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
+- [ ] **[処理中 1347分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [ ] **[処理中 1347分]** [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
@@ -258,6 +257,7 @@ updated: 2026-06-01 17:09
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
+- [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 
