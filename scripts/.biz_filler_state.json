@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-05-29T03:31:02.0092733+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-05-29T03:41:02.0025752+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-02T03:31:01.9517226+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-02T03:41:01.9243481+09:00"
                     }
                 ]
 }
