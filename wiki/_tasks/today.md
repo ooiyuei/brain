@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 08:44
+updated: 2026-06-02 08:49
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-02 08:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1503分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] **[処理中 1499分]** AI 最新情報日次リサーチ
+- [ ] **[処理中 1508分]** [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
