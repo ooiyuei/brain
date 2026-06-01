@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 21:10:46
+updated: 2026-06-01 21:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:10:46** | 🔥 **稼働中**
+**21:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7042MB / 8151MB (**86.4%**)
+- 使用率: **2%**
+- VRAM: 7038MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **86.7%** (27.7GB / 31.9GB)
+- 使用率: **86.2%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 218 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 137 |
+| 📥 inbox | 219 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 138 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [82547 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
-- ⚡ [82187 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [82427 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
