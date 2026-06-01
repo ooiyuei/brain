@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-28T13:31:02.5035576+09:00"
-                    },
-                    {
                         "slug":  "school-parent-lp",
                         "time":  "2026-05-28T13:41:02.7083426+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-x-content",
                         "time":  "2026-06-01T13:31:02.0792344+09:00"
+                    },
+                    {
+                        "slug":  "school-onboarding",
+                        "time":  "2026-06-01T13:41:02.0868982+09:00"
                     }
                 ]
 }
