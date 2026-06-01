@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-05-28T14:21:02.5178205+09:00"
-                    },
-                    {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-05-28T14:31:02.2681877+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-06-01T14:21:02.0995309+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-01T14:31:02.1338917+09:00"
                     }
                 ]
 }
