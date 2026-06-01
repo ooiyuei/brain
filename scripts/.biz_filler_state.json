@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-28T20:11:02.6691433+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-28T20:21:02.6067957+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-28T20:31:02.6324746+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-01T20:11:02.6536601+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-lp",
+                        "time":  "2026-06-01T20:21:02.8264236+09:00"
                     }
                 ]
 }
