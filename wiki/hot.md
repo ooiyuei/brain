@@ -32,12 +32,12 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-01 結果）
+## 🌅 Today（2026-06-02）
 
-**絶対やる1個**: 夢AWARD応募骨子 ❌ 未着手（6日連続）
-**サブ①**: AIpaX 5社目クロージング ❌ 未着手
-**サブ②**: Digital AI補助金確認 ❌ 未着手（最低優先）
-**Claude完了**: 昼PDCA（1件昇格・10件削除・qwen3:8bバグ検出）
+**絶対やる1個**: **夢AWARD応募骨子 完成・提出準備** — 残5日（6/7締切）・7日連続未着手・朝一番30分
+**サブ①**: AIpaX 5社目クロージング接触（大井の連絡1本のみ）
+**サブ②**: qwen3:8bバグ対処（BG-Entities系 context_files修正・Claudeがやる）
+**⚠️ 注意**: 監視ファイル（competitor/deadlines/grill）本日未生成（BrainMonitor遅延？）
 
 ## ☀️ Midday（12:30 昼チェック）
 
@@ -58,16 +58,16 @@ managed_by: Claude (must update every session)
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-06-01 夜 — 夜ルーティン (evening-20260601生成/done.mdアーカイブ/hot.md更新)
+**Last session**: 2026-06-02 朝 — 朝ルーティン (morning-20260602生成/today.md更新/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/evening-20260601.md` (夜メモ生成)
-- `brain/wiki/_tasks/done.md` (6/1完了タスクアーカイブ)
-- `brain/wiki/hot.md` (Tomorrow 6/2更新)
+- `brain/wiki/_routines/morning-20260602.md` (朝メモ生成)
+- `brain/wiki/_tasks/today.md` (6/2版に更新)
+- `brain/wiki/hot.md` (Today 6/2更新)
 
-**現在の Mode**: 夜ルーティン完了
-**完了**: 昼PDCA（1件昇格/10件削除）・qwen3:8bバグ検出
-**未完**: 夢AWARD骨子（大井の肉付け30分・残5日・6日連続未着手）/ AIpaX 5社目接触（大井アクション1本のみ）
-**⚠️ 懸念**: qwen3:8b が context_files 末尾を出力するバグ → BG-Entities系3件破損
+**現在の Mode**: 朝ルーティン完了
+**完了**: 朝の作戦会議（monitoring除く）
+**未完**: 夢AWARD骨子（大井の肉付け30分・残5日・7日連続未着手）/ AIpaX 5社目接触（大井アクション1本のみ）
+**⚠️ 懸念**: qwen3:8b が context_files 末尾を出力するバグ → BG-Entities系3件破損 / 監視ファイル本日未生成
 
 ---
 

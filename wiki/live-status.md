@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 08:06:46
+updated: 2026-06-02 08:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:06:46** | 🔥 **稼働中**
+**08:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **6%**
+- 使用率: **95%**
 - VRAM: 7177MB / 8151MB (**88.1%**)
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **60%** (19.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
+| 📥 inbox | 218 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 69 |
+| ✅ 今日完了 | 70 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90947 秒経過] **[AIpaX] β顧客80万提案書フル版**
-- ⚡ [90347 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [91187 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [89987 秒経過] **[School] X『中高生×AI』20投稿**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [AIpaX] 月次PL試算
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 判定
 
