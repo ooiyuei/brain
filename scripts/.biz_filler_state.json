@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-28T20:51:02.7499374+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-28T21:01:01.6954939+09:00"
-                    },
-                    {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-05-28T21:11:01.7134790+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-01T20:51:02.4844531+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-01T21:01:03.0432708+09:00"
                     }
                 ]
 }
