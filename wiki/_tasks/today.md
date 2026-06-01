@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 23:09
+updated: 2026-06-01 23:14
 ---
 
 # Today 2026-06-01
@@ -30,10 +30,8 @@ updated: 2026-06-01 23:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1402分]** [Money] 主力5事業 月次キャッシュフロー6月予測
-- [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
-- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] **[処理中 1407分]** [Money] AIpaX 5社目商談クロージング想定問答
+- [ ] **[処理中 1407分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [School] 1年カリキュラム詳細v2
@@ -252,6 +250,7 @@ updated: 2026-06-01 23:09
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
+- [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 

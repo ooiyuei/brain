@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 23:10:46
+updated: 2026-06-01 23:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:10:46** | 🔥 **稼働中**
+**23:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7037MB / 8151MB (**86.3%**)
+- 使用率: **3%**
+- VRAM: 7040MB / 8151MB (**86.4%**)
 
 ## 💾 RAM
 
-- 使用率: **84.7%** (27GB / 31.9GB)
+- 使用率: **86.5%** (27.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 223 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 149 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 151 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [84226 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [84466 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [84466 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ## 🎯 判定
 
