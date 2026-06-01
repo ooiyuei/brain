@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 00:01
+updated: 2026-06-02 00:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 00:01
+**最終更新**: 2026-06-02 00:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 224 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 0 |
+| 📥 inbox | 222 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 1 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1151 (うち24h+古い: 1007) |
+| 📝 wiki/_inbox 未レビュー | 1152 (うち24h+古い: 1009) |
 
 ### 処理中
-- ⚙️ **[1430 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[1431 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1425 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] AIpaX 既存4社 アップセル提案
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 467 件
 - research : 15 件
-- newbiz : 363 件
+- newbiz : 364 件
 - ingest : 1 件
 - corp : 128 件
 - dev : 11 件
