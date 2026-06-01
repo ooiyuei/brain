@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-02 00:34
+updated: 2026-06-02 00:39
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-02 00:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1453分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] **[処理中 1443分]** [School] note『AI時代に子供に渡したいもの』
+- [ ] **[処理中 1458分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- [ ] **[処理中 1448分]** [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案

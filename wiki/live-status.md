@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 00:38:46
+updated: 2026-06-02 00:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:38:46** | 🔥 **稼働中**
+**00:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **6%**
-- VRAM: 7174MB / 8151MB (**88%**)
+- 使用率: **92%**
+- VRAM: 7173MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **56%** (17.9GB / 31.9GB)
+- 使用率: **57.5%** (18.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,21 +38,20 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 226 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 2 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 4 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [87466 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
-- ⚡ [86866 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [86506 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 判定
 
