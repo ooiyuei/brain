@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-28T23:51:01.8474678+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-29T00:01:01.9612971+09:00"
-                    },
-                    {
                         "slug":  "eemus-pitch-deck-10p",
                         "time":  "2026-05-29T00:11:01.7123792+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-01T23:51:01.6946391+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-02T00:01:02.0941591+09:00"
                     }
                 ]
 }
