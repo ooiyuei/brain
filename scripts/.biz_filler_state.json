@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-28T11:41:02.2595692+09:00"
-                    },
-                    {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-05-28T11:51:02.2203228+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "eemus-lp-mvp",
                         "time":  "2026-06-01T11:41:01.9900166+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-01T11:51:02.0359918+09:00"
                     }
                 ]
 }

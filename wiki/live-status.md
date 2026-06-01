@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 11:46:46
+updated: 2026-06-01 11:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:46:46** | 🔥 **稼働中**
+**11:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 6.1GB | 残-25分 |
+| qwen3:8b | 15.6GB | 6.1GB | 残-29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **100%**
-- VRAM: 7444MB / 8151MB (**91.3%**)
+- VRAM: 7442MB / 8151MB (**91.3%**)
 
 ## 💾 RAM
 
-- 使用率: **58.5%** (18.7GB / 31.9GB)
+- 使用率: **59.7%** (19.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,8 +43,8 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [579 秒経過] **[School] X『中高生×AI』20投稿**
-- ⚡ [1005 秒経過] **[BG-Competitive] 採用ピックアップ**
+- ⚡ [819 秒経過] **[School] X『中高生×AI』20投稿**
+- ⚡ [1245 秒経過] **[BG-Competitive] 採用ピックアップ**
 
 ## 📥 待機タスク (上位5)
 
