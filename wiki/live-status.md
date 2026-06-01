@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 04:02:46
+updated: 2026-06-02 04:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:02:46** | 🔥 **稼働中**
+**04:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7030MB / 8151MB (**86.2%**)
+- 使用率: **2%**
+- VRAM: 7034MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **83.2%** (26.6GB / 31.9GB)
+- 使用率: **84.5%** (27GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 37 |
+| 📥 inbox | 217 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 38 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [87345 秒経過] **[Money] Testall 受験生インフルエンサー連携 DM10件**
+- ⚡ [87586 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [87586 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 
