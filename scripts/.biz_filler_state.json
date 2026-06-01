@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-28T12:31:02.2875617+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-28T12:41:02.1186371+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-01T12:31:02.0086344+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-01T12:41:02.0466950+09:00"
                     }
                 ]
 }
