@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 15:36
+updated: 2026-06-01 15:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 15:36
+**最終更新**: 2026-06-01 15:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -17,12 +17,12 @@ tags: [dashboard, system]
 | 📥 inbox | 225 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 88 |
-| ❌ failed | 5 |
-| 📝 wiki/_inbox 未レビュー | 1086 (うち24h+古い: 945) |
+| ❌ failed | 6 |
+| 📝 wiki/_inbox 未レビュー | 1086 (うち24h+古い: 947) |
 
 ### 処理中
-- ⚙️ **[43 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[29 分]** [BG-Competitive] Studyplus
+- ⚙️ **[48 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[281 分]** [BG-Competitive] BizReach
 
 ### Inbox 上位
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
