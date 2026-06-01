@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-28T09:01:02.1476447+09:00"
-                    },
-                    {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-05-28T09:11:02.1379030+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-pitch-deck-10p",
                         "time":  "2026-06-01T08:51:02.3165622+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-01T09:01:02.2507930+09:00"
                     }
                 ]
 }
