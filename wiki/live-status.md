@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 01:22:48
+updated: 2026-06-02 01:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:22:48** | 🔥 **稼働中**
+**01:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **78%**
-- VRAM: 7030MB / 8151MB (**86.2%**)
+- 使用率: **6%**
+- VRAM: 7310MB / 8151MB (**89.7%**)
 
 ## 💾 RAM
 
-- 使用率: **83.1%** (26.5GB / 31.9GB)
+- 使用率: **59.2%** (18.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 227 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 226 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 9 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [88308 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [88547 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [87948 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [AIpaX] 月次PL試算
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 判定
 
