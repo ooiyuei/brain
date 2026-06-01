@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 20:34
+updated: 2026-06-01 20:39
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 20:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1363分]** [AIpaX] 業務委託契約書テンプレ
-- [ ] **[処理中 1354分]** [Self-Review] Brain System 週次改善提案 2026-05-31
+- [ ] **[処理中 1368分]** [AIpaX] 業務委託契約書テンプレ
+- [ ] **[処理中 1359分]** [Self-Review] Brain System 週次改善提案 2026-05-31
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
