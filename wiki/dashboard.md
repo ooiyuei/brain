@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 05:41
+updated: 2026-06-02 05:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 05:41
+**最終更新**: 2026-06-02 05:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 217 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 53 |
+| 📥 inbox | 215 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 54 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1204 (うち24h+古い: 1052) |
+| 📝 wiki/_inbox 未レビュー | 1205 (うち24h+古い: 1053) |
 
 ### 処理中
-- ⚙️ **[1466 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1465 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[1455 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] 入学後30日プラン
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +52,7 @@ tags: [dashboard, system]
 - research : 19 件
 - newbiz : 381 件
 - ingest : 1 件
-- corp : 137 件
+- corp : 138 件
 - dev : 11 件
 
 ## 🔗 主要リンク
