@@ -1,35 +1,35 @@
 ---
 type: dashboard
-updated: 2026-06-01 10:26
+updated: 2026-06-01 10:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 10:26
+**最終更新**: 2026-06-01 10:31
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 184 |
+| 📥 inbox | 185 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 82 |
+| ✅ 今日完了 | 83 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1091 (うち24h+古い: 921) |
+| 📝 wiki/_inbox 未レビュー | 1092 (うち24h+古い: 922) |
 
 ### 処理中
-- ⚙️ **[1025 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[26 分]** [BG-Entities] kasunote 更新提案
+- ⚙️ **[1020 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[31 分]** [BG-Entities] kasunote 更新提案
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] X『中高生×AI』20投稿
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -43,12 +43,12 @@ tags: [dashboard, system]
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 12/14 (86%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 24 件更新済 |
-| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 2/4 |
+| 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 3/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 443 件
+- marketing : 444 件
 - research : 17 件
 - newbiz : 340 件
 - ingest : 1 件

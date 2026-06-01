@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 10:29
+updated: 2026-06-01 10:34
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 10:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1018分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 29分]** [BG-Entities] kasunote 更新提案
+- [ ] **[処理中 1023分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 34分]** [BG-Entities] kasunote 更新提案
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
@@ -212,9 +212,11 @@ updated: 2026-06-01 10:29
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
+- [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
+- [ ] [待機] [BG-Business] agents-of-flag 企画書初稿
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
