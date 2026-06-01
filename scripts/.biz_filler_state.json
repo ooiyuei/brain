@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-05-28T09:31:01.9172859+09:00"
-                    },
-                    {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-05-28T09:41:02.0156908+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-01T09:21:02.0161687+09:00"
+                    },
+                    {
+                        "slug":  "testall-x-content-30",
+                        "time":  "2026-06-01T09:31:02.2054795+09:00"
                     }
                 ]
 }
