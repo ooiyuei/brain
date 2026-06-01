@@ -1,14 +1,14 @@
 ---
 type: competitive-intel
 title: 競合インテリジェンス（自動集約）
-updated: 2026-05-31 11:30
+updated: 2026-06-01 11:30
 tags: [meta, competitive, intel, auto-aggregated]
 ---
 
 # 競合インテリジェンス 統合MAP
 
 > `BG-Competitive` が生成する個別ファイル（`wiki/research/competitors/`）を毎日11:30に自動集約。
-> 最終更新: 2026-05-31 11:30
+> 最終更新: 2026-06-01 11:30
 
 ## サマリー
 
@@ -21,17 +21,17 @@ tags: [meta, competitive, intel, auto-aggregated]
 
 | 競合 | カテゴリ | 注意 | 直近更新 | サマリー |
 |---|---|---|---|---|
-| **atama** | unknown | 🟡 | 2026-05-28 |  |
+| **atama** | unknown | 🟡 | 2026-05-31 |  |
 | **BizReach** | unknown | 🟡 | 2026-05-29 |  |
 | **ChatGPT-Team** | unknown | 🟡 | 2026-05-30 |  |
-| **engage** | unknown | 🟡 | 2026-05-28 |  |
+| **engage** | unknown | 🟡 | 2026-05-31 |  |
 | **Gusto** | unknown | 🟡 | 2026-05-30 |  |
 | **Indeed** | unknown | 🟡 | 2026-05-29 |  |
 | **Manebi** | unknown | 🟡 | 2026-05-30 |  |
 | **Microsoft-Copilot** | unknown | 🟡 | 2026-05-30 |  |
-| **Notion-AI** | unknown | 🟡 | 2026-05-28 |  |
+| **Notion-AI** | unknown | 🟡 | 2026-05-31 |  |
 | **Salesforce-Einstein** | unknown | 🟡 | 2026-05-30 |  |
-| **Sansan** | unknown | 🟡 | 2026-05-28 |  |
+| **Sansan** | unknown | 🟡 | 2026-05-31 |  |
 | **Studyplus** | unknown | 🟡 | 2026-05-29 |  |
 | **Studyplus-Planning** | unknown | 🟡 | 2026-05-31 |  |
 | **Wantedly** | unknown | 🟡 | 2026-05-29 |  |
@@ -39,8 +39,8 @@ tags: [meta, competitive, intel, auto-aggregated]
 ## 関連リンク
 
 - 個別レポート群: `wiki/research/competitors/`
-- 朝の競合動向: [[_monitor/competitor-2026-05-31]]
-- AI業界ニュース: [[_monitor/ai-news-2026-05-31]]
+- 朝の競合動向: [[_monitor/competitor-2026-06-01]]
+- AI業界ニュース: [[_monitor/ai-news-2026-06-01]]
 
 ---
 _このファイルは `aggregate_competitive.ps1` が毎日11:30に自動更新_
