@@ -32,11 +32,12 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-01 朝の作戦）
+## 🌅 Today（2026-06-01 結果）
 
-**絶対やる1個**: **夢AWARD応募骨子 完成** — 残6日・6/7締切。叩き台2本揃い済み。大井の30分だけで出せる状態。
-**一言**: 叩き台は揃ってる。大井が向き合うだけ。今日これを逃したら本当に詰む。
-**サブ①**: AIpaX 5社目クロージング接触（想定問答完成済み・大井アクション1つ）
+**絶対やる1個**: 夢AWARD応募骨子 ❌ 未着手（6日連続）
+**サブ①**: AIpaX 5社目クロージング ❌ 未着手
+**サブ②**: Digital AI補助金確認 ❌ 未着手（最低優先）
+**Claude完了**: 昼PDCA（1件昇格・10件削除・qwen3:8bバグ検出）
 
 ## ☀️ Midday（12:30 昼チェック）
 
@@ -46,27 +47,27 @@ managed_by: Claude (must update every session)
 **午後**: ①夢AWARD骨子v3（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`）を開いて30分肉付け → 今日完成 ②AIpaX 5社目クロージング連絡
 **詳細**: [[_routines/midday-20260601]]
 
-## 🌙 Tomorrow（2026-06-01）
+## 🌙 Tomorrow（2026-06-02）
 
-**最優先**: **夢AWARD応募骨子を完成させる** — 6/7締切・残**6日**。叩き台2本揃ってる（`_promoted/newbiz/eemus-dream-award-骨子v3`・`eemus-dream-award-story-2026-05-31`）。朝30分だけ肉付けして完成。これ以上先延ばしは手遅れ。
-**サブ①**: **AIpaX 5社目クロージング接触** — 想定問答15選完成済み。次は大井からの接触だけ。月収80万ギャップの最速手。
-**サブ②**: **Digital AI補助金 第2次スケジュール確認** — 第1次は5/31で終了。第2次（8月末）の詳細をWebで確認（TEL不要）。格下げ。
-**詳細**: [[_routines/evening-20260531]]
+**最優先**: **夢AWARD応募骨子を完成・提出** — 6/7締切・残**5日**。6日連続未着手。叩き台2本（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`・`eemus-dream-award-story-2026-05-31.md`）はある。朝一番・他を全部閉じて30分だけ向き合う。明日やらないと手遅れ。
+**サブ①**: **AIpaX 5社目クロージング接触** — 想定問答15選完成済み。大井の連絡1本のみ。月収80万ギャップの最速手。
+**サブ②**: **qwen3:8bバグ対処** — BG-Entities系context_files設定修正。ooi-yuei.mdを除外するかqwen3.6:latestに切替。
+**詳細**: [[_routines/evening-20260601]]
 
 ---
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-05-31 夜 — 夜ルーティン (evening-20260531生成/PDCA実行/hot.md更新)
+**Last session**: 2026-06-01 夜 — 夜ルーティン (evening-20260601生成/done.mdアーカイブ/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/evening-20260531.md` (夜メモ生成)
-- `brain/wiki/_tasks/done.md` (5/31完了タスクアーカイブ)
-- `brain/wiki/hot.md` (Tomorrow 6/1更新)
-- `brain/wiki/_promoted/newbiz/` (2件昇格: AIpaX80万提案書・EEMUSストーリー)
+- `brain/wiki/_routines/evening-20260601.md` (夜メモ生成)
+- `brain/wiki/_tasks/done.md` (6/1完了タスクアーカイブ)
+- `brain/wiki/hot.md` (Tomorrow 6/2更新)
 
 **現在の Mode**: 夜ルーティン完了
-**完了**: 夜メモ・PDCA(4件昇格/225件削除)・hot.md更新
-**未完**: 夢AWARD骨子（大井の肉付け30分・残6日）/ AIpaX 5社目接触（大井アクション）
+**完了**: 昼PDCA（1件昇格/10件削除）・qwen3:8bバグ検出
+**未完**: 夢AWARD骨子（大井の肉付け30分・残5日・6日連続未着手）/ AIpaX 5社目接触（大井アクション1本のみ）
+**⚠️ 懸念**: qwen3:8b が context_files 末尾を出力するバグ → BG-Entities系3件破損
 
 ---
 

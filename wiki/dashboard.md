@@ -1,34 +1,35 @@
 ---
 type: dashboard
-updated: 2026-06-01 21:01
+updated: 2026-06-01 21:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 21:01
+**最終更新**: 2026-06-01 21:06
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 136 |
+| 📥 inbox | 218 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 137 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1131 (うち24h+古い: 980) |
+| 📝 wiki/_inbox 未レビュー | 1132 (うち24h+古い: 980) |
 
 ### 処理中
-- ⚙️ **[1370 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[1371 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[1365 分]** [EEMUS] 提携高校候補20校リスト
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] 親向けLP完全版
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +52,7 @@ tags: [dashboard, system]
 - research : 14 件
 - newbiz : 354 件
 - ingest : 1 件
-- corp : 124 件
+- corp : 125 件
 - dev : 11 件
 
 ## 🔗 主要リンク
