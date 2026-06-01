@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 06:22:46
+updated: 2026-06-02 06:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:22:46** | 🔥 **稼働中**
+**06:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **1%**
-- VRAM: 7169MB / 8151MB (**88%**)
+- 使用率: **0%**
+- VRAM: 7172MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **54.6%** (17.4GB / 31.9GB)
+- 使用率: **56.5%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 215 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 214 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 61 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [88307 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [88547 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [87947 秒経過] **[AIpaX] β顧客5社募集LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 判定
 
