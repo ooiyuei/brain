@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-tos",
-                        "time":  "2026-05-28T16:01:02.3862350+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-28T16:11:02.4712842+09:00"
-                    },
-                    {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-05-28T16:21:02.4565102+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-01T16:01:02.2577526+09:00"
+                    },
+                    {
+                        "slug":  "testall-x-content-30",
+                        "time":  "2026-06-01T16:11:02.5637686+09:00"
                     }
                 ]
 }
