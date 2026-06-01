@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 04:14:46
+updated: 2026-06-02 04:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:14:46** | 🔥 **稼働中**
+**04:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7174MB / 8151MB (**88%**)
+- 使用率: **81%**
+- VRAM: 7168MB / 8151MB (**87.9%**)
 
 ## 💾 RAM
 
-- 使用率: **55.9%** (17.9GB / 31.9GB)
+- 使用率: **83.2%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 216 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 217 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 41 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [87827 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
+- ⚡ [88067 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
+- ⚡ [87467 秒経過] **[School] 1年カリキュラム詳細v2**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Testall] 教育者連携アプローチ
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 判定
 
