@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-28T19:11:02.6351596+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-05-28T19:21:02.4743211+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-06-01T19:11:02.4819165+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-01T19:21:02.3408103+09:00"
                     }
                 ]
 }
