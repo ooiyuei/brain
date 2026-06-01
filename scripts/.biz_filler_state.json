@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-29T05:21:02.1558787+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-05-29T05:31:02.1872030+09:00"
-                    },
-                    {
                         "slug":  "aipax-lp-beta",
                         "time":  "2026-05-29T05:41:01.8972361+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "aipax-lp-beta",
                         "time":  "2026-06-02T05:21:01.9855472+09:00"
+                    },
+                    {
+                        "slug":  "testall-content-strategy",
+                        "time":  "2026-06-02T05:31:02.2195281+09:00"
                     }
                 ]
 }
