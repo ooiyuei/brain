@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 09:51
+updated: 2026-06-01 09:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 09:51
+**最終更新**: 2026-06-01 09:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 182 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 78 |
+| 📥 inbox | 180 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 79 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1087 (うち24h+古い: 919) |
+| 📝 wiki/_inbox 未レビュー | 1088 (うち24h+古い: 920) |
 
 ### 処理中
-- ⚙️ **[1000 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[1001 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[1001 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [School] X『中高生×AI』20投稿
+- [high] [School] X『中高生×AI』20投稿
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 443 件
 - research : 17 件
-- newbiz : 337 件
+- newbiz : 338 件
 - ingest : 1 件
 - corp : 114 件
 - dev : 9 件
