@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 18:21
+updated: 2026-06-01 18:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 18:21
+**最終更新**: 2026-06-01 18:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 224 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 113 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 115 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1109 (うち24h+古い: 966) |
+| 📝 wiki/_inbox 未レビュー | 1111 (うち24h+古い: 967) |
+
+### 処理中
+- ⚙️ **[1331 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [AIpaX] 月次PL試算
-- [high] [AIpaX] β顧客候補30社プロファイル
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [AIpaX] β顧客80万提案書フル版
+- [high] [EEMUS] MVP LP完全版
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -46,9 +49,9 @@ tags: [dashboard, system]
 
 - marketing : 455 件
 - research : 11 件
-- newbiz : 347 件
+- newbiz : 348 件
 - ingest : 1 件
-- corp : 119 件
+- corp : 120 件
 - dev : 10 件
 
 ## 🔗 主要リンク
