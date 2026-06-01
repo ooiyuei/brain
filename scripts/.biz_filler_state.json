@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-05-29T07:11:02.3561875+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-05-29T07:21:02.1275232+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-05-29T07:31:02.1174887+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-02T07:11:02.1607150+09:00"
+                    },
+                    {
+                        "slug":  "eemus-content-stories",
+                        "time":  "2026-06-02T07:21:02.4730346+09:00"
                     }
                 ]
 }
