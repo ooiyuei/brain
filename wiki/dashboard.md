@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 07:51
+updated: 2026-06-02 07:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 07:51
+**最終更新**: 2026-06-02 07:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
+| 📥 inbox | 218 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 67 |
+| ✅ 今日完了 | 69 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1218 (うち24h+古い: 1069) |
+| 📝 wiki/_inbox 未レビュー | 1220 (うち24h+古い: 1069) |
 
 ### 処理中
-- ⚙️ **[1520 分]** [横断] 15事業の優先順位再評価
-- ⚙️ **[1510 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[1505 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[1495 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客80万提案書フル版
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [AIpaX] β顧客80万提案書フル版
+- [high] [AIpaX] 月次PL試算
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 493 件
+- marketing : 494 件
 - research : 20 件
-- newbiz : 387 件
+- newbiz : 388 件
 - ingest : 1 件
 - corp : 140 件
 - dev : 11 件
