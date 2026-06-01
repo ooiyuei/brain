@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 19:31
+updated: 2026-06-01 19:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 19:31
+**最終更新**: 2026-06-01 19:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 224 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 121 |
+| 📥 inbox | 222 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 122 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1117 (うち24h+古い: 972) |
+| 📝 wiki/_inbox 未レビュー | 1118 (うち24h+古い: 973) |
 
 ### 処理中
-- ⚙️ **[1350 分]** [School] 入学後30日プラン
+- ⚙️ **[1345 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[1341 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [横断] 投資家向けピッチ1分版
+- [high] [School] 親FAQ 30問
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 457 件
+- marketing : 458 件
 - research : 11 件
 - newbiz : 351 件
 - ingest : 1 件
