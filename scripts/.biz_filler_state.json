@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-28T16:21:02.4565102+09:00"
-                    },
-                    {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-05-28T16:31:02.6070132+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-06-01T16:21:02.3959663+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-01T16:31:02.5583971+09:00"
                     }
                 ]
 }
