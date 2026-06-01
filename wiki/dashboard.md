@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 21:31
+updated: 2026-06-01 21:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 21:31
+**最終更新**: 2026-06-01 21:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 138 |
+| ✅ 今日完了 | 139 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1133 (うち24h+古い: 982) |
+| 📝 wiki/_inbox 未レビュー | 1134 (うち24h+古い: 982) |
 
 ### 処理中
-- ⚙️ **[1390 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[1380 分]** [AIpaX] β顧客80万提案書フル版
+- ⚙️ **[1395 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[1375 分]** [School] 親向けLP完全版
 
 ### Inbox 上位
-- [high] [School] 親向けLP完全版
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 461 件
 - research : 14 件
-- newbiz : 355 件
+- newbiz : 356 件
 - ingest : 1 件
 - corp : 125 件
 - dev : 11 件
