@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 09:11
+updated: 2026-06-01 09:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 09:11
+**最終更新**: 2026-06-01 09:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 177 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 178 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 76 |
 | ❌ failed | 2 |
 | 📝 wiki/_inbox 未レビュー | 1085 (うち24h+古い: 914) |
 
 ### 処理中
-- ⚙️ **[980 分]** [Testall] 教育者連携アプローチ
+- ⚙️ **[985 分]** [Testall] 教育者連携アプローチ
+- ⚙️ **[975 分]** [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 今日のフォーカス
 
