@@ -1,29 +1,29 @@
 ---
 type: dashboard
-updated: 2026-06-01 19:46
+updated: 2026-06-01 19:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 19:46
+**最終更新**: 2026-06-01 19:51
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
+| 📥 inbox | 222 |
 | ⚙️ processing | 3 |
 | ✅ 今日完了 | 123 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1119 (うち24h+古い: 976) |
 
 ### 処理中
-- ⚙️ **[1355 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[1351 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[1345 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1360 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[1356 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[1350 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
 - [high] [横断] 投資家向けピッチ1分版
