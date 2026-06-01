@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 16:31
+updated: 2026-06-01 16:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 16:31
+**最終更新**: 2026-06-01 16:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 230 |
+| 📥 inbox | 229 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 90 |
+| ✅ 今日完了 | 91 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1087 (うち24h+古い: 953) |
+| 📝 wiki/_inbox 未レビュー | 1088 (うち24h+古い: 953) |
 
 ### 処理中
-- ⚙️ **[18 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[331 分]** [BG-Competitive] Indeed
+- ⚙️ **[1341 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[336 分]** [BG-Competitive] Indeed
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [横断] 15事業の優先順位再評価
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 9 件
 - newbiz : 339 件
 - ingest : 1 件
-- corp : 115 件
+- corp : 116 件
 - dev : 10 件
 
 ## 🔗 主要リンク
