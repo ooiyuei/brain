@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-28T22:31:02.0424742+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-05-28T22:41:01.7759887+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-01T22:21:02.4943028+09:00"
+                    },
+                    {
+                        "slug":  "aipax-proposal-80man",
+                        "time":  "2026-06-01T22:31:02.4373639+09:00"
                     }
                 ]
 }
