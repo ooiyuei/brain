@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-02 05:54
+updated: 2026-06-02 05:59
 ---
 
 # Today 2026-06-01
@@ -30,9 +30,7 @@ updated: 2026-06-02 05:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1473分]** [EEMUS] 連携企業候補20社
-- [ ] **[処理中 1463分]** [Testall] Studyplus Planning徹底比較
-- [ ] [待機] [School] 入学後30日プラン
+- [ ] **[処理中 1458分]** [School] 入学後30日プラン
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
