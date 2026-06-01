@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 08:22:46
+updated: 2026-06-02 08:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:22:46** | 🔥 **稼働中**
+**08:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7174MB / 8151MB (**88%**)
+- 使用率: **64%**
+- VRAM: 7038MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **56.4%** (18GB / 31.9GB)
+- 使用率: **87.4%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 72 |
+| 📥 inbox | 219 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 73 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90707 秒経過] **[School] X『中高生×AI』20投稿**
+- ⚡ [90706 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
+- ⚡ [90347 秒経過] **[AIpaX] β顧客80万提案書フル版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [AIpaX] 月次PL試算
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] AI 最新情報日次リサーチ
+- [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 判定
 

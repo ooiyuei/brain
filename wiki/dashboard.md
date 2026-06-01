@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 08:21
+updated: 2026-06-02 08:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 08:21
+**最終更新**: 2026-06-02 08:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 72 |
+| 📥 inbox | 219 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 73 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1223 (うち24h+古い: 1072) |
+| 📝 wiki/_inbox 未レビュー | 1224 (うち24h+古い: 1072) |
 
 ### 処理中
-- ⚙️ **[1510 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[1511 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1505 分]** [AIpaX] β顧客80万提案書フル版
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [AIpaX] 月次PL試算
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] AI 最新情報日次リサーチ
+- [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 494 件
+- marketing : 495 件
 - research : 21 件
 - newbiz : 389 件
 - ingest : 1 件
