@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 23:16
+updated: 2026-06-01 23:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 23:16
+**最終更新**: 2026-06-01 23:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 223 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 151 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 153 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1146 (うち24h+古い: 993) |
+| 📝 wiki/_inbox 未レビュー | 1148 (うち24h+古い: 995) |
 
 ### 処理中
-- ⚙️ **[1409 分]** [Money] AIpaX 5社目商談クロージング想定問答
-- ⚙️ **[1409 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- ⚙️ **[1410 分]** [AIpaX] X投稿『AI導入Tips』20本
 
 ### Inbox 上位
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 465 件
+- marketing : 466 件
 - research : 15 件
-- newbiz : 360 件
+- newbiz : 361 件
 - ingest : 1 件
 - corp : 128 件
 - dev : 11 件
