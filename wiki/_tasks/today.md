@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 13:09
+updated: 2026-06-01 13:14
 ---
 
 # Today 2026-06-01
@@ -30,9 +30,9 @@ updated: 2026-06-01 13:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 105分]** [School] X『中高生×AI』20投稿
-- [ ] **[処理中 1148分]** [AIpaX] β顧客5社募集LP完全版
-- [ ] **[処理中 6分]** [BG-Competitive] Wantedly
+- [ ] **[処理中 110分]** [School] X『中高生×AI』20投稿
+- [ ] **[処理中 1153分]** [AIpaX] β顧客5社募集LP完全版
+- [ ] **[処理中 11分]** [BG-Competitive] Wantedly
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
@@ -234,6 +234,7 @@ updated: 2026-06-01 13:09
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 - [ ] [待機] [BG-Competitive] Studyplus
@@ -251,6 +252,7 @@ updated: 2026-06-01 13:09
 - [x] 昼チェック実行（5/30 12:30）: 9件削除（studyplus比較7件+stripe-setup2件）
 - [x] 昼チェック実行（5/31 12:30）: 2件昇格・53件削除（ハルシネ企業リスト19+重複Studyplus7+重複ペルソナ15+Stripe11+EEMUS1）
 - [x] 夜PDCA（5/31 22:00）: 4件昇格・225件削除（shincoder197+portfolio11+stripe1+studyplus2+80man14）
+- [x] 昼チェック実行（6/1 12:30）: 1件昇格（AIpa Web静岡企業リスト）・10件削除（qwen3:8bバグ3+重複7）⚠️qwen3:8b workerバグ検出
 
 ## 📅 今日の予定（Calendar）
 

@@ -40,11 +40,11 @@ managed_by: Claude (must update every session)
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-05-31
-**進捗**: Digital AI補助金TEL ❌未着手（⚠️今日第1次締切・午後即やる） / 夢AWARD骨子 ⏳叩き台あり（骨子v3昇格済み・大井の肉付け30分待ち） / AIpaX5社目クロージング ⏳成果物あり（今日12:27完成・確認待ち）
-**PDCA**: 2件昇格（夢AWARD骨子v3・AIpaXクロージング想定問答）・53件削除（ハルシネ企業リスト19+重複Studyplus7+重複ペルソナ15+Stripe11+EEMUS骨子1）
-**午後**: ①TEL 054-254-4511（補助金確認・今すぐ）②_promoted/newbiz/の骨子v3読んで夢AWARD肉付け③AIpaXクロージング確認
-**詳細**: [[_routines/midday-20260531]]
+**日付**: 2026-06-01
+**進捗**: 夢AWARD骨子 ❌未着手（残5日・叩き台2本あり・今日30分で完成できる） / AIpaX5社目クロージング ❌未着手（大井の連絡1本のみ） / Digital AI補助金 ❌未着手（最低優先）
+**PDCA**: 1件昇格（AIpa Web静岡企業リスト→research/）・10件削除（qwen3:8bバグ3+重複7）⚠️ qwen3:8b worker が ooi-yuei.md を出力するバグ確認
+**午後**: ①夢AWARD骨子v3（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`）を開いて30分肉付け → 今日完成 ②AIpaX 5社目クロージング連絡
+**詳細**: [[_routines/midday-20260601]]
 
 ## 🌙 Tomorrow（2026-06-01）
 
