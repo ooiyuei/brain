@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 02:58:47
+updated: 2026-06-02 03:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:58:47** | 🔥 **稼働中**
+**03:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7169MB / 8151MB (**88%**)
+- 使用率: **6%**
+- VRAM: 7170MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **87.7%** (28GB / 31.9GB)
+- 使用率: **56.3%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 21 |
+| 📥 inbox | 226 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 22 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [89027 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
-- ⚡ [88668 秒経過] **[Testall] X受験あるある投稿30本**
+- ⚡ [88908 秒経過] **[Testall] X受験あるある投稿30本**
 
 ## 📥 待機タスク (上位5)
 
