@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 03:18:47
+updated: 2026-06-02 03:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:18:47** | 🔥 **稼働中**
+**03:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **2%**
-- VRAM: 7030MB / 8151MB (**86.2%**)
+- VRAM: 7032MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **83.2%** (26.5GB / 31.9GB)
+- 使用率: **83.7%** (26.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 226 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 25 |
+| ✅ 今日完了 | 26 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [88306 秒経過] **[Money] Testall 親向けLP コピー改善**
+- ⚡ [88546 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] X『中高生×AI』20投稿
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 

@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-02 03:14
+updated: 2026-06-02 03:19
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,7 @@ updated: 2026-06-02 03:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1483分]** [Testall] コンテンツ戦略3ヶ月
-- [ ] **[処理中 1467分]** [Money] Testall 親向けLP コピー改善
+- [ ] **[処理中 1472分]** [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
@@ -254,6 +253,8 @@ updated: 2026-06-02 03:14
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
+- [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 
