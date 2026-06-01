@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 13:31
+updated: 2026-06-01 13:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 13:31
+**最終更新**: 2026-06-01 13:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,23 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 211 |
-| ⚙️ processing | 3 |
+| 📥 inbox | 212 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 86 |
 | ❌ failed | 4 |
 | 📝 wiki/_inbox 未レビュー | 1084 (うち24h+古い: 934) |
 
 ### 処理中
-- ⚙️ **[127 分]** [School] X『中高生×AI』20投稿
-- ⚙️ **[1170 分]** [AIpaX] β顧客5社募集LP完全版
-- ⚙️ **[28 分]** [BG-Competitive] Wantedly
+- ⚙️ **[132 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[2 分]** [BG-Competitive] Wantedly
 
 ### Inbox 上位
+- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [横断] 15事業の優先順位再評価
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 今日のフォーカス
 
