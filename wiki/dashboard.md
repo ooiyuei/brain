@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 02:51
+updated: 2026-06-02 02:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 02:51
+**最終更新**: 2026-06-02 02:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 227 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 20 |
+| 📥 inbox | 225 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 21 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1171 (うち24h+古い: 1030) |
+| 📝 wiki/_inbox 未レビュー | 1172 (うち24h+古い: 1031) |
 
 ### 処理中
-- ⚙️ **[1480 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[1481 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1475 分]** [Testall] X受験あるある投稿30本
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [Testall] X受験あるある投稿30本
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 474 件
 - research : 15 件
-- newbiz : 370 件
+- newbiz : 371 件
 - ingest : 1 件
 - corp : 134 件
 - dev : 11 件
