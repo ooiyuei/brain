@@ -1,27 +1,27 @@
 ---
 type: dashboard
-updated: 2026-06-02 04:56
+updated: 2026-06-02 05:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 04:56
+**最終更新**: 2026-06-02 05:01
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 216 |
+| 📥 inbox | 217 |
 | ⚙️ processing | 1 |
 | ✅ 今日完了 | 47 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1198 (うち24h+古い: 1045) |
+| 📝 wiki/_inbox 未レビュー | 1198 (うち24h+古い: 1047) |
 
 ### 処理中
-- ⚙️ **[1475 分]** [Testall] 教育者連携アプローチ
+- ⚙️ **[1480 分]** [Testall] 教育者連携アプローチ
 
 ### Inbox 上位
 - [high] [横断] 投資家向けピッチ1分版

@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-02 04:54
+updated: 2026-06-02 04:59
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,7 @@ updated: 2026-06-02 04:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1473分]** [Testall] 教育者連携アプローチ
-- [ ] **[処理中 1463分]** [Testall] ユーザーペルソナ5パターン
+- [ ] **[処理中 1478分]** [Testall] 教育者連携アプローチ
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
