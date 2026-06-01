@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-05-29T08:41:01.7505665+09:00"
-                    },
-                    {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-05-29T08:51:01.8270033+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-02T08:31:02.2749985+09:00"
+                    },
+                    {
+                        "slug":  "eemus-content-stories",
+                        "time":  "2026-06-02T08:41:02.4245437+09:00"
                     }
                 ]
 }
