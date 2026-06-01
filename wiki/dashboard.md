@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 17:51
+updated: 2026-06-01 17:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 17:51
+**最終更新**: 2026-06-01 17:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -18,11 +18,11 @@ tags: [dashboard, system]
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 105 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1101 (うち24h+古い: 959) |
+| 📝 wiki/_inbox 未レビュー | 1101 (うち24h+古い: 961) |
 
 ### 処理中
-- ⚙️ **[1350 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[1340 分]** [School] 体験会2時間プログラム
+- ⚙️ **[1355 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1345 分]** [School] 体験会2時間プログラム
 
 ### Inbox 上位
 - [high] [School] 入学後30日プラン
