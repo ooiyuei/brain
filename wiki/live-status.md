@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 09:10:46
+updated: 2026-06-01 09:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:10:46** | 🔥 **稼働中**
+**09:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **94%**
-- VRAM: 7192MB / 8151MB (**88.2%**)
+- 使用率: **93%**
+- VRAM: 7196MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **62.3%** (19.9GB / 31.9GB)
+- 使用率: **64.3%** (20.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 176 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 76 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [58787 秒経過] **[Testall] 教育者連携アプローチ**
+- ⚡ [59027 秒経過] **[Testall] 教育者連携アプローチ**
+- ⚡ [58426 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 判定
 
