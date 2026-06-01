@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 10:44
+updated: 2026-06-01 10:49
 ---
 
 # Today 2026-06-01
@@ -30,9 +30,7 @@ updated: 2026-06-01 10:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1033分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 14分]** [BG-Business] agents-of-flag 企画書初稿
-- [ ] [待機] [School] X『中高生×AI』20投稿
+- [ ] **[処理中 1028分]** [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
@@ -214,6 +212,10 @@ updated: 2026-06-01 10:44
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [School] 1年カリキュラム詳細v2
+- [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
+- [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
+- [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
+- [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)

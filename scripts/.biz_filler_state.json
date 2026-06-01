@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-28T10:41:02.2336054+09:00"
-                    },
-                    {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-05-28T10:51:02.0263717+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-01T10:41:02.1262887+09:00"
+                    },
+                    {
+                        "slug":  "aipax-seo-chusho-ai",
+                        "time":  "2026-06-01T10:51:01.9769729+09:00"
                     }
                 ]
 }
