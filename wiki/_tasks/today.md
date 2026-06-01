@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 20:19
+updated: 2026-06-01 20:24
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 20:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1358分]** [School] 親FAQ 30問
-- [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [ ] **[処理中 1363分]** [School] 親FAQ 30問
+- [ ] **[処理中 1357分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Self-Review] Brain System 週次改善提案 2026-05-31
@@ -251,6 +251,7 @@ updated: 2026-06-01 20:19
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 
