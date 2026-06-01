@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 23:36
+updated: 2026-06-01 23:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 23:36
+**最終更新**: 2026-06-01 23:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 223 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 153 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 155 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1148 (うち24h+古い: 1001) |
+| 📝 wiki/_inbox 未レビュー | 1150 (うち24h+古い: 1001) |
 
 ### 処理中
-- ⚙️ **[1425 分]** [AIpaX] X投稿『AI導入Tips』20本
-- ⚙️ **[1415 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[1410 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 466 件
+- marketing : 467 件
 - research : 15 件
-- newbiz : 361 件
+- newbiz : 362 件
 - ingest : 1 件
 - corp : 128 件
 - dev : 11 件
