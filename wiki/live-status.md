@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 01:14:47
+updated: 2026-06-02 01:18:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:14:47** | 🔥 **稼働中**
+**01:18:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7168MB / 8151MB (**87.9%**)
+- 使用率: **4%**
+- VRAM: 7170MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **85%** (27.1GB / 31.9GB)
+- 使用率: **53.6%** (17.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 7 |
+| 📥 inbox | 227 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 8 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [88427 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [88066 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
+- ⚡ [88667 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
 
 ## 📥 待機タスク (上位5)
 
