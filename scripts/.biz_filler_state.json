@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-05-29T00:21:02.0405390+09:00"
-                    },
-                    {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-29T00:31:02.0883133+09:00"
-                    },
-                    {
                         "slug":  "school-parent-lp",
                         "time":  "2026-05-29T00:41:02.1202887+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-02T00:21:01.7631150+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-02T00:31:02.4574022+09:00"
                     }
                 ]
 }
