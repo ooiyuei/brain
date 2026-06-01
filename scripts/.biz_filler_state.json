@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-29T01:31:01.9961518+09:00"
-                    },
-                    {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-05-29T01:41:01.9114120+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-tos",
                         "time":  "2026-06-02T01:21:02.0802373+09:00"
+                    },
+                    {
+                        "slug":  "cross-investor-pitch",
+                        "time":  "2026-06-02T01:31:02.1132300+09:00"
                     }
                 ]
 }
