@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 10:02:47
+updated: 2026-06-01 10:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:02:47** | 🔥 **稼働中**
+**10:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **75%**
+- 使用率: **3%**
 - VRAM: 7194MB / 8151MB (**88.3%**)
 
 ## 💾 RAM
 
-- 使用率: **88.6%** (28.3GB / 31.9GB)
+- 使用率: **87.4%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,9 +43,9 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [60466 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
-- ⚡ [60107 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [168 秒経過] **[BG-Entities] testall 更新提案**
+- ⚡ [60706 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [60347 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [408 秒経過] **[BG-Entities] testall 更新提案**
 
 ## 📥 待機タスク (上位5)
 
