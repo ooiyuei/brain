@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 02:50:47
+updated: 2026-06-02 02:54:52
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:50:47** | 🔥 **稼働中**
+**02:54:52** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7170MB / 8151MB (**88%**)
+- 使用率: **72%**
+- VRAM: 7033MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **57.6%** (18.4GB / 31.9GB)
+- 使用率: **85.5%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 226 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 20 |
+| 📥 inbox | 225 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 21 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [88788 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [88795 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
+- ⚡ [88436 秒経過] **[Testall] X受験あるある投稿30本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [Testall] X受験あるある投稿30本
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 判定
 
