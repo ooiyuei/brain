@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 10:06
+updated: 2026-06-01 10:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 10:06
+**最終更新**: 2026-06-01 10:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 181 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 80 |
+| 📥 inbox | 182 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 81 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1089 (うち24h+古い: 920) |
+| 📝 wiki/_inbox 未レビュー | 1090 (うち24h+古い: 920) |
 
 ### 処理中
-- ⚙️ **[1011 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
-- ⚙️ **[1005 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[6 分]** [BG-Entities] testall 更新提案
+- ⚙️ **[1010 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[11 分]** [BG-Entities] testall 更新提案
 
 ### Inbox 上位
 - [high] [横断] Stripe決済設定 5事業ロードマップ
@@ -51,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 443 件
 - research : 17 件
-- newbiz : 338 件
+- newbiz : 339 件
 - ingest : 1 件
 - corp : 115 件
 - dev : 9 件
