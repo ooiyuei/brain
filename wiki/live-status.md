@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 14:06:47
+updated: 2026-06-01 14:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:06:47** | 🔥 **稼働中**
+**14:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 6.1GB | 残-165分 |
+| qwen3:8b | 15.6GB | 6.1GB | 残-169分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **100%**
-- VRAM: 7471MB / 8151MB (**91.7%**)
+- VRAM: 7468MB / 8151MB (**91.6%**)
 
 ## 💾 RAM
 
-- 使用率: **63.1%** (20.1GB / 31.9GB)
+- 使用率: **62.1%** (19.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,14 +38,13 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 212 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 87 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 88 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [1938 秒経過] **[AIpaX] β顧客5社募集LP完全版**
-- ⚡ [71747 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [11208 秒経過] **[BG-Competitive] Studyplus**
+- ⚡ [71987 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [11448 秒経過] **[BG-Competitive] Studyplus**
 
 ## 📥 待機タスク (上位5)
 

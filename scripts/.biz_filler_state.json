@@ -2,10 +2,6 @@
     "history":  [
                     {
                         "slug":  "school-x-content",
-                        "time":  "2026-05-28T14:01:02.2888518+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
                         "time":  "2026-05-28T14:11:02.3776398+09:00"
                     },
                     {
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-x-content",
                         "time":  "2026-06-01T14:01:02.0873141+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-01T14:11:02.1357480+09:00"
                     }
                 ]
 }
