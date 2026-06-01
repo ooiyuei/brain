@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 19:56
+updated: 2026-06-01 20:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 19:56
+**最終更新**: 2026-06-01 20:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 125 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 126 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1121 (うち24h+古い: 976) |
+| 📝 wiki/_inbox 未レビュー | 1122 (うち24h+古い: 976) |
 
 ### 処理中
-- ⚙️ **[1361 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- ⚙️ **[1345 分]** [横断] 投資家向けピッチ1分版
-- ⚙️ **[1335 分]** [School] 親FAQ 30問
+- ⚙️ **[1350 分]** [横断] 投資家向けピッチ1分版
+- ⚙️ **[1340 分]** [School] 親FAQ 30問
 
 ### Inbox 上位
 - [high] [Money] Testall 親向けLP コピー改善
@@ -53,7 +52,7 @@ tags: [dashboard, system]
 - research : 12 件
 - newbiz : 352 件
 - ingest : 1 件
-- corp : 121 件
+- corp : 122 件
 - dev : 11 件
 
 ## 🔗 主要リンク
