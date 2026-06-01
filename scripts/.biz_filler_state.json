@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-05-28T10:21:02.0093544+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-05-28T10:31:02.0254866+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-06-01T10:11:02.1746220+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-01T10:21:02.3711791+09:00"
                     }
                 ]
 }

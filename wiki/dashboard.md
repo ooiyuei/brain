@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 10:16
+updated: 2026-06-01 10:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 10:16
+**最終更新**: 2026-06-01 10:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,13 +16,13 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 184 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 81 |
+| ✅ 今日完了 | 82 |
 | ❌ failed | 2 |
-| 📝 wiki/_inbox 未レビュー | 1090 (うち24h+古い: 921) |
+| 📝 wiki/_inbox 未レビュー | 1091 (うち24h+古い: 921) |
 
 ### 処理中
-- ⚙️ **[1015 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[16 分]** [BG-Entities] testall 更新提案
+- ⚙️ **[1020 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[21 分]** [BG-Entities] kasunote 更新提案
 
 ### Inbox 上位
 - [high] [横断] Stripe決済設定 5事業ロードマップ
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 443 件
 - research : 17 件
-- newbiz : 339 件
+- newbiz : 340 件
 - ingest : 1 件
 - corp : 115 件
 - dev : 9 件

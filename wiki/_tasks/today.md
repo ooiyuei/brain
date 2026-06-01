@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 10:14
+updated: 2026-06-01 10:19
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 10:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1013分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] **[処理中 14分]** [BG-Entities] testall 更新提案
+- [ ] **[処理中 1018分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 19分]** [BG-Entities] testall 更新提案
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] X『中高生×AI』20投稿
@@ -210,6 +210,8 @@ updated: 2026-06-01 10:14
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [AIpaX] 月次PL試算
+- [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [ ] [待機] [BG-Contests] バッチ11 (101-110)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
