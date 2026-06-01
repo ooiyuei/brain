@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-tos",
-                        "time":  "2026-05-28T22:01:01.7766918+09:00"
-                    },
-                    {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-05-28T22:11:01.8538182+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-01T21:51:02.9164155+09:00"
+                    },
+                    {
+                        "slug":  "testall-teacher-outreach",
+                        "time":  "2026-06-01T22:01:02.7515120+09:00"
                     }
                 ]
 }
