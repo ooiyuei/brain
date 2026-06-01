@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-05-28T22:21:01.9522179+09:00"
-                    },
-                    {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-05-28T22:31:02.0424742+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-01T22:11:02.8643069+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-01T22:21:02.4943028+09:00"
                     }
                 ]
 }

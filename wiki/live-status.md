@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 22:18:47
+updated: 2026-06-01 22:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:18:47** | 🔥 **稼働中**
+**22:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,17 +20,17 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
+- 使用率: **79%**
 - VRAM: 7182MB / 8151MB (**88.1%**)
 
 ## 💾 RAM
 
-- 使用率: **55%** (17.6GB / 31.9GB)
+- 使用率: **57.1%** (18.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 221 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 146 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [82668 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [82906 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [82306 秒経過] **[EEMUS] MVP LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
 - [high] [School] 入学後30日プラン
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
