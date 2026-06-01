@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 20:02:47
+updated: 2026-06-01 20:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:02:47** | 🔥 **稼働中**
+**20:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **71%**
-- VRAM: 7171MB / 8151MB (**88%**)
+- 使用率: **3%**
+- VRAM: 7175MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **85.5%** (27.3GB / 31.9GB)
+- 使用率: **85.1%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,23 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 2 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 3 |
 | ✅ 今日完了 | 126 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [81104 秒経過] **[横断] 投資家向けピッチ1分版**
-- ⚡ [80507 秒経過] **[School] 親FAQ 30問**
+- ⚡ [81343 秒経過] **[横断] 投資家向けピッチ1分版**
+- ⚡ [80746 秒経過] **[School] 親FAQ 30問**
+- ⚡ [80385 秒経過] **[Money] Testall 親向けLP コピー改善**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Self-Review] Brain System 週次改善提案 2026-05-31
 
 ## 🎯 判定
 
