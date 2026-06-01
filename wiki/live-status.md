@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 06:06:46
+updated: 2026-06-02 06:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:06:46** | 🔥 **稼働中**
+**06:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7033MB / 8151MB (**86.3%**)
+- 使用率: **2%**
+- VRAM: 7029MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **83.2%** (26.6GB / 31.9GB)
+- 使用率: **83.3%** (26.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 214 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 57 |
+| 📥 inbox | 213 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 59 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [87585 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
-- ⚡ [87585 秒経過] **[Money] 紹介プログラム 5事業横断ルール**
+- ⚡ [87825 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ## 🎯 判定
 
