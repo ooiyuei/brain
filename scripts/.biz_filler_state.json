@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-28T23:31:01.6780639+09:00"
-                    },
-                    {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-05-28T23:41:01.8831556+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-01T23:21:02.0401742+09:00"
+                    },
+                    {
+                        "slug":  "aipax-proposal-80man",
+                        "time":  "2026-06-01T23:31:01.8133199+09:00"
                     }
                 ]
 }
