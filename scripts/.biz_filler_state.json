@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-28T14:51:02.2718229+09:00"
-                    },
-                    {
                         "slug":  "eemus-lp-mvp",
                         "time":  "2026-05-28T15:01:02.4381994+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-01T14:51:02.1032123+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-01T15:01:02.1427258+09:00"
                     }
                 ]
 }
