@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 17:42:47
+updated: 2026-06-01 17:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:42:47** | 🔥 **稼働中**
+**17:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **62%**
-- VRAM: 7008MB / 8151MB (**86%**)
+- 使用率: **85%**
+- VRAM: 7011MB / 8151MB (**86%**)
 
 ## 💾 RAM
 
-- 使用率: **83.3%** (26.6GB / 31.9GB)
+- 使用率: **86.3%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 226 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 104 |
+| 📥 inbox | 224 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 105 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [80866 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [80747 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [80147 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
-- [high] [School] 体験会2時間プログラム
 - [high] [School] 入学後30日プラン
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 判定
 
