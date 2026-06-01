@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-05-28T12:41:02.1186371+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-05-28T12:51:02.2641588+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-01T12:41:02.0466950+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-01T12:51:02.0253910+09:00"
                     }
                 ]
 }
