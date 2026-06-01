@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-29T01:51:04.6456476+09:00"
-                    },
-                    {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-05-29T02:01:01.9450546+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-02T01:51:01.9238530+09:00"
+                    },
+                    {
+                        "slug":  "school-x-content",
+                        "time":  "2026-06-02T02:01:01.6706165+09:00"
                     }
                 ]
 }
