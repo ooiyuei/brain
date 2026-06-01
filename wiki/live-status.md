@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 17:06:47
+updated: 2026-06-01 17:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:06:47** | 🔥 **稼働中**
+**17:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
+- 使用率: **5%**
 - VRAM: 7287MB / 8151MB (**89.4%**)
 
 ## 💾 RAM
 
-- 使用率: **57.4%** (18.3GB / 31.9GB)
+- 使用率: **56.9%** (18.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 229 |
+| 📥 inbox | 228 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 94 |
+| ✅ 今日完了 | 95 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [81947 秒経過] **[横断] 15事業の優先順位再評価**
-- ⚡ [80747 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [80987 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [80626 秒経過] **[Money] AIpaX 中堅企業3社 個別アプローチメール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Testall] X受験あるある投稿30本
 
 ## 🎯 判定
 
