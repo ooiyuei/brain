@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 03:21
+updated: 2026-06-02 03:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 03:21
+**最終更新**: 2026-06-02 03:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 227 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 26 |
+| 📥 inbox | 224 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 27 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1177 (うち24h+古い: 1033) |
+| 📝 wiki/_inbox 未レビュー | 1178 (うち24h+古い: 1034) |
+
+### 処理中
+- ⚙️ **[1479 分]** [Money] AIpa Web 商工会経由営業文
+- ⚙️ **[1479 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ### Inbox 上位
-- [high] [Money] 6/21月収100万 残30日アクションプラン
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] X『中高生×AI』20投稿
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -46,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 477 件
 - research : 15 件
-- newbiz : 373 件
+- newbiz : 374 件
 - ingest : 1 件
 - corp : 134 件
 - dev : 11 件
