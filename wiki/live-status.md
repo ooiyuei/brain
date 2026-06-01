@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 05:10:47
+updated: 2026-06-02 05:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**05:10:47** | 🔥 **稼働中**
+**05:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **55.1%** (17.6GB / 31.9GB)
+- 使用率: **56.5%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 216 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 47 |
+| ✅ 今日完了 | 48 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [89388 秒経過] **[Testall] 教育者連携アプローチ**
-- ⚡ [88188 秒経過] **[横断] 投資家向けピッチ1分版**
+- ⚡ [88428 秒経過] **[横断] 投資家向けピッチ1分版**
+- ⚡ [87828 秒経過] **[Testall] コンテンツ戦略3ヶ月**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 
