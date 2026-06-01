@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-01 17:36
+updated: 2026-06-01 17:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 17:36
+**最終更新**: 2026-06-01 17:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,20 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 226 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 102 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 104 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1098 (うち24h+古い: 958) |
+| 📝 wiki/_inbox 未レビュー | 1100 (うち24h+古い: 959) |
 
 ### 処理中
-- ⚙️ **[1365 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[1341 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[1346 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] 体験会2時間プログラム
 - [high] [School] 入学後30日プラン
 - [high] [Money] AIpaX 既存4社 アップセル提案
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
@@ -49,8 +48,8 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 452 件
-- research : 9 件
-- newbiz : 343 件
+- research : 10 件
+- newbiz : 344 件
 - ingest : 1 件
 - corp : 117 件
 - dev : 10 件

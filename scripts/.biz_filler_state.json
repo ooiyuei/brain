@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-28T17:31:02.9051574+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-05-28T17:41:02.8635512+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-lp-beta",
                         "time":  "2026-06-01T17:31:02.3937524+09:00"
+                    },
+                    {
+                        "slug":  "eemus-dream-award-story",
+                        "time":  "2026-06-01T17:41:02.2895441+09:00"
                     }
                 ]
 }
