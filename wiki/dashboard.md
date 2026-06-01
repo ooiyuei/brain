@@ -1,34 +1,34 @@
 ---
 type: dashboard
-updated: 2026-06-02 03:31
+updated: 2026-06-02 03:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 03:31
+**最終更新**: 2026-06-02 03:36
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
+| 📥 inbox | 222 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 28 |
+| ✅ 今日完了 | 31 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1179 (うち24h+古い: 1035) |
+| 📝 wiki/_inbox 未レビュー | 1182 (うち24h+古い: 1036) |
 
 ### 処理中
-- ⚙️ **[1484 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[1485 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
-- [high] [School] X『中高生×AI』20投稿
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [School] X『中高生×AI』20投稿
+- [high] [School] X『中高生×AI』20投稿
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -47,8 +47,8 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 478 件
-- research : 15 件
+- marketing : 480 件
+- research : 16 件
 - newbiz : 374 件
 - ingest : 1 件
 - corp : 134 件
