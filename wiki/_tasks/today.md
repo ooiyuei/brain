@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 21:34
+updated: 2026-06-01 21:39
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 21:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1393分]** [EEMUS] 提携高校候補20校リスト
-- [ ] **[処理中 1373分]** [School] 親向けLP完全版
+- [ ] **[処理中 1398分]** [EEMUS] 提携高校候補20校リスト
+- [ ] **[処理中 1378分]** [School] 親向けLP完全版
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [School] 1年カリキュラム詳細v2
