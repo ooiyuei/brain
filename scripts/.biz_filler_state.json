@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-29T07:41:02.2193057+09:00"
-                    },
-                    {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-05-29T07:51:02.2305258+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T07:41:02.1599501+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-02T07:51:02.1713814+09:00"
                     }
                 ]
 }
