@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 19:42:47
+updated: 2026-06-01 19:46:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:42:47** | 🔥 **稼働中**
+**19:46:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7156MB / 8151MB (**87.8%**)
+- 使用率: **4%**
+- VRAM: 7310MB / 8151MB (**89.7%**)
 
 ## 💾 RAM
 
-- 使用率: **87.2%** (27.8GB / 31.9GB)
+- 使用率: **60.5%** (19.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,23 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 223 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 122 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 123 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [81107 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
-- ⚡ [80867 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)**
+- ⚡ [81348 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [81108 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [80747 秒経過] **[Testall] Studyplus Planning徹底比較**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親FAQ 30問
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 判定
 

@@ -1,35 +1,36 @@
 ---
 type: dashboard
-updated: 2026-06-01 19:41
+updated: 2026-06-01 19:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-01 19:41
+**最終更新**: 2026-06-01 19:46
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 223 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 122 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 123 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1118 (うち24h+古い: 975) |
+| 📝 wiki/_inbox 未レビュー | 1119 (うち24h+古い: 976) |
 
 ### 処理中
-- ⚙️ **[1350 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[1346 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-05-31)
+- ⚙️ **[1355 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[1351 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
+- ⚙️ **[1345 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親FAQ 30問
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 6/21月収100万 残30日アクションプラン
+- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +51,7 @@ tags: [dashboard, system]
 
 - marketing : 458 件
 - research : 11 件
-- newbiz : 351 件
+- newbiz : 352 件
 - ingest : 1 件
 - corp : 121 件
 - dev : 10 件
