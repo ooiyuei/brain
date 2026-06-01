@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-05-28T15:21:02.5553176+09:00"
-                    },
-                    {
                         "slug":  "school-tos",
                         "time":  "2026-05-28T15:31:02.4373139+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-06-01T15:21:02.2055448+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-01T15:31:02.2224591+09:00"
                     }
                 ]
 }
