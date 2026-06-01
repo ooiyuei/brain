@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-01 22:34
+updated: 2026-06-01 22:39
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-01 22:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1383分]** [EEMUS] MVP LP完全版
-- [ ] **[処理中 1373分]** [School] 入学後30日プラン
+- [ ] **[処理中 1388分]** [EEMUS] MVP LP完全版
+- [ ] **[処理中 1378分]** [School] 入学後30日プラン
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
