@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-01
 tags: [tasks, today]
-updated: 2026-06-02 00:49
+updated: 2026-06-02 00:54
 ---
 
 # Today 2026-06-01
@@ -30,8 +30,8 @@ updated: 2026-06-02 00:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1448分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
+- [ ] **[処理中 1453分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 1447分]** [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
@@ -254,6 +254,7 @@ updated: 2026-06-02 00:49
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
+- [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-01
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 

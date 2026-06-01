@@ -1,28 +1,27 @@
 ---
 type: dashboard
-updated: 2026-06-02 00:46
+updated: 2026-06-02 00:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 00:46
+**最終更新**: 2026-06-02 00:51
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 4 |
+| 📥 inbox | 226 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 5 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1155 (うち24h+古い: 1013) |
+| 📝 wiki/_inbox 未レビュー | 1156 (うち24h+古い: 1014) |
 
 ### 処理中
-- ⚙️ **[1445 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[1439 分]** [Money] EEMUS 連携企業5社 具体接触メール
+- ⚙️ **[1450 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ### Inbox 上位
 - [high] [Money] AIpaX 既存4社 アップセル提案
@@ -50,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 468 件
 - research : 15 件
-- newbiz : 365 件
+- newbiz : 366 件
 - ingest : 1 件
 - corp : 129 件
 - dev : 11 件
