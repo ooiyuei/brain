@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-05-28T16:41:02.4699288+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-05-28T16:51:02.5308676+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-06-01T16:41:02.3707743+09:00"
+                    },
+                    {
+                        "slug":  "aipax-lp-beta",
+                        "time":  "2026-06-01T16:51:02.4912572+09:00"
                     }
                 ]
 }
