@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-01 15:50:47
+updated: 2026-06-01 15:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:50:47** | 🔥 **稼働中**
+**15:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 6.1GB | 残-269分 |
+| qwen3:8b | 15.6GB | 6.1GB | 残-273分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **65.2%** (20.8GB / 31.9GB)
+- 使用率: **64.5%** (20.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,15 +37,15 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 224 |
+| 📥 inbox | 225 |
 | ⚙️ processing | 3 |
 | ✅ 今日完了 | 88 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [459 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [77746 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
-- ⚡ [17448 秒経過] **[BG-Competitive] BizReach**
+- ⚡ [699 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [77986 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-05-31 騾ｱ蛻・**
+- ⚡ [17688 秒経過] **[BG-Competitive] BizReach**
 
 ## 📥 待機タスク (上位5)
 
