@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-28T13:41:02.7083426+09:00"
-                    },
-                    {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-05-28T13:51:02.2348686+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-onboarding",
                         "time":  "2026-06-01T13:41:02.0868982+09:00"
+                    },
+                    {
+                        "slug":  "aipax-proposal-80man",
+                        "time":  "2026-06-01T13:51:02.0909564+09:00"
                     }
                 ]
 }
