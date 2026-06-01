@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 05:54:46
+updated: 2026-06-02 05:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**05:54:46** | 🔥 **稼働中**
+**05:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **6%**
-- VRAM: 7308MB / 8151MB (**89.7%**)
+- 使用率: **90%**
+- VRAM: 7169MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **56.2%** (17.9GB / 31.9GB)
+- 使用率: **55.8%** (17.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 216 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 54 |
+| 📥 inbox | 215 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 56 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [88427 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [87827 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [87467 秒経過] **[School] 入学後30日プラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 入学後30日プラン
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 判定
 
