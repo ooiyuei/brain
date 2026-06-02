@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 09:26
+updated: 2026-06-02 09:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 09:26
+**最終更新**: 2026-06-02 09:31
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 83 |
+| 📥 inbox | 222 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 84 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1233 (うち24h+古い: 1078) |
+| 📝 wiki/_inbox 未レビュー | 1235 (うち24h+古い: 1078) |
 
 ### 処理中
-- ⚙️ **[1535 分]** [Testall] Studyplus Planning徹底比較
-- ⚙️ **[1515 分]** [School] X『中高生×AI』20投稿
+- ⚙️ **[1540 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
@@ -41,15 +40,15 @@ tags: [dashboard, system]
 
 | タスク | 進捗 |
 |---|---|
-| 📅 ビジコン分析 (14日) | バッチ 12/14 (86%) |
+| 📅 ビジコン分析 (14日) | バッチ 13/14 (93%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 1 / 24 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 2/15 / 視点 3/4 |
 | ⚔️ 競合監視 (3日サイクル) | 10/15 社 |
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 497 件
-- research : 22 件
+- marketing : 498 件
+- research : 23 件
 - newbiz : 393 件
 - ingest : 1 件
 - corp : 143 件
