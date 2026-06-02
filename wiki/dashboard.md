@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 00:41
+updated: 2026-06-03 00:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 00:41
+**最終更新**: 2026-06-03 00:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,18 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 230 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 229 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 6 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1336 (うち24h+古い: 1145) |
+| 📝 wiki/_inbox 未レビュー | 1336 (うち24h+古い: 1146) |
+
+### 処理中
+- ⚙️ **[23 分]** [横断] Stripe決済設定 5事業ロードマップ
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親FAQ 30問
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 今日のフォーカス
 
