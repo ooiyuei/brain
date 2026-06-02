@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:50:47
+updated: 2026-06-03 02:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:50:47** | 🔥 **稼働中**
+**02:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残24分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残20分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **21%**
-- VRAM: 7443MB / 8151MB (**91.3%**)
+- 使用率: **16%**
+- VRAM: 7446MB / 8151MB (**91.4%**)
 
 ## 💾 RAM
 
@@ -30,29 +30,29 @@ tags: [live, status, monitoring]
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 169 |
+| 📥 inbox | 167 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 44 |
+| ✅ 今日完了 | 47 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [83388 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [66047 秒経過] **[Monitor] 競合動向Top3 - 2026-06-02**
+- ⚡ [83028 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [82426 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客候補30社プロファイル
-- [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [横断] 15事業の優先順位再評価
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 

@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 02:46
+updated: 2026-06-03 02:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 02:46
+**最終更新**: 2026-06-03 02:51
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 171 |
+| 📥 inbox | 169 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 44 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1372 (うち24h+古い: 1161) |
+| 📝 wiki/_inbox 未レビュー | 1372 (うち24h+古い: 1162) |
 
 ### 処理中
-- ⚙️ **[3 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[3 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- ⚙️ **[1390 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[1101 分]** [Monitor] 競合動向Top3 - 2026-06-02
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 今日のフォーカス
 
