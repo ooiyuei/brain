@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 03:26:46
+updated: 2026-06-03 03:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:26:46** | 🔥 **稼働中**
+**03:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
@@ -25,33 +25,34 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **33.6%** (10.7GB / 31.9GB)
+- 使用率: **33.4%** (10.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 154 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 61 |
+| 📥 inbox | 151 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 62 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [210 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [80387 秒経過] **[AIpaX] β顧客5社募集LP完全版**
+- ⚡ [54945 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] 月次PL試算
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 判定
 

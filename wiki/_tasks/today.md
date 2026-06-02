@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 03:24
+updated: 2026-06-03 03:29
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-03 03:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [横断] 投資家向けピッチ1分版
-- [ ] [待機] [AIpaX] 月次PL試算
+- [ ] **[処理中 1348分]** [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
@@ -70,7 +69,6 @@ updated: 2026-06-03 03:24
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] X『中高生×AI』20投稿
-- [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [School] 親向けLP完全版
