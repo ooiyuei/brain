@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 09:54
+updated: 2026-06-02 09:59
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-02 09:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1524分]** [Monitor] ビジコン締切 - 2026-06-01
-- [ ] **[処理中 1524分]** [Monitor] 朝の問い - 2026-06-01
+- [ ] **[処理中 1529分]** [Monitor] 朝の問い - 2026-06-01
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件

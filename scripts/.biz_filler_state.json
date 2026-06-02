@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-05-29T10:01:01.6742425+09:00"
-                    },
-                    {
                         "slug":  "school-onboarding",
                         "time":  "2026-05-29T10:11:01.9248776+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-02T09:51:02.2923901+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-02T10:01:02.2835861+09:00"
                     }
                 ]
 }

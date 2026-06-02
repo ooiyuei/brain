@@ -1,29 +1,6 @@
 {
-    "round":  1,
+    "round":  2,
     "refreshed":  [
-                      "agents-of-flag",
-                      "aipax",
-                      "aipax-school",
-                      "aipa-web",
-                      "business-contests",
-                      "eemus",
-                      "ecokan",
-                      "fruits-sauce",
-                      "ipak-cafe",
-                      "ipak-ofuro",
-                      "wa-kouchai",
-                      "yakki-check",
-                      "juken-os",
-                      "gymee",
-                      "business-contests-master-2026-05-24",
-                      "ipak-darts",
-                      "ipak-fishing",
-                      "omni",
-                      "ai-juku",
-                      "business-contests-expanded",
-                      "business-contests-anaba-v3",
-                      "business-contests-flat-top30",
-                      "testall",
-                      "kasunote"
+
                   ]
 }
