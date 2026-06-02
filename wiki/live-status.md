@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 09:22:47
+updated: 2026-06-02 09:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:22:47** | 🔥 **稼働中**
+**09:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7034MB / 8151MB (**86.3%**)
+- 使用率: **94%**
+- VRAM: 7176MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **85.5%** (27.3GB / 31.9GB)
+- 使用率: **55%** (17.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 83 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [91908 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [92148 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [90947 秒経過] **[School] X『中高生×AI』20投稿**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] 親向けLP完全版
 - [high] [Monitor] 競合動向Top3 - 2026-06-01
+- [high] [Monitor] ビジコン締切 - 2026-06-01
 
 ## 🎯 判定
 

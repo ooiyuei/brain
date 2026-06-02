@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 09:21
+updated: 2026-06-02 09:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 09:21
+**最終更新**: 2026-06-02 09:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 83 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1233 (うち24h+古い: 1077) |
+| 📝 wiki/_inbox 未レビュー | 1233 (うち24h+古い: 1078) |
 
 ### 処理中
-- ⚙️ **[1530 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1535 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1515 分]** [School] X『中高生×AI』20投稿
 
 ### Inbox 上位
-- [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] 親向けLP完全版
 - [high] [Monitor] 競合動向Top3 - 2026-06-01
+- [high] [Monitor] ビジコン締切 - 2026-06-01
 
 ## 🎯 今日のフォーカス
 
