@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 09:31
+updated: 2026-06-02 09:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 09:31
+**最終更新**: 2026-06-02 09:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 84 |
+| 📥 inbox | 219 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 85 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1235 (うち24h+古い: 1078) |
+| 📝 wiki/_inbox 未レビュー | 1236 (うち24h+古い: 1078) |
 
 ### 処理中
-- ⚙️ **[1540 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1521 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1521 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] 親向けLP完全版
 - [high] [Monitor] 競合動向Top3 - 2026-06-01
 - [high] [Monitor] ビジコン締切 - 2026-06-01
+- [high] [Monitor] 朝の問い - 2026-06-01
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +49,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 498 件
-- research : 23 件
+- research : 24 件
 - newbiz : 393 件
 - ingest : 1 件
 - corp : 143 件
