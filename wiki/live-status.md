@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 01:30:47
+updated: 2026-06-03 01:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:30:47** | 🔥 **稼働中**
+**01:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,22 +15,22 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残26分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **24%**
-- VRAM: 7471MB / 8151MB (**91.7%**)
+- 使用率: **7%**
+- VRAM: 7275MB / 8151MB (**89.3%**)
 
 ## 💾 RAM
 
-- 使用率: **33.7%** (10.8GB / 31.9GB)
-- ⚠️ 余裕あり（タスク投入したら効率UP）
+- 使用率: **57.2%** (18.3GB / 31.9GB)
+- ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
@@ -39,15 +39,15 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 199 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 14 |
+| ✅ 今日完了 | 16 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [86988 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [91 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- [super] claude-selftest-useagent-20260603
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本

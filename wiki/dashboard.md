@@ -1,31 +1,35 @@
 ---
 type: dashboard
-updated: 2026-06-03 01:26
+updated: 2026-06-03 01:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 01:26
+**最終更新**: 2026-06-03 01:31
 **Ollama**: 🟢 稼働中 (4 モデル)
-**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 203 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 11 |
+| 📥 inbox | 198 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 14 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1341 (うち24h+古い: 1151) |
+| 📝 wiki/_inbox 未レビュー | 1343 (うち24h+古い: 1152) |
+
+### 処理中
+- ⚙️ **[1456 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- ⚙️ **[1450 分]** [School] 利用規約・特商法表記
 
 ### Inbox 上位
-- [super] claude-selftest-pipeline-20260603
-- [high] [School] 入学後30日プラン
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
-- [high] [School] 利用規約・特商法表記
+- [high] [横断] 投資家向けピッチ1分版
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] X『中高生×AI』20投稿
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -44,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 529 件
+- marketing : 530 件
 - research : 22 件
-- newbiz : 448 件
+- newbiz : 449 件
 - ingest : 1 件
 - corp : 164 件
 - dev : 11 件

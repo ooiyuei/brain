@@ -20,6 +20,11 @@ $ollamaUrl = "http://localhost:11434/api/generate"
 $defaultModel = if ($Lane -eq "light") { "qwen3:8b" } else { "qwen3:8b" }  # 2026-05-28: Heavy も qwen3:8b に統一 (GPU フィット優先・大井指示)
 $maxRetries = 3
 
+# 2026-06-03: 8GB GPU(RTX5060)では openclaw agent(multi-turn)経路がセッション肥大による context overflow と
+# sticky-model(qwen3.6) で不安定。direct Ollama(qwen3:8b)は安定動作し品質も実用十分なため agent経路を無効化し一本化。
+# 効果: gateway/ACP依存を断ち、毎回の18-40s浪費とフォールバック43%失敗を解消。GPU増設時に $true へ戻す。
+$EnableAgentPath = $false
+
 # レーン判定関数（改善版）
 function Test-LaneMatch {
     param($job, $lane)
@@ -130,8 +135,8 @@ try {
 
     $response = $null
 
-    if ($job.use_agent) {
-        # openclaw agent経由（複数ターン自律実行）
+    if ($job.use_agent -and $EnableAgentPath) {
+        # openclaw agent経由（複数ターン自律実行）※ $EnableAgentPath=$false で無効化中（8GB GPU安定化のため）
         $agentName = "main"
         # 部署別エージェントがあれば使う
         if ($job.department) {
