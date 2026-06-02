@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 08:29
+updated: 2026-06-03 08:34
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-03 08:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [Testall] ユーザーペルソナ5パターン
+- [ ] **[処理中 4分]** [Monitor] ビジコン締切 - 2026-06-03
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [EEMUS] 連携企業候補20社
@@ -119,6 +119,8 @@ updated: 2026-06-03 08:29
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [ ] [待機] [Monitor] 朝の問い - 2026-06-03
+- [ ] [待機] [Testall] Studyplus Planning徹底比較
 
 
 ## 📅 今日の予定（Calendar）

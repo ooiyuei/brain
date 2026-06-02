@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-05-30T08:31:02.0818997+09:00"
-                    },
-                    {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-05-30T08:41:02.0173190+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-03T08:21:02.2763475+09:00"
+                    },
+                    {
+                        "slug":  "testall-competitor-studyplus",
+                        "time":  "2026-06-03T08:31:02.2142494+09:00"
                     }
                 ]
 }
