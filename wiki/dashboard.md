@@ -1,34 +1,34 @@
 ---
 type: dashboard
-updated: 2026-06-02 23:51
+updated: 2026-06-02 23:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 23:51
+**最終更新**: 2026-06-02 23:56
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 228 |
+| 📥 inbox | 227 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 197 |
+| ✅ 今日完了 | 198 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1329 (うち24h+古い: 1141) |
+| 📝 wiki/_inbox 未レビュー | 1330 (うち24h+古い: 1141) |
 
 ### 処理中
-- ⚙️ **[1660 分]** [School] 体験会2時間プログラム
+- ⚙️ **[1661 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] 親向けLP完全版
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] 入学後30日プラン
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 525 件
 - research : 21 件
-- newbiz : 444 件
+- newbiz : 445 件
 - ingest : 1 件
 - corp : 162 件
 - dev : 10 件
