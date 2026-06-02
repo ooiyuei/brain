@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 16:44
+updated: 2026-06-02 16:49
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,6 @@ updated: 2026-06-02 16:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1643分]** [EEMUS] 連携企業候補20社
-- [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
