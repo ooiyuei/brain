@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 02:56
+updated: 2026-06-03 03:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 02:56
+**最終更新**: 2026-06-03 03:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,23 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 166 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 47 |
+| 📥 inbox | 164 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 49 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1373 (うち24h+古い: 1163) |
+| 📝 wiki/_inbox 未レビュー | 1375 (うち24h+古い: 1163) |
 
 ### 処理中
-- ⚙️ **[1385 分]** [AIpaX] β顧客候補30社プロファイル
-- ⚙️ **[1375 分]** [School] 利用規約・特商法表記
-- ⚙️ **[3 分]** [Monitor] ビジコン締切 - 2026-06-02
+- ⚙️ **[1370 分]** [AIpaX] β顧客5社募集LP完全版
+- ⚙️ **[1111 分]** [Monitor] 朝の問い - 2026-06-02
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [横断] 15事業の優先順位再評価
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [横断] 投資家向けピッチ1分版
+- [high] [AIpaX] 月次PL試算
 
 ## 🎯 今日のフォーカス
 
@@ -51,9 +50,9 @@ tags: [dashboard, system]
 
 - marketing : 536 件
 - research : 23 件
-- newbiz : 459 件
+- newbiz : 460 件
 - ingest : 1 件
-- corp : 175 件
+- corp : 176 件
 - dev : 13 件
 
 ## 🔗 主要リンク
