@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 19:30:46
+updated: 2026-06-02 19:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:30:46** | 🔥 **稼働中**
+**19:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7117MB / 8151MB (**87.3%**)
+- 使用率: **76%**
+- VRAM: 6980MB / 8151MB (**85.6%**)
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **86.7%** (27.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 168 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 169 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97787 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [97427 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [96827 秒経過] **[横断] 投資家向けピッチ1分版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 
