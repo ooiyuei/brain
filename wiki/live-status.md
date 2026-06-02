@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 12:38:46
+updated: 2026-06-02 12:42:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:38:46** | 🔥 **稼働中**
+**12:42:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7171MB / 8151MB (**88%**)
+- 使用率: **2%**
+- VRAM: 7311MB / 8151MB (**89.7%**)
 
 ## 💾 RAM
 
-- 使用率: **87.5%** (27.9GB / 31.9GB)
+- 使用率: **59.9%** (19.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 219 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 115 |
+| ✅ 今日完了 | 116 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [899 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
-- ⚡ [94667 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [94908 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [94308 秒経過] **[Testall] ユーザーペルソナ5パターン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 紹介プログラム 5事業横断ルール
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 判定
 
