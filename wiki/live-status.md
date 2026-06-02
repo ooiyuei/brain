@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 08:18:46
+updated: 2026-06-03 08:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:18:46** | 🔥 **稼働中**
+**08:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7418MB / 8151MB (**91%**)
+- 使用率: **29%**
+- VRAM: 7421MB / 8151MB (**91%**)
 
 ## 💾 RAM
 
-- 使用率: **37.2%** (11.9GB / 31.9GB)
+- 使用率: **37.5%** (12GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 85 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 173 |
+| 📥 inbox | 84 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 174 |
+
+## 🔄 処理中タスク
+
+- ⚡ [51108 秒経過] **[AIpaX] 月次PL試算**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 投資家向けピッチ1分版
-- [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [Testall] X受験あるある投稿30本
+- [high] [EEMUS] 連携企業候補20社
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 
