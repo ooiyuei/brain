@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 11:01
+updated: 2026-06-02 11:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 11:01
+**最終更新**: 2026-06-02 11:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,15 +15,14 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 218 |
-| ⚙️ processing | 3 |
-| ✅ 今日完了 | 102 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 103 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1250 (うち24h+古い: 1084) |
+| 📝 wiki/_inbox 未レビュー | 1251 (うち24h+古い: 1084) |
 
 ### 処理中
-- ⚙️ **[1546 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- ⚙️ **[1540 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[1 分]** [BG-Competitive] ChatGPT Team
+- ⚙️ **[1545 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[6 分]** [BG-Competitive] ChatGPT Team
 
 ### Inbox 上位
 - [high] [Testall] X受験あるある投稿30本
@@ -51,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 503 件
 - research : 25 件
-- newbiz : 398 件
+- newbiz : 399 件
 - ingest : 1 件
 - corp : 146 件
 - dev : 11 件
