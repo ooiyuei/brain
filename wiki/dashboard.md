@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 07:26
+updated: 2026-06-03 07:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 07:26
+**最終更新**: 2026-06-03 07:31
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 90 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 156 |
+| 📥 inbox | 88 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 159 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1478 (うち24h+古い: 1208) |
+| 📝 wiki/_inbox 未レビュー | 1481 (うち24h+古い: 1209) |
 
 ### 処理中
-- ⚙️ **[3 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[940 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[1 分]** [BG-AINews] AI業界ニュース 2026-06-03
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
-- [high] [横断] 投資家向けピッチ1分版
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 利用規約・特商法表記
+- [high] [School] 親FAQ 30問
+- [high] [School] 親向けLP完全版
+- [high] [School] 親FAQ 30問
 
 ## 🎯 今日のフォーカス
 
@@ -48,8 +49,8 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 571 件
-- research : 26 件
-- newbiz : 502 件
+- research : 27 件
+- newbiz : 504 件
 - ingest : 1 件
 - corp : 196 件
 - dev : 16 件
