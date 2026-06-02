@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-29T22:11:02.4878827+09:00"
-                    },
-                    {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-05-29T22:21:02.5036924+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-02T22:11:01.9972446+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-02T22:21:02.0334848+09:00"
                     }
                 ]
 }
