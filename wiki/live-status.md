@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 13:26:47
+updated: 2026-06-02 13:30:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:26:47** | 🔥 **稼働中**
+**13:30:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7186MB / 8151MB (**88.2%**)
+- 使用率: **4%**
+- VRAM: 7326MB / 8151MB (**89.9%**)
 
 ## 💾 RAM
 
-- 使用率: **87.9%** (28.1GB / 31.9GB)
+- 使用率: **59.3%** (18.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 223 |
+| 📥 inbox | 222 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 118 |
+| ✅ 今日完了 | 119 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [96348 秒経過] **[School] 1年カリキュラム詳細v2**
-- ⚡ [95987 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [96588 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [96227 秒経過] **[Money] EEMUS 連携企業5社 具体接触メール**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 判定
 
