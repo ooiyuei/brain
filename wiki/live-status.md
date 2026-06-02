@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 19:18:47
+updated: 2026-06-02 19:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:18:47** | 🔥 **稼働中**
+**19:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
+- 使用率: **0%**
 - VRAM: 6983MB / 8151MB (**85.7%**)
 
 ## 💾 RAM
 
-- 使用率: **85.5%** (27.3GB / 31.9GB)
+- 使用率: **87.2%** (27.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 222 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 166 |
+| ✅ 今日完了 | 167 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97427 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
-- ⚡ [97427 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [97667 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [97308 秒経過] **[Testall] ユーザーペルソナ5パターン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 判定
 
