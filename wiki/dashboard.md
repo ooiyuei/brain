@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 22:21
+updated: 2026-06-02 22:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 22:21
+**最終更新**: 2026-06-02 22:26
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,7 +21,7 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1319 (うち24h+古い: 1132) |
 
 ### 処理中
-- ⚙️ **[1650 分]** [EEMUS] MVP LP完全版
+- ⚙️ **[1655 分]** [EEMUS] MVP LP完全版
 
 ### Inbox 上位
 - [high] [School] 入学後30日プラン
