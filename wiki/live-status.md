@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:38:46
+updated: 2026-06-03 06:42:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:38:46** | 🔥 **稼働中**
+**06:42:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7602MB / 8151MB (**93.3%**)
+- 使用率: **25%**
+- VRAM: 7605MB / 8151MB (**93.3%**)
 
 ## 💾 RAM
 
-- 使用率: **34.5%** (11GB / 31.9GB)
+- 使用率: **34.9%** (11.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 96 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 142 |
+| 📥 inbox | 95 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 143 |
+
+## 🔄 処理中タスク
+
+- ⚡ [63107 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] 教育者連携アプローチ
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 判定
 

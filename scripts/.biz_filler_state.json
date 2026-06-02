@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-30T06:31:02.1676657+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-30T06:41:01.7319093+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-05-30T06:51:02.1133623+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-03T06:31:02.1240297+09:00"
+                    },
+                    {
+                        "slug":  "testall-teacher-outreach",
+                        "time":  "2026-06-03T06:41:02.0802951+09:00"
                     }
                 ]
 }

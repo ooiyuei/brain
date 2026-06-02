@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 06:34
+updated: 2026-06-03 06:39
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,7 @@ updated: 2026-06-03 06:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [横断] 投資家向けピッチ1分版
-- [ ] [待機] [School] 親FAQ 30問
-- [ ] [待機] [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 1058分]** [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Testall] 教育者連携アプローチ
