@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 07:31
+updated: 2026-06-03 07:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 07:31
+**最終更新**: 2026-06-03 07:36
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,14 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 88 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 159 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 161 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1481 (うち24h+古い: 1209) |
+| 📝 wiki/_inbox 未レビュー | 1482 (うち24h+古い: 1209) |
 
 ### 処理中
-- ⚙️ **[940 分]** [School] 1年カリキュラム詳細v2
-- ⚙️ **[1 分]** [BG-AINews] AI業界ニュース 2026-06-03
+- ⚙️ **[3 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
 - [high] [AIpaX] β顧客候補30社プロファイル
@@ -46,11 +45,15 @@ tags: [dashboard, system]
 | 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 0/4 |
 | ⚔️ 競合監視 (3日サイクル) | 15/15 社 |
 
+## 🌅 今朝の監視結果
+
+- [[_monitor/ai-news-2026-06-03|ai-news]]
+
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 571 件
 - research : 27 件
-- newbiz : 504 件
+- newbiz : 505 件
 - ingest : 1 件
 - corp : 196 件
 - dev : 16 件
