@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-30T07:51:02.2716411+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-30T08:01:01.9118034+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-05-30T08:11:01.9724132+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-03T07:51:02.1633516+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-03T08:01:01.9405767+09:00"
                     }
                 ]
 }

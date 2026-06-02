@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 07:54
+updated: 2026-06-03 07:59
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-03 07:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 913分]** [School] 親FAQ 30問
-- [ ] [待機] [横断] 15事業の優先順位再評価
+- [ ] **[処理中 908分]** [横断] 15事業の優先順位再評価
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [EEMUS] 連携企業候補20社
