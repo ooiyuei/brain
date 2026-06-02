@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-29T18:41:02.2585266+09:00"
-                    },
-                    {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-05-29T18:51:02.3732533+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-06-02T18:41:01.9463253+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-02T18:51:02.0460861+09:00"
                     }
                 ]
 }
