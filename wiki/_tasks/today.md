@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 06:14
+updated: 2026-06-03 06:19
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-03 06:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [School] 親向けLP完全版
-- [ ] [待機] [School] 親向けLP完全版
+- [ ] **[処理中 1108分]** [School] 親向けLP完全版
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [School] 親向けLP完全版

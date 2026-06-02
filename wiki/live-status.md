@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:18:46
+updated: 2026-06-03 06:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:18:46** | 🔥 **稼働中**
+**06:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **25%**
-- VRAM: 7593MB / 8151MB (**93.2%**)
+- 使用率: **0%**
+- VRAM: 7590MB / 8151MB (**93.1%**)
 
 ## 💾 RAM
 
-- 使用率: **34.4%** (11GB / 31.9GB)
+- 使用率: **34.5%** (11GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 100 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 135 |
-
-## 🔄 処理中タスク
-
-- ⚡ [66467 秒経過] **[School] 親向けLP完全版**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 137 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] 親向けLP完全版
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [横断] 投資家向けピッチ1分版
+- [high] [School] 親FAQ 30問
 
 ## 🎯 判定
 
