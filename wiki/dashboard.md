@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 21:41
+updated: 2026-06-02 21:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 21:41
+**最終更新**: 2026-06-02 21:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,14 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 225 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 182 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 183 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1314 (うち24h+古い: 1126) |
+| 📝 wiki/_inbox 未レビュー | 1315 (うち24h+古い: 1127) |
 
 ### 処理中
-- ⚙️ **[1650 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[1646 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1651 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ### Inbox 上位
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
@@ -50,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 520 件
 - research : 20 件
-- newbiz : 436 件
+- newbiz : 437 件
 - ingest : 1 件
 - corp : 161 件
 - dev : 10 件
