@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 16:06
+updated: 2026-06-02 16:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 16:06
+**最終更新**: 2026-06-02 16:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 221 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 141 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1273 (うち24h+古い: 1084) |
 
 ### 処理中
-- ⚙️ **[1615 分]** [School] 利用規約・特商法表記
+- ⚙️ **[1620 分]** [School] 利用規約・特商法表記
+- ⚙️ **[1616 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 入学後30日プラン
+- [high] [AIpaX] β顧客80万提案書フル版
 
 ## 🎯 今日のフォーカス
 
