@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 20:06:47
+updated: 2026-06-02 20:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:06:47** | 🔥 **稼働中**
+**20:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7255MB / 8151MB (**89%**)
+- 使用率: **81%**
+- VRAM: 6948MB / 8151MB (**85.2%**)
 
 ## 💾 RAM
 
-- 使用率: **57.6%** (18.4GB / 31.9GB)
+- 使用率: **85.2%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,13 +38,12 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 220 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 173 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 174 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [96947 秒経過] **[School] note『AI時代に子供に渡したいもの』**
-- ⚡ [96706 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [96946 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
