@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 17:30:46
+updated: 2026-06-02 17:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:30:46** | 🔥 **稼働中**
+**17:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7202MB / 8151MB (**88.4%**)
+- 使用率: **94%**
+- VRAM: 7342MB / 8151MB (**90.1%**)
 
 ## 💾 RAM
 
-- 使用率: **86.8%** (27.7GB / 31.9GB)
+- 使用率: **56.3%** (18GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,14 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 217 |
+| 📥 inbox | 218 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 156 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [95387 秒経過] **[School] note『AI時代に子供に渡したいもの』**
-- ⚡ [94787 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [95627 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [95027 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 
