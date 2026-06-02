@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-30T06:01:01.8498388+09:00"
-                    },
-                    {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-05-30T06:11:02.0273933+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-06-03T06:01:01.7572540+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-03T06:11:01.7736967+09:00"
                     }
                 ]
 }
