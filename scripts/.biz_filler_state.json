@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-29T15:51:02.0976866+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-05-29T16:01:02.3046556+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-06-02T15:41:03.1163168+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-02T15:51:02.4761499+09:00"
                     }
                 ]
 }
