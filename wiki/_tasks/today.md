@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 12:59
+updated: 2026-06-02 13:04
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-02 12:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1588分]** [Testall] ユーザーペルソナ5パターン
-- [ ] **[処理中 1578分]** [School] 1年カリキュラム詳細v2
+- [ ] **[処理中 1593分]** [Testall] ユーザーペルソナ5パターン
+- [ ] **[処理中 1583分]** [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
@@ -249,6 +249,7 @@ updated: 2026-06-02 12:59
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [横断] 投資家向けピッチ1分版
 - [ ] [待機] [School] 親FAQ 30問
+- [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 
