@@ -41,11 +41,11 @@ managed_by: Claude (must update every session)
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-06-01
-**進捗**: 夢AWARD骨子 ❌未着手（残5日・叩き台2本あり・今日30分で完成できる） / AIpaX5社目クロージング ❌未着手（大井の連絡1本のみ） / Digital AI補助金 ❌未着手（最低優先）
-**PDCA**: 1件昇格（AIpa Web静岡企業リスト→research/）・10件削除（qwen3:8bバグ3+重複7）⚠️ qwen3:8b worker が ooi-yuei.md を出力するバグ確認
-**午後**: ①夢AWARD骨子v3（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`）を開いて30分肉付け → 今日完成 ②AIpaX 5社目クロージング連絡
-**詳細**: [[_routines/midday-20260601]]
+**日付**: 2026-06-02
+**進捗**: 夢AWARD骨子 ❌未着手（残4日・今日中にやらないと詰む） / AIpaX5社目クロージング ❌未着手（想定問答inboxにあり・大井の連絡1本のみ） / qwen3:8bバグ ❌未着手（設定修正が必要）
+**PDCA**: 1件昇格（AIpa Web静岡企業候補リスト→research/aipa-web-shizuoka-companies-2026-06-02.md）・10件削除（Stripe qwen3:8b×4+重複×6）
+**午後**: ①今から30分で夢AWARD骨子仕上げ（叩き台2本+inbox骨子あり）②AIpaX5社目に連絡 ③夜にqwen3:8b設定修正
+**詳細**: [[_routines/midday-20260602]]
 
 ## 🌙 Tomorrow（2026-06-02）
 
@@ -58,16 +58,17 @@ managed_by: Claude (must update every session)
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-06-02 朝 — 朝ルーティン (morning-20260602生成/today.md更新/hot.md更新)
+**Last session**: 2026-06-02 昼 — 昼チェック (midday-20260602生成/today.md更新/hot.md更新/PDCA 1昇格10削除)
 **Last touched files**:
-- `brain/wiki/_routines/morning-20260602.md` (朝メモ生成)
-- `brain/wiki/_tasks/today.md` (6/2版に更新)
-- `brain/wiki/hot.md` (Today 6/2更新)
+- `brain/wiki/_routines/midday-20260602.md` (昼チェックレポート)
+- `brain/wiki/_tasks/today.md` (完了セクション追記)
+- `brain/wiki/hot.md` (Midday更新)
+- `brain/wiki/research/aipa-web-shizuoka-companies-2026-06-02.md` (昇格)
 
-**現在の Mode**: 朝ルーティン完了
-**完了**: 朝の作戦会議（monitoring除く）
-**未完**: 夢AWARD骨子（大井の肉付け30分・残5日・7日連続未着手）/ AIpaX 5社目接触（大井アクション1本のみ）
-**⚠️ 懸念**: qwen3:8b が context_files 末尾を出力するバグ → BG-Entities系3件破損 / 監視ファイル本日未生成
+**現在の Mode**: 昼チェック完了
+**完了**: 朝ルーティン・昼PDCA（1昇格・10削除）
+**未完**: 夢AWARD骨子（大井の30分・残4日・8日連続未着手）/ AIpaX 5社目接触 / qwen3:8bバグ修正
+**⚠️ 懸念**: qwen3:8bバグ継続中（Stripe設定4件を今日削除）/ inbox旧バッチ（5/19-5/28）大量滞留・一括整理検討必要
 
 ---
 
