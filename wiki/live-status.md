@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 10:22:46
+updated: 2026-06-02 10:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:22:46** | 🔥 **稼働中**
+**10:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7033MB / 8151MB (**86.3%**)
+- VRAM: 7039MB / 8151MB (**86.4%**)
 
 ## 💾 RAM
 
-- 使用率: **84.1%** (26.9GB / 31.9GB)
+- 使用率: **85.3%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 94 |
+| 📥 inbox | 216 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 95 |
+
+## 🔄 処理中タスク
+
+- ⚡ [92386 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [92386 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [School] 親FAQ 30問
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 

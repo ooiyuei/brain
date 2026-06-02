@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 10:19
+updated: 2026-06-02 10:24
 ---
 
 # Today 2026-06-02
@@ -30,10 +30,8 @@ updated: 2026-06-02 10:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1548分]** [Testall] Studyplus Planning徹底比較
-- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
+- [ ] **[処理中 1537分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [ ] **[処理中 1537分]** [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
@@ -248,6 +246,7 @@ updated: 2026-06-02 10:19
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
+- [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 
