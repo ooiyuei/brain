@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-29T17:51:02.0259502+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-05-29T18:01:02.3040933+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-06-02T17:41:02.6612231+09:00"
+                    },
+                    {
+                        "slug":  "eemus-lp-mvp",
+                        "time":  "2026-06-02T17:51:02.5403968+09:00"
                     }
                 ]
 }
