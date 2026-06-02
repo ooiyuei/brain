@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 11:24
+updated: 2026-06-02 11:29
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-02 11:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1543分]** [EEMUS] ピッチデック10枚構成
-- [ ] **[処理中 24分]** [BG-Competitive] Microsoft Copilot
+- [ ] **[処理中 1548分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 29分]** [BG-Competitive] Microsoft Copilot
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [AIpaX] 月次PL試算
