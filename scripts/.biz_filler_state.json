@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-29T21:11:02.4788589+09:00"
-                    },
-                    {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-05-29T21:21:02.3808421+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T21:11:02.0689204+09:00"
+                    },
+                    {
+                        "slug":  "eemus-content-stories",
+                        "time":  "2026-06-02T21:21:01.9155674+09:00"
                     }
                 ]
 }
