@@ -109,6 +109,15 @@ try {
     if (-not $job.retries) { $job | Add-Member -NotePropertyName retries -NotePropertyValue 0 -Force }
     if (-not $job.model) { $job | Add-Member -NotePropertyName model -NotePropertyValue $defaultModel -Force }
 
+    # VRAM フィットガード (2026-06-03 診断): 8GB GPU(RTX5060)に乗らないモデルは qwen3:8b へ降格。
+    # qwen3.6:latest(23-27GB) は 76%CPU 実行になり激遅・30分タイムアウトの主因だった。
+    # GPU を増設したら $oversizedModels を空配列にすれば dispatch.ps1 の policy 通りに戻る。
+    $oversizedModels = @('qwen3.6:latest')
+    if ($oversizedModels -contains $job.model) {
+        Write-WorkerLog "Model cap: $($job.model) -> qwen3:8b (8GB GPU fit)"
+        $job.model = 'qwen3:8b'
+    }
+
     $contextText = ""
     if ($job.context_files) {
         foreach ($cf in $job.context_files) {
