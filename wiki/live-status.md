@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:34:47
+updated: 2026-06-03 06:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:34:47** | 🔥 **稼働中**
+**06:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **26%**
-- VRAM: 7605MB / 8151MB (**93.3%**)
+- 使用率: **0%**
+- VRAM: 7602MB / 8151MB (**93.3%**)
 
 ## 💾 RAM
 
-- 使用率: **34.7%** (11.1GB / 31.9GB)
+- 使用率: **34.5%** (11GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 97 |
+| 📥 inbox | 96 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 141 |
+| ✅ 今日完了 | 142 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] 教育者連携アプローチ
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 判定
 
