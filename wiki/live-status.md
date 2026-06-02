@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 04:30:46
+updated: 2026-06-03 04:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:30:46** | 🔥 **稼働中**
+**04:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,36 +15,35 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残24分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **35%**
-- VRAM: 7510MB / 8151MB (**92.1%**)
+- 使用率: **30%**
+- VRAM: 7506MB / 8151MB (**92.1%**)
 
 ## 💾 RAM
 
-- 使用率: **33.7%** (10.8GB / 31.9GB)
+- 使用率: **33.6%** (10.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 134 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 89 |
+| 📥 inbox | 135 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 92 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [74987 秒経過] **[School] note『AI時代に子供に渡したいもの』**
-- ⚡ [36945 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [91 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
