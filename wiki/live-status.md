@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 22:46:47
+updated: 2026-06-02 22:50:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:46:47** | 🔥 **稼働中**
+**22:50:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **76%**
-- VRAM: 6961MB / 8151MB (**85.4%**)
+- 使用率: **1%**
+- VRAM: 7096MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **87.5%** (27.9GB / 31.9GB)
+- 使用率: **87.2%** (27.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 224 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 191 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [99106 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [99346 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [98987 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 
