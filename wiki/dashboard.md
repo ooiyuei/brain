@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 08:06
+updated: 2026-06-03 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 08:06
+**最終更新**: 2026-06-03 08:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,25 +14,25 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 87 |
+| 📥 inbox | 86 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 169 |
+| ✅ 今日完了 | 171 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1490 (うち24h+古い: 1211) |
+| 📝 wiki/_inbox 未レビュー | 1492 (うち24h+古い: 1212) |
 
 ### 処理中
-- ⚙️ **[885 分]** [EEMUS] 連携企業候補20社
+- ⚙️ **[870 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ### Inbox 上位
-- [high] [Testall] X受験あるある投稿30本
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] 月次PL試算
+- [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 今日のフォーカス
 
-- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]] - 残5日（6/7締切）。叩き台2本：`_promoted/newbiz/eemus-dream-a...
+- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]] - 残4日（6/7締切）・10日連続未着手。叩き台: `_promoted/newbiz/eemus...
 
 → 詳細: [[_tasks/today]]
 
@@ -51,9 +51,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 575 件
+- marketing : 576 件
 - research : 27 件
-- newbiz : 507 件
+- newbiz : 508 件
 - ingest : 1 件
 - corp : 198 件
 - dev : 16 件
