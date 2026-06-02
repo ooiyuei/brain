@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-30T04:11:01.9098946+09:00"
-                    },
-                    {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-05-30T04:21:01.6790735+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-03T04:01:01.9022109+09:00"
+                    },
+                    {
+                        "slug":  "testall-x-content-30",
+                        "time":  "2026-06-03T04:11:01.9338719+09:00"
                     }
                 ]
 }
