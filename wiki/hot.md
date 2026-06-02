@@ -58,16 +58,19 @@ managed_by: Claude (must update every session)
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-06-02 夜 — 夜ルーティン (evening-20260602生成/done.md更新/hot.md更新)
+**Last session**: 2026-06-03 深夜 — **OpenClaw 24h自走の根治オーバーホール**(Claude/Opus4.8・全権委任)。「ぶん回しが止まる」の根本原因(qwen3.6 OOM/レーン飢餓/num_ctx/プロデューサ過多)を13件恒久修正・実証完了。
 **Last touched files**:
-- `brain/wiki/_routines/evening-20260602.md` (夜振り返りメモ)
-- `brain/wiki/_tasks/done.md` (6/2完了タスク追記)
-- `brain/wiki/hot.md` (Tonight更新)
+- `brain/scripts/worker.ps1` `dispatch.ps1` `queue_guard.ps1` `daily_brain.ps1` (修正)
+- `~/.openclaw/openclaw.json` + `agents/*/models.json` (qwen3:8b統一)
+- `~/.claude/settings.json` (会話ログhook復旧)
+- `brain/09_knowledge/failures/2026-06-03-openclaw-24h-自走-根本原因と恒久対策.md` (恒久記録)
+- `brain/00_YUEI/REPORT.md` (朝レポート)
 
-**現在の Mode**: 夜ルーティン完了
-**完了**: 昼PDCA（1昇格・10削除）
-**未完**: 夢AWARD骨子（大井の30分・残4日・**9日連続未着手**）/ AIpaX 5社目接触 / qwen3:8bバグ修正
-**⚠️ 懸念**: 夢AWARD 6/7締切・明日がラスト / qwen3:8bバグ継続 / inbox旧バッチ滞留
+**現在の Mode**: インフラ最強化 完了・実証済み
+**完了**: qwen3.6削除/agent経路一本化/num_ctx8192/レーン修正/一元バックプレッシャ/BOM修正11本/会話ログ復旧。キュー排出 8→48件/時、Ollamaクラッシュ0
+**未完(大井判断待ち)**: 文字化け568件の隔離可否 / inbox1336昇格パイプライン / filler優先度の質転換 / GPU増設
+**未完(事業)**: 夢AWARD骨子(残4日・**10日連続未着手**) / AIpaX 5社目接触
+**⚠️ 懸念**: 夢AWARD 6/7締切 / openclaw mainセッションsticky qwen3.6(VSCode ACP使うなら/reset)
 
 ---
 
