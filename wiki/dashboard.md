@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 11:06
+updated: 2026-06-02 11:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 11:06
+**最終更新**: 2026-06-02 11:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 218 |
+| 📥 inbox | 219 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 103 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1251 (うち24h+古い: 1084) |
 
 ### 処理中
-- ⚙️ **[1545 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[6 分]** [BG-Competitive] ChatGPT Team
+- ⚙️ **[1550 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[11 分]** [BG-Competitive] ChatGPT Team
 
 ### Inbox 上位
 - [high] [Testall] X受験あるある投稿30本

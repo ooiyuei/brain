@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 11:09
+updated: 2026-06-02 11:14
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-02 11:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1548分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 9分]** [BG-Competitive] ChatGPT Team
+- [ ] **[処理中 1553分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 14分]** [BG-Competitive] ChatGPT Team
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Testall] 教育者連携アプローチ
@@ -244,6 +244,7 @@ updated: 2026-06-02 11:09
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 - [ ] [待機] [BG-Competitive] Microsoft Copilot
