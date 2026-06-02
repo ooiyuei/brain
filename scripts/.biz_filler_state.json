@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-29T13:41:02.0903596+09:00"
-                    },
-                    {
                         "slug":  "school-parent-lp",
                         "time":  "2026-05-29T13:51:02.1283377+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-02T13:31:02.7492116+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-02T13:41:02.5172250+09:00"
                     }
                 ]
 }

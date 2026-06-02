@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 13:34
+updated: 2026-06-02 13:39
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,7 @@ updated: 2026-06-02 13:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1613分]** [School] 1年カリキュラム詳細v2
-- [ ] **[処理中 1607分]** [Money] EEMUS 連携企業5社 具体接触メール
-- [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
+- [ ] **[処理中 1612分]** [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] 1年カリキュラム詳細v2
