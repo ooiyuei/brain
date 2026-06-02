@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 07:49
+updated: 2026-06-03 07:54
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,7 @@ updated: 2026-06-03 07:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 928分]** [School] 親FAQ 30問
-- [ ] [待機] [School] 親向けLP完全版
-- [ ] [待機] [School] 親FAQ 30問
+- [ ] **[処理中 913分]** [School] 親FAQ 30問
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
@@ -122,6 +120,7 @@ updated: 2026-06-03 07:49
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
