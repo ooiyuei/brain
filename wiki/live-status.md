@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 10:58:47
+updated: 2026-06-02 11:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:58:47** | 🔥 **稼働中**
+**11:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,45 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **76%**
-- VRAM: 7037MB / 8151MB (**86.3%**)
+- 使用率: **0%**
+- VRAM: 7175MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **85.7%** (27.3GB / 31.9GB)
+- 使用率: **88.3%** (28.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 214 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 218 |
+| ⚙️ processing | 3 |
 | ✅ 今日完了 | 102 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [92627 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
+- ⚡ [92867 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
+- ⚡ [92508 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [168 秒経過] **[BG-Competitive] ChatGPT Team**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [Testall] X受験あるある投稿30本
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Testall] 教育者連携アプローチ
+- [high] [AIpaX] 月次PL試算
 
 ## 🎯 判定
 
