@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-29T13:11:01.8969459+09:00"
-                    },
-                    {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-05-29T13:21:02.0065931+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-06-02T13:01:02.6424528+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-02T13:11:02.7027471+09:00"
                     }
                 ]
 }
