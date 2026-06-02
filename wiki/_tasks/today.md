@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 21:59
+updated: 2026-06-02 22:04
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,6 @@ updated: 2026-06-02 21:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1658分]** [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] **[処理中 1648分]** [EEMUS] MVP LP完全版
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] 入学後30日プラン
@@ -254,6 +252,7 @@ updated: 2026-06-02 21:59
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
+- [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 
