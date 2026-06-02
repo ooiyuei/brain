@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 01:31
+updated: 2026-06-03 01:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 01:31
+**最終更新**: 2026-06-03 01:36
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 198 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 14 |
+| 📥 inbox | 199 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 16 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1343 (うち24h+古い: 1152) |
+| 📝 wiki/_inbox 未レビュー | 1345 (うち24h+古い: 1154) |
 
 ### 処理中
-- ⚙️ **[1456 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
-- ⚙️ **[1450 分]** [School] 利用規約・特商法表記
+- ⚙️ **[3 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
 
 ### Inbox 上位
+- [super] claude-selftest-useagent-20260603
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] X『中高生×AI』20投稿
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +51,7 @@ tags: [dashboard, system]
 - research : 22 件
 - newbiz : 449 件
 - ingest : 1 件
-- corp : 164 件
+- corp : 166 件
 - dev : 11 件
 
 ## 🔗 主要リンク
