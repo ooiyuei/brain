@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-29T13:01:01.9248132+09:00"
-                    },
-                    {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-05-29T13:11:01.8969459+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-02T12:51:02.4190358+09:00"
+                    },
+                    {
+                        "slug":  "testall-competitor-studyplus",
+                        "time":  "2026-06-02T13:01:02.6424528+09:00"
                     }
                 ]
 }
