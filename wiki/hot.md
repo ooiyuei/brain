@@ -32,27 +32,24 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-02）
+## 🌅 Today（2026-06-03）
 
-**絶対やる1個**: **夢AWARD応募骨子 完成・提出準備** — 残5日（6/7締切）・7日連続未着手・朝一番30分
-**サブ①**: AIpaX 5社目クロージング接触（大井の連絡1本のみ）
-**サブ②**: qwen3:8bバグ対処（BG-Entities系 context_files修正・Claudeがやる）
-**⚠️ 注意**: 監視ファイル（competitor/deadlines/grill）本日未生成（BrainMonitor遅延？）
+**絶対やる1個**: **夢AWARD応募骨子 完成・提出準備** — 残4日（6/7締切）・**10日連続未着手**・骨子v3は手元にある。今日やらないと詰む。
+**サブ①**: AIpaX 5社目クロージング接触（想定問答15選済み・大井の連絡1本のみ・月収80万ギャップ最速手）
+**サブ②**: 補助金2次確認（デジタル化AI6/15締切・残12日・今週中に要件確認）
+**✅ 昨夜完了**: OpenClaw 24h自走 根治オーバーホール（qwen3:8b統一・13件恒久修正・qwen3:8bバグも解決済み）
+**⚠️ 注意**: 監視ファイル（competitor/deadlines/grill）本日未生成（BrainMonitor遅延の可能性）
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-06-02
-**進捗**: 夢AWARD骨子 ❌未着手（残4日・今日中にやらないと詰む） / AIpaX5社目クロージング ❌未着手（想定問答inboxにあり・大井の連絡1本のみ） / qwen3:8bバグ ❌未着手（設定修正が必要）
-**PDCA**: 1件昇格（AIpa Web静岡企業候補リスト→research/aipa-web-shizuoka-companies-2026-06-02.md）・10件削除（Stripe qwen3:8b×4+重複×6）
-**午後**: ①今から30分で夢AWARD骨子仕上げ（叩き台2本+inbox骨子あり）②AIpaX5社目に連絡 ③夜にqwen3:8b設定修正
-**詳細**: [[_routines/midday-20260602]]
+**日付**: 2026-06-03（未実施）
+**進捗**: —
+**詳細**: [[_routines/midday-20260603]]
 
-## 🌙 Tomorrow（2026-06-03）
+## 🌙 Tomorrow（2026-06-04）
 
-**最優先**: **夢AWARD応募骨子を完成・提出** — 6/7締切・残**4日**。**9日連続未着手**。骨子v3（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`）は揃ってる。朝起きてすぐ・スマホ開く前に骨子v3を開く・30分で仕上げる。明日がラスト。
-**サブ①**: **AIpaX 5社目クロージング接触** — 想定問答15選完成済み。大井の連絡1本のみ。月収80万ギャップの最速手。
-**サブ②**: **qwen3:8bバグ対処** — BG-Entities系context_filesからooi-yuei.md除外。Claudeが設定ファイルを直接修正。
-**詳細**: [[_routines/evening-20260602]]
+（夜22:00のeveningルーティンで更新）
+**詳細**: [[_routines/evening-20260603]]
 
 ---
 

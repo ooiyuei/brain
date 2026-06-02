@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-30T08:11:01.9724132+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-05-30T08:21:01.9490568+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-03T08:01:01.9405767+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-03T08:11:02.2612446+09:00"
                     }
                 ]
 }
