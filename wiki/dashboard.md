@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 11:41
+updated: 2026-06-02 11:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 11:41
+**最終更新**: 2026-06-02 11:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -21,8 +21,8 @@ tags: [dashboard, system]
 | 📝 wiki/_inbox 未レビュー | 1253 (うち24h+古い: 1084) |
 
 ### 処理中
-- ⚙️ **[1560 分]** [EEMUS] ピッチデック10枚構成
-- ⚙️ **[41 分]** [BG-Competitive] Salesforce Einstein
+- ⚙️ **[1565 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[46 分]** [BG-Competitive] Salesforce Einstein
 
 ### Inbox 上位
 - [high] [Testall] 教育者連携アプローチ
