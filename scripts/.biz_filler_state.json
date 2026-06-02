@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-29T17:41:02.4554890+09:00"
-                    },
-                    {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-05-29T17:51:02.0259502+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-06-02T17:31:03.5912504+09:00"
+                    },
+                    {
+                        "slug":  "aipax-seo-chusho-ai",
+                        "time":  "2026-06-02T17:41:02.6612231+09:00"
                     }
                 ]
 }

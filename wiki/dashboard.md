@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 17:36
+updated: 2026-06-02 17:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 17:36
+**最終更新**: 2026-06-02 17:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 218 |
+| 📥 inbox | 219 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 156 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1288 (うち24h+古い: 1095) |
+| 📝 wiki/_inbox 未レビュー | 1288 (うち24h+古い: 1096) |
 
 ### 処理中
-- ⚙️ **[1595 分]** [School] note『AI時代に子供に渡したいもの』
-- ⚙️ **[1585 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[1600 分]** [School] note『AI時代に子供に渡したいもの』
+- ⚙️ **[1590 分]** [AIpaX] 業務委託契約書テンプレ
 
 ### Inbox 上位
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
