@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 20:16
+updated: 2026-06-02 20:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 20:16
+**最終更新**: 2026-06-02 20:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 222 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 174 |
+| ✅ 今日完了 | 175 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1306 (うち24h+古い: 1117) |
+| 📝 wiki/_inbox 未レビュー | 1307 (うち24h+古い: 1118) |
 
 ### 処理中
-- ⚙️ **[1621 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- ⚙️ **[1621 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1626 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1620 分]** [横断] Stripe決済設定 5事業ロードマップ
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [EEMUS] 提携高校候補20校リスト
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 20 件
 - newbiz : 433 件
 - ingest : 1 件
-- corp : 159 件
+- corp : 160 件
 - dev : 9 件
 
 ## 🔗 主要リンク
