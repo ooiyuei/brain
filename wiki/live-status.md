@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 18:22:46
+updated: 2026-06-02 18:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:22:46** | 🔥 **稼働中**
+**18:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7063MB / 8151MB (**86.7%**)
+- 使用率: **0%**
+- VRAM: 7067MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **85.9%** (27.4GB / 31.9GB)
+- 使用率: **87.5%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 161 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [96707 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [96947 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [96347 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [横断] 15事業の優先順位再評価
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ## 🎯 判定
 
