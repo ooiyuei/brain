@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 11:59
+updated: 2026-06-02 12:04
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,9 @@ updated: 2026-06-02 11:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1548分]** [AIpaX] 月次PL試算
-- [ ] **[処理中 1544分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- [ ] **[処理中 59分]** [BG-Competitive] Gusto
+- [ ] **[処理中 1553分]** [AIpaX] 月次PL試算
+- [ ] **[処理中 1549分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [ ] **[処理中 64分]** [BG-Competitive] Manebi
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
@@ -246,9 +246,9 @@ updated: 2026-06-02 11:59
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [School] 親向けLP完全版
+- [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
-- [ ] [待機] [BG-Competitive] Manebi
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
