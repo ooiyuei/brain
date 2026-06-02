@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 08:38:47
+updated: 2026-06-03 08:42:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:38:47** | 🔥 **稼働中**
+**08:42:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残20分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **24%**
-- VRAM: 7433MB / 8151MB (**91.2%**)
+- 使用率: **26%**
+- VRAM: 7525MB / 8151MB (**92.3%**)
 
 ## 💾 RAM
 
@@ -30,7 +30,7 @@ tags: [live, status, monitoring]
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
@@ -38,21 +38,20 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 81 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 180 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 182 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [49668 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [528 秒経過] **[Monitor] 朝の問い - 2026-06-03**
+- ⚡ [49308 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 判定
 

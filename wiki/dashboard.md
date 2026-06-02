@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 08:36
+updated: 2026-06-03 08:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 08:36
+**最終更新**: 2026-06-03 08:41
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 83 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 179 |
+| 📥 inbox | 82 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 181 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1499 (うち24h+古い: 1216) |
+| 📝 wiki/_inbox 未レビュー | 1499 (うち24h+古い: 1217) |
 
 ### 処理中
-- ⚙️ **[3 分]** [Testall] X受験あるある投稿30本
-- ⚙️ **[6 分]** [Monitor] ビジコン締切 - 2026-06-03
+- ⚙️ **[830 分]** [EEMUS] 連携企業候補20社
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -49,6 +48,8 @@ tags: [dashboard, system]
 ## 🌅 今朝の監視結果
 
 - [[_monitor/competitor-2026-06-03|competitor]]
+- [[_monitor/deadlines-2026-06-03|deadlines]]
+- [[_monitor/grill-2026-06-03|grill]]
 - [[_monitor/ai-news-2026-06-03|ai-news]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
