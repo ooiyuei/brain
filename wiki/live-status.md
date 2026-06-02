@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 10:26:46
+updated: 2026-06-02 10:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:26:46** | 🔥 **稼働中**
+**10:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,23 +15,23 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残26分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残22分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7039MB / 8151MB (**86.4%**)
+- 使用率: **2%**
+- VRAM: 7174MB / 8151MB (**88%**)
 
 ## 💾 RAM
 
-- 使用率: **85.3%** (27.2GB / 31.9GB)
+- 使用率: **87.3%** (27.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
@@ -39,12 +39,12 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 216 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 95 |
+| ✅ 今日完了 | 96 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [92386 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
-- ⚡ [92386 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [92626 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
+- ⚡ [48 秒経過] **[BG-Business] agents-of-flag 次の一手**
 
 ## 📥 待機タスク (上位5)
 
