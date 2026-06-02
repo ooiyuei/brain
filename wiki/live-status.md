@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 01:26:47
+updated: 2026-06-03 01:30:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:26:47** | 🔥 **稼働中**
+**01:30:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **31%**
-- VRAM: 7449MB / 8151MB (**91.4%**)
+- 使用率: **24%**
+- VRAM: 7471MB / 8151MB (**91.7%**)
 
 ## 💾 RAM
 
-- 使用率: **31.3%** (10GB / 31.9GB)
+- 使用率: **33.7%** (10.8GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,17 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 203 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 12 |
+| 📥 inbox | 199 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 14 |
+
+## 🔄 処理中タスク
+
+- ⚡ [86988 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [super] claude-selftest-pipeline-20260603
-- [high] [School] 入学後30日プラン
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
-- [high] [School] 利用規約・特商法表記
+- [high] [横断] 投資家向けピッチ1分版
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
