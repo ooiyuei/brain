@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 07:59
+updated: 2026-06-03 08:04
 ---
 
 # Today 2026-06-02
@@ -30,10 +30,8 @@ updated: 2026-06-03 07:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 908分]** [横断] 15事業の優先順位再評価
-- [ ] [待機] [AIpaX] 月次PL試算
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
-- [ ] [待機] [EEMUS] 連携企業候補20社
+- [ ] **[処理中 893分]** [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 883分]** [EEMUS] 連携企業候補20社
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [EEMUS] MVP LP完全版
@@ -120,6 +118,7 @@ updated: 2026-06-03 07:59
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
+- [ ] [待機] [School] 体験会2時間プログラム
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
