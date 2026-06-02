@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 09:11
+updated: 2026-06-02 09:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 09:11
+**最終更新**: 2026-06-02 09:16
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,20 +15,21 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 220 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 81 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 82 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1231 (うち24h+古い: 1077) |
+| 📝 wiki/_inbox 未レビュー | 1232 (うち24h+古い: 1077) |
 
 ### 処理中
-- ⚙️ **[1524 分]** [Money] 6/21月収100万 残30日アクションプラン
+- ⚙️ **[1525 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1515 分]** [AIpaX] 月次PL試算
 
 ### Inbox 上位
-- [high] [Testall] Studyplus Planning徹底比較
-- [high] [AIpaX] 月次PL試算
 - [high] [School] X『中高生×AI』20投稿
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [School] 親向けLP完全版
+- [high] [Monitor] 競合動向Top3 - 2026-06-01
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 497 件
 - research : 22 件
-- newbiz : 392 件
+- newbiz : 393 件
 - ingest : 1 件
 - corp : 142 件
 - dev : 11 件
