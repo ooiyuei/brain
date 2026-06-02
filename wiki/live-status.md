@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 07:26:46
+updated: 2026-06-03 07:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:26:46** | 🔥 **稼働中**
+**07:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残26分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **22%**
-- VRAM: 7632MB / 8151MB (**93.6%**)
+- 使用率: **0%**
+- VRAM: 7631MB / 8151MB (**93.6%**)
 
 ## 💾 RAM
 
-- 使用率: **35.5%** (11.3GB / 31.9GB)
+- 使用率: **35%** (11.2GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 90 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 156 |
-
-## 🔄 処理中タスク
-
-- ⚡ [210 秒経過] **[EEMUS] 連携企業候補20社**
+| 📥 inbox | 89 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 159 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] ユーザーペルソナ5パターン
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 利用規約・特商法表記
+- [high] [School] 親FAQ 30問
+- [high] [School] 親向けLP完全版
 
 ## 🎯 判定
 
