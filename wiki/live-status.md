@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:34:46
+updated: 2026-06-03 02:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:34:46** | 🔥 **稼働中**
+**02:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残13分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **21%**
-- VRAM: 7643MB / 8151MB (**93.8%**)
+- 使用率: **20%**
+- VRAM: 7400MB / 8151MB (**90.8%**)
 
 ## 💾 RAM
 
@@ -37,17 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 176 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 39 |
+| 📥 inbox | 174 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 41 |
+
+## 🔄 処理中タスク
+
+- ⚡ [331 秒経過] **[School] X『中高生×AI』20投稿**
+- ⚡ [331 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 利用規約・特商法表記
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 判定
 
