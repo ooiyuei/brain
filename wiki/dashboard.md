@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 08:31
+updated: 2026-06-03 08:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 08:31
+**最終更新**: 2026-06-03 08:36
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 85 |
+| 📥 inbox | 83 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 176 |
+| ✅ 今日完了 | 179 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1497 (うち24h+古い: 1215) |
+| 📝 wiki/_inbox 未レビュー | 1499 (うち24h+古い: 1216) |
 
 ### 処理中
-- ⚙️ **[840 分]** [Testall] ユーザーペルソナ5パターン
-- ⚙️ **[1 分]** [Monitor] 競合動向Top3 - 2026-06-03
+- ⚙️ **[3 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[6 分]** [Monitor] ビジコン締切 - 2026-06-03
 
 ### Inbox 上位
-- [high] [Testall] X受験あるある投稿30本
 - [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [School] 親向けLP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -48,12 +48,13 @@ tags: [dashboard, system]
 
 ## 🌅 今朝の監視結果
 
+- [[_monitor/competitor-2026-06-03|competitor]]
 - [[_monitor/ai-news-2026-06-03|ai-news]]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 578 件
-- research : 27 件
+- marketing : 579 件
+- research : 28 件
 - newbiz : 509 件
 - ingest : 1 件
 - corp : 200 件
