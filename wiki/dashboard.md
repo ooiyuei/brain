@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 23:36
+updated: 2026-06-02 23:41
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 23:36
+**最終更新**: 2026-06-02 23:41
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 227 |
+| 📥 inbox | 228 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 195 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1327 (うち24h+古い: 1139) |
+| 📝 wiki/_inbox 未レビュー | 1327 (うち24h+古い: 1141) |
 
 ### 処理中
-- ⚙️ **[1665 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[1655 分]** [Testall] ユーザーペルソナ5パターン
+- ⚙️ **[1670 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[1660 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
 - [high] [School] 体験会2時間プログラム
