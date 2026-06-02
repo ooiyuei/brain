@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 08:59
+updated: 2026-06-02 09:04
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-02 08:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1512分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [ ] [待機] [Money] AIpa Web 商工会経由営業文
+- [ ] **[処理中 1517分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [ ] **[処理中 1517分]** [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [AIpaX] 月次PL試算
@@ -249,6 +249,7 @@ updated: 2026-06-02 08:59
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [BG-Contests] バッチ12 (111-120)
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 

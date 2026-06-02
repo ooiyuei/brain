@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 09:02:47
+updated: 2026-06-02 09:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:02:47** | 🔥 **稼働中**
+**09:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7034MB / 8151MB (**86.3%**)
+- 使用率: **3%**
+- VRAM: 7039MB / 8151MB (**86.4%**)
 
 ## 💾 RAM
 
-- 使用率: **84.9%** (27.1GB / 31.9GB)
+- 使用率: **85.5%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
+| 📥 inbox | 220 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 79 |
+| ✅ 今日完了 | 80 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90946 秒経過] **[Money] AIpa Web 静岡中堅企業 10社具体リスト**
+- ⚡ [91186 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] 6/21月収100万 残30日アクションプラン
+- [] 
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [AIpaX] 月次PL試算
 - [high] [School] X『中高生×AI』20投稿
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 
