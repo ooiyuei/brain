@@ -1,36 +1,32 @@
 ---
 type: live-status
-updated: 2026-06-02 19:46:46
+updated: 2026-06-02 19:50:46
 tags: [live, status, monitoring]
 ---
 
-# 🔥 Brain Live Status
+# 💤 Brain Live Status
 
-**19:46:46** | 🔥 **稼働中**
+**19:50:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
 - 状態: 🟢 稼働中
-- ロード済みモデル: 1
-
-| モデル | サイズ | VRAM | 残時間 |
-|---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+- ロード済みモデル: 0
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7252MB / 8151MB (**89%**)
+- VRAM: 1047MB / 8151MB (**12.8%**)
 
 ## 💾 RAM
 
-- 使用率: **57.4%** (18.3GB / 31.9GB)
-- ✅ 適正
+- 使用率: **23.3%** (7.4GB / 31.9GB)
+- ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -38,12 +34,8 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 221 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 171 |
-
-## 🔄 処理中タスク
-
-- ⚡ [96947 秒経過] **[AIpaX] β顧客5社募集LP完全版**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 172 |
 
 ## 📥 待機タスク (上位5)
 
@@ -55,7 +47,7 @@ tags: [live, status, monitoring]
 
 ## 🎯 判定
 
-🔥 **OpenClaw稼働中** — タスク処理してます
+⏳ **再開待ち** — inbox に 221 件、次のworker起動で処理開始
 
 ---
 
