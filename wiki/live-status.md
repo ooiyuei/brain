@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 15:54:46
+updated: 2026-06-02 15:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**15:54:46** | 🔥 **稼働中**
+**15:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **86.6%** (27.7GB / 31.9GB)
+- 使用率: **86.3%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -43,7 +43,7 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [97427 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [97667 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
 
 ## 📥 待機タスク (上位5)
 
