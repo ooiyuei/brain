@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 11:51
+updated: 2026-06-02 11:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 11:51
+**最終更新**: 2026-06-02 11:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,23 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 109 |
+| 📥 inbox | 216 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 111 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1254 (うち24h+古い: 1084) |
+| 📝 wiki/_inbox 未レビュー | 1256 (うち24h+古い: 1084) |
 
 ### 処理中
-- ⚙️ **[51 分]** [BG-Competitive] Gusto
+- ⚙️ **[1545 分]** [AIpaX] 月次PL試算
+- ⚙️ **[1541 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[56 分]** [BG-Competitive] Gusto
 
 ### Inbox 上位
-- [high] [Testall] 教育者連携アプローチ
-- [high] [Testall] 教育者連携アプローチ
-- [high] [AIpaX] 月次PL試算
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [Testall] ユーザーペルソナ5パターン
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +49,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 504 件
+- marketing : 506 件
 - research : 25 件
 - newbiz : 400 件
 - ingest : 1 件
