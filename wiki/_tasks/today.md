@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 06:59
+updated: 2026-06-03 07:04
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,6 @@ updated: 2026-06-03 06:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1018分]** [横断] 15事業の優先順位再評価
-- [ ] [待機] [Testall] 教育者連携アプローチ
-- [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
@@ -126,6 +123,7 @@ updated: 2026-06-03 06:59
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
+- [ ] [待機] [AIpaX] 月次PL試算
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
