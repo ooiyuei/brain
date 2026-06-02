@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:38:46
+updated: 2026-06-03 02:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:38:46** | 🔥 **稼働中**
+**02:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **20%**
+- 使用率: **19%**
 - VRAM: 7400MB / 8151MB (**90.8%**)
 
 ## 💾 RAM
 
-- 使用率: **33.1%** (10.6GB / 31.9GB)
+- 使用率: **33.2%** (10.6GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 174 |
+| 📥 inbox | 171 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 41 |
+| ✅ 今日完了 | 42 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [331 秒経過] **[School] X『中高生×AI』20投稿**
-- ⚡ [331 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [83508 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [66466 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 

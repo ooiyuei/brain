@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-30T02:31:02.7049072+09:00"
-                    },
-                    {
                         "slug":  "aipax-lp-beta",
                         "time":  "2026-05-30T02:41:02.9556596+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-06-03T02:31:01.9409924+09:00"
+                    },
+                    {
+                        "slug":  "school-faq-parent-30",
+                        "time":  "2026-06-03T02:41:01.8435219+09:00"
                     }
                 ]
 }
