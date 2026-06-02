@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 12:31
+updated: 2026-06-02 12:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 12:31
+**最終更新**: 2026-06-02 12:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
+| 📥 inbox | 219 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 114 |
+| ✅ 今日完了 | 115 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1257 (うち24h+古い: 1084) |
+| 📝 wiki/_inbox 未レビュー | 1258 (うち24h+古い: 1084) |
 
 ### 処理中
-- ⚙️ **[8 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- ⚙️ **[1576 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[13 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1575 分]** [EEMUS] ピッチデック10枚構成
 
 ### Inbox 上位
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 506 件
 - research : 25 件
-- newbiz : 400 件
+- newbiz : 401 件
 - ingest : 1 件
 - corp : 147 件
 - dev : 12 件
