@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 06:49
+updated: 2026-06-03 06:54
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,7 @@ updated: 2026-06-03 06:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1038分]** [Testall] 教育者連携アプローチ
-- [ ] [待機] [School] note『AI時代に子供に渡したいもの』
-- [ ] [待機] [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 1023分]** [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
@@ -128,6 +126,7 @@ updated: 2026-06-03 06:49
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] [待機] [EEMUS] ピッチデック10枚構成
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
