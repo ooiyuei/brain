@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 15:16
+updated: 2026-06-02 15:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 15:16
+**最終更新**: 2026-06-02 15:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 222 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 134 |
+| ✅ 今日完了 | 135 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1266 (うち24h+古い: 1083) |
+| 📝 wiki/_inbox 未レビュー | 1267 (うち24h+古い: 1083) |
 
 ### 処理中
-- ⚙️ **[1625 分]** [EEMUS] ピッチデック10枚構成
-- ⚙️ **[1621 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1626 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1620 分]** [AIpaX] β顧客80万提案書フル版
 
 ### Inbox 上位
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] 体験会2時間プログラム
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 509 件
 - research : 19 件
-- newbiz : 410 件
+- newbiz : 411 件
 - ingest : 1 件
 - corp : 153 件
 - dev : 8 件
