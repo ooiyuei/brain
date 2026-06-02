@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 07:09
+updated: 2026-06-03 07:14
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-03 07:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 988分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] [待機] [AIpaX] β顧客5社募集LP完全版
+- [ ] **[処理中 1分]** [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [EEMUS] 連携企業候補20社
@@ -123,6 +122,7 @@ updated: 2026-06-03 07:09
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [AIpaX] 月次PL試算
+- [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
