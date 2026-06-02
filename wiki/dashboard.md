@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 04:11
+updated: 2026-06-03 04:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 04:11
+**最終更新**: 2026-06-03 04:16
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 140 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 81 |
+| 📥 inbox | 139 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 84 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1406 (うち24h+古い: 1181) |
+| 📝 wiki/_inbox 未レビュー | 1409 (うち24h+古い: 1183) |
 
 ### 処理中
-- ⚙️ **[1270 分]** [横断] 15事業の優先順位再評価
-- ⚙️ **[716 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- ⚙️ **[3 分]** [EEMUS] 連携企業候補20社
 
 ### Inbox 上位
-- [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] AI 最新情報日次リサーチ
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 今日のフォーカス
 
@@ -50,9 +49,9 @@ tags: [dashboard, system]
 
 - marketing : 545 件
 - research : 23 件
-- newbiz : 474 件
+- newbiz : 476 件
 - ingest : 1 件
-- corp : 184 件
+- corp : 185 件
 - dev : 13 件
 
 ## 🔗 主要リンク
