@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 03:34:46
+updated: 2026-06-03 03:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:34:46** | 🔥 **稼働中**
+**03:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,12 +15,12 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残24分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **42%**
+- 使用率: **33%**
 - VRAM: 7450MB / 8151MB (**91.4%**)
 
 ## 💾 RAM
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 149 |
+| 📥 inbox | 148 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 64 |
+| ✅ 今日完了 | 65 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90 秒経過] **[AIpaX] β顧客5社募集LP完全版**
-- ⚡ [55185 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [79667 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [55425 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [School] 親FAQ 30問
+- [high] [Testall] X受験あるある投稿30本
 
 ## 🎯 判定
 
