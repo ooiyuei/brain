@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 00:59
+updated: 2026-06-03 01:04
 ---
 
 # Today 2026-06-02
@@ -30,7 +30,7 @@ updated: 2026-06-03 00:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 6分]** [EEMUS] 提携高校候補20校リスト
+- [ ] **[処理中 11分]** [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
@@ -258,6 +258,7 @@ updated: 2026-06-03 00:59
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [EEMUS] MVP LP完全版
+- [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 
