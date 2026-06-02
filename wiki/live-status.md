@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 11:50:46
+updated: 2026-06-02 11:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:50:46** | 🔥 **稼働中**
+**11:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7314MB / 8151MB (**89.7%**)
+- VRAM: 7317MB / 8151MB (**89.8%**)
 
 ## 💾 RAM
 
-- 使用率: **59.7%** (19GB / 31.9GB)
+- 使用率: **61.4%** (19.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,23 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 108 |
+| 📥 inbox | 216 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 111 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [94187 秒経過] **[EEMUS] ピッチデック10枚構成**
-- ⚡ [3047 秒経過] **[BG-Competitive] Gusto**
+- ⚡ [92627 秒経過] **[AIpaX] 月次PL試算**
+- ⚡ [92386 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [3287 秒経過] **[BG-Competitive] Gusto**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] 教育者連携アプローチ
-- [high] [Testall] 教育者連携アプローチ
-- [high] [AIpaX] 月次PL試算
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [Testall] ユーザーペルソナ5パターン
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Money] AIpaX 既存4社 アップセル提案
 
 ## 🎯 判定
 
