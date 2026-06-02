@@ -1,4 +1,4 @@
-﻿# AI 情報常時巡回スクリプト (毎朝 06:30 + 緊急時)
+# AI 情報常時巡回スクリプト (毎朝 06:30 + 緊急時)
 # Scheduled Task: BrainAIInfoMonitor
 # 大井指示 (2026-05-28): GitHub いいね大量・X・AI情報サイト巡回 → 取り入れ
 # 出力: 07_research/ai-info/YYYY-MM-DD.md

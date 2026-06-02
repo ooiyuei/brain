@@ -1,4 +1,4 @@
-﻿# Claude の「夢」 = 1日の memory consolidation
+# Claude の「夢」 = 1日の memory consolidation
 # 23:00 にトリガー (Scheduled Task: BrainDreamConsolidation)
 # 1日の brain 編集差分 + OpenClaw 完了タスクを集計 → 09_knowledge/learnings/ に保存
 # 朝の Claude セッションでこのファイルを最初に確認することで「夢を見た」状態になる

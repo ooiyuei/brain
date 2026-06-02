@@ -1,4 +1,4 @@
-﻿#requires -Version 5.1
+#requires -Version 5.1
 # MoE Router (Mythos L2) - タスクから最適fillerを動的選択
 # 使い方: ./mythos_router.ps1 -TaskHint "AIpa Web 採用業界SEO記事"
 

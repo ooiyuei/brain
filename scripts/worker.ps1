@@ -189,7 +189,7 @@ try {
                 prompt = $finalPrompt
                 stream = $false
                 think = $false
-                options = [ordered]@{ temperature = 0.3; num_predict = 4000 }
+                options = [ordered]@{ temperature = 0.3; num_predict = 4000; num_ctx = 8192 }
             }
             $bodyJson = $bodyObj | ConvertTo-Json -Depth 6
             Write-WorkerLog "Fallback Ollama: model=$($job.model), prompt_len=$($finalPrompt.Length)"
@@ -204,7 +204,7 @@ try {
             prompt = $finalPrompt
             stream = $false
             think = $false
-            options = [ordered]@{ temperature = 0.3; num_predict = 4000 }
+            options = [ordered]@{ temperature = 0.3; num_predict = 4000; num_ctx = 8192 }
         }
         $bodyJson = $bodyObj | ConvertTo-Json -Depth 6
 

@@ -1,4 +1,4 @@
-﻿# 大井 PC スクリーンキャプチャ (30分毎)
+# 大井 PC スクリーンキャプチャ (30分毎)
 # Scheduled Task: BrainScreenMonitor (30分毎)
 # 保存先: _system/monitor/screens/YYYY-MM-DD/HHMM.png
 # 重要: 大井の作業を Claude が把握するため + 後で「あの時何やってた?」を引けるため
