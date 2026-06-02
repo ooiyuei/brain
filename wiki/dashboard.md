@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 23:31
+updated: 2026-06-02 23:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 23:31
+**最終更新**: 2026-06-02 23:36
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 228 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 227 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 195 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1327 (うち24h+古い: 1139) |
 
 ### 処理中
-- ⚙️ **[1660 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[1665 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[1655 分]** [Testall] ユーザーペルソナ5パターン
 
 ### Inbox 上位
-- [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [School] 親向けLP完全版
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 今日のフォーカス
 
