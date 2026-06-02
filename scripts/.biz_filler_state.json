@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-30T03:31:03.2253610+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-30T03:41:02.4298032+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "eemus-pitch-deck-10p",
                         "time":  "2026-06-03T03:31:01.9196572+09:00"
+                    },
+                    {
+                        "slug":  "testall-x-content-30",
+                        "time":  "2026-06-03T03:41:01.8734454+09:00"
                     }
                 ]
 }
