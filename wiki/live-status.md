@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:06:46
+updated: 2026-06-03 02:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:06:46** | 🔥 **稼働中**
+**02:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **21%**
-- VRAM: 7497MB / 8151MB (**92%**)
+- VRAM: 7575MB / 8151MB (**92.9%**)
 
 ## 💾 RAM
 
-- 使用率: **32.8%** (10.5GB / 31.9GB)
+- 使用率: **32.9%** (10.5GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 187 |
+| 📥 inbox | 185 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 28 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [210 秒経過] **[EEMUS] MVP LP完全版**
-- ⚡ [210 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
+- ⚡ [85187 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [78945 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 
