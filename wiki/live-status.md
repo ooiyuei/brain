@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:30:47
+updated: 2026-06-03 06:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:30:47** | 🔥 **稼働中**
+**06:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **24%**
-- VRAM: 7594MB / 8151MB (**93.2%**)
+- 使用率: **26%**
+- VRAM: 7605MB / 8151MB (**93.3%**)
 
 ## 💾 RAM
 
@@ -38,20 +38,16 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 97 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 139 |
-
-## 🔄 処理中タスク
-
-- ⚡ [64787 秒経過] **[AIpaX] β顧客80万提案書フル版**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 141 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親FAQ 30問
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [Testall] 教育者連携アプローチ
 
 ## 🎯 判定
 
