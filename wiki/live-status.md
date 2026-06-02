@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 11:22:47
+updated: 2026-06-02 11:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:22:47** | 🔥 **稼働中**
+**11:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **1%**
-- VRAM: 7176MB / 8151MB (**88%**)
+- 使用率: **0%**
+- VRAM: 7311MB / 8151MB (**89.7%**)
 
 ## 💾 RAM
 
-- 使用率: **56.3%** (18GB / 31.9GB)
+- 使用率: **60.7%** (19.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
+| 📥 inbox | 219 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 104 |
+| ✅ 今日完了 | 106 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [93708 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
-- ⚡ [1368 秒経過] **[BG-Competitive] Microsoft Copilot**
+- ⚡ [92748 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [1608 秒経過] **[BG-Competitive] Microsoft Copilot**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] X受験あるある投稿30本
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [Testall] 教育者連携アプローチ
 - [high] [Testall] 教育者連携アプローチ
 - [high] [AIpaX] 月次PL試算
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 
