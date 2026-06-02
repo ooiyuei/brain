@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 01:21
+updated: 2026-06-03 01:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 01:21
+**最終更新**: 2026-06-03 01:26
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,21 +14,18 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 230 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 10 |
+| 📥 inbox | 203 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 11 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1340 (うち24h+古い: 1150) |
-
-### 処理中
-- ⚙️ **[1680 分]** [School] X『中高生×AI』20投稿
+| 📝 wiki/_inbox 未レビュー | 1341 (うち24h+古い: 1151) |
 
 ### Inbox 上位
+- [super] claude-selftest-pipeline-20260603
 - [high] [School] 入学後30日プラン
-- [high] [AIpaX] 月次PL試算
-- [high] [横断] 15事業の優先順位再評価
-- [high] [Testall] 教育者連携アプローチ
-- [high] [School] 親向けLP完全版
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 今日のフォーカス
 
@@ -47,7 +44,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 528 件
+- marketing : 529 件
 - research : 22 件
 - newbiz : 448 件
 - ingest : 1 件
