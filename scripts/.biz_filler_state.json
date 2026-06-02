@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-29T10:41:01.7021798+09:00"
-                    },
-                    {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-05-29T10:51:01.8182603+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T10:31:02.3560999+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-02T10:41:02.2280968+09:00"
                     }
                 ]
 }
