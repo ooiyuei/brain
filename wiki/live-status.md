@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 19:02:47
+updated: 2026-06-02 19:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:02:47** | 🔥 **稼働中**
+**19:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7121MB / 8151MB (**87.4%**)
+- 使用率: **6%**
+- VRAM: 7123MB / 8151MB (**87.4%**)
 
 ## 💾 RAM
 
-- 使用率: **54.5%** (17.4GB / 31.9GB)
+- 使用率: **56.1%** (17.9GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 221 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 164 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97308 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [97548 秒経過] **[横断] 15事業の優先順位再評価**
+- ⚡ [96947 秒経過] **[Testall] X受験あるある投稿30本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] X受験あるある投稿30本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 
