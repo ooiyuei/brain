@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 14:06
+updated: 2026-06-02 14:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 14:06
+**最終更新**: 2026-06-02 14:11
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 124 |
+| ✅ 今日完了 | 125 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1256 (うち24h+古い: 1082) |
+| 📝 wiki/_inbox 未レビュー | 1257 (うち24h+古い: 1083) |
 
 ### 処理中
-- ⚙️ **[1635 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[1615 分]** [AIpaX] 業務委託契約書テンプレ
+- ⚙️ **[1640 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[1616 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] MVP LP完全版
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 19 件
 - newbiz : 406 件
 - ingest : 1 件
-- corp : 149 件
+- corp : 150 件
 - dev : 8 件
 
 ## 🔗 主要リンク
