@@ -1,28 +1,27 @@
 ---
 type: dashboard
-updated: 2026-06-02 13:31
+updated: 2026-06-02 13:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 13:31
+**最終更新**: 2026-06-02 13:36
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 37 Ready / 🔄 2 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 223 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 119 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 120 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1251 (うち24h+古い: 1081) |
+| 📝 wiki/_inbox 未レビュー | 1252 (うち24h+古い: 1081) |
 
 ### 処理中
-- ⚙️ **[1610 分]** [School] 1年カリキュラム詳細v2
-- ⚙️ **[1604 分]** [Money] EEMUS 連携企業5社 具体接触メール
+- ⚙️ **[1609 分]** [Money] EEMUS 連携企業5社 具体接触メール
 
 ### Inbox 上位
 - [high] [Money] 紹介プログラム 5事業横断ルール
@@ -50,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 506 件
 - research : 19 件
-- newbiz : 403 件
+- newbiz : 404 件
 - ingest : 1 件
 - corp : 148 件
 - dev : 8 件
