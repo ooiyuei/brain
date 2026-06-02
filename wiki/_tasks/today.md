@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 05:49
+updated: 2026-06-03 05:54
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,6 @@ updated: 2026-06-03 05:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 6分]** [School] 体験会2時間プログラム
-- [ ] **[処理中 79分]** [Revival] agents-of-flag 再評価+ピボット (2026-06-03)
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
@@ -139,7 +137,7 @@ updated: 2026-06-03 05:49
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
-- [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
+- [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 
 
