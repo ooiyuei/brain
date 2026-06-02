@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:02:46
+updated: 2026-06-03 06:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:02:46** | 🔥 **稼働中**
+**06:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **26%**
-- VRAM: 7561MB / 8151MB (**92.8%**)
+- 使用率: **0%**
+- VRAM: 7557MB / 8151MB (**92.7%**)
 
 ## 💾 RAM
 
-- 使用率: **34.4%** (11GB / 31.9GB)
+- 使用率: **34.1%** (10.9GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 106 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 128 |
-
-## 🔄 処理中タスク
-
-- ⚡ [69707 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
+| 📥 inbox | 104 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 131 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] コンテンツ戦略3ヶ月
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 入学後30日プラン
 - [high] [Testall] 教育者連携アプローチ
+- [high] [School] 親向けLP完全版
+- [high] [School] 親向けLP完全版
 
 ## 🎯 判定
 

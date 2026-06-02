@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 05:59
+updated: 2026-06-03 06:04
 ---
 
 # Today 2026-06-02
@@ -30,10 +30,8 @@ updated: 2026-06-03 05:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1168分]** [School] note『AI時代に子供に渡したいもの』
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
-- [ ] [待機] [Testall] コンテンツ戦略3ヶ月
-- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 1153分]** [Testall] コンテンツ戦略3ヶ月
+- [ ] **[処理中 1143分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [Testall] 教育者連携アプローチ
@@ -137,6 +135,7 @@ updated: 2026-06-03 05:59
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [School] 1年カリキュラム詳細v2
+- [ ] [待機] [横断] 投資家向けピッチ1分版
 
 
 ## ✅ 完了済み（夜にdone.mdへ移動）
