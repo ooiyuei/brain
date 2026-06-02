@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 13:56
+updated: 2026-06-02 14:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 13:56
+**最終更新**: 2026-06-02 14:01
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 123 |
+| ✅ 今日完了 | 124 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1255 (うち24h+古い: 1082) |
+| 📝 wiki/_inbox 未レビュー | 1256 (うち24h+古い: 1082) |
 
 ### 処理中
-- ⚙️ **[1625 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- ⚙️ **[1615 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[1630 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[1610 分]** [AIpaX] 業務委託契約書テンプレ
 
 ### Inbox 上位
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 体験会2時間プログラム
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 507 件
 - research : 19 件
-- newbiz : 405 件
+- newbiz : 406 件
 - ingest : 1 件
 - corp : 149 件
 - dev : 8 件

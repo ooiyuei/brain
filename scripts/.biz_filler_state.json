@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-05-29T14:01:02.1880932+09:00"
-                    },
-                    {
                         "slug":  "eemus-lp-mvp",
                         "time":  "2026-05-29T14:11:02.4136358+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-pitch-deck-10p",
                         "time":  "2026-06-02T13:51:02.5297698+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-02T14:01:02.6132998+09:00"
                     }
                 ]
 }
