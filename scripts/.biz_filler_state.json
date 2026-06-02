@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-30T05:31:01.5053657+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-05-30T05:41:02.0282433+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-03T05:21:01.9168382+09:00"
+                    },
+                    {
+                        "slug":  "aipax-pl-monthly",
+                        "time":  "2026-06-03T05:31:02.0736103+09:00"
                     }
                 ]
 }
