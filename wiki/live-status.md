@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 04:18:46
+updated: 2026-06-03 04:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:18:46** | 🔥 **稼働中**
+**04:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残19分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **19%**
-- VRAM: 7482MB / 8151MB (**91.8%**)
+- 使用率: **0%**
+- VRAM: 7479MB / 8151MB (**91.8%**)
 
 ## 💾 RAM
 
-- 使用率: **33.6%** (10.7GB / 31.9GB)
+- 使用率: **33.8%** (10.8GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 138 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 85 |
-
-## 🔄 処理中タスク
-
-- ⚡ [331 秒経過] **[EEMUS] 連携企業候補20社**
-- ⚡ [331 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
+| 📥 inbox | 137 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 87 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] AI 最新情報日次リサーチ
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 判定
 
