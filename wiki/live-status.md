@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:14:46
+updated: 2026-06-03 02:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:14:46** | 🔥 **稼働中**
+**02:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残24分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **20%**
-- VRAM: 7580MB / 8151MB (**93%**)
+- 使用率: **41%**
+- VRAM: 7599MB / 8151MB (**93.2%**)
 
 ## 💾 RAM
 
-- 使用率: **32.9%** (10.5GB / 31.9GB)
+- 使用率: **33.1%** (10.6GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 185 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 30 |
+| 📥 inbox | 181 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 32 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [84467 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [75819 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] X『中高生×AI』20投稿
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 
