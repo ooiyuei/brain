@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 20:02:46
+updated: 2026-06-02 20:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:02:46** | 🔥 **稼働中**
+**20:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7120MB / 8151MB (**87.4%**)
+- 使用率: **5%**
+- VRAM: 7255MB / 8151MB (**89%**)
 
 ## 💾 RAM
 
-- 使用率: **53.1%** (17GB / 31.9GB)
+- 使用率: **57.6%** (18.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
+| 📥 inbox | 220 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 172 |
+| ✅ 今日完了 | 173 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97307 秒経過] **[EEMUS] ピッチデック10枚構成**
-- ⚡ [96707 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [96947 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [96706 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 判定
 

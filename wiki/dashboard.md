@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 20:01
+updated: 2026-06-02 20:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 20:01
+**最終更新**: 2026-06-02 20:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 221 |
+| 📥 inbox | 220 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 172 |
+| ✅ 今日完了 | 173 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1304 (うち24h+古い: 1114) |
+| 📝 wiki/_inbox 未レビュー | 1305 (うち24h+古い: 1114) |
 
 ### 処理中
-- ⚙️ **[1620 分]** [EEMUS] ピッチデック10枚構成
-- ⚙️ **[1610 分]** [School] note『AI時代に子供に渡したいもの』
+- ⚙️ **[1615 分]** [School] note『AI時代に子供に渡したいもの』
+- ⚙️ **[1611 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 517 件
 - research : 20 件
-- newbiz : 432 件
+- newbiz : 433 件
 - ingest : 1 件
 - corp : 159 件
 - dev : 9 件
