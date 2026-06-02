@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 05:06
+updated: 2026-06-03 05:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 05:06
+**最終更新**: 2026-06-03 05:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 122 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 107 |
+| 📥 inbox | 119 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 109 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1431 (うち24h+古い: 1189) |
+| 📝 wiki/_inbox 未レビュー | 1433 (うち24h+古い: 1190) |
+
+### 処理中
+- ⚙️ **[1200 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[356 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 
 ### Inbox 上位
-- [high] [AIpaX] 業務委託契約書テンプレ
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
 - [high] [School] 入学後30日プラン
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -46,9 +50,9 @@ tags: [dashboard, system]
 
 - marketing : 550 件
 - research : 24 件
-- newbiz : 486 件
+- newbiz : 487 件
 - ingest : 1 件
-- corp : 191 件
+- corp : 192 件
 - dev : 13 件
 
 ## 🔗 主要リンク
