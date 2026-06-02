@@ -1,34 +1,34 @@
 ---
 type: dashboard
-updated: 2026-06-03 01:16
+updated: 2026-06-03 01:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 01:16
-**Ollama**: 🟢 稼働中 (5 モデル)
+**最終更新**: 2026-06-03 01:21
+**Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 232 |
+| 📥 inbox | 230 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 8 |
+| ✅ 今日完了 | 10 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1338 (うち24h+古い: 1150) |
+| 📝 wiki/_inbox 未レビュー | 1340 (うち24h+古い: 1150) |
 
 ### 処理中
-- ⚙️ **[1681 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1680 分]** [School] X『中高生×AI』20投稿
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [School] X『中高生×AI』20投稿
 - [high] [School] 入学後30日プラン
 - [high] [AIpaX] 月次PL試算
 - [high] [横断] 15事業の優先順位再評価
+- [high] [Testall] 教育者連携アプローチ
+- [high] [School] 親向けLP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -49,9 +49,9 @@ tags: [dashboard, system]
 
 - marketing : 528 件
 - research : 22 件
-- newbiz : 447 件
+- newbiz : 448 件
 - ingest : 1 件
-- corp : 163 件
+- corp : 164 件
 - dev : 11 件
 
 ## 🔗 主要リンク

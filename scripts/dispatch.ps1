@@ -172,6 +172,15 @@ if (-not $Model) {
     Write-Host "  [auto-model] Priority=$Priority → Model=$Model"
 }
 
+# 2026-06-03 一元バックプレッシャ: 全プロデューサ(filler/loop/pipeline)は必ずここを通る。
+# inbox飽和時(>=150)は super 以外の新規投入をスキップし、プロデューサ/コンシューマ不均衡(自己DoS)を防ぐ。
+# 本当に精度が要る単発依頼は -Priority super でバイパス。
+$bpInbox = @(Get-ChildItem (Join-Path $brainRoot 'queue\inbox') -Filter '*.json' -File -ErrorAction SilentlyContinue).Count
+if ($bpInbox -ge 150 -and $Priority -ne 'super') {
+    Write-Host "[backpressure] inbox=$bpInbox >=150 -> skip enqueue (priority=$Priority). superでバイパス可。"
+    return
+}
+
 $stamp = (Get-Date).ToString("yyyyMMdd-HHmmss-fff")
 $fileName = "$prio-$stamp-$taskId.json"
 $taskPath = Join-Path $inbox $fileName

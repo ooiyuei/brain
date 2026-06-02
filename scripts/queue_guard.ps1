@@ -24,9 +24,12 @@ $movedOld = 0
 $movedFailed = 0
 $workersRestarted = 0
 
-# 1. inbox膨張ガード (200件超で古いnormalを整理)
+# 1. inbox膨張ガード (200件超で古いものから _overflow へ退避)
+# 2026-06-03: 5-*.json 限定→全prefix年齢順に修正。高優先(1-*)が大量滞留する現運用で旧globが空振り(oldMoved=0常態)していた問題を是正。
+# これは安全弁。本体の排出はworkerが担う(レーン飢餓修正+OOM解消+num_ctxで実効スループット向上済)。
 if ($inboxCount -gt 200) {
-    Get-ChildItem "$queue\inbox\5-*.json" -File -ErrorAction SilentlyContinue | Where-Object { $_.LastWriteTime -lt (Get-Date).AddHours(-24) } | ForEach-Object {
+    $toMove = $inboxCount - 200
+    Get-ChildItem "$queue\inbox\*.json" -File -ErrorAction SilentlyContinue | Where-Object { $_.LastWriteTime -lt (Get-Date).AddHours(-24) } | Sort-Object LastWriteTime | Select-Object -First $toMove | ForEach-Object {
         Move-Item $_.FullName "$overflowDir\$($_.Name)" -Force -ErrorAction SilentlyContinue
         $movedOld++
     }
@@ -111,6 +114,22 @@ if (-not $hasLight) {
     Remove-Item "$queue\.worker-light.lock" -Force -ErrorAction SilentlyContinue
     Start-Process wscript -ArgumentList "//nologo `"$vbs`" `"$brain\scripts\worker.ps1`" light" -WindowStyle Hidden
     $workersRestarted++
+}
+
+# 3.5 管理外 any レーンワーカー掃除 (2026-06-03)
+# run_worker.vbs 等が Lane未指定(=any)で起動した孤児ワーカーが heavy と同一GPUで qwen3:8b を同時生成
+# → VRAM 16GB相当要求 → CPU溢れ/Ollama unreachable の温床。heavy+light が揃っている前提で余剰を停止。
+$strayKilled = 0
+if ($hasHeavy -and $hasLight) {
+    foreach ($w in $workers) {
+        if ($w.CommandLine -notmatch '\bheavy\b' -and $w.CommandLine -notmatch '\blight\b') {
+            try { Stop-Process -Id $w.ProcessId -Force -ErrorAction SilentlyContinue; $strayKilled++ } catch {}
+        }
+    }
+    if ($strayKilled -gt 0) {
+        Get-ChildItem "$queue\.worker-any.lock" -Force -ErrorAction SilentlyContinue | ForEach-Object { Move-Item $_.FullName "$lockGrave\$($_.Name).$((Get-Date).ToString('yyyyMMddHHmmss'))" -Force -ErrorAction SilentlyContinue }
+        "$nowStamp - stray any-worker killed: $strayKilled" | Add-Content $logPath -Encoding UTF8
+    }
 }
 
 # 4. .paused 怪奇現象対策 (過去にscheduler triggerで勝手にpaused復活)

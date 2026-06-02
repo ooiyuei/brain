@@ -6,7 +6,7 @@ $brainDir = "C:\Users\Owner\business\brain"
 $dailyPath = Join-Path $brainDir "wiki\daily\$today.md"
 $logPath = Join-Path $brainDir "scripts\daily_brain.log"
 $ollamaUrl = "http://localhost:11434/api/generate"
-$ollamaModel = "qwen3.6:latest"
+$ollamaModel = "qwen3:8b"  # 2026-06-03: qwen3.6:latest は8GB GPUで動かず削除済。8b統一。
 
 function Write-Log { param([string]$msg); "$([DateTime]::Now.ToString("HH:mm:ss")) $msg" | Add-Content $logPath -Encoding UTF8 }
 Write-Log "=== Start $today ==="
