@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-05-29T10:11:01.9248776+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-05-29T10:21:01.7584083+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T10:01:02.2835861+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-02T10:11:02.8076343+09:00"
                     }
                 ]
 }

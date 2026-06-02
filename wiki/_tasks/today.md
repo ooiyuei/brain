@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 10:04
+updated: 2026-06-02 10:09
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-02 10:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1533分]** [Testall] Studyplus Planning徹底比較
-- [ ] **[処理中 1523分]** [横断] 15事業の優先順位再評価
+- [ ] **[処理中 1538分]** [Testall] Studyplus Planning徹底比較
+- [ ] **[処理中 1528分]** [横断] 15事業の優先順位再評価
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
