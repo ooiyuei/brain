@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 16:51
+updated: 2026-06-02 16:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 16:51
+**最終更新**: 2026-06-02 16:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 149 |
+| 📥 inbox | 218 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 150 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1281 (うち24h+古い: 1085) |
+| 📝 wiki/_inbox 未レビュー | 1282 (うち24h+古い: 1086) |
 
 ### 処理中
-- ⚙️ **[1600 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[1601 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1601 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [横断] 15事業の優先順位再評価
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 513 件
 - research : 19 件
-- newbiz : 418 件
+- newbiz : 419 件
 - ingest : 1 件
 - corp : 155 件
 - dev : 9 件
