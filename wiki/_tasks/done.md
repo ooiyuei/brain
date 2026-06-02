@@ -11,6 +11,10 @@ updated: 2026-05-18
 
 ## 2026-06-W1（6/1-7）
 
+### 2026-06-02
+
+- [x] **昼PDCA実行**（12:30 / Claude）: 1件昇格（AIpa Web静岡中堅企業リスト→`research/aipa-web-shizuoka-companies-2026-06-02.md`）・10件削除（Stripe qwen3:8b×4+重複×6）
+
 ### 2026-06-01
 
 - [x] **昼PDCA実行**（12:30 / Claude）: 1件昇格（AIpa Web静岡中堅企業リスト→research/）・10件削除（qwen3:8bバグ3+重複7）⚠️ qwen3:8b worker が ooi-yuei.md を出力するバグ確認

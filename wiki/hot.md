@@ -47,28 +47,27 @@ managed_by: Claude (must update every session)
 **午後**: ①今から30分で夢AWARD骨子仕上げ（叩き台2本+inbox骨子あり）②AIpaX5社目に連絡 ③夜にqwen3:8b設定修正
 **詳細**: [[_routines/midday-20260602]]
 
-## 🌙 Tomorrow（2026-06-02）
+## 🌙 Tomorrow（2026-06-03）
 
-**最優先**: **夢AWARD応募骨子を完成・提出** — 6/7締切・残**5日**。6日連続未着手。叩き台2本（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`・`eemus-dream-award-story-2026-05-31.md`）はある。朝一番・他を全部閉じて30分だけ向き合う。明日やらないと手遅れ。
+**最優先**: **夢AWARD応募骨子を完成・提出** — 6/7締切・残**4日**。**9日連続未着手**。骨子v3（`_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`）は揃ってる。朝起きてすぐ・スマホ開く前に骨子v3を開く・30分で仕上げる。明日がラスト。
 **サブ①**: **AIpaX 5社目クロージング接触** — 想定問答15選完成済み。大井の連絡1本のみ。月収80万ギャップの最速手。
-**サブ②**: **qwen3:8bバグ対処** — BG-Entities系context_files設定修正。ooi-yuei.mdを除外するかqwen3.6:latestに切替。
-**詳細**: [[_routines/evening-20260601]]
+**サブ②**: **qwen3:8bバグ対処** — BG-Entities系context_filesからooi-yuei.md除外。Claudeが設定ファイルを直接修正。
+**詳細**: [[_routines/evening-20260602]]
 
 ---
 
 ## 📍 今ここ (Live State)
 
-**Last session**: 2026-06-02 昼 — 昼チェック (midday-20260602生成/today.md更新/hot.md更新/PDCA 1昇格10削除)
+**Last session**: 2026-06-02 夜 — 夜ルーティン (evening-20260602生成/done.md更新/hot.md更新)
 **Last touched files**:
-- `brain/wiki/_routines/midday-20260602.md` (昼チェックレポート)
-- `brain/wiki/_tasks/today.md` (完了セクション追記)
-- `brain/wiki/hot.md` (Midday更新)
-- `brain/wiki/research/aipa-web-shizuoka-companies-2026-06-02.md` (昇格)
+- `brain/wiki/_routines/evening-20260602.md` (夜振り返りメモ)
+- `brain/wiki/_tasks/done.md` (6/2完了タスク追記)
+- `brain/wiki/hot.md` (Tonight更新)
 
-**現在の Mode**: 昼チェック完了
-**完了**: 朝ルーティン・昼PDCA（1昇格・10削除）
-**未完**: 夢AWARD骨子（大井の30分・残4日・8日連続未着手）/ AIpaX 5社目接触 / qwen3:8bバグ修正
-**⚠️ 懸念**: qwen3:8bバグ継続中（Stripe設定4件を今日削除）/ inbox旧バッチ（5/19-5/28）大量滞留・一括整理検討必要
+**現在の Mode**: 夜ルーティン完了
+**完了**: 昼PDCA（1昇格・10削除）
+**未完**: 夢AWARD骨子（大井の30分・残4日・**9日連続未着手**）/ AIpaX 5社目接触 / qwen3:8bバグ修正
+**⚠️ 懸念**: 夢AWARD 6/7締切・明日がラスト / qwen3:8bバグ継続 / inbox旧バッチ滞留
 
 ---
 
