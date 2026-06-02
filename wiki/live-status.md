@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 13:42:46
+updated: 2026-06-02 13:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:42:46** | 🔥 **稼働中**
+**13:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 7047MB / 8151MB (**86.5%**)
+- 使用率: **92%**
+- VRAM: 7326MB / 8151MB (**89.9%**)
 
 ## 💾 RAM
 
-- 使用率: **85.9%** (27.4GB / 31.9GB)
+- 使用率: **57.7%** (18.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 122 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 123 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [96946 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
+- ⚡ [96947 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
+- ⚡ [96347 秒経過] **[School] 1年カリキュラム詳細v2**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [EEMUS] 提携高校候補20校リスト
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 

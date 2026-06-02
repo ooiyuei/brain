@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 13:41
+updated: 2026-06-02 13:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 13:41
+**最終更新**: 2026-06-02 13:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,18 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 223 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 122 |
+| 📥 inbox | 220 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 123 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1254 (うち24h+古い: 1081) |
+| 📝 wiki/_inbox 未レビュー | 1255 (うち24h+古い: 1081) |
+
+### 処理中
+- ⚙️ **[1615 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- ⚙️ **[1605 分]** [School] 1年カリキュラム詳細v2
 
 ### Inbox 上位
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [EEMUS] 提携高校候補20校リスト
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 今日のフォーカス
 
@@ -44,7 +48,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 506 件
+- marketing : 507 件
 - research : 19 件
 - newbiz : 405 件
 - ingest : 1 件
