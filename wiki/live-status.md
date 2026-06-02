@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 04:26:46
+updated: 2026-06-03 04:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:26:46** | 🔥 **稼働中**
+**04:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,8 +20,8 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **38%**
-- VRAM: 7496MB / 8151MB (**92%**)
+- 使用率: **35%**
+- VRAM: 7510MB / 8151MB (**92.1%**)
 
 ## 💾 RAM
 
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 135 |
+| 📥 inbox | 134 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 89 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [211 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
-- ⚡ [211 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
+- ⚡ [74987 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [36945 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] AI 最新情報日次リサーチ
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 
