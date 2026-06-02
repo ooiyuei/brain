@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 07:42:46
+updated: 2026-06-03 07:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**07:42:46** | 🔥 **稼働中**
+**07:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **26%**
+- 使用率: **33%**
 - VRAM: 7634MB / 8151MB (**93.7%**)
 
 ## 💾 RAM
 
-- 使用率: **35.1%** (11.2GB / 31.9GB)
+- 使用率: **35.3%** (11.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 87 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 162 |
+| ✅ 今日完了 | 163 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [55907 秒経過] **[School] 利用規約・特商法表記**
+- ⚡ [55546 秒経過] **[School] 親FAQ 30問**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [School] 親向けLP完全版
 - [high] [School] 親FAQ 30問
 - [high] [横断] 15事業の優先順位再評価
 - [high] [AIpaX] 月次PL試算
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 
