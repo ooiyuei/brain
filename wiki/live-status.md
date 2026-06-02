@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 10:30:46
+updated: 2026-06-02 10:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:30:46** | 🔥 **稼働中**
+**10:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残22分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **2%**
-- VRAM: 7174MB / 8151MB (**88%**)
+- 使用率: **0%**
+- VRAM: 7312MB / 8151MB (**89.7%**)
 
 ## 💾 RAM
 
-- 使用率: **87.3%** (27.9GB / 31.9GB)
+- 使用率: **59.7%** (19.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 216 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 96 |
+| ✅ 今日完了 | 97 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [92626 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
-- ⚡ [48 秒経過] **[BG-Business] agents-of-flag 次の一手**
+- ⚡ [92627 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [287 秒経過] **[BG-Business] agents-of-flag 次の一手**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 親FAQ 30問
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 判定
 
