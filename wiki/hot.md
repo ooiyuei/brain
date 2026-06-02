@@ -112,15 +112,15 @@ managed_by: Claude (must update every session)
 ---
 
 ## 今日の AI ニュース
-*最終更新: 2026-06-02 07:53*
+*最終更新: 2026-06-03 07:53*
 
-1. ★ デジタル化・AI導入補助金2026 の **2 次締切が 6/15**（残13日）— 補助率 1/2〜4/5・上限450万円、生成AIツールも対象（登録済みのみ）。Almeo の中小企業 AI 導入支援の提案窓。今が動くタイミング
-2. Anthropic が **$65B 調達・評価額 $965B**（Series H、Altimeter/Sequoia 主導）— Q1 2026 は VC の AI 投資が世界全体の80%。Claude 基盤の長期安定性↑＝OpenClaw を Claude に張る判断を補強
-3. Google が **Gemini CLI を 6/18 に Antigravity CLI へ統合**（Pro/Ultra/無料枠は提供停止、CLI 利用者は移行必須）— エージェント実行の計量化が業界トレンドに（Anthropic 6/15 と同方向）
+1. ★ Anthropic が **IPO 申請 → 翌日（6/2）Claude 全面障害** — OpenClaw は 100% Claude 依存＝**単一障害点が現実化**。Claude 不通時に qwen3:8b へ退避する最小フォールバックを worker.ps1 に検討
+2. ★ **Claude Opus 4.8 ベンチ判明**（大井が今動かしてる基盤）— agentic coding 64.3→**69.2%**、fast mode が **2.5x 速・1/3 コスト**、コーディングは高 effort デフォルト。OpenClaw を fast mode 固定＋キャッシュ化で 6/15 課金変更に先回り
+3. **3 大ラボが「常駐自律エージェント」へ収束** — GPT-5.6（6月予定）/ Gemini Spark（24/7 常駐）/ Opus dynamic workflows。**OpenClaw 24h 自走の方向性は業界本流**。差別化は「日本 SMB 業務文脈への張り付き」
 
-※継続フォロー: Anthropic 6/15 Agent SDK 従量課金化（OpenClaw 自動化に直撃・要 opt-in＋プロンプトキャッシュ）/ OpenAI GPT-4.5 は 6/27 廃止
+※継続フォロー: 補助金 2次締切 **6/15**（残12日・Almeo の提案窓）/ 6/15 Agent SDK 従量課金化＋Sonnet4/Opus4 API 退役 / GPT-4.5 は 6/27 廃止
 
-詳細: brain/07_research/ai-news/2026-06-02.md
+詳細: brain/07_research/ai-news/2026-06-03.md
 
 ---
 
