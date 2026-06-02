@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 05:34
+updated: 2026-06-03 05:39
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,8 @@ updated: 2026-06-03 05:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [Shincoder S10] PMF判定シート (2026-06-03 週分)
-- [ ] [待機] [School] 入学後30日プラン
-- [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [ ] **[処理中 1188分]** [EEMUS] 高校生インターン体験談コンテンツ3本
+- [ ] **[処理中 264分]** [Shincoder S11] ユニットエコノミクス計算シート (2026-06-03 月分)
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [EEMUS] MVP LP完全版
@@ -125,7 +124,6 @@ updated: 2026-06-03 05:34
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
-- [ ] [待機] [Shincoder S11] ユニットエコノミクス計算シート (2026-06-03 月分)
 - [ ] [待機] [Shincoder S2] 新規アイデアLP草案 (2026-06-03)
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
