@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:14:46
+updated: 2026-06-03 06:18:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:14:46** | 🔥 **稼働中**
+**06:18:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **18%**
-- VRAM: 7596MB / 8151MB (**93.2%**)
+- 使用率: **25%**
+- VRAM: 7593MB / 8151MB (**93.2%**)
 
 ## 💾 RAM
 
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 101 |
+| 📥 inbox | 100 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 134 |
+| ✅ 今日完了 | 135 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90 秒経過] **[School] 親向けLP完全版**
+- ⚡ [66467 秒経過] **[School] 親向けLP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] 親向けLP完全版
 - [high] [AIpaX] β顧客80万提案書フル版
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 
