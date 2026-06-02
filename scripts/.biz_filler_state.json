@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-05-29T21:41:03.4658799+09:00"
-                    },
-                    {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-05-29T21:51:02.4593370+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-06-02T21:41:02.0802818+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-02T21:51:01.9683066+09:00"
                     }
                 ]
 }
