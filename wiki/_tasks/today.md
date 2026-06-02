@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 00:44
+updated: 2026-06-03 00:49
 ---
 
 # Today 2026-06-02
@@ -30,7 +30,7 @@ updated: 2026-06-03 00:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 21分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 26分]** [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
