@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-29T19:31:02.6003669+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-29T19:41:02.3246334+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-02T19:31:02.0609672+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-02T19:41:01.9700863+09:00"
                     }
                 ]
 }

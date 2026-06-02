@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 19:38:46
+updated: 2026-06-02 19:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**19:38:46** | 🔥 **稼働中**
+**19:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
+- 使用率: **6%**
 - VRAM: 7255MB / 8151MB (**89%**)
 
 ## 💾 RAM
 
-- 使用率: **58.9%** (18.8GB / 31.9GB)
+- 使用率: **57.5%** (18.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 169 |
+| ✅ 今日完了 | 170 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97667 秒経過] **[School] 1年カリキュラム詳細v2**
-- ⚡ [97067 秒経過] **[横断] 投資家向けピッチ1分版**
+- ⚡ [97907 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [96707 秒経過] **[AIpaX] β顧客5社募集LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 判定
 
