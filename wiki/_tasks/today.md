@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 11:44
+updated: 2026-06-02 11:49
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-02 11:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1563分]** [EEMUS] ピッチデック10枚構成
-- [ ] **[処理中 44分]** [BG-Competitive] Salesforce Einstein
+- [ ] **[処理中 1568分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 49分]** [BG-Competitive] Gusto
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [AIpaX] 月次PL試算
@@ -250,7 +250,6 @@ updated: 2026-06-02 11:44
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
-- [ ] [待機] [BG-Competitive] Gusto
 - [ ] [待機] [BG-Competitive] Manebi
 
 
