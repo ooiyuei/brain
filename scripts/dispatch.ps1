@@ -158,15 +158,14 @@ $prio = switch ($Priority) {
     "low"    { "9" }
 }
 
-# Model 自動選択 (Priority基準):
-#  super/high = qwen3.6:latest (23GB・最強・遅い)
-#  normal     = qwen3.6:latest
-#  late/low   = qwen3:8b (5GB・速い・軽量) ← 大井「基本late」方針
+# Model 自動選択: 8GB GPU(RTX5060)では qwen3:8b 一択。
+# qwen3.6:latest(23GB) は VRAM 超過で OOM→Ollama クラッシュの源だったため 2026-06-03 に全経路から廃止+削除。
+# GPU 増設時は super/high をより大きいモデルへ戻すこと (worker.ps1 の oversizedModels ガードも併せて調整)。
 if (-not $Model) {
     $Model = switch ($Priority) {
-        "super"  { "qwen3.6:latest" }
-        "high"   { "qwen3.6:latest" }
-        "normal" { "qwen3.6:latest" }
+        "super"  { "qwen3:8b" }
+        "high"   { "qwen3:8b" }
+        "normal" { "qwen3:8b" }
         "late"   { "qwen3:8b" }
         "low"    { "qwen3:8b" }
     }

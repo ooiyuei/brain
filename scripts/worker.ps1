@@ -25,20 +25,14 @@ function Test-LaneMatch {
     param($job, $lane)
     if ($lane -eq "any") { return $true }
 
-    # ジョブの hint と lane でマッチング（優先順位順）
+    # 2026-06-03 レーン飢餓修正: 全ジョブ qwen3:8b 統一後、use_agent→heavy 固定が原因で
+    # 全タスクが heavy に偏り light ワーカーが遊休→実質1レーン直列に退化していた。
+    # プロンプト長のみで振り分け、中間長は any (両レーンが取得可)。これで2レーン並列が機能しドレインが2倍。
+    $len = 0
+    if ($job.prompt) { $len = [int]$job.prompt.Length }
     $jobLane = "any"
-
-    # 1. use_agent → 必ずheavy
-    if ($job.use_agent) { $jobLane = "heavy" }
-    # 2. priority=low → 必ずlight（idle系・量産系）
-    elseif ($job.priority -eq "low") { $jobLane = "light" }
-    # 3. モデル明示指定
-    elseif ($job.model -eq "qwen3:8b") { $jobLane = "light" }
-    elseif ($job.model -eq "phi3:mini") { $jobLane = "light" }
-    elseif ($job.model -eq "qwen3.6:latest") { $jobLane = "heavy" }
-    # 4. プロンプト長で判定
-    elseif ($job.prompt.Length -lt 500) { $jobLane = "light" }
-    elseif ($job.prompt.Length -gt 3000) { $jobLane = "heavy" }
+    if ($len -gt 3000) { $jobLane = "heavy" }
+    elseif ($len -lt 800) { $jobLane = "light" }
     else { $jobLane = "any" }
 
     if ($jobLane -eq "any") { return $true }
