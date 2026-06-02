@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 18:38:47
+updated: 2026-06-02 18:42:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:38:47** | 🔥 **稼働中**
+**18:42:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **1%**
+- 使用率: **4%**
 - VRAM: 7259MB / 8151MB (**89.1%**)
 
 ## 💾 RAM
 
-- 使用率: **60.6%** (19.4GB / 31.9GB)
+- 使用率: **59.4%** (19GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 221 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 161 |
+| ✅ 今日完了 | 162 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97668 秒経過] **[EEMUS] 提携高校候補20校リスト**
-- ⚡ [97068 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [97308 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [96708 秒経過] **[School] 1年カリキュラム詳細v2**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [横断] 15事業の優先順位再評価
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 判定
 
