@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:22:46
+updated: 2026-06-03 06:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:22:46** | 🔥 **稼働中**
+**06:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7590MB / 8151MB (**93.1%**)
+- 使用率: **27%**
+- VRAM: 7593MB / 8151MB (**93.2%**)
 
 ## 💾 RAM
 
-- 使用率: **34.5%** (11GB / 31.9GB)
+- 使用率: **34.8%** (11.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 100 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 137 |
+| 📥 inbox | 98 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 138 |
+
+## 🔄 処理中タスク
+
+- ⚡ [65147 秒経過] **[School] 親向けLP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 15事業の優先順位再評価
-- [high] [School] 親向けLP完全版
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [School] 親FAQ 30問
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 判定
 
