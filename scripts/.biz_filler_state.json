@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-05-29T11:41:01.8103946+09:00"
-                    },
-                    {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-05-29T11:51:01.7918929+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-02T11:31:02.2894419+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-lp",
+                        "time":  "2026-06-02T11:41:02.2689899+09:00"
                     }
                 ]
 }
