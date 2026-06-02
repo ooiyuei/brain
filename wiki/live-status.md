@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:54:47
+updated: 2026-06-03 06:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:54:47** | 🔥 **稼働中**
+**06:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残26分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **28%**
-- VRAM: 7621MB / 8151MB (**93.5%**)
+- 使用率: **26%**
+- VRAM: 7623MB / 8151MB (**93.5%**)
 
 ## 💾 RAM
 
-- 使用率: **34.9%** (11.1GB / 31.9GB)
+- 使用率: **34.8%** (11.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 96 |
+| 📥 inbox | 95 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 147 |
+| ✅ 今日完了 | 148 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [61427 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [61067 秒経過] **[横断] 15事業の優先順位再評価**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 15事業の優先順位再評価
 - [high] [Testall] 教育者連携アプローチ
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 判定
 
