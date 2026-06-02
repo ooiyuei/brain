@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 12:44
+updated: 2026-06-02 12:49
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-02 12:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1583分]** [EEMUS] ピッチデック10枚構成
-- [ ] **[処理中 1573分]** [Testall] ユーザーペルソナ5パターン
+- [ ] **[処理中 1578分]** [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
