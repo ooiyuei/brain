@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 23:18:46
+updated: 2026-06-02 23:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:18:46** | 🔥 **稼働中**
+**23:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
+- 使用率: **5%**
 - VRAM: 7253MB / 8151MB (**89%**)
 
 ## 💾 RAM
 
-- 使用率: **58.4%** (18.6GB / 31.9GB)
+- 使用率: **60.2%** (19.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,20 +39,20 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 227 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 193 |
+| ✅ 今日完了 | 194 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [100066 秒経過] **[AIpaX] β顧客候補30社プロファイル**
-- ⚡ [99466 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [100307 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [99107 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [School] 体験会2時間プログラム
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [School] 親向けLP完全版
 
 ## 🎯 判定
 
