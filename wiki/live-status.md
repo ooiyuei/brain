@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 21:50:46
+updated: 2026-06-02 21:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:50:46** | 🔥 **稼働中**
+**21:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 6947MB / 8151MB (**85.2%**)
+- 使用率: **77%**
+- VRAM: 6954MB / 8151MB (**85.3%**)
 
 ## 💾 RAM
 
-- 使用率: **86.8%** (27.7GB / 31.9GB)
+- 使用率: **88.9%** (28.4GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 183 |
+| 📥 inbox | 224 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 184 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [99346 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
+- ⚡ [99226 秒経過] **[EEMUS] 夢AWARD応募ストーリー骨子**
+- ⚡ [98627 秒経過] **[EEMUS] MVP LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
-- [high] [EEMUS] MVP LP完全版
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [EEMUS] MVP LP完全版
 - [high] [School] 入学後30日プラン
+- [high] [Testall] X受験あるある投稿30本
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 
