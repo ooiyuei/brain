@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 02:41
+updated: 2026-06-03 02:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 02:41
+**最終更新**: 2026-06-03 02:46
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 172 |
+| 📥 inbox | 171 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 41 |
+| ✅ 今日完了 | 44 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1369 (うち24h+古い: 1161) |
+| 📝 wiki/_inbox 未レビュー | 1372 (うち24h+古い: 1161) |
 
 ### 処理中
-- ⚙️ **[1390 分]** [横断] Stripe決済設定 5事業ロードマップ
-- ⚙️ **[1106 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
+- ⚙️ **[3 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[3 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
 
 ### Inbox 上位
 - [high] [EEMUS] 連携企業候補20社
@@ -50,10 +50,10 @@ tags: [dashboard, system]
 
 - marketing : 536 件
 - research : 23 件
-- newbiz : 457 件
+- newbiz : 458 件
 - ingest : 1 件
-- corp : 174 件
-- dev : 12 件
+- corp : 175 件
+- dev : 13 件
 
 ## 🔗 主要リンク
 
