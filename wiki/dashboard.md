@@ -1,29 +1,29 @@
 ---
 type: dashboard
-updated: 2026-06-03 00:11
+updated: 2026-06-03 00:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 00:11
+**最終更新**: 2026-06-03 00:16
 **Ollama**: 🟢 稼働中 (5 モデル)
-**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
+**スケジューラ**: 🟢 38 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 226 |
+| 📥 inbox | 228 |
 | ⚙️ processing | 3 |
 | ✅ 今日完了 | 1 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1331 (うち24h+古い: 1144) |
 
 ### 処理中
-- ⚙️ **[1676 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- ⚙️ **[1676 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- ⚙️ **[1660 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1681 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1681 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1665 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
 - [high] [School] 入学後30日プラン
