@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 18:50:47
+updated: 2026-06-02 18:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**18:50:47** | 🔥 **稼働中**
+**18:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7256MB / 8151MB (**89%**)
+- 使用率: **81%**
+- VRAM: 6981MB / 8151MB (**85.6%**)
 
 ## 💾 RAM
 
-- 使用率: **58.1%** (18.5GB / 31.9GB)
+- 使用率: **85.5%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 221 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 163 |
+| ✅ 今日完了 | 164 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97188 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [96827 秒経過] **[横断] 15事業の優先順位再評価**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 15事業の優先順位再評価
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Testall] ユーザーペルソナ5パターン
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
