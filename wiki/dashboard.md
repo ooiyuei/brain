@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 21:51
+updated: 2026-06-02 21:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 21:51
+**最終更新**: 2026-06-02 21:56
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 226 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 183 |
+| 📥 inbox | 224 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 184 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1315 (うち24h+古い: 1128) |
+| 📝 wiki/_inbox 未レビュー | 1316 (うち24h+古い: 1128) |
 
 ### 処理中
-- ⚙️ **[1656 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1655 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+- ⚙️ **[1645 分]** [EEMUS] MVP LP完全版
 
 ### Inbox 上位
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
-- [high] [EEMUS] MVP LP完全版
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [EEMUS] MVP LP完全版
 - [high] [School] 入学後30日プラン
+- [high] [Testall] X受験あるある投稿30本
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 520 件
 - research : 20 件
-- newbiz : 437 件
+- newbiz : 438 件
 - ingest : 1 件
 - corp : 161 件
 - dev : 10 件
