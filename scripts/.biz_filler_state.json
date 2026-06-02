@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-29T09:01:02.3995938+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-29T09:11:01.7353749+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-05-29T09:21:02.1220094+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-02T09:01:02.2607554+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-02T09:11:02.3166339+09:00"
                     }
                 ]
 }
