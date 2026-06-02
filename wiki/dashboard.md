@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 02:26
+updated: 2026-06-03 02:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 02:26
+**最終更新**: 2026-06-03 02:31
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 179 |
+| 📥 inbox | 176 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 36 |
+| ✅ 今日完了 | 37 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1364 (うち24h+古い: 1159) |
+| 📝 wiki/_inbox 未レビュー | 1365 (うち24h+古い: 1159) |
 
 ### 処理中
-- ⚙️ **[3 分]** [AIpaX] 業務委託契約書テンプレ
-- ⚙️ **[3 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- ⚙️ **[1400 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[1156 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 
 ### Inbox 上位
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] X『中高生×AI』20投稿
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 今日のフォーカス
 
@@ -50,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 535 件
 - research : 22 件
-- newbiz : 455 件
+- newbiz : 456 件
 - ingest : 1 件
 - corp : 173 件
 - dev : 12 件
