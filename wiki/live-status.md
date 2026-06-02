@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:26:46
+updated: 2026-06-03 02:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:26:46** | 🔥 **稼働中**
+**02:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残21分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残17分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **33%**
-- VRAM: 7599MB / 8151MB (**93.2%**)
+- 使用率: **22%**
+- VRAM: 7618MB / 8151MB (**93.5%**)
 
 ## 💾 RAM
 
-- 使用率: **33.3%** (10.6GB / 31.9GB)
+- 使用率: **33.2%** (10.6GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 179 |
+| 📥 inbox | 176 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 36 |
+| ✅ 今日完了 | 37 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [211 秒経過] **[AIpaX] 業務委託契約書テンプレ**
-- ⚡ [211 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [83987 秒経過] **[Testall] Studyplus Planning徹底比較**
+- ⚡ [69346 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] X『中高生×AI』20投稿
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 連携企業候補20社
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 利用規約・特商法表記
 
 ## 🎯 判定
 
