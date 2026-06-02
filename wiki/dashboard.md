@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 17:01
+updated: 2026-06-02 17:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 17:01
+**最終更新**: 2026-06-02 17:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 218 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 151 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1283 (うち24h+古い: 1087) |
 
 ### 処理中
-- ⚙️ **[1606 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1611 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1605 分]** [Testall] コンテンツ戦略3ヶ月
 
 ### Inbox 上位
-- [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] 業務委託契約書テンプレ
 
 ## 🎯 今日のフォーカス
 
