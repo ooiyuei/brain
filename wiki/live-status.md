@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 06:46:47
+updated: 2026-06-03 06:50:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**06:46:47** | 🔥 **稼働中**
+**06:50:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **35.1%** (11.2GB / 31.9GB)
+- 使用率: **34.8%** (11.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 94 |
+| 📥 inbox | 97 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 144 |
+| ✅ 今日完了 | 145 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [62747 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [62387 秒経過] **[Testall] 教育者連携アプローチ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] 教育者連携アプローチ
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [横断] 15事業の優先順位再評価
 - [high] [Testall] 教育者連携アプローチ
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 判定
 

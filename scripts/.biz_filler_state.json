@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-30T06:51:02.1133623+09:00"
-                    },
-                    {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-05-30T07:01:01.9330535+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-03T06:41:02.0802951+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-03T06:51:02.1162347+09:00"
                     }
                 ]
 }
