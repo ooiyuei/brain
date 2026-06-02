@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-05-30T03:11:02.9583716+09:00"
-                    },
-                    {
                         "slug":  "eemus-lp-mvp",
                         "time":  "2026-05-30T03:21:02.6196337+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-03T03:11:01.8054682+09:00"
+                    },
+                    {
+                        "slug":  "aipax-lp-beta",
+                        "time":  "2026-06-03T03:21:01.7783629+09:00"
                     }
                 ]
 }
