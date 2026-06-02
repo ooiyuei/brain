@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 09:41
+updated: 2026-06-02 09:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 09:41
+**最終更新**: 2026-06-02 09:46
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 85 |
+| 📥 inbox | 219 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 87 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1236 (うち24h+古い: 1078) |
+| 📝 wiki/_inbox 未レビュー | 1238 (うち24h+古い: 1078) |
 
 ### 処理中
-- ⚙️ **[1526 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- ⚙️ **[1526 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1531 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [School] 親向けLP完全版
 - [high] [Monitor] 競合動向Top3 - 2026-06-01
 - [high] [Monitor] ビジコン締切 - 2026-06-01
 - [high] [Monitor] 朝の問い - 2026-06-01
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 今日のフォーカス
 
@@ -48,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 498 件
+- marketing : 499 件
 - research : 24 件
-- newbiz : 393 件
+- newbiz : 394 件
 - ingest : 1 件
 - corp : 143 件
 - dev : 11 件

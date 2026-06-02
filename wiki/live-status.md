@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 09:42:46
+updated: 2026-06-02 09:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:42:46** | 🔥 **稼働中**
+**09:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **75%**
+- 使用率: **0%**
 - VRAM: 7032MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **84.6%** (27GB / 31.9GB)
+- 使用率: **85.3%** (27.2GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 220 |
+| 📥 inbox | 219 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 86 |
+| ✅ 今日完了 | 87 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [91666 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [91906 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
 - [high] [Monitor] 競合動向Top3 - 2026-06-01
 - [high] [Monitor] ビジコン締切 - 2026-06-01
 - [high] [Monitor] 朝の問い - 2026-06-01
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 判定
 
