@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 02:06
+updated: 2026-06-03 02:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 02:06
+**最終更新**: 2026-06-03 02:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 187 |
+| 📥 inbox | 185 |
 | ⚙️ processing | 2 |
 | ✅ 今日完了 | 28 |
 | ❌ failed | 6 |
 | 📝 wiki/_inbox 未レビュー | 1356 (うち24h+古い: 1158) |
 
 ### 処理中
-- ⚙️ **[3 分]** [EEMUS] MVP LP完全版
-- ⚙️ **[3 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
+- ⚙️ **[1420 分]** [School] 利用規約・特商法表記
+- ⚙️ **[1316 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 今日のフォーカス
 
