@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 01:06:47
+updated: 2026-06-03 01:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:06:47** | 🔥 **稼働中**
+**01:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **5%**
-- VRAM: 7356MB / 8151MB (**90.2%**)
+- VRAM: 7239MB / 8151MB (**88.8%**)
 
 ## 💾 RAM
 
-- 使用率: **57.2%** (18.2GB / 31.9GB)
+- 使用率: **55.1%** (17.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,17 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 230 |
-| ⚙️ processing | 0 |
+| 📥 inbox | 229 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 7 |
+
+## 🔄 処理中タスク
+
+- ⚡ [100787 秒経過] **[School] 親FAQ 30問**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 入学後30日プラン
+- [high] [AIpaX] 月次PL試算
 
 ## 🎯 判定
 
