@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 16:02:46
+updated: 2026-06-02 16:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:02:46** | 🔥 **稼働中**
+**16:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7206MB / 8151MB (**88.4%**)
+- 使用率: **81%**
+- VRAM: 7069MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **55.6%** (17.7GB / 31.9GB)
+- 使用率: **84.8%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 140 |
+| ✅ 今日完了 | 141 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97908 秒経過] **[横断] Stripe決済設定 5事業ロードマップ**
+- ⚡ [96947 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] X『中高生×AI』20投稿
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
