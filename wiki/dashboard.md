@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 04:56
+updated: 2026-06-03 05:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 04:56
+**最終更新**: 2026-06-03 05:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 125 |
+| 📥 inbox | 122 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 103 |
+| ✅ 今日完了 | 105 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1427 (うち24h+古い: 1189) |
+| 📝 wiki/_inbox 未レビュー | 1429 (うち24h+古い: 1189) |
 
 ### 処理中
-- ⚙️ **[3 分]** [EEMUS] 連携企業候補20社
-- ⚙️ **[3 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
+- ⚙️ **[1210 分]** [EEMUS] 高校生インターン体験談コンテンツ3本
+- ⚙️ **[406 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [School] 親向けLP完全版
+- [high] [School] 入学後30日プラン
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +48,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 548 件
+- marketing : 549 件
 - research : 24 件
 - newbiz : 486 件
 - ingest : 1 件
-- corp : 189 件
+- corp : 190 件
 - dev : 13 件
 
 ## 🔗 主要リンク

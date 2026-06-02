@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 04:58:47
+updated: 2026-06-03 05:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:58:47** | 🔥 **稼働中**
+**05:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,39 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **25%**
-- VRAM: 7551MB / 8151MB (**92.6%**)
+- 使用率: **26%**
+- VRAM: 7557MB / 8151MB (**92.7%**)
 
 ## 💾 RAM
 
-- 使用率: **34.1%** (10.9GB / 31.9GB)
+- 使用率: **34.2%** (10.9GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 123 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 103 |
+| 📥 inbox | 121 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 107 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [73067 秒経過] **[EEMUS] 高校生インターン体験談コンテンツ3本**
-- ⚡ [27824 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
+- ⚡ [72108 秒経過] **[AIpaX] 業務委託契約書テンプレ**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
+- [high] [School] 入学後30日プラン
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 判定
 
