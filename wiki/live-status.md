@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 20:10:46
+updated: 2026-06-02 20:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:10:46** | 🔥 **稼働中**
+**20:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **81%**
-- VRAM: 6948MB / 8151MB (**85.2%**)
+- 使用率: **3%**
+- VRAM: 6951MB / 8151MB (**85.3%**)
 
 ## 💾 RAM
 
-- 使用率: **85.2%** (27.2GB / 31.9GB)
+- 使用率: **84.9%** (27.1GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 220 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 174 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [96946 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [97186 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [97186 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 判定
 
