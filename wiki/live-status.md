@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 03:46:46
+updated: 2026-06-03 03:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:46:46** | 🔥 **稼働中**
+**03:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残16分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **31%**
-- VRAM: 7450MB / 8151MB (**91.4%**)
+- 使用率: **25%**
+- VRAM: 7458MB / 8151MB (**91.5%**)
 
 ## 💾 RAM
 
-- 使用率: **33.7%** (10.8GB / 31.9GB)
+- 使用率: **33.5%** (10.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 145 |
+| 📥 inbox | 146 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 69 |
+| ✅ 今日完了 | 72 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [79547 秒経過] **[School] 1年カリキュラム詳細v2**
-- ⚡ [78346 秒経過] **[AIpaX] β顧客5社募集LP完全版**
+- ⚡ [77987 秒経過] **[School] 親FAQ 30問**
+- ⚡ [48944 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [Testall] X受験あるある投稿30本
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [Testall] X受験あるある投稿30本
+- [high] [横断] 15事業の優先順位再評価
 
 ## 🎯 判定
 
