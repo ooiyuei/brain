@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 17:10:47
+updated: 2026-06-02 17:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:10:47** | 🔥 **稼働中**
+**17:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,22 +15,22 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7203MB / 8151MB (**88.4%**)
+- 使用率: **63%**
+- VRAM: 7067MB / 8151MB (**86.7%**)
 
 ## 💾 RAM
 
-- 使用率: **56%** (17.9GB / 31.9GB)
+- 使用率: **86.3%** (27.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 218 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 152 |
+| ✅ 今日完了 | 153 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [96588 秒経過] **[Testall] コンテンツ戦略3ヶ月**
+- ⚡ [96228 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [横断] 15事業の優先順位再評価
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 

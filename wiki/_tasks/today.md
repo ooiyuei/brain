@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 17:09
+updated: 2026-06-02 17:14
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-02 17:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1608分]** [Testall] コンテンツ戦略3ヶ月
-- [ ] [待機] [EEMUS] 連携企業候補20社
+- [ ] **[処理中 1603分]** [EEMUS] 連携企業候補20社
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
@@ -247,6 +246,7 @@ updated: 2026-06-02 17:09
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [AIpaX] 月次PL試算
+- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-02
 - [ ] [待機] [BG-Contests] バッチ13 (121-130)
 
