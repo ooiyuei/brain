@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-30T05:21:01.7553602+09:00"
-                    },
-                    {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-05-30T05:31:01.5053657+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-03T05:11:01.9555234+09:00"
+                    },
+                    {
+                        "slug":  "school-faq-parent-30",
+                        "time":  "2026-06-03T05:21:01.9168382+09:00"
                     }
                 ]
 }

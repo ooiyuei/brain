@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 05:16
+updated: 2026-06-03 05:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 05:16
+**最終更新**: 2026-06-03 05:21
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,22 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 119 |
+| 📥 inbox | 117 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 111 |
+| ✅ 今日完了 | 112 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1435 (うち24h+古い: 1191) |
+| 📝 wiki/_inbox 未レビュー | 1436 (うち24h+古い: 1191) |
 
 ### 処理中
-- ⚙️ **[3 分]** [EEMUS] 提携高校候補20校リスト
-- ⚙️ **[3 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
+- ⚙️ **[1200 分]** [EEMUS] 提携高校候補20校リスト
+- ⚙️ **[306 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-03 騾ｱ蛻・
 
 ### Inbox 上位
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 親向けLP完全版
 - [high] [School] 入学後30日プラン
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 24 件
 - newbiz : 489 件
 - ingest : 1 件
-- corp : 192 件
+- corp : 193 件
 - dev : 13 件
 
 ## 🔗 主要リンク
