@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-29T12:01:01.8066620+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-05-29T12:11:01.8562898+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-02T11:51:02.3468097+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-02T12:01:02.3223947+09:00"
                     }
                 ]
 }
