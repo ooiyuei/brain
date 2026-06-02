@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-29T21:51:02.4593370+09:00"
-                    },
-                    {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-05-29T22:01:02.6324472+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T21:51:01.9683066+09:00"
+                    },
+                    {
+                        "slug":  "aipax-lp-beta",
+                        "time":  "2026-06-02T22:01:02.2688168+09:00"
                     }
                 ]
 }
