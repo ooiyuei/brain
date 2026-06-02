@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-29T18:11:02.4056051+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-05-29T18:21:02.4828772+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-06-02T18:11:01.5800066+09:00"
+                    },
+                    {
+                        "slug":  "aipax-contract-template",
+                        "time":  "2026-06-02T18:21:01.5192735+09:00"
                     }
                 ]
 }
