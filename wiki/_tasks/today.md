@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 11:04
+updated: 2026-06-02 11:09
 ---
 
 # Today 2026-06-02
@@ -30,9 +30,8 @@ updated: 2026-06-02 11:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1549分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- [ ] **[処理中 1543分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 4分]** [BG-Competitive] ChatGPT Team
+- [ ] **[処理中 1548分]** [横断] Stripe決済設定 5事業ロードマップ
+- [ ] **[処理中 9分]** [BG-Competitive] ChatGPT Team
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [Testall] 教育者連携アプローチ

@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-29T11:11:01.8058877+09:00"
-                    },
-                    {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-05-29T11:21:01.7805008+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-06-02T11:01:02.3398632+09:00"
+                    },
+                    {
+                        "slug":  "school-x-content",
+                        "time":  "2026-06-02T11:11:02.3217823+09:00"
                     }
                 ]
 }
