@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 01:41
+updated: 2026-06-03 01:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 01:41
+**最終更新**: 2026-06-03 01:46
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 199 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 16 |
+| 📥 inbox | 195 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 18 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1345 (うち24h+古い: 1154) |
+| 📝 wiki/_inbox 未レビュー | 1346 (うち24h+古い: 1155) |
 
 ### 処理中
-- ⚙️ **[8 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- ⚙️ **[1445 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[1411 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 
 ### Inbox 上位
-- [super] claude-selftest-useagent-20260603
-- [high] [横断] 投資家向けピッチ1分版
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [School] X『中高生×AI』20投稿
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
+- [high] [EEMUS] MVP LP完全版
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +50,7 @@ tags: [dashboard, system]
 
 - marketing : 530 件
 - research : 22 件
-- newbiz : 449 件
+- newbiz : 450 件
 - ingest : 1 件
 - corp : 166 件
 - dev : 11 件
