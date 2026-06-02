@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 14:30:47
+updated: 2026-06-02 14:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:30:47** | 🔥 **稼働中**
+**14:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **5%**
-- VRAM: 7202MB / 8151MB (**88.4%**)
+- 使用率: **81%**
+- VRAM: 7062MB / 8151MB (**86.6%**)
 
 ## 💾 RAM
 
-- 使用率: **56%** (17.9GB / 31.9GB)
+- 使用率: **86.8%** (27.7GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 222 |
+| 📥 inbox | 221 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 128 |
+| ✅ 今日完了 | 130 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [97788 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [97427 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
-- [high] [EEMUS] MVP LP完全版
 - [high] [横断] 15事業の優先順位再評価
 - [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 
 ## 🎯 判定
 
