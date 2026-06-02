@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 06:56
+updated: 2026-06-03 07:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 06:56
+**最終更新**: 2026-06-03 07:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,20 +14,20 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 96 |
+| 📥 inbox | 95 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 147 |
+| ✅ 今日完了 | 149 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1469 (うち24h+古い: 1204) |
+| 📝 wiki/_inbox 未レビュー | 1471 (うち24h+古い: 1205) |
 
 ### 処理中
-- ⚙️ **[1025 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[1010 分]** [Testall] 教育者連携アプローチ
 
 ### Inbox 上位
-- [high] [横断] 15事業の優先順位再評価
-- [high] [Testall] 教育者連携アプローチ
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [EEMUS] MVP LP完全版
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 今日のフォーカス
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 567 件
 - research : 26 件
-- newbiz : 499 件
+- newbiz : 501 件
 - ingest : 1 件
 - corp : 196 件
 - dev : 14 件
