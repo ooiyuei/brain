@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 02:01
+updated: 2026-06-03 02:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 02:01
+**最終更新**: 2026-06-03 02:06
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 188 |
+| 📥 inbox | 187 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 25 |
+| ✅ 今日完了 | 28 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1353 (うち24h+古い: 1158) |
+| 📝 wiki/_inbox 未レビュー | 1356 (うち24h+古い: 1158) |
 
 ### 処理中
-- ⚙️ **[1420 分]** [EEMUS] MVP LP完全版
-- ⚙️ **[1366 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
+- ⚙️ **[3 分]** [EEMUS] MVP LP完全版
+- ⚙️ **[3 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 
 ### Inbox 上位
 - [high] [School] 利用規約・特商法表記
@@ -48,9 +48,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 533 件
+- marketing : 534 件
 - research : 22 件
-- newbiz : 452 件
+- newbiz : 454 件
 - ingest : 1 件
 - corp : 168 件
 - dev : 11 件

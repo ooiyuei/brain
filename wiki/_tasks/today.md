@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 01:59
+updated: 2026-06-03 02:04
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,6 @@ updated: 2026-06-03 01:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1428分]** [AIpaX] X投稿『AI導入Tips』20本
-- [ ] **[処理中 1364分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本

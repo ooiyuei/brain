@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 02:02:46
+updated: 2026-06-03 02:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:02:46** | 🔥 **稼働中**
+**02:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,35 +15,36 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残20分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **27%**
-- VRAM: 7495MB / 8151MB (**92%**)
+- 使用率: **21%**
+- VRAM: 7497MB / 8151MB (**92%**)
 
 ## 💾 RAM
 
-- 使用率: **32.9%** (10.5GB / 31.9GB)
+- 使用率: **32.8%** (10.5GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 188 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 26 |
+| 📥 inbox | 187 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 28 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [85308 秒経過] **[EEMUS] MVP LP完全版**
+- ⚡ [210 秒経過] **[EEMUS] MVP LP完全版**
+- ⚡ [210 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
 
 ## 📥 待機タスク (上位5)
 
