@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 01:54
+updated: 2026-06-03 01:59
 ---
 
 # Today 2026-06-02
@@ -30,16 +30,14 @@ updated: 2026-06-03 01:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [School] X『中高生×AI』20投稿
-- [ ] **[処理中 1359分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-02 騾ｱ蛻・
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 1428分]** [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 1364分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [AIpaX] 業務委託契約書テンプレ
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
-- [ ] [待機] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [EEMUS] 連携企業候補20社

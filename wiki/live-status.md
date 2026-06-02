@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 01:58:46
+updated: 2026-06-03 02:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**01:58:46** | 🔥 **稼働中**
+**02:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残24分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残20分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **40%**
+- 使用率: **27%**
 - VRAM: 7495MB / 8151MB (**92%**)
 
 ## 💾 RAM
 
-- 使用率: **32.4%** (10.3GB / 31.9GB)
+- 使用率: **32.9%** (10.5GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 189 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 24 |
+| 📥 inbox | 188 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 26 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [85667 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
-- ⚡ [81822 秒経過] **[Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-02)**
+- ⚡ [85308 秒経過] **[EEMUS] MVP LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
 - [high] [School] 利用規約・特商法表記
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [Testall] Studyplus Planning徹底比較
 
 ## 🎯 判定
 
