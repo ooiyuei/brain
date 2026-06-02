@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-02 14:16
+updated: 2026-06-02 14:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-02 14:16
+**最終更新**: 2026-06-02 14:21
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -16,20 +16,20 @@ tags: [dashboard, system]
 |---|---|
 | 📥 inbox | 222 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 126 |
+| ✅ 今日完了 | 127 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1258 (うち24h+古い: 1083) |
+| 📝 wiki/_inbox 未レビュー | 1259 (うち24h+古い: 1083) |
 
 ### 処理中
-- ⚙️ **[1621 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- ⚙️ **[1621 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1626 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1620 分]** [EEMUS] 提携高校候補20校リスト
 
 ### Inbox 上位
-- [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] MVP LP完全版
 - [high] [横断] 15事業の優先順位再評価
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [EEMUS] ピッチデック10枚構成
 
 ## 🎯 今日のフォーカス
 
@@ -52,7 +52,7 @@ tags: [dashboard, system]
 - research : 19 件
 - newbiz : 406 件
 - ingest : 1 件
-- corp : 150 件
+- corp : 151 件
 - dev : 8 件
 
 ## 🔗 主要リンク
