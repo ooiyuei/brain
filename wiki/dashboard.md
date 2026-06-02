@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 05:41
+updated: 2026-06-03 05:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 05:41
+**最終更新**: 2026-06-03 05:46
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,14 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 111 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 120 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 122 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1445 (うち24h+古い: 1195) |
+| 📝 wiki/_inbox 未レビュー | 1447 (うち24h+古い: 1196) |
 
 ### 処理中
-- ⚙️ **[1180 分]** [School] note『AI時代に子供に渡したいもの』
-- ⚙️ **[266 分]** [Shincoder S2] 新規アイデアLP草案 (2026-06-03)
+- ⚙️ **[3 分]** [Shincoder S2] 新規アイデアLP草案 (2026-06-03)
 
 ### Inbox 上位
 - [high] [School] 体験会2時間プログラム
@@ -48,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 553 件
+- marketing : 554 件
 - research : 25 件
-- newbiz : 491 件
+- newbiz : 492 件
 - ingest : 1 件
 - corp : 196 件
 - dev : 13 件
