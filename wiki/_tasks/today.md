@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-02 17:04
+updated: 2026-06-02 17:09
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,7 @@ updated: 2026-06-02 17:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1609分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
-- [ ] **[処理中 1603分]** [Testall] コンテンツ戦略3ヶ月
+- [ ] **[処理中 1608分]** [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [横断] 15事業の優先順位再評価
