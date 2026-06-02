@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 07:16
+updated: 2026-06-03 07:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 07:16
+**最終更新**: 2026-06-03 07:21
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 92 |
+| 📥 inbox | 91 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 153 |
+| ✅ 今日完了 | 155 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1475 (うち24h+古い: 1207) |
+| 📝 wiki/_inbox 未レビュー | 1477 (うち24h+古い: 1208) |
 
 ### 処理中
-- ⚙️ **[3 分]** [AIpaX] β顧客5社募集LP完全版
+- ⚙️ **[970 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [横断] Stripe決済設定 5事業ロードマップ
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [EEMUS] 連携企業候補20社
 - [high] [Testall] ユーザーペルソナ5パターン
 - [high] [横断] 投資家向けピッチ1分版
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 今日のフォーカス
 
@@ -47,12 +47,12 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 570 件
+- marketing : 571 件
 - research : 26 件
 - newbiz : 501 件
 - ingest : 1 件
 - corp : 196 件
-- dev : 15 件
+- dev : 16 件
 
 ## 🔗 主要リンク
 
