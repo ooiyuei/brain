@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 00:01
+updated: 2026-06-03 00:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 00:01
+**最終更新**: 2026-06-03 00:06
 **Ollama**: 🟢 稼働中 (5 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,22 +14,23 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 227 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 0 |
+| 📥 inbox | 225 |
+| ⚙️ processing | 3 |
+| ✅ 今日完了 | 1 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1330 (うち24h+古い: 1142) |
+| 📝 wiki/_inbox 未レビュー | 1331 (うち24h+古い: 1143) |
 
 ### 処理中
-- ⚙️ **[1666 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
-- ⚙️ **[1666 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1671 分]** [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
+- ⚙️ **[1671 分]** [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- ⚙️ **[1655 分]** [Testall] Studyplus Planning徹底比較
 
 ### Inbox 上位
-- [high] [School] 親向けLP完全版
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [School] 入学後30日プラン
 - [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] [EEMUS] 提携高校候補20校リスト
+- [high] [School] 親FAQ 30問
+- [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
 
 ## 🎯 今日のフォーカス
 
@@ -48,7 +49,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 525 件
+- marketing : 526 件
 - research : 21 件
 - newbiz : 445 件
 - ingest : 1 件

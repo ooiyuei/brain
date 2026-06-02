@@ -12,3 +12,4 @@
 {"ts": "2026-05-29T08:38:10+09:00", "event": "SessionStart", "session_id": "fcfa52fa-aab6-4dd8-a217-e3f1732cf4c8", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
 {"ts": "2026-06-01T10:25:42+09:00", "event": "SessionStart", "session_id": "189f7e30-6458-423b-a681-dccec1e5d316", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
 {"ts": "2026-06-01T10:25:42+09:00", "event": "SessionStart", "session_id": "10f3acf3-0769-4f5b-a453-fae912d6efba", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
+{"ts": "2026-06-03T00:05:03+09:00", "event": "SessionStart", "session_id": "26b51a4d-fc9a-4339-867c-9bd134dfdb63", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
