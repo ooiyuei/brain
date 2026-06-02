@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 05:46:46
+updated: 2026-06-03 05:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**05:46:46** | 🔥 **稼働中**
+**05:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残23分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **35%**
-- VRAM: 7556MB / 8151MB (**92.7%**)
+- 使用率: **19%**
+- VRAM: 7561MB / 8151MB (**92.8%**)
 
 ## 💾 RAM
 
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 111 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 122 |
+| 📥 inbox | 108 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 124 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [210 秒経過] **[Shincoder S2] 新規アイデアLP草案 (2026-06-03)**
+- ⚡ [450 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [80433 秒経過] **[BG-AINews] AI業界ニュース 2026-06-02**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] MVP LP完全版
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 

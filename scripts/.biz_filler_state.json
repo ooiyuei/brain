@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-30T05:41:02.0282433+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-30T05:51:01.8180904+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-05-30T06:01:01.8498388+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "eemus-pitch-deck-10p",
                         "time":  "2026-06-03T05:41:01.9526697+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-03T05:51:02.0069723+09:00"
                     }
                 ]
 }

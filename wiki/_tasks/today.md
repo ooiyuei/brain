@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-02
 tags: [tasks, today]
-updated: 2026-06-03 05:44
+updated: 2026-06-03 05:49
 ---
 
 # Today 2026-06-02
@@ -30,8 +30,8 @@ updated: 2026-06-03 05:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [Shincoder S2] 新規アイデアLP草案 (2026-06-03)
-- [ ] [待機] [School] 体験会2時間プログラム
+- [ ] **[処理中 6分]** [School] 体験会2時間プログラム
+- [ ] **[処理中 79分]** [Revival] agents-of-flag 再評価+ピボット (2026-06-03)
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
@@ -131,7 +131,6 @@ updated: 2026-06-03 05:44
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [School] 利用規約・特商法表記
-- [ ] [待機] [Revival] agents-of-flag 再評価+ピボット (2026-06-03)
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
