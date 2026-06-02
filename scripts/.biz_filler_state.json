@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-30T00:11:02.5950080+09:00"
-                    },
-                    {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-05-30T00:21:02.4687393+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-06-03T00:11:01.8382981+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-03T00:21:01.4689461+09:00"
                     }
                 ]
 }

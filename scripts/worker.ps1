@@ -7,6 +7,7 @@ $OutputEncoding = [System.Text.Encoding]::UTF8
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 $queueRoot = "C:\Users\Owner\business\brain\queue"
+$brainRoot = Split-Path -Parent $queueRoot
 $inbox = Join-Path $queueRoot "inbox"
 $processing = Join-Path $queueRoot "processing"
 $done = Join-Path $queueRoot "done"
@@ -215,10 +216,13 @@ try {
     [System.IO.File]::WriteAllText($resultPath, $resultHeader + $response, [System.Text.UTF8Encoding]::new($false))
 
     if ($job.output_path) {
-        $outDir = Split-Path -Parent $job.output_path
+        # 相対パスは brain 配下に解決 (Task Scheduler起動時のCWD=C:\WINDOWS\system32 への書込み失敗を防止)
+        $outPath = $job.output_path
+        if ($outPath -notmatch '^[A-Za-z]:\\') { $outPath = Join-Path $brainRoot $outPath }
+        $outDir = Split-Path -Parent $outPath
         if (-not (Test-Path $outDir)) { New-Item -ItemType Directory -Force -Path $outDir | Out-Null }
-        [System.IO.File]::WriteAllText($job.output_path, $resultHeader + $response, [System.Text.UTF8Encoding]::new($false))
-        Write-WorkerLog "Wrote output_path: $($job.output_path)"
+        [System.IO.File]::WriteAllText($outPath, $resultHeader + $response, [System.Text.UTF8Encoding]::new($false))
+        Write-WorkerLog "Wrote output_path: $outPath"
     }
 
     $job | Add-Member -NotePropertyName completed_at -NotePropertyValue ((Get-Date).ToString('yyyy-MM-dd HH:mm:ss')) -Force

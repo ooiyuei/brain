@@ -40,6 +40,59 @@ if ($failedCount -gt 50) {
     }
 }
 
+# 2.4 Ollama 死活 + 自動復活 (Startupショートカット依存の弱点を補完。worker.ps1は到達不可で即exitするため最優先)
+$ollamaUp = $false
+$ollamaRestarted = 0
+try { Invoke-RestMethod -Uri "http://localhost:11434/" -TimeoutSec 5 | Out-Null; $ollamaUp = $true } catch { $ollamaUp = $false }
+if (-not $ollamaUp) {
+    $ollamaExe = "$env:LOCALAPPDATA\Programs\Ollama\ollama app.exe"
+    if (Test-Path $ollamaExe) {
+        Start-Process $ollamaExe -WindowStyle Hidden -ErrorAction SilentlyContinue
+        $ollamaRestarted = 1
+        "$nowStamp - Ollama down → 再起動 ($ollamaExe)" | Add-Content $logPath -Encoding UTF8
+        Start-Sleep -Seconds 3
+    }
+}
+
+# 2.5 processing リーパー (再起動/クラッシュ/スリープで孤児化したタスクを救出)
+# 閾値120分: ワーカーの最長タスク(Ollama 1800s + agent 1500s ≒ 最大約55分)の2倍以上 → 走行中タスクを誤って奪わない
+# poison-pill 対策: 3回孤児化したタスク(=ワーカーを巻き込んで落ちる毒タスク)は failed へ隔離
+$reaped = 0
+$reapFailed = 0
+Get-ChildItem "$queue\processing" -File -Filter "*.json" -ErrorAction SilentlyContinue | Where-Object { $_.LastWriteTime -lt (Get-Date).AddMinutes(-120) } | ForEach-Object {
+    $pname = $_.Name
+    try {
+        $pj = Get-Content $_.FullName -Raw -Encoding UTF8 | ConvertFrom-Json
+        $rc = 0; if ($pj.reaped) { $rc = [int]$pj.reaped }
+        $rc++
+        if ($rc -ge 3) {
+            $pj | Add-Member -NotePropertyName reaped -NotePropertyValue $rc -Force
+            $pj | Add-Member -NotePropertyName last_error -NotePropertyValue "orphaned ${rc}x in processing (worker crashed/rebooted mid-task)" -Force
+            $pj | ConvertTo-Json -Depth 6 | Set-Content "$queue\failed\$pname" -Encoding UTF8
+            Remove-Item $_.FullName -Force -ErrorAction SilentlyContinue
+            $reapFailed++
+        } else {
+            $pj | Add-Member -NotePropertyName reaped -NotePropertyValue $rc -Force
+            $pj | ConvertTo-Json -Depth 6 | Set-Content "$queue\inbox\$pname" -Encoding UTF8
+            Remove-Item $_.FullName -Force -ErrorAction SilentlyContinue
+            $reaped++
+        }
+    } catch {
+        Move-Item $_.FullName "$queue\inbox\$pname" -Force -ErrorAction SilentlyContinue
+        $reaped++
+    }
+}
+if ($reaped -gt 0 -or $reapFailed -gt 0) { "$nowStamp - processing reaper: requeued=$reaped quarantined=$reapFailed" | Add-Content $logPath -Encoding UTF8 }
+
+# 2.6 stale ロック掃除 (90分超のレーンロック = 死亡ワーカーの置き土産。最大60分のstale判定より長く取り誤殺防止)
+$lockGrave = "$queue\_lock_graveyard"
+if (-not (Test-Path $lockGrave)) { New-Item -ItemType Directory -Path $lockGrave -Force | Out-Null }
+$locksCleared = 0
+Get-ChildItem "$queue\.worker-*.lock" -File -Force -ErrorAction SilentlyContinue | Where-Object { $_.LastWriteTime -lt (Get-Date).AddMinutes(-90) } | ForEach-Object {
+    Move-Item $_.FullName "$lockGrave\$($_.Name).$((Get-Date).ToString('yyyyMMddHHmmss'))" -Force -ErrorAction SilentlyContinue
+    $locksCleared++
+}
+
 # 3. worker健全性 (heavy + light 各最低1基保証)
 $workers = @(Get-CimInstance Win32_Process -Filter "Name='powershell.exe'" -ErrorAction SilentlyContinue | Where-Object { $_.CommandLine -like '*\worker.ps1*' })
 $hasHeavy = $false
@@ -72,6 +125,7 @@ if (Test-Path "$queue\.paused") {
     }
 }
 
-$summary = "inbox=$inboxCount oldMoved=$movedOld failed=$failedCount failedMoved=$movedFailed workers=$($workers.Count) restarted=$workersRestarted"
+$ollamaState = if ($ollamaUp) { 'up' } else { "restarted$ollamaRestarted" }
+$summary = "inbox=$inboxCount oldMoved=$movedOld failed=$failedCount failedMoved=$movedFailed workers=$($workers.Count) restarted=$workersRestarted reaped=$reaped reapQuarantined=$reapFailed locksCleared=$locksCleared ollama=$ollamaState"
 "$nowStamp - $summary" | Add-Content $logPath -Encoding UTF8
 Write-Host "queue_guard: $summary"
