@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 09:46:46
+updated: 2026-06-02 09:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:46:46** | 🔥 **稼働中**
+**09:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7032MB / 8151MB (**86.3%**)
+- 使用率: **3%**
+- VRAM: 7034MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **85.3%** (27.2GB / 31.9GB)
+- 使用率: **85.4%** (27.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 219 |
+| 📥 inbox | 218 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 87 |
+| ✅ 今日完了 | 88 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [91906 秒経過] **[Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・**
+- ⚡ [91247 秒経過] **[Monitor] 競合動向Top3 - 2026-06-01**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Monitor] 競合動向Top3 - 2026-06-01
 - [high] [Monitor] ビジコン締切 - 2026-06-01
 - [high] [Monitor] 朝の問い - 2026-06-01
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [横断] 15事業の優先順位再評価
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 
