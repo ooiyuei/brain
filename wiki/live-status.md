@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 12:50:47
+updated: 2026-06-02 12:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:50:47** | 🔥 **稼働中**
+**12:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **50%**
-- VRAM: 7032MB / 8151MB (**86.3%**)
+- 使用率: **82%**
+- VRAM: 7035MB / 8151MB (**86.3%**)
 
 ## 💾 RAM
 
-- 使用率: **86.2%** (27.5GB / 31.9GB)
+- 使用率: **87.7%** (28GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -38,20 +38,21 @@ tags: [live, status, monitoring]
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 219 |
-| ⚙️ processing | 1 |
+| ⚙️ processing | 2 |
 | ✅ 今日完了 | 117 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [94788 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [95028 秒経過] **[Testall] ユーザーペルソナ5パターン**
+- ⚡ [94428 秒経過] **[School] 1年カリキュラム詳細v2**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 
