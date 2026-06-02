@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-02 22:14:47
+updated: 2026-06-02 22:18:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:14:47** | 🔥 **稼働中**
+**22:18:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 15.6GB | 5.7GB | 残0分 |
+| qwen3.6:latest | 25.4GB | 5.7GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **4%**
-- VRAM: 7226MB / 8151MB (**88.7%**)
+- 使用率: **0%**
+- VRAM: 6951MB / 8151MB (**85.3%**)
 
 ## 💾 RAM
 
-- 使用率: **60.3%** (19.2GB / 31.9GB)
+- 使用率: **87%** (27.8GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 225 |
+| 📥 inbox | 226 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 186 |
+| ✅ 今日完了 | 187 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [99227 秒経過] **[School] 1年カリキュラム詳細v2**
+- ⚡ [98871 秒経過] **[EEMUS] MVP LP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] MVP LP完全版
 - [high] [School] 入学後30日プラン
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Shincoder S1] 繝槭う繧ｯ繝ｭ繝輔Λ繧ｹ繝医Ξ繝ｼ繧ｷ繝ｧ繝ｳ 10蛟句庶髮・(2026-06-01)
 - [high] [Shincoder S9] 繝輔ぃ繝阪Ν蛻・梵繧ｷ繝ｼ繝・(2026-06-01 騾ｱ蛻・
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 
