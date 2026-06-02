@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-29T12:31:01.8743783+09:00"
-                    },
-                    {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-05-29T12:41:01.9401287+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-02T12:21:02.4973367+09:00"
+                    },
+                    {
+                        "slug":  "aipax-proposal-80man",
+                        "time":  "2026-06-02T12:31:02.4553219+09:00"
                     }
                 ]
 }
