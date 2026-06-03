@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 15:44
+updated: 2026-06-03 15:49
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,10 @@ updated: 2026-06-03 15:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [金] AIpaX β顧客候補10社+痛みリサーチ
+- [ ] **[処理中 2分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [ ] [待機] [Money] Testall 親向けLP コピー改善
+- [ ] [待機] [金] 1週間で作れる月3万アプリ仕様書
 
 
 ## 📅 今日の予定（Calendar）
