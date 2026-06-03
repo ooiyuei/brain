@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 23:30:47
+updated: 2026-06-03 23:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**23:30:47** | 🔥 **稼働中**
+**23:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -37,9 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 546 |
+| ✅ 今日完了 | 548 |
+
+## 📥 待機タスク (上位5)
+
+- [high] [金] AIpa Web フォローアップトーク台本3本
 
 ## 🎯 判定
 
