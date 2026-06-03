@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 10:51
+updated: 2026-06-03 10:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 10:51
+**最終更新**: 2026-06-03 10:56
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 61 |
+| 📥 inbox | 60 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 226 |
+| ✅ 今日完了 | 227 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1543 (うち24h+古い: 1239) |
+| 📝 wiki/_inbox 未レビュー | 1544 (うち24h+古い: 1239) |
 
 ### 処理中
-- ⚙️ **[580 分]** [Testall] Studyplus Planning徹底比較
+- ⚙️ **[435 分]** [Testall] X受験あるある投稿30本
 
 ### Inbox 上位
-- [high] [Testall] X受験あるある投稿30本
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -55,7 +55,7 @@ tags: [dashboard, system]
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
 - marketing : 599 件
-- research : 28 件
+- research : 29 件
 - newbiz : 529 件
 - ingest : 1 件
 - corp : 204 件
