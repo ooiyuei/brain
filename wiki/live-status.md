@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:34:46
+updated: 2026-06-03 11:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:34:46** | 🔥 **稼働中**
+**11:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残21分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **23%**
-- VRAM: 7620MB / 8151MB (**93.5%**)
+- 使用率: **20%**
+- VRAM: 7616MB / 8151MB (**93.4%**)
 
 ## 💾 RAM
 
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 54 |
+| 📥 inbox | 53 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 245 |
+| ✅ 今日完了 | 246 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [90 秒経過] **[School] 親向けLP完全版**
+- ⚡ [24467 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] X『中高生×AI』20投稿
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] 親FAQ 30問
 - [high] [AIpaX] 月次PL試算
+- [high] [EEMUS] ピッチデック10枚構成
 
 ## 🎯 判定
 
