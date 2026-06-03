@@ -1,6 +1,12 @@
 {
-    "history":  {
-                    "slug":  "sales-prospect-aipa-mfg",
-                    "time":  "2026-06-03T14:21:02.1453843+09:00"
-                }
+    "history":  [
+                    {
+                        "slug":  "sales-prospect-aipa-mfg",
+                        "time":  "2026-06-03T14:21:02.1453843+09:00"
+                    },
+                    {
+                        "slug":  "sales-pricing-strategy-aipa",
+                        "time":  "2026-06-03T14:31:01.9389159+09:00"
+                    }
+                ]
 }

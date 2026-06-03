@@ -1,34 +1,34 @@
 ---
 type: dashboard
-updated: 2026-06-03 14:26
+updated: 2026-06-03 14:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 14:26
+**最終更新**: 2026-06-03 14:31
 **Ollama**: 🟢 稼働中 (4 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄 0 Running
+**スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 26 |
+| 📥 inbox | 22 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 303 |
+| ✅ 今日完了 | 308 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1566 (うち24h+古い: 1232) |
+| 📝 wiki/_inbox 未レビュー | 1571 (うち24h+古い: 1232) |
 
 ### 処理中
-- ⚙️ **[1 分]** [Money] Testall 親向けLP コピー改善
+- ⚙️ **[150 分]** [EEMUS] 夢AWARD応募ストーリー骨子
 
 ### Inbox 上位
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [AIpaX] 月次PL試算
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [School] 親FAQ 30問
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 今日のフォーカス
 
@@ -54,11 +54,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 100 件
-- research : 11 件
+- marketing : 103 件
+- research : 12 件
 - newbiz : 82 件
 - ingest : 1 件
-- corp : 15 件
+- corp : 16 件
 - dev : 6 件
 
 ## 🔗 主要リンク
