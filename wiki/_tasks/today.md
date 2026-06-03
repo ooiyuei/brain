@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 09:49
+updated: 2026-06-03 09:54
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 09:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 698分]** [AIpaX] β顧客候補30社プロファイル
-- [ ] [待機] [School] 体験会2時間プログラム
+- [ ] **[処理中 1分]** [School] 体験会2時間プログラム
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
@@ -109,6 +108,7 @@ updated: 2026-06-03 09:49
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] 利用規約・特商法表記
+- [ ] [待機] [School] 1年カリキュラム詳細v2
 
 
 ## 📅 今日の予定（Calendar）

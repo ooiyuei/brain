@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-30T09:41:02.0613677+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-05-30T09:51:01.8237963+09:00"
-                    },
-                    {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-05-30T10:01:02.2374784+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-tos",
                         "time":  "2026-06-03T09:41:01.9689178+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-03T09:51:02.3302366+09:00"
                     }
                 ]
 }

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 09:50:46
+updated: 2026-06-03 09:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:50:46** | 🔥 **稼働中**
+**09:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **30%**
-- VRAM: 7560MB / 8151MB (**92.7%**)
+- 使用率: **17%**
+- VRAM: 7569MB / 8151MB (**92.9%**)
 
 ## 💾 RAM
 
-- 使用率: **37.6%** (12GB / 31.9GB)
+- 使用率: **37.8%** (12.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 72 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 202 |
+| ✅ 今日完了 | 203 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [41987 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [90 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] 月次PL試算
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
