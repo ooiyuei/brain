@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:02:47
+updated: 2026-06-03 13:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:02:47** | 🔥 **稼働中**
+**13:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **27%**
-- VRAM: 7550MB / 8151MB (**92.6%**)
+- 使用率: **0%**
+- VRAM: 7553MB / 8151MB (**92.7%**)
 
 ## 💾 RAM
 
-- 使用率: **38.9%** (12.4GB / 31.9GB)
+- 使用率: **39%** (12.4GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 39 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 278 |
-
-## 🔄 処理中タスク
-
-- ⚡ [16308 秒経過] **[Testall] Studyplus Planning徹底比較**
+| 📥 inbox | 38 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 280 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] AIpa Web 商工会経由営業文
+- [high] [EEMUS] 連携企業候補20社
 
 ## 🎯 判定
 
