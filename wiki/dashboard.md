@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 18:16
+updated: 2026-06-03 18:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 18:16
+**最終更新**: 2026-06-03 18:21
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 3 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 424 |
+| 📥 inbox | 0 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 428 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1687 (うち24h+古い: 1262) |
+| 📝 wiki/_inbox 未レビュー | 1691 (うち24h+古い: 1263) |
 
-### Inbox 上位
-- [high] [Shincoder S10] PMF判定シート (2026-06-03 週分)
-- [high] [Shincoder S2] 新規アイデアLP草案 (2026-06-03)
-- [high] [金] 月3万アプリ ニッチ需要ハント10案
+### 処理中
+- ⚙️ **[5 分]** [Bank] 税理士向けセミナー設計
 
 ## 🎯 今日のフォーカス
 
@@ -51,9 +49,9 @@ tags: [dashboard, system]
 
 - marketing : 150 件
 - research : 13 件
-- newbiz : 144 件
+- newbiz : 147 件
 - ingest : 1 件
-- corp : 20 件
+- corp : 21 件
 - dev : 8 件
 
 ## 🔗 主要リンク
