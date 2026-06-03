@@ -112,15 +112,15 @@ managed_by: Claude (must update every session)
 ---
 
 ## 今日の AI ニュース
-*最終更新: 2026-06-03 07:53*
+*最終更新: 2026-06-04 07:52*
 
-1. ★ Anthropic が **IPO 申請 → 翌日（6/2）Claude 全面障害** — OpenClaw は 100% Claude 依存＝**単一障害点が現実化**。Claude 不通時に qwen3:8b へ退避する最小フォールバックを worker.ps1 に検討
-2. ★ **Claude Opus 4.8 ベンチ判明**（大井が今動かしてる基盤）— agentic coding 64.3→**69.2%**、fast mode が **2.5x 速・1/3 コスト**、コーディングは高 effort デフォルト。OpenClaw を fast mode 固定＋キャッシュ化で 6/15 課金変更に先回り
-3. **3 大ラボが「常駐自律エージェント」へ収束** — GPT-5.6（6月予定）/ Gemini Spark（24/7 常駐）/ Opus dynamic workflows。**OpenClaw 24h 自走の方向性は業界本流**。差別化は「日本 SMB 業務文脈への張り付き」
+1. ★★★ **【11日後・OpenClaw 直撃】Anthropic が 6/15 からプログラム利用を別クレジットプールに分離** — Agent SDK / `claude -p`（ヘッドレス）/ Claude Code GitHub Actions が **API 定価で従量課金・繰越なし**（Pro $20/Max5x $100/Max20x $200）。利用量次第で **実質 12〜150 倍コスト増**。OpenClaw=24h 自走 headless＝直撃対象。6/15 までに ①API 単価で月間実利用試算 ②overflow トグル判断 ③qwen3:8b 退避閾値設計 が必須
+2. **OpenAI $122B 調達・評価額 $852B → Q4 2026 に ~$1兆 IPO** — 史上最大の民間ラウンド（週間 9 億人/年商 $20B）。中国 DeepSeek も **$7.4B** 調達間近。AI 資本は「実証重視」で集中継続＝Almeo は早期に実顧客実績を作るべき側
+3. ★ **Google Gemini「Daily Brief」+ Gemini Omni 投入 — Almeo の日次ブリーフ構想と正面衝突** — 受信箱/カレンダー/タスク横断の朝の優先ダイジェスト＋次アクション提案を OS レベルで自動化。汎用ブリーフは巨人が無料で握る＝Almeo は「日本 SMB の業務文脈×実装支援」で差別化を明文化
 
-※継続フォロー: 補助金 2次締切 **6/15**（残12日・Almeo の提案窓）/ 6/15 Agent SDK 従量課金化＋Sonnet4/Opus4 API 退役 / GPT-4.5 は 6/27 廃止
+※継続フォロー: 補助金 2次締切 **6/15**（Anthropic 課金変更と同日・Almeo の提案窓）/ Sonnet4/Opus4 API 退役 6/15 / GPT-4.5 は 6/27 廃止 / Anthropic Project Glasswing＋Claude Security を 15+ カ国の重要インフラへ拡大
 
-詳細: brain/07_research/ai-news/2026-06-03.md
+詳細: brain/07_research/ai-news/2026-06-04.md
 
 ---
 
