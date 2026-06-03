@@ -144,6 +144,17 @@ if (Test-Path "$queue\.paused") {
     }
 }
 
+# 6. 文字化け常設センサー (2026-06-03): 直近20分に生成された化けファイル名を自動隔離。
+# 源(BOM/encoding)は断ってあるが、万一の再発を10分以内に検知・隔離して二度と溜めない最終保険。
+$mojiQuar = "$brain\wiki\_inbox\_archive\_corrupted-auto"
+$mojiFound = 0
+$recentMoji = Get-ChildItem "$brain\wiki\_inbox" -Recurse -File -Filter *.md -ErrorAction SilentlyContinue | Where-Object { $_.LastWriteTime -gt (Get-Date).AddMinutes(-20) -and $_.FullName -notmatch '_corrupted' -and ($_.Name -match [char]0xFFFD -or $_.Name -match '[繝繧繚縺郢竄髢驍髟]') }
+if ($recentMoji) {
+    if (-not (Test-Path $mojiQuar)) { New-Item -ItemType Directory -Path $mojiQuar -Force | Out-Null }
+    foreach ($rf in $recentMoji) { Move-Item $rf.FullName (Join-Path $mojiQuar $rf.Name) -Force -ErrorAction SilentlyContinue; $mojiFound++ }
+    "$nowStamp - WARN 文字化けファイル $mojiFound 件を自動隔離 (源の再発か要確認)" | Add-Content $logPath -Encoding UTF8
+}
+
 $ollamaState = if ($ollamaUp) { 'up' } else { "restarted$ollamaRestarted" }
 $summary = "inbox=$inboxCount oldMoved=$movedOld failed=$failedCount failedMoved=$movedFailed workers=$($workers.Count) restarted=$workersRestarted reaped=$reaped reapQuarantined=$reapFailed locksCleared=$locksCleared ollama=$ollamaState"
 "$nowStamp - $summary" | Add-Content $logPath -Encoding UTF8

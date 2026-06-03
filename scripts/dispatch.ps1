@@ -149,6 +149,17 @@ if (-not $OutputPath) {
     $OutputPath = Join-Path $brainRoot "queue\results\$Department\$taskId.md"
 }
 
+# 文字化け最終防衛線 (2026-06-03): output_path のファイル名が文字化け(U+FFFD or cp932誤読の特徴的katakana)なら
+# ASCII安全名へ自動置換。万一どこかのプロデューサで encoding が崩れても、disk に化けファイル名を二度と作らせない。
+if ($OutputPath) {
+    $opLeaf = Split-Path $OutputPath -Leaf
+    if ($opLeaf -match [char]0xFFFD -or $opLeaf -match '[繝繧繚縺郢竄髢驍髟]') {
+        $opDir2 = Split-Path $OutputPath -Parent
+        $OutputPath = Join-Path $opDir2 "$Department-$taskId.md"
+        Write-Host "  [mojibake-guard] 文字化けファイル名を検出 → $Department-$taskId.md に置換"
+    }
+}
+
 # 優先度プレフィックス + モデル自動選択
 $prio = switch ($Priority) {
     "super"  { "0" }

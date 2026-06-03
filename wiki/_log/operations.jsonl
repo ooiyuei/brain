@@ -34,3 +34,5 @@
 {"ts": "2026-06-03T13:12:11+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_routines\\midday-20260603.md", "session_id": "36121172-93c5-4003-8bd1-1250fb87ebff"}
 {"ts": "2026-06-03T13:12:19+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_tasks\\today.md", "session_id": "36121172-93c5-4003-8bd1-1250fb87ebff"}
 {"ts": "2026-06-03T13:12:27+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "36121172-93c5-4003-8bd1-1250fb87ebff"}
+{"ts": "2026-06-03T13:17:19+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dispatch.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:17:56+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\queue_guard.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}

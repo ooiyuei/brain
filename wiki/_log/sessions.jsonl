@@ -22,3 +22,4 @@
 {"ts": "2026-06-03T08:10:15+09:00", "event": "Stop", "session_id": "183dbd27-dd77-4d8d-9e21-1894d44e8f46", "cwd": "C:\\Users\\Owner\\business", "host": "大井"}
 {"ts": "2026-06-03T13:08:02+09:00", "event": "SessionStart", "session_id": "36121172-93c5-4003-8bd1-1250fb87ebff", "cwd": "C:\\Users\\Owner\\business", "host": "大井", "source": "startup"}
 {"ts": "2026-06-03T13:12:41+09:00", "event": "Stop", "session_id": "36121172-93c5-4003-8bd1-1250fb87ebff", "cwd": "C:\\Users\\Owner\\business\\brain\\wiki\\_inbox", "host": "大井"}
+{"ts": "2026-06-03T13:18:52+09:00", "event": "Stop", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58", "cwd": "C:\\Users\\Owner\\business\\brain\\scripts", "host": "大井"}
