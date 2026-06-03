@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 10:10:46
+updated: 2026-06-03 10:14:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:10:46** | 🔥 **稼働中**
+**10:14:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残24分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **28%**
-- VRAM: 7661MB / 8151MB (**94%**)
+- 使用率: **33%**
+- VRAM: 7688MB / 8151MB (**94.3%**)
 
 ## 💾 RAM
 
@@ -31,27 +31,23 @@ tags: [live, status, monitoring]
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 69 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 209 |
-
-## 🔄 処理中タスク
-
-- ⚡ [40187 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 211 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 入学後30日プラン
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [high] [AIpaX] β顧客候補30社プロファイル
 
 ## 🎯 判定
 

@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 10:06
+updated: 2026-06-03 10:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 10:06
+**最終更新**: 2026-06-03 10:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,21 +15,17 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 70 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 208 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 210 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1525 (うち24h+古い: 1229) |
-
-### 処理中
-- ⚙️ **[3 分]** [AIpaX] β顧客80万提案書フル版
-- ⚙️ **[6 分]** [BG-Entities] ecokan 更新提案
+| 📝 wiki/_inbox 未レビュー | 1527 (うち24h+古い: 1229) |
 
 ### Inbox 上位
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [School] 入学後30日プラン
 - [high] [School] 体験会2時間プログラム
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 今日のフォーカス
 
@@ -55,9 +51,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 591 件
+- marketing : 592 件
 - research : 28 件
-- newbiz : 522 件
+- newbiz : 523 件
 - ingest : 1 件
 - corp : 201 件
 - dev : 16 件
