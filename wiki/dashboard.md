@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 12:41
+updated: 2026-06-03 12:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 12:41
+**最終更新**: 2026-06-03 12:46
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 43 |
+| 📥 inbox | 41 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 268 |
+| ✅ 今日完了 | 270 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1580 (うち24h+古い: 1248) |
+| 📝 wiki/_inbox 未レビュー | 1581 (うち24h+古い: 1248) |
 
 ### 処理中
-- ⚙️ **[300 分]** [横断] Stripe決済設定 5事業ロードマップ
+- ⚙️ **[299 分]** [Money] 6/21月収100万 残30日アクションプラン
 
 ### Inbox 上位
-- [high] AI 最新情報日次リサーチ
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 今日のフォーカス
 
@@ -59,7 +59,7 @@ tags: [dashboard, system]
 - newbiz : 543 件
 - ingest : 1 件
 - corp : 210 件
-- dev : 16 件
+- dev : 17 件
 
 ## 🔗 主要リンク
 
