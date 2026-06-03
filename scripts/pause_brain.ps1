@@ -63,19 +63,23 @@ try {
 Get-Process ollama_llama_server -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
 Write-Host "[5/8] ollama_llama_server killed (VRAM freed)"
 
-# 6. Worker / filler / pipeline プロセス kill
+# 6. Worker / filler / pipeline / loop プロセス kill (自プロセス $PID は除外)
 $killed = 0
-Get-CimInstance Win32_Process -Filter "Name='powershell.exe'" -ErrorAction SilentlyContinue | Where-Object {
-    $_.CommandLine -like '*worker.ps1*' -or
-    $_.CommandLine -like '*_filler.ps1*' -or
-    $_.CommandLine -like '*pipeline.ps1*' -or
-    $_.CommandLine -like '*auto_review*' -or
-    $_.CommandLine -like '*auto_promote*'
-} | ForEach-Object {
-    Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue
-    $killed++
-}
-Get-Process wscript -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
+try {
+    Get-CimInstance Win32_Process -Filter "Name='powershell.exe'" -ErrorAction SilentlyContinue | Where-Object {
+        $_.ProcessId -ne $PID -and (
+        $_.CommandLine -like '*worker.ps1*' -or
+        $_.CommandLine -like '*_filler.ps1*' -or
+        $_.CommandLine -like '*pipeline.ps1*' -or
+        $_.CommandLine -like '*_loop.ps1*' -or
+        $_.CommandLine -like '*auto_review*' -or
+        $_.CommandLine -like '*auto_promote*')
+    } | ForEach-Object {
+        Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue
+        $killed++
+    }
+    Get-Process wscript -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
+} catch {}
 Write-Host "[6/8] Workers killed ($killed processes)"
 
 # 7. Lock files 削除 + processing → inbox
@@ -91,8 +95,10 @@ Write-Host "[7/8] Locks cleared, $moved processing→inbox"
 
 # 8. 確認
 Start-Sleep 2
-$vram = (nvidia-smi --query-gpu=memory.used --format=csv,noheader,nounits 2>$null).Trim()
+$vram = "?"
+try { $vram = (nvidia-smi --query-gpu=memory.used --format=csv,noheader,nounits 2>$null | Select-Object -First 1).Trim() } catch {}
 Write-Host "[8/8] Done. VRAM: ${vram}MB" -ForegroundColor Green
 Write-Host ""
 Write-Host "→ Resume: scripts\resume_brain.ps1 で完全復帰" -ForegroundColor Cyan
 Write-Host "→ Dashboard のボタンでも同じ動作"
+exit 0
