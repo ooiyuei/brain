@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 08:26:46
+updated: 2026-06-04 08:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:26:46** | 🔥 **稼働中**
+**08:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,35 +15,37 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残26分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **90%**
-- VRAM: 6945MB / 8151MB (**85.2%**)
+- 使用率: **0%**
+- VRAM: 6942MB / 8151MB (**85.2%**)
 
 ## 💾 RAM
 
-- 使用率: **48.8%** (15.6GB / 31.9GB)
+- 使用率: **48.5%** (15.5GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 240 |
+| 📥 inbox | 3 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 242 |
 
-## 🔄 処理中タスク
+## 📥 待機タスク (上位5)
 
-- ⚡ [48 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- [high] [Monitor] 競合動向Top3 - 2026-06-04
+- [high] [Monitor] ビジコン締切 - 2026-06-04
+- [high] [Monitor] 朝の問い - 2026-06-04
 
 ## 🎯 判定
 
