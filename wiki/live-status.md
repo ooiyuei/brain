@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 12:46:47
+updated: 2026-06-03 12:50:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:46:47** | 🔥 **稼働中**
+**12:50:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **25%**
-- VRAM: 7707MB / 8151MB (**94.6%**)
+- 使用率: **27%**
+- VRAM: 7507MB / 8151MB (**92.1%**)
 
 ## 💾 RAM
 
-- 使用率: **39.2%** (12.5GB / 31.9GB)
+- 使用率: **38.9%** (12.4GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,20 +37,20 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 41 |
+| 📥 inbox | 44 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 270 |
+| ✅ 今日完了 | 271 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [17987 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
+- ⚡ [18227 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [AIpaX] 業務委託契約書テンプレ
+- [high] [School] 体験会2時間プログラム
 - [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
