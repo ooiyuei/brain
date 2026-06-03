@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 11:29
+updated: 2026-06-03 11:34
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 11:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 6分]** [School] 親FAQ 30問
-- [ ] [待機] [School] 親向けLP完全版
+- [ ] **[処理中 1分]** [School] 親向けLP完全版
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [EEMUS] 連携企業候補20社
@@ -91,6 +90,7 @@ updated: 2026-06-03 11:29
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] 入学後30日プラン
+- [ ] [待機] [EEMUS] 提携高校候補20校リスト
 
 
 ## 📅 今日の予定（Calendar）
