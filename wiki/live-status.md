@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 10:02:46
+updated: 2026-06-03 10:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:02:46** | 🔥 **稼働中**
+**10:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **19%**
-- VRAM: 7656MB / 8151MB (**93.9%**)
+- 使用率: **28%**
+- VRAM: 7661MB / 8151MB (**94%**)
 
 ## 💾 RAM
 
-- 使用率: **38.1%** (12.2GB / 31.9GB)
+- 使用率: **38%** (12.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,14 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 71 |
+| 📥 inbox | 70 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 206 |
+| ✅ 今日完了 | 208 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [40307 秒経過] **[AIpaX] β顧客80万提案書フル版**
-- ⚡ [166 秒経過] **[BG-Entities] business-contests 更新提案**
+- ⚡ [210 秒経過] **[AIpaX] β顧客80万提案書フル版**
+- ⚡ [406 秒経過] **[BG-Entities] ecokan 更新提案**
 
 ## 📥 待機タスク (上位5)
 

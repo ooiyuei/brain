@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 09:59
+updated: 2026-06-03 10:04
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,6 @@ updated: 2026-06-03 09:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 678分]** [AIpaX] 月次PL試算
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [School] 入学後30日プラン
@@ -107,6 +106,8 @@ updated: 2026-06-03 09:59
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [School] 1年カリキュラム詳細v2
+- [ ] [待機] [Testall] ユーザーペルソナ5パターン
+- [ ] [待機] [BG-Entities] ecokan 更新提案
 
 
 ## 📅 今日の予定（Calendar）
