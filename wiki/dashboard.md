@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 15:11
+updated: 2026-06-03 15:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 15:11
+**最終更新**: 2026-06-03 15:16
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,22 +14,19 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 5 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 331 |
+| 📥 inbox | 3 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 336 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1594 (うち24h+古い: 1238) |
+| 📝 wiki/_inbox 未レビュー | 1599 (うち24h+古い: 1238) |
 
 ### 処理中
-- ⚙️ **[60 分]** [School] 体験会2時間プログラム
-- ⚙️ **[1 分]** [金] AIpaX β顧客向け 提案書テンプレ
+- ⚙️ **[35 分]** [Sales] フォローアップ自動ルール表
 
 ### Inbox 上位
-- [high] [Sales] AIpa Web 製造業 30社プロファイル
-- [high] [Sales] AIpa Web 3プラン価格戦略
-- [high] [Sales] フォローアップ自動ルール表
 - [high] [横断] 15事業の優先順位再評価
 - [high] [Sales] AIpa Web 電話トーク台本
+- [high] [金] dinii時代の人脈 6月接触リスト
 
 ## 🎯 今日のフォーカス
 
@@ -55,9 +52,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 112 件
+- marketing : 115 件
 - research : 12 件
-- newbiz : 92 件
+- newbiz : 94 件
 - ingest : 1 件
 - corp : 18 件
 - dev : 8 件
