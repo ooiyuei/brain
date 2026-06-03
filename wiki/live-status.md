@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 22:42:46
+updated: 2026-06-03 22:46:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:42:46** | 🔥 **稼働中**
+**22:46:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7151MB / 8151MB (**87.7%**)
+- VRAM: 7040MB / 8151MB (**86.4%**)
 
 ## 💾 RAM
 
-- 使用率: **44.3%** (14.1GB / 31.9GB)
+- 使用率: **44.5%** (14.2GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,9 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 2 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 522 |
+| ✅ 今日完了 | 523 |
+
+## 📥 待機タスク (上位5)
+
+- [high] [金] AIpa Web モニター候補10社+アプローチ案
+- [normal] [Bank] 月980→2,980価格改定の顧客説明
 
 ## 🎯 判定
 
