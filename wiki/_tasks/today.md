@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 03:29
+updated: 2026-06-04 03:34
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-04 03:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [金] AIpa Web LP コピーライティング 1本
+- [ ] [待機] [金] AIpaX school 体験会2時間プログラム
 
 
 ## 📅 今日の予定（Calendar）
