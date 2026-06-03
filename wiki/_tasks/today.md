@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 20:54
+updated: 2026-06-03 20:59
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-03 20:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [Bank] 卒業後3年後ストーリー (架空構造)
+- [ ] **[処理中 1分]** [金] AIpa Web SEO記事 完全本文1本
 
 
 ## 📅 今日の予定（Calendar）
