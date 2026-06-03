@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 16:29
+updated: 2026-06-03 16:34
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,8 @@ updated: 2026-06-03 16:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [金] 1週間で作れる月3万アプリ仕様書
+- [ ] **[処理中 3分]** [Bank] 投資家向け 1分ピッチ動画台本
+- [ ] [待機] [金] AIpaX school 親向け不安解消記事
 
 
 ## 📅 今日の予定（Calendar）
