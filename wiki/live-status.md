@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 14:34:46
+updated: 2026-06-03 14:38:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:34:46** | 🔥 **稼働中**
+**14:38:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7092MB / 8151MB (**87%**)
+- VRAM: 7096MB / 8151MB (**87.1%**)
 
 ## 💾 RAM
 
-- 使用率: **41.7%** (13.3GB / 31.9GB)
+- 使用率: **41.8%** (13.4GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,17 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 20 |
+| 📥 inbox | 16 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 312 |
+| ✅ 今日完了 | 316 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
-- [high] [横断] Stripe決済設定 5事業ロードマップ
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [School] 体験会2時間プログラム
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
