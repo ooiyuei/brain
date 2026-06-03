@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 14:06:46
+updated: 2026-06-03 14:10:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:06:46** | 🔥 **稼働中**
+**14:10:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,8 +20,8 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7644MB / 8151MB (**93.8%**)
+- 使用率: **24%**
+- VRAM: 7645MB / 8151MB (**93.8%**)
 
 ## 💾 RAM
 
@@ -31,23 +31,27 @@ tags: [live, status, monitoring]
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 29 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 298 |
+| 📥 inbox | 27 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 299 |
+
+## 🔄 処理中タスク
+
+- ⚡ [10187 秒経過] **[School] 入学後30日プラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客80万提案書フル版
-- [high] [School] 入学後30日プラン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 体験会2時間プログラム
 - [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 判定
 

@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 14:04
+updated: 2026-06-03 14:09
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 14:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 183分]** [School] note『AI時代に子供に渡したいもの』
-- [ ] [待機] [AIpaX] β顧客80万提案書フル版
+- [ ] **[処理中 178分]** [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [School] 体験会2時間プログラム
