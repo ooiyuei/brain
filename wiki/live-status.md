@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:14:47
+updated: 2026-06-03 11:18:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:14:47** | 🔥 **稼働中**
+**11:18:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **24%**
-- VRAM: 7540MB / 8151MB (**92.5%**)
+- 使用率: **0%**
+- VRAM: 7515MB / 8151MB (**92.2%**)
 
 ## 💾 RAM
 
@@ -31,27 +31,23 @@ tags: [live, status, monitoring]
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 56 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 239 |
-
-## 🔄 処理中タスク
-
-- ⚡ [91 秒経過] **[School] 1年カリキュラム詳細v2**
+| 📥 inbox | 57 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 241 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] X受験あるある投稿30本
 - [high] [School] 利用規約・特商法表記
 - [high] [School] 親FAQ 30問
 - [high] [School] 親向けLP完全版
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 

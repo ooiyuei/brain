@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 11:11
+updated: 2026-06-03 11:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 11:11
+**最終更新**: 2026-06-03 11:16
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,15 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 56 |
+| 📥 inbox | 58 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 237 |
+| ✅ 今日完了 | 239 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1550 (うち24h+古い: 1241) |
+| 📝 wiki/_inbox 未レビュー | 1551 (うち24h+古い: 1241) |
 
 ### 処理中
-- ⚙️ **[430 分]** [School] 1年カリキュラム詳細v2
-- ⚙️ **[11 分]** [BG-Competitive] engage
+- ⚙️ **[3 分]** [School] 1年カリキュラム詳細v2
+- ⚙️ **[1 分]** [Shincoder S1] マイクロフラストレーション 10個収集 (2026-06-03)
 
 ### Inbox 上位
 - [high] [Testall] X受験あるある投稿30本
@@ -57,7 +57,7 @@ tags: [dashboard, system]
 
 - marketing : 604 件
 - research : 29 件
-- newbiz : 530 件
+- newbiz : 531 件
 - ingest : 1 件
 - corp : 204 件
 - dev : 16 件
