@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 08:46:46
+updated: 2026-06-04 08:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:46:46** | 🔥 **稼働中**
+**08:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,36 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7047MB / 8151MB (**86.5%**)
+- 使用率: **90%**
+- VRAM: 7044MB / 8151MB (**86.4%**)
 
 ## 💾 RAM
 
-- 使用率: **49.1%** (15.7GB / 31.9GB)
+- 使用率: **49.3%** (15.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 251 |
+| 📥 inbox | 1 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 256 |
+
+## 🔄 処理中タスク
+
+- ⚡ [226 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [金] AIpa Web モニター候補10社+アプローチ案
-- [normal] [Bank] 5年事業計画書フル版
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 判定
 
