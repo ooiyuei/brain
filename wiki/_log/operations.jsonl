@@ -103,3 +103,6 @@
 {"ts": "2026-06-03T21:24:26+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_promoted\\_claude-review-20260603\\biz-testall-teacher-outreach-20260603-2111-c579.md", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
 {"ts": "2026-06-04T07:54:27+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\07_research\\ai-news\\2026-06-04.md", "session_id": "f5bb0743-828b-4582-82b1-329f2b6324b0"}
 {"ts": "2026-06-04T07:54:56+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "f5bb0743-828b-4582-82b1-329f2b6324b0"}
+{"ts": "2026-06-04T08:08:32+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_routines\\morning-20260604.md", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f"}
+{"ts": "2026-06-04T08:08:58+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_tasks\\today.md", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f"}
+{"ts": "2026-06-04T08:09:17+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f"}
