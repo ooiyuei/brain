@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 08:34
+updated: 2026-06-04 08:39
 ---
 
 # Today 2026-06-04
@@ -36,9 +36,7 @@ updated: 2026-06-04 08:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 3分]** [金] AIpaX β顧客候補10社+痛みリサーチ
-- [ ] [待機] [金] AIpaX β顧客候補10社+痛みリサーチ
-- [ ] [待機] [Bank] 月額¥4,980 プラン詳細サービス内容
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
