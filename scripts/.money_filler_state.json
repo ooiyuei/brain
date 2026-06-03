@@ -79,6 +79,14 @@
                     {
                         "slug":  "money-app-spec-1week",
                         "time":  "2026-06-03T16:04:02.2341907+09:00"
+                    },
+                    {
+                        "slug":  "money-content-school",
+                        "time":  "2026-06-03T16:07:02.4072260+09:00"
+                    },
+                    {
+                        "slug":  "money-aipax-prospects",
+                        "time":  "2026-06-03T16:10:02.3193810+09:00"
                     }
                 ]
 }
