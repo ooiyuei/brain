@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 12:11
+updated: 2026-06-03 12:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 12:11
+**最終更新**: 2026-06-03 12:16
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 50 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 257 |
+| 📥 inbox | 48 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 259 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1569 (うち24h+古い: 1245) |
+| 📝 wiki/_inbox 未レビュー | 1571 (うち24h+古い: 1246) |
 
 ### 処理中
-- ⚙️ **[330 分]** [Testall] 教育者連携アプローチ
+- ⚙️ **[329 分]** [Money] Testall 親向けLP コピー改善
+- ⚙️ **[1 分]** [Shincoder S6] ビルドインパブリックX投稿 3本 (2026-06-03)
 
 ### Inbox 上位
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [AIpaX] 月次PL試算
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 今日のフォーカス
 
@@ -54,11 +55,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 609 件
+- marketing : 610 件
 - research : 29 件
 - newbiz : 540 件
 - ingest : 1 件
-- corp : 208 件
+- corp : 209 件
 - dev : 16 件
 
 ## 🔗 主要リンク
