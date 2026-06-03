@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 16:49
+updated: 2026-06-03 16:54
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 16:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 2分]** [Money] 6/21月収100万 残30日アクションプラン
-- [ ] **[処理中 3分]** [Bank] 月収100万達成90日アクションプラン v2
-- [ ] [待機] [金] dinii時代の人脈 6月接触リスト
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
