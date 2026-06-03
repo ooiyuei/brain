@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-30T21:11:02.3340304+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-05-30T21:21:02.2354978+09:00"
-                    },
-                    {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-30T21:31:02.8878239+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-05-30T21:41:02.4662654+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-30T21:51:02.3109454+09:00"
-                    },
-                    {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-05-30T22:01:02.3825624+09:00"
                     },
@@ -2147,6 +2127,10 @@
                     {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-03T21:11:01.9500980+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-03T21:56:01.5614183+09:00"
                     }
                 ]
 }
