@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 13:49
+updated: 2026-06-03 13:54
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,8 @@ updated: 2026-06-03 13:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 6分]** [Testall] ユーザーペルソナ5パターン
-- [ ] [待機] [EEMUS] MVP LP完全版
-- [ ] [待機] [AIpaX] β顧客5社募集LP完全版
+- [ ] **[処理中 11分]** [EEMUS] MVP LP完全版
+- [ ] **[処理中 11分]** [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] 利用規約・特商法表記
@@ -70,6 +69,7 @@ updated: 2026-06-03 13:49
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
+- [ ] [待機] [EEMUS] 提携高校候補20校リスト
 
 
 ## 📅 今日の予定（Calendar）
