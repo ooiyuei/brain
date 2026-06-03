@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 10:39
+updated: 2026-06-03 10:44
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 10:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 618分]** [School] 体験会2時間プログラム
-- [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 1分]** [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
@@ -101,6 +99,7 @@ updated: 2026-06-03 10:39
 - [ ] [待機] [EEMUS] MVP LP完全版
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
+- [ ] [待機] [School] X『中高生×AI』20投稿
 
 
 ## 📅 今日の予定（Calendar）
