@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 11:19
+updated: 2026-06-03 11:24
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 11:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 418分]** [School] 利用規約・特商法表記
-- [ ] **[処理中 4分]** [Shincoder S9] ファネル分析シート (2026-06-03 週分)
+- [ ] **[処理中 9分]** [Shincoder S4] CPA判定シート (2026-06-03 週分)
 - [ ] [待機] [School] 親FAQ 30問
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
@@ -92,7 +91,7 @@ updated: 2026-06-03 11:19
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
-- [ ] [待機] [Shincoder S4] CPA判定シート (2026-06-03 週分)
+- [ ] [待機] [School] 入学後30日プラン
 
 
 ## 📅 今日の予定（Calendar）
