@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:22:47
+updated: 2026-06-03 13:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:22:47** | 🔥 **稼働中**
+**13:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **34%**
-- VRAM: 7590MB / 8151MB (**93.1%**)
+- 使用率: **0%**
+- VRAM: 7589MB / 8151MB (**93.1%**)
 
 ## 💾 RAM
 
-- 使用率: **40.2%** (12.8GB / 31.9GB)
+- 使用率: **40.5%** (12.9GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 34 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 285 |
-
-## 🔄 処理中タスク
-
-- ⚡ [15708 秒経過] **[EEMUS] 連携企業候補20社**
+| 📥 inbox | 33 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 287 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [School] 利用規約・特商法表記
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [Testall] ユーザーペルソナ5パターン
 
 ## 🎯 判定
 
