@@ -59,6 +59,14 @@
                     {
                         "slug":  "money-app-spec-1week",
                         "time":  "2026-06-03T15:49:02.2558549+09:00"
+                    },
+                    {
+                        "slug":  "money-school-curriculum",
+                        "time":  "2026-06-03T15:52:02.2731870+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-email-templates",
+                        "time":  "2026-06-03T15:55:02.2698123+09:00"
                     }
                 ]
 }
