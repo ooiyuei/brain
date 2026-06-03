@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:18:47
+updated: 2026-06-03 11:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:18:47** | 🔥 **稼働中**
+**11:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,44 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7515MB / 8151MB (**92.2%**)
+- 使用率: **21%**
+- VRAM: 7571MB / 8151MB (**92.9%**)
 
 ## 💾 RAM
 
-- 使用率: **38%** (12.1GB / 31.9GB)
+- 使用率: **38.3%** (12.2GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 57 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 241 |
+| 📥 inbox | 54 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 243 |
+
+## 🔄 処理中タスク
+
+- ⚡ [24707 秒経過] **[School] 親FAQ 30問**
+- ⚡ [467 秒経過] **[Shincoder S4] CPA判定シート (2026-06-03 週分)**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 利用規約・特商法表記
-- [high] [School] 親FAQ 30問
 - [high] [School] 親向けLP完全版
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [School] X『中高生×AI』20投稿
+- [high] [EEMUS] 連携企業候補20社
+- [high] [School] 親FAQ 30問
 
 ## 🎯 判定
 
