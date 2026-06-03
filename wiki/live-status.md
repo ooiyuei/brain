@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 10:46:47
+updated: 2026-06-03 10:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:46:47** | 🔥 **稼働中**
+**10:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7663MB / 8151MB (**94%**)
+- VRAM: 7514MB / 8151MB (**92.2%**)
 
 ## 💾 RAM
 
-- 使用率: **38.2%** (12.2GB / 31.9GB)
+- 使用率: **37.9%** (12.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,17 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 62 |
+| 📥 inbox | 61 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 225 |
+| ✅ 今日完了 | 226 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親FAQ 30問
 - [high] [Testall] Studyplus Planning徹底比較
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
+- [high] [Money] AIpaX 5社目商談クロージング想定問答
 
 ## 🎯 判定
 
