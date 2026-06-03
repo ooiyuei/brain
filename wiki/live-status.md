@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:54:46
+updated: 2026-06-03 13:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:54:46** | 🔥 **稼働中**
+**13:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.7GB | 残26分 |
+| qwen3:8b | 7.6GB | 5.7GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **17%**
-- VRAM: 7384MB / 8151MB (**90.6%**)
+- 使用率: **0%**
+- VRAM: 7474MB / 8151MB (**91.7%**)
 
 ## 💾 RAM
 
-- 使用率: **45.3%** (14.5GB / 31.9GB)
+- 使用率: **45.8%** (14.6GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 32 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 294 |
-
-## 🔄 処理中タスク
-
-- ⚡ [673 秒経過] **[EEMUS] MVP LP完全版**
-- ⚡ [673 秒経過] **[AIpaX] β顧客5社募集LP完全版**
+| 📥 inbox | 31 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 295 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客5社募集LP完全版
 - [high] [School] X『中高生×AI』20投稿
 - [high] [School] 利用規約・特商法表記
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] β顧客80万提案書フル版
+- [high] [School] 入学後30日プラン
 
 ## 🎯 判定
 
