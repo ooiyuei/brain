@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 12:34
+updated: 2026-06-03 12:39
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 12:34
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [横断] 15事業の優先順位再評価
-- [ ] [待機] [School] X『中高生×AI』20投稿
+- [ ] **[処理中 308分]** [School] X『中高生×AI』20投稿
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] AI 最新情報日次リサーチ
 - [ ] [待機] [Money] 6/21月収100万 残30日アクションプラン

@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 12:38:47
+updated: 2026-06-03 12:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:38:47** | 🔥 **稼働中**
+**12:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,43 +15,39 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **30%**
-- VRAM: 7571MB / 8151MB (**92.9%**)
+- 使用率: **0%**
+- VRAM: 7704MB / 8151MB (**94.5%**)
 
 ## 💾 RAM
 
-- 使用率: **38.5%** (12.3GB / 31.9GB)
+- 使用率: **38.6%** (12.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 43 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 267 |
-
-## 🔄 処理中タスク
-
-- ⚡ [18467 秒経過] **[School] X『中高生×AI』20投稿**
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 269 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] Stripe決済設定 5事業ロードマップ
 - [high] AI 最新情報日次リサーチ
 - [high] [Money] 6/21月収100万 残30日アクションプラン
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 ## 🎯 判定
 
