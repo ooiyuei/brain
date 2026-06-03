@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-31T06:11:01.8418081+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-05-31T06:21:01.8743812+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-31T06:31:01.8587762+09:00"
-                    },
-                    {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-31T06:41:01.8921665+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-31T06:51:02.2104887+09:00"
-                    },
-                    {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-05-31T07:01:01.9607438+09:00"
                     },
@@ -1979,6 +1959,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-04T06:11:01.7006667+09:00"
+                    },
+                    {
+                        "slug":  "aipax-lp-beta",
+                        "time":  "2026-06-04T06:56:01.6562194+09:00"
                     }
                 ]
 }
