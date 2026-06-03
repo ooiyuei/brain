@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 14:38:47
+updated: 2026-06-03 14:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:38:47** | 🔥 **稼働中**
+**14:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7096MB / 8151MB (**87.1%**)
+- VRAM: 7092MB / 8151MB (**87%**)
 
 ## 💾 RAM
 
@@ -37,17 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 16 |
+| 📥 inbox | 13 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 316 |
+| ✅ 今日完了 | 320 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpaX 5社目商談クロージング想定問答
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [high] [School] 体験会2時間プログラム
-- [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 1年カリキュラム詳細v2
+- [high] [EEMUS] ピッチデック10枚構成
+- [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [Money] AIpa Web 商工会経由営業文
+- [high] [Money] 紹介プログラム 5事業横断ルール
 
 ## 🎯 判定
 
