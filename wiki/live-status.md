@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 09:26:46
+updated: 2026-06-03 09:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:26:46** | 🔥 **稼働中**
+**09:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **25%**
-- VRAM: 7526MB / 8151MB (**92.3%**)
+- 使用率: **32%**
+- VRAM: 7531MB / 8151MB (**92.4%**)
 
 ## 💾 RAM
 
-- 使用率: **37.5%** (12GB / 31.9GB)
+- 使用率: **37.6%** (12GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 78 |
+| 📥 inbox | 77 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 193 |
+| ✅ 今日完了 | 195 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [45347 秒経過] **[School] 入学後30日プラン**
+- ⚡ [44387 秒経過] **[School] note『AI時代に子供に渡したいもの』**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [AIpaX] β顧客80万提案書フル版
+- [high] [School] note『AI時代に子供に渡したいもの』
+- [high] [AIpaX] β顧客5社募集LP完全版
 
 ## 🎯 判定
 
