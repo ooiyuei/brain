@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 10:49
+updated: 2026-06-03 10:54
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,6 @@ updated: 2026-06-03 10:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 588分]** [School] 親FAQ 30問
-- [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
@@ -98,6 +96,7 @@ updated: 2026-06-03 10:49
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 - [ ] [待機] [School] X『中高生×AI』20投稿
+- [ ] [待機] [School] 利用規約・特商法表記
 
 
 ## 📅 今日の予定（Calendar）

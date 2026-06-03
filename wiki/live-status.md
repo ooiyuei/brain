@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 10:50:46
+updated: 2026-06-03 10:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:50:46** | 🔥 **稼働中**
+**10:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7514MB / 8151MB (**92.2%**)
+- 使用率: **27%**
+- VRAM: 7558MB / 8151MB (**92.7%**)
 
 ## 💾 RAM
 
@@ -39,15 +39,15 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 61 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 226 |
+| ✅ 今日完了 | 227 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Testall] Studyplus Planning徹底比較
 - [high] [Testall] X受験あるある投稿30本
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
+- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 
 ## 🎯 判定
 
