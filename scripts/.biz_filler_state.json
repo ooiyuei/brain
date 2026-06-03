@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-31T07:41:01.8024993+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-31T07:51:02.0172169+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-31T08:01:02.0485603+09:00"
-                    },
-                    {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-31T08:11:02.0377046+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-31T08:21:02.3781167+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-05-31T08:31:02.2178633+09:00"
                     },
@@ -1951,6 +1931,10 @@
                     {
                         "slug":  "school-parent-lp",
                         "time":  "2026-06-04T07:41:01.7004075+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-04T08:26:01.6562204+09:00"
                     }
                 ]
 }

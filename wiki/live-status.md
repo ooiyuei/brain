@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 08:22:46
+updated: 2026-06-04 08:26:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:22:46** | 🔥 **稼働中**
+**08:26:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,35 +15,35 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 6948MB / 8151MB (**85.2%**)
+- 使用率: **90%**
+- VRAM: 6945MB / 8151MB (**85.2%**)
 
 ## 💾 RAM
 
-- 使用率: **48.5%** (15.5GB / 31.9GB)
+- 使用率: **48.8%** (15.6GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 238 |
+| 📥 inbox | 0 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 240 |
 
-## 📥 待機タスク (上位5)
+## 🔄 処理中タスク
 
-- [high] [金] 1週間で作れる月3万アプリ仕様書
+- ⚡ [48 秒経過] **[EEMUS] 提携高校候補20校リスト**
 
 ## 🎯 判定
 
