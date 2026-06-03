@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 10:38:47
+updated: 2026-06-03 10:42:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:38:47** | 🔥 **稼働中**
+**10:42:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残20分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **28%**
-- VRAM: 7581MB / 8151MB (**93%**)
+- 使用率: **26%**
+- VRAM: 7621MB / 8151MB (**93.5%**)
 
 ## 💾 RAM
 
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 64 |
+| 📥 inbox | 63 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 221 |
+| ✅ 今日完了 | 223 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [37068 秒経過] **[School] 体験会2時間プログラム**
+- ⚡ [36108 秒経過] **[AIpaX] X投稿『AI導入Tips』20本**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [EEMUS] MVP LP完全版
 - [high] [School] 親FAQ 30問
 - [high] [Testall] Studyplus Planning徹底比較
+- [high] [Testall] X受験あるある投稿30本
+- [high] [Money] AIpa Web 商工会経由営業文
 
 ## 🎯 判定
 
