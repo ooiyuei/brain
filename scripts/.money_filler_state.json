@@ -935,6 +935,14 @@
                     {
                         "slug":  "money-school-trial",
                         "time":  "2026-06-04T03:52:01.9217950+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-email-templates",
+                        "time":  "2026-06-04T03:55:01.9590764+09:00"
+                    },
+                    {
+                        "slug":  "money-dinii-followup",
+                        "time":  "2026-06-04T03:58:01.9200249+09:00"
                     }
                 ]
 }
