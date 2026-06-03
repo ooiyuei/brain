@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 03:34:47
+updated: 2026-06-04 03:38:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:34:47** | 🔥 **稼働中**
+**03:38:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -37,13 +37,9 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 102 |
-
-## 📥 待機タスク (上位5)
-
-- [high] [金] AIpaX school 体験会2時間プログラム
+| ✅ 今日完了 | 104 |
 
 ## 🎯 判定
 
