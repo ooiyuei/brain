@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 21:31
+updated: 2026-06-03 21:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 21:31
+**最終更新**: 2026-06-03 21:36
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,14 +14,11 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 487 |
+| ✅ 今日完了 | 490 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1750 (うち24h+古い: 1281) |
-
-### Inbox 上位
-- [high] [金] AIpa Web SEO記事 完全本文1本
+| 📝 wiki/_inbox 未レビュー | 1753 (うち24h+古い: 1281) |
 
 ## 🎯 今日のフォーカス
 
@@ -47,9 +44,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 170 件
+- marketing : 171 件
 - research : 13 件
-- newbiz : 181 件
+- newbiz : 183 件
 - ingest : 1 件
 - corp : 24 件
 - dev : 10 件
