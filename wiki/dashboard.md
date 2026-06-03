@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 18:11
+updated: 2026-06-03 18:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 18:11
+**最終更新**: 2026-06-03 18:16
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,16 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 420 |
+| 📥 inbox | 3 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 424 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1683 (うち24h+古い: 1261) |
+| 📝 wiki/_inbox 未レビュー | 1687 (うち24h+古い: 1262) |
 
-### 処理中
-- ⚙️ **[1 分]** [金] 月3万アプリ ニッチ需要ハント10案
-- ⚙️ **[0 分]** [School] 親向けLP完全版
+### Inbox 上位
+- [high] [Shincoder S10] PMF判定シート (2026-06-03 週分)
+- [high] [Shincoder S2] 新規アイデアLP草案 (2026-06-03)
+- [high] [金] 月3万アプリ ニッチ需要ハント10案
 
 ## 🎯 今日のフォーカス
 
@@ -48,11 +49,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 148 件
+- marketing : 150 件
 - research : 13 件
-- newbiz : 143 件
+- newbiz : 144 件
 - ingest : 1 件
-- corp : 19 件
+- corp : 20 件
 - dev : 8 件
 
 ## 🔗 主要リンク
