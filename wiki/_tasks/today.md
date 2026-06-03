@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 12:14
+updated: 2026-06-03 12:19
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,8 @@ updated: 2026-06-03 12:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 327分]** [Money] Testall 親向けLP コピー改善
-- [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [ ] **[処理中 332分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [ ] **[処理中 4分]** [Shincoder S6] ビルドインパブリックX投稿 3本 (2026-06-03)
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [AIpaX] 月次PL試算
