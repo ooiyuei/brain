@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:02:47
+updated: 2026-06-03 11:06:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:02:47** | 🔥 **稼働中**
+**11:06:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残23分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **33%**
+- 使用率: **32%**
 - VRAM: 7660MB / 8151MB (**94%**)
 
 ## 💾 RAM
 
-- 使用率: **38.3%** (12.2GB / 31.9GB)
+- 使用率: **38.6%** (12.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,22 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 62 |
+| 📥 inbox | 59 |
 | ⚙️ processing | 2 |
-| ✅ 今日完了 | 230 |
+| ✅ 今日完了 | 233 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [26147 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
-- ⚡ [167 秒経過] **[BG-Competitive] Studyplus Planning**
+- ⚡ [26387 秒経過] **[Money] 夢AWARD 60秒ピッチ動画台本 v3**
+- ⚡ [407 秒経過] **[BG-Competitive] Notion AI**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Testall] X受験あるある投稿30本
 - [high] [School] 利用規約・特商法表記
+- [high] [School] 親FAQ 30問
 
 ## 🎯 判定
 
