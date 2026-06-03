@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 14:18:46
+updated: 2026-06-03 14:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:18:46** | 🔥 **稼働中**
+**14:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.7GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.7GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7660MB / 8151MB (**94%**)
+- 使用率: **21%**
+- VRAM: 7629MB / 8151MB (**93.6%**)
 
 ## 💾 RAM
 
-- 使用率: **46.6%** (14.9GB / 31.9GB)
+- 使用率: **46.9%** (15GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 27 |
-| ⚙️ processing | 0 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 302 |
+
+## 🔄 処理中タスク
+
+- ⚡ [9708 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 体験会2時間プログラム
 - [high] [Money] Testall 親向けLP コピー改善
 - [high] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [high] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 判定
 
