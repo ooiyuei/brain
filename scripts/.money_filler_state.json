@@ -1267,6 +1267,14 @@
                     {
                         "slug":  "money-aipa-followup-scripts",
                         "time":  "2026-06-04T08:01:01.5021911+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-email-templates",
+                        "time":  "2026-06-04T08:04:01.5197352+09:00"
+                    },
+                    {
+                        "slug":  "money-content-school",
+                        "time":  "2026-06-04T08:07:01.5139662+09:00"
                     }
                 ]
 }
