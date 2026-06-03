@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 10:18:46
+updated: 2026-06-03 10:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:18:46** | 🔥 **稼働中**
+**10:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,44 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **37%**
-- VRAM: 7597MB / 8151MB (**93.2%**)
+- 使用率: **29%**
+- VRAM: 7637MB / 8151MB (**93.7%**)
 
 ## 💾 RAM
 
-- 使用率: **37.9%** (12.1GB / 31.9GB)
+- 使用率: **38%** (12.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 68 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 213 |
+| 📥 inbox | 67 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 216 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [38867 秒経過] **[AIpaX] SEO『中小企業 AI 導入 失敗』本文**
-- ⚡ [227 秒経過] **[Shincoder S11] ユニットエコノミクス計算シート (2026-06-03 月分)**
+- ⚡ [38507 秒経過] **[AIpaX] β顧客候補30社プロファイル**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] 月次PL試算
 - [high] [School] 体験会2時間プログラム
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 ## 🎯 判定
 

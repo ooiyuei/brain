@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 10:14
+updated: 2026-06-03 10:19
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,8 @@ updated: 2026-06-03 10:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [School] 入学後30日プラン
-- [ ] [待機] [School] 体験会2時間プログラム
-- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 648分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 4分]** [Shincoder S11] ユニットエコノミクス計算シート (2026-06-03 月分)
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
@@ -106,6 +105,7 @@ updated: 2026-06-03 10:14
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [EEMUS] MVP LP完全版
+- [ ] [待機] [Shincoder S10] PMF判定シート (2026-06-03 週分)
 
 
 ## 📅 今日の予定（Calendar）
