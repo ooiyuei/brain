@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 05:44
+updated: 2026-06-04 05:49
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-04 05:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [金] AIpa Web フォローアップトーク台本3本
+- [ ] [待機] [金] dinii時代の人脈 6月接触リスト
 
 
 ## 📅 今日の予定（Calendar）
