@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 10:56
+updated: 2026-06-03 11:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 10:56
+**最終更新**: 2026-06-03 11:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,22 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 60 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 227 |
+| 📥 inbox | 63 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 229 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1544 (うち24h+古い: 1239) |
+| 📝 wiki/_inbox 未レビュー | 1546 (うち24h+古い: 1240) |
 
 ### 処理中
-- ⚙️ **[435 分]** [Testall] X受験あるある投稿30本
+- ⚙️ **[434 分]** [Money] AIpaX 中堅企業3社 個別アプローチメール
+- ⚙️ **[1 分]** [BG-Competitive] Studyplus Planning
 
 ### Inbox 上位
-- [high] [Money] AIpa Web 商工会経由営業文
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [high] [Money] AIpaX 5社目商談クロージング想定問答
 - [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
 - [high] [AIpaX] X投稿『AI導入Tips』20本
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Testall] X受験あるある投稿30本
 
 ## 🎯 今日のフォーカス
 
@@ -43,7 +44,7 @@ tags: [dashboard, system]
 | 📅 ビジコン分析 (14日) | バッチ 14/14 (100%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 2 / 2 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 1/4 |
-| ⚔️ 競合監視 (3日サイクル) | 15/15 社 |
+| ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
 ## 🌅 今朝の監視結果
 
@@ -54,7 +55,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 599 件
+- marketing : 601 件
 - research : 29 件
 - newbiz : 529 件
 - ingest : 1 件

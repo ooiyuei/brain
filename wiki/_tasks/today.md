@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 10:54
+updated: 2026-06-03 10:59
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 10:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [Testall] X受験あるある投稿30本
-- [ ] [待機] [Money] AIpa Web 商工会経由営業文
+- [ ] **[処理中 432分]** [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 - [ ] [待機] [Money] AIpaX 5社目商談クロージング想定問答
 - [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
