@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 08:30:46
+updated: 2026-06-04 08:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:30:46** | 🔥 **稼働中**
+**08:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 6942MB / 8151MB (**85.2%**)
+- VRAM: 6948MB / 8151MB (**85.2%**)
 
 ## 💾 RAM
 
-- 使用率: **48.5%** (15.5GB / 31.9GB)
+- 使用率: **48.7%** (15.5GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,15 +37,14 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 3 |
+| 📥 inbox | 2 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 242 |
+| ✅ 今日完了 | 246 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Monitor] 競合動向Top3 - 2026-06-04
-- [high] [Monitor] ビジコン締切 - 2026-06-04
-- [high] [Monitor] 朝の問い - 2026-06-04
+- [high] [金] AIpaX β顧客候補10社+痛みリサーチ
+- [normal] [Bank] 月額¥4,980 プラン詳細サービス内容
 
 ## 🎯 判定
 
