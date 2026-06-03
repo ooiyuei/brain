@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 13:29
+updated: 2026-06-03 13:34
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 13:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 248分]** [Testall] コンテンツ戦略3ヶ月
-- [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
+- [ ] **[処理中 1分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
@@ -69,6 +68,7 @@ updated: 2026-06-03 13:29
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
+- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 
 
 ## 📅 今日の予定（Calendar）
