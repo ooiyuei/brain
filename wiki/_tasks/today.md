@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 04:49
+updated: 2026-06-04 04:54
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-04 04:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 2分]** [Money] EEMUS 連携企業5社 具体接触メール
-- [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
-- [ ] [待機] [金] AIpa Web フォローアップトーク台本3本
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
