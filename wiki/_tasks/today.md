@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 23:44
+updated: 2026-06-03 23:49
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,10 @@ updated: 2026-06-03 23:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- (現在OpenClaw処理待ち・処理中タスクなし)
+- [ ] **[処理中 2分]** [Money] 紹介プログラム 5事業横断ルール
+- [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
+- [ ] [待機] [Money] AIpa Web 商工会経由営業文
+- [ ] [待機] [金] AIpa Web モニター候補10社+アプローチ案
 
 
 ## 📅 今日の予定（Calendar）
