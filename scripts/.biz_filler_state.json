@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-31T01:41:02.7561702+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-31T01:51:02.7530180+09:00"
-                    },
-                    {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-31T02:01:02.6744543+09:00"
-                    },
-                    {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-31T02:11:03.3469434+09:00"
-                    },
-                    {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-31T02:21:02.6761722+09:00"
-                    },
-                    {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-05-31T02:31:01.7460515+09:00"
                     },
@@ -2063,6 +2043,10 @@
                     {
                         "slug":  "school-tos",
                         "time":  "2026-06-04T01:41:01.5867894+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-04T02:26:01.5998461+09:00"
                     }
                 ]
 }
