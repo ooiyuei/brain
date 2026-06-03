@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 12:19
+updated: 2026-06-03 12:24
 ---
 
 # Today 2026-06-03
@@ -36,10 +36,7 @@ updated: 2026-06-03 12:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 332分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [ ] **[処理中 4分]** [Shincoder S6] ビルドインパブリックX投稿 3本 (2026-06-03)
-- [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [ ] [待機] [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 1分]** [EEMUS] ピッチデック10枚構成
 - [ ] [待機] [AIpaX] 月次PL試算
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月
 - [ ] [待機] [横断] 15事業の優先順位再評価
@@ -85,6 +82,7 @@ updated: 2026-06-03 12:19
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [AIpaX] 月次PL試算
+- [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 
 
 ## 📅 今日の予定（Calendar）

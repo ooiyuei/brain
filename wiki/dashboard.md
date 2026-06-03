@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 12:21
+updated: 2026-06-03 12:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 12:21
+**最終更新**: 2026-06-03 12:26
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 48 |
+| 📥 inbox | 46 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 261 |
+| ✅ 今日完了 | 263 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1573 (うち24h+古い: 1246) |
+| 📝 wiki/_inbox 未レビュー | 1575 (うち24h+古い: 1246) |
 
 ### 処理中
-- ⚙️ **[334 分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
+- ⚙️ **[3 分]** [EEMUS] ピッチデック10枚構成
 
 ### Inbox 上位
-- [high] [Money] Testall 受験生インフルエンサー連携 DM10件
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [AIpaX] 月次PL試算
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [横断] 15事業の優先順位再評価
+- [high] [School] X『中高生×AI』20投稿
+- [high] [横断] Stripe決済設定 5事業ロードマップ
 
 ## 🎯 今日のフォーカス
 
@@ -54,8 +54,8 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 612 件
-- research : 29 件
+- marketing : 613 件
+- research : 30 件
 - newbiz : 540 件
 - ingest : 1 件
 - corp : 209 件
