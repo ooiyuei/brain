@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 02:46:46
+updated: 2026-06-04 02:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**02:46:46** | 🔥 **稼働中**
+**02:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7041MB / 8151MB (**86.4%**)
+- VRAM: 7054MB / 8151MB (**86.5%**)
 
 ## 💾 RAM
 
@@ -37,14 +37,15 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
+| 📥 inbox | 3 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 77 |
+| ✅ 今日完了 | 81 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [金] AIpa Web SEO記事 完全本文1本
-- [normal] [Bank] インスタ広告 月3万円ターゲティング設計
+- [high] [Money] Testall 親向けLP コピー改善
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [金] dinii時代の人脈 6月接触リスト
 
 ## 🎯 判定
 
