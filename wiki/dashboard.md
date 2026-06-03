@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 06:01
+updated: 2026-06-04 06:06
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 06:01
+**最終更新**: 2026-06-04 06:06
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,14 +14,11 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 172 |
+| ✅ 今日完了 | 175 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1996 (うち24h+古い: 1412) |
-
-### Inbox 上位
-- [high] [金] dinii時代の人脈 6月接触リスト
+| 📝 wiki/_inbox 未レビュー | 1999 (うち24h+古い: 1414) |
 
 ## 🎯 今日のフォーカス
 
@@ -42,7 +39,7 @@ tags: [dashboard, system]
 
 - marketing : 274 件
 - research : 16 件
-- newbiz : 306 件
+- newbiz : 309 件
 - ingest : 1 件
 - corp : 35 件
 - dev : 13 件
