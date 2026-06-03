@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 15:09
+updated: 2026-06-03 15:14
 ---
 
 # Today 2026-06-03
@@ -36,12 +36,12 @@ updated: 2026-06-03 15:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 68分]** [横断] Stripe決済設定 5事業ロードマップ
-- [ ] **[処理中 2分]** [金] AIpa Web LP コピーライティング 1本
-- [ ] [待機] [School] 体験会2時間プログラム
-- [ ] [待機] [Sales] AIpa Web 製造業 30社プロファイル
-- [ ] [待機] [Sales] AIpa Web 3プラン価格戦略
+- [ ] **[処理中 53分]** [Sales] AIpa Web 製造業 30社プロファイル
+- [ ] **[処理中 43分]** [Sales] AIpa Web 3プラン価格戦略
+- [ ] **[処理中 1分]** [金] AIpaX school 親向け不安解消記事
 - [ ] [待機] [Sales] フォローアップ自動ルール表
+- [ ] [待機] [横断] 15事業の優先順位再評価
+- [ ] [待機] [Sales] AIpa Web 電話トーク台本
 
 
 ## 📅 今日の予定（Calendar）
