@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 13:14
+updated: 2026-06-03 13:19
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 13:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [Money] AIpa Web 商工会経由営業文
-- [ ] [待機] [EEMUS] 連携企業候補20社
+- [ ] **[処理中 268分]** [EEMUS] 連携企業候補20社
 - [ ] [待機] [EEMUS] 連携企業候補20社
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Testall] コンテンツ戦略3ヶ月

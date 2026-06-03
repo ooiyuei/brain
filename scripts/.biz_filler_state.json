@@ -1,14 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-30T13:11:02.6352328+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-30T13:21:02.1630979+09:00"
-                    },
-                    {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-05-30T13:31:02.2856490+09:00"
                     },
@@ -2307,6 +2299,10 @@
                     {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-03T13:11:02.5600604+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-03T13:21:02.4738048+09:00"
                     }
                 ]
 }

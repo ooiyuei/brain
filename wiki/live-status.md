@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:18:47
+updated: 2026-06-03 13:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:18:47** | 🔥 **稼働中**
+**13:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **34%**
-- VRAM: 7592MB / 8151MB (**93.1%**)
+- VRAM: 7590MB / 8151MB (**93.1%**)
 
 ## 💾 RAM
 
-- 使用率: **39.8%** (12.7GB / 31.9GB)
+- 使用率: **40.2%** (12.8GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 34 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 284 |
+| ✅ 今日完了 | 285 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [16068 秒経過] **[EEMUS] 連携企業候補20社**
+- ⚡ [15708 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 連携企業候補20社
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Testall] コンテンツ戦略3ヶ月
 - [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [School] 利用規約・特商法表記
+- [high] [School] 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
