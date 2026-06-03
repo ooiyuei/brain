@@ -1095,6 +1095,14 @@
                     {
                         "slug":  "money-school-curriculum",
                         "time":  "2026-06-04T05:52:02.2291294+09:00"
+                    },
+                    {
+                        "slug":  "money-school-trial",
+                        "time":  "2026-06-04T05:55:02.2171327+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-prospect-list",
+                        "time":  "2026-06-04T05:58:02.2629437+09:00"
                     }
                 ]
 }
