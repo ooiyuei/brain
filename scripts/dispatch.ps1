@@ -127,8 +127,10 @@ if ($prefix -and -not $SkipPrefix -and -not $autoSkip) {
 }
 
 # 🔥 自動 ContextFiles 注入: プロンプト内の [[entities/xxx]] を検出して対応ファイルを自動添付
-# 2026-05-19 重要修正: qwen3.6が事業の実中身を読まず妄想する問題を防ぐ
-$entityMatches = [regex]::Matches($finalPrompt, '\[\[entities/([a-zA-Z0-9\-_]+)(\|[^\]]*)?\]\]')
+# 2026-05-19: qwen3.6が事業の実中身を読まず妄想する問題を防ぐ
+# 2026-06-03: $finalPrompt(=prefix込み)でなく $Prompt(タスク本文)だけを走査するよう修正。
+#   prefixの18個のwikilink一覧まで拾って17 entity注入→57k字→num_ctx 8192で85%切り捨て、になっていた。
+$entityMatches = [regex]::Matches($Prompt, '\[\[entities/([a-zA-Z0-9\-_]+)(\|[^\]]*)?\]\]')
 $autoCtxFiles = @()
 foreach ($m in $entityMatches) {
     $entityName = $m.Groups[1].Value

@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 14:19
+updated: 2026-06-03 14:24
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,8 @@ updated: 2026-06-03 14:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 158分]** [School] 体験会2時間プログラム
-- [ ] [待機] [Money] Testall 親向けLP コピー改善
-- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [ ] **[処理中 157分]** [Money] Testall 親向けLP コピー改善
+- [ ] **[処理中 157分]** [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
@@ -63,6 +62,7 @@ updated: 2026-06-03 14:19
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 - [ ] [待機] [School] 体験会2時間プログラム
+- [ ] [待機] [Sales] AIpa Web 製造業 30社プロファイル
 
 
 ## 📅 今日の予定（Calendar）
