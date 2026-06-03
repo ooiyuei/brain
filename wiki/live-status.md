@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 04:18:46
+updated: 2026-06-04 04:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**04:18:46** | 🔥 **稼働中**
+**04:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,35 +15,35 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **91%**
-- VRAM: 6964MB / 8151MB (**85.4%**)
+- 使用率: **0%**
+- VRAM: 6970MB / 8151MB (**85.5%**)
 
 ## 💾 RAM
 
-- 使用率: **46.5%** (14.9GB / 31.9GB)
+- 使用率: **46.2%** (14.8GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 124 |
+| 📥 inbox | 1 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 126 |
 
-## 🔄 処理中タスク
+## 📥 待機タスク (上位5)
 
-- ⚡ [147 秒経過] **[Bank] 税理士向けセミナー設計**
+- [high] [金] 夢AWARD応募ストーリー骨子v2
 
 ## 🎯 判定
 
