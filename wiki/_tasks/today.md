@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 09:04
+updated: 2026-06-03 09:09
 ---
 
 # Today 2026-06-03
@@ -36,8 +36,7 @@ updated: 2026-06-03 09:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [School] 親向けLP完全版
-- [ ] [待機] [School] note『AI時代に子供に渡したいもの』
+- [ ] **[処理中 808分]** [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [横断] 15事業の優先順位再評価
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
