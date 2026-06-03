@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 22:51
+updated: 2026-06-03 22:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 22:51
+**最終更新**: 2026-06-03 22:56
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,14 +14,11 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 529 |
+| ✅ 今日完了 | 532 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1792 (うち24h+古い: 1290) |
-
-### Inbox 上位
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
+| 📝 wiki/_inbox 未レビュー | 1795 (うち24h+古い: 1292) |
 
 ## 🎯 今日のフォーカス
 
@@ -47,9 +44,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 189 件
+- marketing : 191 件
 - research : 14 件
-- newbiz : 202 件
+- newbiz : 203 件
 - ingest : 1 件
 - corp : 25 件
 - dev : 10 件
