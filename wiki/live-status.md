@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 17:18:47
+updated: 2026-06-03 17:22:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:18:47** | 🔥 **稼働中**
+**17:22:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **16%**
-- VRAM: 7851MB / 8151MB (**96.3%**)
+- 使用率: **21%**
+- VRAM: 7838MB / 8151MB (**96.2%**)
 
 ## 💾 RAM
 
-- 使用率: **47.9%** (15.3GB / 31.9GB)
+- 使用率: **48.7%** (15.5GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,9 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 398 |
+| ✅ 今日完了 | 399 |
+
+## 📥 待機タスク (上位5)
+
+- [high] [金] dinii時代の人脈 6月接触リスト
 
 ## 🎯 判定
 
