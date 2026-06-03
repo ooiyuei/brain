@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 12:09
+updated: 2026-06-03 12:14
 ---
 
 # Today 2026-06-03
@@ -36,10 +36,7 @@ updated: 2026-06-03 12:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 338分]** [School] 体験会2時間プログラム
-- [ ] [待機] [Testall] 教育者連携アプローチ
-- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [ ] [待機] [Money] Testall 親向けLP コピー改善
+- [ ] **[処理中 327分]** [Money] Testall 親向けLP コピー改善
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [Money] Testall 受験生インフルエンサー連携 DM10件
 - [ ] [待機] [EEMUS] ピッチデック10枚構成
@@ -87,6 +84,7 @@ updated: 2026-06-03 12:09
 - [ ] [待機] [Money] AIpa Web 静岡中堅企業 10社具体リスト
 - [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
+- [ ] [待機] [AIpaX] 月次PL試算
 
 
 ## 📅 今日の予定（Calendar）
