@@ -1,6 +1,7 @@
 {
     "round":  2,
     "refreshed":  [
-
+                      "business-contests",
+                      "ecokan"
                   ]
 }
