@@ -599,6 +599,14 @@
                     {
                         "slug":  "money-content-school",
                         "time":  "2026-06-03T23:40:02.2611038+09:00"
+                    },
+                    {
+                        "slug":  "money-school-curriculum",
+                        "time":  "2026-06-03T23:43:02.2833339+09:00"
+                    },
+                    {
+                        "slug":  "money-aipax-proposal-template",
+                        "time":  "2026-06-03T23:46:02.2690628+09:00"
                     }
                 ]
 }
