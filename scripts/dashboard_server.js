@@ -170,13 +170,25 @@ function getDepartmentsStatus() {
 }
 
 // ===== 状態取得関数群 =====
+// 2026-06-03: 毎回 powershell(Get-Counter ~3s) を起動していたのを純node(os.cpus差分)に置換。
+// /api/status が 3.6s→<0.5s に高速化し、2秒ポーリングが詰まらなくなる。
+let _lastCpu = null;
 function getCpuUsage() {
     try {
-        const out = execSync(
-            `powershell -NoProfile -Command "(Get-Counter '\\Processor(_Total)\\% Processor Time' -ErrorAction SilentlyContinue).CounterSamples.CookedValue"`,
-            { timeout: 3000, windowsHide: true }
-        ).toString().trim();
-        return Math.round(parseFloat(out) * 10) / 10;
+        const cpus = os.cpus();
+        let idle = 0, total = 0;
+        for (const c of cpus) {
+            for (const k in c.times) total += c.times[k];
+            idle += c.times.idle;
+        }
+        let pct = 0;
+        if (_lastCpu) {
+            const dIdle = idle - _lastCpu.idle;
+            const dTotal = total - _lastCpu.total;
+            pct = dTotal > 0 ? (1 - dIdle / dTotal) * 100 : 0;
+        }
+        _lastCpu = { idle, total };
+        return Math.round(pct * 10) / 10;
     } catch (e) { return null; }
 }
 
@@ -260,7 +272,11 @@ function getWorkerLocks() {
     };
 }
 
+// 2026-06-03: schtasks 起動(~1-2s)を毎回やらず20秒キャッシュ。スケジューラ状態は頻繁に変わらないため十分。
+let _schedCache = { ts: 0, data: [] };
 function getScheduledTasks() {
+    const now = Date.now();
+    if (now - _schedCache.ts < 20000 && _schedCache.data.length) return _schedCache.data;
     try {
         const out = execSync(
             `powershell -NoProfile -Command "schtasks /query /fo CSV 2>$null | ConvertFrom-Csv | Where-Object { $_.TaskName -match 'Brain|Daily' } | Select-Object TaskName,Status | ConvertTo-Json"`,
@@ -268,8 +284,10 @@ function getScheduledTasks() {
         ).toString().trim();
         const parsed = JSON.parse(out);
         const arr = Array.isArray(parsed) ? parsed : [parsed];
-        return arr.map(t => ({ name: (t.TaskName || '').replace(/^\\/, ''), status: t.Status }));
-    } catch (e) { return []; }
+        const result = arr.map(t => ({ name: (t.TaskName || '').replace(/^\\/, ''), status: t.Status }));
+        _schedCache = { ts: now, data: result };
+        return result;
+    } catch (e) { return _schedCache.data; }
 }
 
 function getCounts() {
@@ -667,7 +685,7 @@ function render(d){
                 '<div class="model-icon">🦙</div>' +
                 '<div class="model-info">' +
                     '<div class="model-name-big">' + main.name + '</div>' +
-                    '<div class="model-sub">' + (isHeavy ? '💜 Heavy lane (qwen3.6 系)' : '💎 Light lane (軽量モデル)') + ' · ' + expires + '</div>' +
+                    '<div class="model-sub">' + '⚡ qwen3:8b · 8GB GPU最適化 (num_ctx 8192)' + ' · ' + expires + '</div>' +
                 '</div>' +
                 '<div class="model-vram">' +
                     '<div class="model-vram-num">' + vramGB + ' GB</div>' +
@@ -837,7 +855,7 @@ h1 { font-size: 24px; margin-bottom: 8px; }
 
   <div class="main">
     <h1>🏢 Brain System 組織図</h1>
-    <div class="intro">大井湧瑛 株式会社の AI組織構造。CEOが全体を統括し、各部署のClaude エージェントがOpenClaw社員（qwen3.6/qwen3:8b）を使ってタスクを実行。</div>
+    <div class="intro">大井湧瑛 株式会社の AI組織構造。CEOが全体を統括し、各部署のClaude エージェントがOpenClaw社員（qwen3:8b・8GB GPU最適化済）を使ってタスクを実行。</div>
 
     <div class="legend">
       <div class="legend-item"><div class="legend-box" style="background:rgba(245,158,11,0.5); border:1px solid var(--amber);"></div><span>Owner（大井湧瑛）</span></div>
@@ -875,7 +893,7 @@ h1 { font-size: 24px; margin-bottom: 8px; }
           <div class="line-down"></div>
           <div class="node openclaw">
             <div class="node-title">🦞 research-agent</div>
-            <div class="node-sub">qwen3.6:latest</div>
+            <div class="node-sub">qwen3:8b</div>
           </div>
           <div class="dept-tasks">BG-Competitive<br>BG-AINews<br>monitor</div>
         </div>
@@ -894,7 +912,7 @@ h1 { font-size: 24px; margin-bottom: 8px; }
           <div class="line-down"></div>
           <div class="node openclaw">
             <div class="node-title">🦞 newbiz-agent</div>
-            <div class="node-sub">qwen3.6:latest</div>
+            <div class="node-sub">qwen3:8b</div>
           </div>
           <div class="dept-tasks">BG-Business<br>BG-AppBattery<br>BG-Entities</div>
         </div>
@@ -932,7 +950,7 @@ h1 { font-size: 24px; margin-bottom: 8px; }
           <div class="line-down"></div>
           <div class="node openclaw">
             <div class="node-title">🦞 dev-agent</div>
-            <div class="node-sub">qwen3.6:latest</div>
+            <div class="node-sub">qwen3:8b</div>
           </div>
           <div class="dept-tasks">README<br>API docs</div>
         </div>

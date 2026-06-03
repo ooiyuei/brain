@@ -38,3 +38,9 @@
 {"ts": "2026-06-03T13:17:56+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\queue_guard.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
 {"ts": "2026-06-03T13:41:29+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\pause_brain.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
 {"ts": "2026-06-03T13:41:39+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\pause_brain.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:43:36+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\resume_brain.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:44:57+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dashboard_server.js", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:44:59+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dashboard_server.js", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:45:12+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dashboard_server.js", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:46:41+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dashboard_server.js", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-03T13:46:59+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dashboard_server.js", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}

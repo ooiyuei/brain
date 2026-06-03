@@ -55,27 +55,28 @@ if (-not $ollamaUp) { Write-Host "  ⚠ Ollama 起動失敗。手動で 'ollama 
 }
 Write-Host "[4/9] Locks cleared"
 
-# 5. Brain* scheduler を Enable
-# 除外リスト (デフォルトで止めるべきもの)
-$keepDisabled = @(
-    "BrainNewbizSeed",     # 新規事業開拓は終了
-    "BrainNewbizAdvance",
-    "BrainIdleFiller",     # 主力5に絞ったので不要
-    "BrainDevFiller",      # 現状不要
-    "BrainCorpFiller",     # 現状不要
-    "BrainCSFiller"        # 現状不要
-)
+# 5. Brain* scheduler を復元
+# 2026-06-03 修正: 「pause前のsnapshotに記録された有効タスクだけ」を再有効化する方式に変更。
+# 旧実装は keepDisabled以外を全有効化していたため、意図的にDisableした地雷(BrainAutoReview=1500件滞留事故の元凶 等)を
+# pause/resumeの度に誤って復活させていた。snapshot復元なら pause前の状態を厳密に保つ。
 $enabledCount = 0
-Get-ScheduledTask | Where-Object { $_.TaskName -match '^Brain' } | ForEach-Object {
-    if ($_.TaskName -in $keepDisabled) {
-        Disable-ScheduledTask -TaskName $_.TaskName -ErrorAction SilentlyContinue | Out-Null
-    } else {
-        if ($_.State -eq 'Disabled') {
-            try { Enable-ScheduledTask -TaskName $_.TaskName -ErrorAction SilentlyContinue | Out-Null; $enabledCount++ } catch {}
-        }
+$restoreList = @()
+if ($snap -and $snap.active_schedulers) { $restoreList = @($snap.active_schedulers) }
+# 何があっても絶対に有効化しない地雷リスト (フォールバック時の安全弁)
+$neverEnable = @("BrainAutoReview","BrainNewbizSeed","BrainNewbizAdvance","BrainIdleFiller","BrainDevFiller","BrainCorpFiller","BrainCSFiller","BrainSchoolContentFiller","BrainWritingFiller","DailyBrainOllama")
+if ($restoreList.Count -gt 0) {
+    foreach ($tn in $restoreList) {
+        if ($tn -in $neverEnable) { continue }
+        try { Enable-ScheduledTask -TaskName $tn -ErrorAction SilentlyContinue | Out-Null; $enabledCount++ } catch {}
     }
+    Write-Host "[5/9] Schedulers restored from snapshot ($enabledCount re-enabled)"
+} else {
+    # snapshot欠落時のフォールバック: neverEnable以外のDisabledを有効化
+    Get-ScheduledTask | Where-Object { $_.TaskName -match '^Brain' -and $_.State -eq 'Disabled' -and $_.TaskName -notin $neverEnable } | ForEach-Object {
+        try { Enable-ScheduledTask -TaskName $_.TaskName -ErrorAction SilentlyContinue | Out-Null; $enabledCount++ } catch {}
+    }
+    Write-Host "[5/9] Schedulers enabled via fallback ($enabledCount activated)"
 }
-Write-Host "[5/9] Schedulers enabled ($enabledCount activated)"
 
 # 6. Dashboard 起動確認
 $dashUp = $false
