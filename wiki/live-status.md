@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:58:46
+updated: 2026-06-03 12:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:58:46** | 🔥 **稼働中**
+**12:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7688MB / 8151MB (**94.3%**)
+- 使用率: **24%**
+- VRAM: 7692MB / 8151MB (**94.4%**)
 
 ## 💾 RAM
 
-- 使用率: **38.5%** (12.3GB / 31.9GB)
+- 使用率: **38.6%** (12.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 53 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 253 |
+| 📥 inbox | 52 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 254 |
+
+## 🔄 処理中タスク
+
+- ⚡ [21108 秒経過] **[EEMUS] ピッチデック10枚構成**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [横断] 投資家向けピッチ1分版
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] 体験会2時間プログラム
 - [high] [Testall] 教育者連携アプローチ
+- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 判定
 
