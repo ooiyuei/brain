@@ -983,6 +983,14 @@
                     {
                         "slug":  "money-content-school",
                         "time":  "2026-06-04T04:28:02.0041658+09:00"
+                    },
+                    {
+                        "slug":  "money-contest-list",
+                        "time":  "2026-06-04T04:31:02.0931120+09:00"
+                    },
+                    {
+                        "slug":  "money-aipax-proposal-template",
+                        "time":  "2026-06-04T04:34:02.0140940+09:00"
                     }
                 ]
 }
