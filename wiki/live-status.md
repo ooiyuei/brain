@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 20:30:46
+updated: 2026-06-03 20:34:46
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**20:30:46** | 💤 **アイドル**
+**20:34:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -16,12 +16,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 1458MB / 8151MB (**17.9%**)
+- 使用率: **7%**
+- VRAM: 2196MB / 8151MB (**26.9%**)
 
 ## 💾 RAM
 
-- 使用率: **43.5%** (13.9GB / 31.9GB)
+- 使用率: **49%** (15.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -33,13 +33,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 469 |
+| ✅ 今日完了 | 470 |
+
+## 📥 待機タスク (上位5)
+
+- [normal] [Bank] 卒業後3年後ストーリー (架空構造)
 
 ## 🎯 判定
 
-💤 **アイドル** — タスク無し。idle_filler.ps1 が次のタスクを補充予定
+⏳ **再開待ち** — inbox に 1 件、次のworker起動で処理開始
 
 ---
 
