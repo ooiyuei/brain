@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 06:29
+updated: 2026-06-04 06:34
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-04 06:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- (現在OpenClaw処理待ち・処理中タスクなし)
+- [ ] [待機] [金] AIpaX β顧客候補10社+痛みリサーチ
 
 
 ## 📅 今日の予定（Calendar）
