@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 12:54
+updated: 2026-06-03 12:59
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 12:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 303分]** [AIpaX] 業務委託契約書テンプレ
-- [ ] **[処理中 293分]** [School] 体験会2時間プログラム
-- [ ] [待機] [School] 体験会2時間プログラム
+- [ ] **[処理中 288分]** [School] 体験会2時間プログラム
 - [ ] [待機] [EEMUS] 高校生インターン体験談コンテンツ3本
 - [ ] [待機] [Testall] Studyplus Planning徹底比較
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子

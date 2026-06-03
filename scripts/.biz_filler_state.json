@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-30T13:01:02.4115000+09:00"
-                    },
-                    {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-05-30T13:11:02.6352328+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-03T12:51:02.1589014+09:00"
+                    },
+                    {
+                        "slug":  "eemus-dream-award-story",
+                        "time":  "2026-06-03T13:01:02.5067835+09:00"
                     }
                 ]
 }
