@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 03:46:46
+updated: 2026-06-04 03:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**03:46:46** | 🔥 **稼働中**
+**03:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,36 +15,36 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7013MB / 8151MB (**86%**)
+- 使用率: **92%**
+- VRAM: 7119MB / 8151MB (**87.3%**)
 
 ## 💾 RAM
 
-- 使用率: **45.6%** (14.5GB / 31.9GB)
+- 使用率: **46.2%** (14.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 106 |
+| 📥 inbox | 0 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 111 |
 
-## 📥 待機タスク (上位5)
+## 🔄 処理中タスク
 
-- [high] [金] AIpaX β顧客候補10社+痛みリサーチ
-- [normal] [Bank] β大会開催プラン (10チーム×4人)
+- ⚡ [226 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
+- ⚡ [107 秒経過] **[金] AIpa Web SEO記事 完全本文1本**
 
 ## 🎯 判定
 
