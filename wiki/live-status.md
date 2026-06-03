@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:58:46
+updated: 2026-06-03 14:02:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:58:46** | 🔥 **稼働中**
+**14:02:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,34 +20,38 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7474MB / 8151MB (**91.7%**)
+- 使用率: **26%**
+- VRAM: 7634MB / 8151MB (**93.7%**)
 
 ## 💾 RAM
 
-- 使用率: **45.8%** (14.6GB / 31.9GB)
+- 使用率: **47%** (15GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 31 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 295 |
+| 📥 inbox | 30 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 296 |
+
+## 🔄 処理中タスク
+
+- ⚡ [11507 秒経過] **[School] 利用規約・特商法表記**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
-- [high] [School] 利用規約・特商法表記
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] 入学後30日プラン
+- [high] [EEMUS] 提携高校候補20校リスト
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 

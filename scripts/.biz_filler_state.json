@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-30T13:51:02.4325412+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-05-30T14:01:02.2591234+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-06-03T13:51:01.9630771+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-03T14:01:02.0703565+09:00"
                     }
                 ]
 }
