@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 17:02:46
+updated: 2026-06-03 17:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:02:46** | 🔥 **稼働中**
+**17:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,31 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **92%**
-- VRAM: 7818MB / 8151MB (**95.9%**)
+- 使用率: **20%**
+- VRAM: 7823MB / 8151MB (**96%**)
 
 ## 💾 RAM
 
-- 使用率: **48%** (15.3GB / 31.9GB)
+- 使用率: **47.8%** (15.2GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
 - Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 390 |
-
-## 🔄 処理中タスク
-
-- ⚡ [107 秒経過] **[金] AIpaX β顧客候補10社+痛みリサーチ**
-
-## 📥 待機タスク (上位5)
-
-- [normal] [Bank] β顧客5社獲得シナリオ
+| 📥 inbox | 0 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 393 |
 
 ## 🎯 判定
 

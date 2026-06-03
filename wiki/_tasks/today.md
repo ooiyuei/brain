@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 16:59
+updated: 2026-06-03 17:04
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-03 16:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [金] 1週間で作れる月3万アプリ仕様書
+- [ ] [待機] [金] AIpa Web モニター候補10社+アプローチ案
 
 
 ## 📅 今日の予定（Calendar）
