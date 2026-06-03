@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 09:14
+updated: 2026-06-03 09:19
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 09:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 783分]** [EEMUS] ピッチデック10枚構成
-- [ ] [待機] [School] X『中高生×AI』20投稿
-- [ ] [待機] [EEMUS] MVP LP完全版
+- [ ] **[処理中 768分]** [EEMUS] MVP LP完全版
 - [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [School] X『中高生×AI』20投稿

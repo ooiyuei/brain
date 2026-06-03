@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-30T09:21:02.2199468+09:00"
-                    },
-                    {
                         "slug":  "school-onboarding",
                         "time":  "2026-05-30T09:31:01.9474076+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-03T09:11:02.3756800+09:00"
+                    },
+                    {
+                        "slug":  "testall-content-strategy",
+                        "time":  "2026-06-03T09:21:02.2790395+09:00"
                     }
                 ]
 }
