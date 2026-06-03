@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 17:46:46
+updated: 2026-06-03 17:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:46:46** | 🔥 **稼働中**
+**17:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **14%**
-- VRAM: 7438MB / 8151MB (**91.3%**)
+- 使用率: **24%**
+- VRAM: 7540MB / 8151MB (**92.5%**)
 
 ## 💾 RAM
 
-- 使用率: **47.3%** (15.1GB / 31.9GB)
+- 使用率: **46.3%** (14.8GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,14 +37,9 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 408 |
-
-## 📥 待機タスク (上位5)
-
-- [high] [金] X(Twitter) 大井 1週間分投稿20本
-- [normal] [Bank] 国内水産業 市場規模・参入余地分析
+| ✅ 今日完了 | 413 |
 
 ## 🎯 判定
 
