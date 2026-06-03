@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 09:30:46
+updated: 2026-06-03 09:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:30:46** | 🔥 **稼働中**
+**09:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,13 +15,13 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残25分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **32%**
-- VRAM: 7531MB / 8151MB (**92.4%**)
+- 使用率: **22%**
+- VRAM: 7536MB / 8151MB (**92.5%**)
 
 ## 💾 RAM
 
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 77 |
+| 📥 inbox | 75 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 195 |
+| ✅ 今日完了 | 198 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [44387 秒経過] **[School] note『AI時代に子供に渡したいもの』**
+- ⚡ [43426 秒経過] **[AIpaX] β顧客80万提案書フル版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
-- [high] [AIpaX] β顧客80万提案書フル版
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] β顧客5社募集LP完全版
+- [high] [AIpaX] β顧客候補30社プロファイル
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 判定
 
