@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-05-30T23:31:03.1345687+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-30T23:41:02.7497600+09:00"
-                    },
-                    {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-30T23:51:02.6259146+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-31T00:01:02.4634821+09:00"
-                    },
-                    {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-05-31T00:11:02.6414116+09:00"
                     },
@@ -2103,6 +2087,10 @@
                     {
                         "slug":  "school-onboarding",
                         "time":  "2026-06-03T23:26:01.5780235+09:00"
+                    },
+                    {
+                        "slug":  "school-x-content",
+                        "time":  "2026-06-04T00:11:01.6845964+09:00"
                     }
                 ]
 }
