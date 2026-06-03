@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-30T22:41:03.1356638+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-30T22:51:02.6370410+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-30T23:01:02.8155245+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-30T23:11:02.5879395+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-30T23:21:02.5420284+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-05-30T23:31:03.1345687+09:00"
                     },
@@ -2119,6 +2099,10 @@
                     {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-03T22:41:01.5250040+09:00"
+                    },
+                    {
+                        "slug":  "school-onboarding",
+                        "time":  "2026-06-03T23:26:01.5780235+09:00"
                     }
                 ]
 }
