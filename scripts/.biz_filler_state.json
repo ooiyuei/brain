@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-30T22:01:02.3825624+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-30T22:11:02.3842493+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-05-30T22:21:02.4502859+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-05-30T22:31:03.0310434+09:00"
-                    },
-                    {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-05-30T22:41:03.1356638+09:00"
                     },
@@ -2131,6 +2115,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-03T21:56:01.5614183+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-03T22:41:01.5250040+09:00"
                     }
                 ]
 }
