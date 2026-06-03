@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 05:41
+updated: 2026-06-04 05:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 05:41
+**最終更新**: 2026-06-04 05:46
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,11 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 165 |
+| ✅ 今日完了 | 166 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1989 (うち24h+古い: 1407) |
+| 📝 wiki/_inbox 未レビュー | 1990 (うち24h+古い: 1408) |
+
+### Inbox 上位
+- [high] [金] 夢AWARD応募ストーリー骨子v2
 
 ## 🎯 今日のフォーカス
 
@@ -37,7 +40,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 272 件
+- marketing : 273 件
 - research : 16 件
 - newbiz : 302 件
 - ingest : 1 件
