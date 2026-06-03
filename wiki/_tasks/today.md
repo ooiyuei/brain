@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 23:14
+updated: 2026-06-03 23:19
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,8 @@ updated: 2026-06-03 23:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [金] AIpa Web SEO記事 完全本文1本
+- [ ] **[処理中 3分]** [Bank] インテリア・什器コスト試算
+- [ ] [待機] [金] 夢AWARD応募ストーリー骨子v2
 
 
 ## 📅 今日の予定（Calendar）
