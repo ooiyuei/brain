@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 10:21
+updated: 2026-06-03 10:26
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 10:21
+**最終更新**: 2026-06-03 10:26
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 67 |
+| 📥 inbox | 66 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 216 |
+| ✅ 今日完了 | 217 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1533 (うち24h+古い: 1231) |
+| 📝 wiki/_inbox 未レビュー | 1534 (うち24h+古い: 1233) |
 
 ### 処理中
-- ⚙️ **[640 分]** [AIpaX] β顧客候補30社プロファイル
+- ⚙️ **[635 分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ### Inbox 上位
-- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] [AIpaX] 月次PL試算
 - [high] [School] 体験会2時間プログラム
 - [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [AIpaX] X投稿『AI導入Tips』20本
 
 ## 🎯 今日のフォーカス
 
@@ -56,7 +56,7 @@ tags: [dashboard, system]
 
 - marketing : 594 件
 - research : 28 件
-- newbiz : 525 件
+- newbiz : 526 件
 - ingest : 1 件
 - corp : 203 件
 - dev : 16 件

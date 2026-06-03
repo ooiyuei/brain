@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 10:19
+updated: 2026-06-03 10:24
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 10:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 648分]** [AIpaX] SEO『中小企業 AI 導入 失敗』本文
-- [ ] **[処理中 4分]** [Shincoder S11] ユニットエコノミクス計算シート (2026-06-03 月分)
-- [ ] [待機] [AIpaX] β顧客候補30社プロファイル
+- [ ] **[処理中 1分]** [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 - [ ] [待機] [AIpaX] β顧客候補30社プロファイル
 - [ ] [待機] [AIpaX] 月次PL試算
@@ -105,7 +103,7 @@ updated: 2026-06-03 10:19
 - [ ] [待機] [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Testall] ユーザーペルソナ5パターン
 - [ ] [待機] [EEMUS] MVP LP完全版
-- [ ] [待機] [Shincoder S10] PMF判定シート (2026-06-03 週分)
+- [ ] [待機] [AIpaX] β顧客5社募集LP完全版
 
 
 ## 📅 今日の予定（Calendar）
