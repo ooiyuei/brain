@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 08:54
+updated: 2026-06-03 08:59
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-03 08:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [EEMUS] 提携高校候補20校リスト
+- [ ] **[処理中 6分]** [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [School] 親向けLP完全版
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [横断] 15事業の優先順位再評価

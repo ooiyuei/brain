@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 08:58:47
+updated: 2026-06-03 09:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:58:47** | 🔥 **稼働中**
+**09:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,12 +20,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **27%**
+- 使用率: **33%**
 - VRAM: 7535MB / 8151MB (**92.4%**)
 
 ## 💾 RAM
 
-- 使用率: **37.3%** (11.9GB / 31.9GB)
+- 使用率: **37.5%** (12GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -43,15 +43,15 @@ tags: [live, status, monitoring]
 
 ## 🔄 処理中タスク
 
-- ⚡ [331 秒経過] **[EEMUS] 提携高校候補20校リスト**
+- ⚡ [48708 秒経過] **[School] 親向けLP完全版**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 親向けLP完全版
 - [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [横断] 15事業の優先順位再評価
 - [high] [AIpaX] X投稿『AI導入Tips』20本
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 判定
 

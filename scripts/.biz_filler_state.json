@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-05-30T08:51:02.3486986+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-05-30T09:01:02.0646882+09:00"
                     },
@@ -2307,6 +2303,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-03T08:51:02.2529548+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-03T09:01:01.9568379+09:00"
                     }
                 ]
 }
