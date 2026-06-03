@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 14:39
+updated: 2026-06-03 14:44
 ---
 
 # Today 2026-06-03
@@ -36,13 +36,8 @@ updated: 2026-06-03 14:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 112分]** [Money] AIpaX 5社目商談クロージング想定問答
-- [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [ ] [待機] [School] 体験会2時間プログラム
-- [ ] [待機] [EEMUS] 夢AWARD応募ストーリー骨子
-- [ ] [待機] [School] 1年カリキュラム詳細v2
-- [ ] [待機] [EEMUS] ピッチデック10枚構成
-- [ ] [待機] [AIpaX] X投稿『AI導入Tips』20本
+- [ ] **[処理中 83分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 73分]** [AIpaX] X投稿『AI導入Tips』20本
 - [ ] [待機] [Money] AIpa Web 商工会経由営業文
 - [ ] [待機] [Money] 紹介プログラム 5事業横断ルール
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
@@ -52,6 +47,7 @@ updated: 2026-06-03 14:39
 - [ ] [待機] [School] 体験会2時間プログラム
 - [ ] [待機] [Sales] AIpa Web 製造業 30社プロファイル
 - [ ] [待機] [Sales] AIpa Web 3プラン価格戦略
+- [ ] [待機] [Sales] フォローアップ自動ルール表
 
 
 ## 📅 今日の予定（Calendar）
