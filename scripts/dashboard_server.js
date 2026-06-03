@@ -203,15 +203,20 @@ function getMemoryUsage() {
     };
 }
 
+// 2026-06-03: nvidia-smi 起動(~0.5-1s)を毎回やらず3秒キャッシュ。VRAM/温度は3秒粒度で十分。
+let _gpuCache = { ts: 0, data: null };
 function getGpuUsage() {
+    const now = Date.now();
+    if (now - _gpuCache.ts < 3000 && _gpuCache.data) return _gpuCache.data;
     try {
         const out = execSync(
             'nvidia-smi --query-gpu=name,utilization.gpu,memory.used,memory.total,temperature.gpu --format=csv,noheader,nounits',
             { timeout: 3000, windowsHide: true }
         ).toString().trim();
         const p = out.split(',').map(x => x.trim());
-        return { name: p[0], util: parseInt(p[1]), vramUsedMB: parseInt(p[2]), vramTotalMB: parseInt(p[3]), tempC: parseInt(p[4]) };
-    } catch (e) { return null; }
+        _gpuCache = { ts: now, data: { name: p[0], util: parseInt(p[1]), vramUsedMB: parseInt(p[2]), vramTotalMB: parseInt(p[3]), tempC: parseInt(p[4]) } };
+        return _gpuCache.data;
+    } catch (e) { return _gpuCache.data; }
 }
 
 function getOllamaLoadedModels() {
@@ -230,6 +235,7 @@ function readJsonSafe(filepath) {
     try { return JSON.parse(fs.readFileSync(filepath, 'utf8')); } catch (e) { return null; }
 }
 
+let _doneCache = { ts: 0, data: [] };
 function getQueueDetails() {
     const today = new Date().toDateString();
     const read = (dir, todayOnly = false) => {
@@ -253,10 +259,15 @@ function getQueueDetails() {
     };
 
     const failed = (() => { try { return fs.readdirSync(path.join(QUEUE, 'failed')).length; } catch (e) { return 0; } })();
+    // done/ は大きいので今日分リストは15秒キャッシュ。inbox/processingは小さいのでリアルタイム。
+    const now = Date.now();
+    if (now - _doneCache.ts >= 15000) {
+        _doneCache = { ts: now, data: read(path.join(QUEUE, 'done'), true).sort((a, b) => (b.completedAt || '').localeCompare(a.completedAt || '')) };
+    }
     return {
         inbox: read(path.join(QUEUE, 'inbox')).slice(0, 30),
         processing: read(path.join(QUEUE, 'processing')),
-        done: read(path.join(QUEUE, 'done'), true).sort((a, b) => (b.completedAt || '').localeCompare(a.completedAt || '')),
+        done: _doneCache.data,
         failedCount: failed,
     };
 }
@@ -290,13 +301,18 @@ function getScheduledTasks() {
     } catch (e) { return _schedCache.data; }
 }
 
+// 2026-06-03: done/ が大きい(数千件)ため毎回全stat は重い。30秒キャッシュ。
+let _countsCache = { ts: 0, data: { todayDone: 0, weekDone: 0 } };
 function getCounts() {
+    const now = Date.now();
+    if (now - _countsCache.ts < 30000) return _countsCache.data;
     const doneDir = path.join(QUEUE, 'done');
     const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
     let week = 0, today = 0;
     const todayStr = new Date().toDateString();
     try {
         for (const f of fs.readdirSync(doneDir)) {
+            if (!f.endsWith('.json')) continue;
             try {
                 const m = fs.statSync(path.join(doneDir, f)).mtime;
                 if (m.toDateString() === todayStr) today++;
@@ -304,7 +320,8 @@ function getCounts() {
             } catch (e) {}
         }
     } catch (e) {}
-    return { todayDone: today, weekDone: week };
+    _countsCache = { ts: now, data: { todayDone: today, weekDone: week } };
+    return _countsCache.data;
 }
 
 function isPaused() { return fs.existsSync(PAUSE_FILE); }
@@ -775,7 +792,7 @@ function render(d){
 }
 
 fetchStatus();
-setInterval(fetchStatus, 2000);
+setInterval(fetchStatus, 3000);
 </script>
 </body></html>`;
 

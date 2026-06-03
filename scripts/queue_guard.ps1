@@ -155,6 +155,22 @@ if ($recentMoji) {
     "$nowStamp - WARN 文字化けファイル $mojiFound 件を自動隔離 (源の再発か要確認)" | Add-Content $logPath -Encoding UTF8
 }
 
+# 7. done/ アーカイブ (6時間毎・7日超を _archive へ。done肥大でダッシュボード/全スクリプトが遅くなるのを恒久防止)
+$archMarker = "$queue\.last_done_archive"
+$doArch = $true
+if (Test-Path $archMarker) { if (((Get-Date) - (Get-Item $archMarker).LastWriteTime).TotalHours -lt 6) { $doArch = $false } }
+if ($doArch) {
+    $doneArch = "$queue\done\_archive"
+    if (-not (Test-Path $doneArch)) { New-Item -ItemType Directory -Path $doneArch -Force | Out-Null }
+    $cutDone = (Get-Date).AddDays(-7)
+    $archivedDone = 0
+    Get-ChildItem "$queue\done" -Filter *.json -File -ErrorAction SilentlyContinue | Where-Object { $_.LastWriteTime -lt $cutDone } | ForEach-Object {
+        Move-Item $_.FullName "$doneArch\$($_.Name)" -Force -ErrorAction SilentlyContinue; $archivedDone++
+    }
+    Set-Content $archMarker -Value (Get-Date).ToString('o') -Force
+    if ($archivedDone -gt 0) { "$nowStamp - done archived: $archivedDone (>7d)" | Add-Content $logPath -Encoding UTF8 }
+}
+
 $ollamaState = if ($ollamaUp) { 'up' } else { "restarted$ollamaRestarted" }
 $summary = "inbox=$inboxCount oldMoved=$movedOld failed=$failedCount failedMoved=$movedFailed workers=$($workers.Count) restarted=$workersRestarted reaped=$reaped reapQuarantined=$reapFailed locksCleared=$locksCleared ollama=$ollamaState"
 "$nowStamp - $summary" | Add-Content $logPath -Encoding UTF8
