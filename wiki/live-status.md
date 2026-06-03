@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 00:46:46
+updated: 2026-06-04 00:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**00:46:46** | 🔥 **稼働中**
+**00:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **45.1%** (14.4GB / 31.9GB)
+- 使用率: **44.4%** (14.2GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 22 |
+| ✅ 今日完了 | 24 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [金] 月3万アプリ ニッチ需要ハント10案
-- [normal] [Bank] 釣り場予約システム 競合分析
+- [high] [金] AIpa Web 営業メールテンプレ5本
 
 ## 🎯 判定
 
