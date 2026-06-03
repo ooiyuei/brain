@@ -74,3 +74,4 @@
 {"ts": "2026-06-03T21:06:39+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "9c060c83-fe09-45d0-852a-aea7cf2fc99a"}
 {"ts": "2026-06-03T21:06:47+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "9c060c83-fe09-45d0-852a-aea7cf2fc99a"}
 {"ts": "2026-06-03T21:07:06+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\daily\\2026-06-03.md", "session_id": "9c060c83-fe09-45d0-852a-aea7cf2fc99a"}
+{"ts": "2026-06-03T21:17:03+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\worker.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}

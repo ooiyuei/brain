@@ -117,20 +117,27 @@ try {
         $job.model = 'qwen3:8b'
     }
 
+    # 2026-06-03 品質修正: context合計を上限制御(num_ctx 8192に収める) + 指示を末尾に置く。
+    # 旧実装は context_files 各8000字を無制限prepend→57k字→num_ctxで85%切り捨て、しかも指示が先頭で切られていた。
+    # Ollamaは超過時に先頭を捨てるため、[参考資料]を先頭・タスク指示を末尾に置けば指示は必ず生き残る。
     $contextText = ""
+    $ctxBudget = 4000
     if ($job.context_files) {
         foreach ($cf in $job.context_files) {
+            if ($ctxBudget -le 0) { break }
             if (Test-Path $cf) {
                 $cfContent = Get-Content $cf -Raw -Encoding UTF8
-                $cfShort = $cfContent.Substring(0, [Math]::Min($cfContent.Length, 8000))
+                $take = [Math]::Min($cfContent.Length, [Math]::Min(2500, $ctxBudget))
+                $cfShort = $cfContent.Substring(0, $take)
                 $contextText += "`n`n=== $cf ===`n$cfShort"
+                $ctxBudget -= $take
             }
         }
     }
 
     $finalPrompt = $job.prompt
     if ($contextText) {
-        $finalPrompt = "$($job.prompt)`n`n[参考資料]$contextText"
+        $finalPrompt = "[参考資料]$contextText`n`n# 厳守タスク(これを必ず実行する)`n$($job.prompt)"
     }
 
     $response = $null
