@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 13:59
+updated: 2026-06-03 14:04
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 13:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 198分]** [School] X『中高生×AI』20投稿
-- [ ] [待機] [School] 利用規約・特商法表記
-- [ ] [待機] [School] note『AI時代に子供に渡したいもの』
+- [ ] **[処理中 183分]** [School] note『AI時代に子供に渡したいもの』
 - [ ] [待機] [AIpaX] β顧客80万提案書フル版
 - [ ] [待機] [School] 入学後30日プラン
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
@@ -67,6 +65,7 @@ updated: 2026-06-03 13:59
 - [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
+- [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
 
 
 ## 📅 今日の予定（Calendar）

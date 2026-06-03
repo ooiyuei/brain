@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 14:02:46
+updated: 2026-06-03 14:06:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**14:02:46** | 🔥 **稼働中**
+**14:06:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,38 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **26%**
-- VRAM: 7634MB / 8151MB (**93.7%**)
+- 使用率: **0%**
+- VRAM: 7644MB / 8151MB (**93.8%**)
 
 ## 💾 RAM
 
-- 使用率: **47%** (15GB / 31.9GB)
+- 使用率: **46.1%** (14.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 30 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 296 |
-
-## 🔄 処理中タスク
-
-- ⚡ [11507 秒経過] **[School] 利用規約・特商法表記**
+| 📥 inbox | 29 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 298 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] note『AI時代に子供に渡したいもの』
 - [high] [AIpaX] β顧客80万提案書フル版
 - [high] [School] 入学後30日プラン
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [School] 体験会2時間プログラム
+- [high] [Money] Testall 親向けLP コピー改善
 
 ## 🎯 判定
 
