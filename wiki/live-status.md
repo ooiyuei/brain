@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 16:54:47
+updated: 2026-06-03 16:58:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:54:47** | 🔥 **稼働中**
+**16:58:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **14%**
-- VRAM: 7852MB / 8151MB (**96.3%**)
+- 使用率: **16%**
+- VRAM: 7847MB / 8151MB (**96.3%**)
 
 ## 💾 RAM
 
-- 使用率: **47.4%** (15.1GB / 31.9GB)
+- 使用率: **47.3%** (15.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,9 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 388 |
+| ✅ 今日完了 | 389 |
+
+## 📥 待機タスク (上位5)
+
+- [high] [金] 1週間で作れる月3万アプリ仕様書
 
 ## 🎯 判定
 
