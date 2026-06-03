@@ -168,6 +168,10 @@ if ($doArch) {
         Move-Item $_.FullName "$doneArch\$($_.Name)" -Force -ErrorAction SilentlyContinue; $archivedDone++
     }
     Set-Content $archMarker -Value (Get-Date).ToString('o') -Force
+    # ログローテーション: 5MB超の*.logは末尾2000行だけ残す(auto_promote.log等の肥大防止)
+    Get-ChildItem "$brain\scripts\*.log" -File -ErrorAction SilentlyContinue | Where-Object { $_.Length -gt 5MB } | ForEach-Object {
+        try { $tail = Get-Content $_.FullName -Tail 2000 -ErrorAction SilentlyContinue; Set-Content $_.FullName -Value $tail -Encoding UTF8 } catch {}
+    }
     if ($archivedDone -gt 0) { "$nowStamp - done archived: $archivedDone (>7d)" | Add-Content $logPath -Encoding UTF8 }
 }
 

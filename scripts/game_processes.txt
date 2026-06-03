@@ -1,0 +1,13 @@
+﻿# ゲームプロセス名 (拡張子なし・1行1個)。ここに追加すると game_guard が検知して自動pauseする。
+League of Legends
+VALORANT-Win64-Shipping
+valorant
+csgo
+cs2
+FortniteClient-Win64-Shipping
+GenshinImpact
+YuanShen
+eldenring
+overwatch
+apex_legends
+r5apex
