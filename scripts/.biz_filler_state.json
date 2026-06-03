@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-30T11:51:01.9476659+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-05-30T12:01:01.9316191+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-03T11:41:02.0774718+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-03T11:51:02.4212822+09:00"
                     }
                 ]
 }
