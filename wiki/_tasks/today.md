@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 14:59
+updated: 2026-06-03 15:04
 ---
 
 # Today 2026-06-03
@@ -36,7 +36,7 @@ updated: 2026-06-03 14:59
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [Money] EEMUS 連携企業5社 具体接触メール
+- [ ] **[処理中 77分]** [Money] EEMUS 連携企業5社 具体接触メール
 - [ ] [待機] [Money] AIpaX 既存4社 アップセル提案
 - [ ] [待機] [EEMUS] 提携高校候補20校リスト
 - [ ] [待機] [横断] Stripe決済設定 5事業ロードマップ
