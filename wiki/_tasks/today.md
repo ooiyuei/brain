@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 12:04
+updated: 2026-06-03 12:09
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 12:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [EEMUS] ピッチデック10枚構成
-- [ ] [待機] [EEMUS] 連携企業候補20社
-- [ ] [待機] [School] 体験会2時間プログラム
+- [ ] **[処理中 338分]** [School] 体験会2時間プログラム
 - [ ] [待機] [Testall] 教育者連携アプローチ
 - [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
 - [ ] [待機] [Money] Testall 親向けLP コピー改善
