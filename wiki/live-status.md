@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:06:47
+updated: 2026-06-03 13:10:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:06:47** | 🔥 **稼働中**
+**13:10:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,39 +15,43 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残29分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7553MB / 8151MB (**92.7%**)
+- 使用率: **29%**
+- VRAM: 7624MB / 8151MB (**93.5%**)
 
 ## 💾 RAM
 
-- 使用率: **39%** (12.4GB / 31.9GB)
+- 使用率: **39.8%** (12.7GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 38 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 280 |
+| 📥 inbox | 35 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 282 |
+
+## 🔄 処理中タスク
+
+- ⚡ [15827 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] EEMUS 連携企業5社 具体接触メール
-- [high] [Money] 紹介プログラム 5事業横断ルール
-- [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [Money] AIpa Web 商工会経由営業文
 - [high] [EEMUS] 連携企業候補20社
+- [high] [EEMUS] 連携企業候補20社
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [Testall] コンテンツ戦略3ヶ月
 
 ## 🎯 判定
 
