@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:54:46
+updated: 2026-06-03 11:58:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:54:46** | 🔥 **稼働中**
+**11:58:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残30分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **28%**
-- VRAM: 7622MB / 8151MB (**93.5%**)
+- 使用率: **0%**
+- VRAM: 7688MB / 8151MB (**94.3%**)
 
 ## 💾 RAM
 
-- 使用率: **38.2%** (12.2GB / 31.9GB)
+- 使用率: **38.5%** (12.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,17 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 54 |
+| 📥 inbox | 53 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 252 |
+| ✅ 今日完了 | 253 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] 1年カリキュラム詳細v2
 - [high] [横断] 投資家向けピッチ1分版
 - [high] [EEMUS] ピッチデック10枚構成
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] 体験会2時間プログラム
+- [high] [Testall] 教育者連携アプローチ
 
 ## 🎯 判定
 
