@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 22:30:46
+updated: 2026-06-03 22:34:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**22:30:46** | 🔥 **稼働中**
+**22:34:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **44.2%** (14.1GB / 31.9GB)
+- 使用率: **44%** (14.1GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,9 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 516 |
+| ✅ 今日完了 | 518 |
+
+## 📥 待機タスク (上位5)
+
+- [high] [金] AIpaX school 1年カリキュラム詳細v2
 
 ## 🎯 判定
 
