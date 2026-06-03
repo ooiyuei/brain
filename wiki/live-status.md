@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 09:14:47
+updated: 2026-06-03 09:18:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**09:14:47** | 🔥 **稼働中**
+**09:18:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **21%**
-- VRAM: 7649MB / 8151MB (**93.8%**)
+- 使用率: **29%**
+- VRAM: 7646MB / 8151MB (**93.8%**)
 
 ## 💾 RAM
 
-- 使用率: **37.6%** (12GB / 31.9GB)
+- 使用率: **37.5%** (12GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 81 |
+| 📥 inbox | 80 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 189 |
+| ✅ 今日完了 | 190 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [47028 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [46668 秒経過] **[School] X『中高生×AI』20投稿**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
 - [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
 - [high] [School] 入学後30日プラン
 - [high] [School] X『中高生×AI』20投稿
+- [high] [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 判定
 

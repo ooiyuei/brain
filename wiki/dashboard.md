@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 09:11
+updated: 2026-06-03 09:16
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 09:11
+**最終更新**: 2026-06-03 09:16
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,21 +14,21 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 83 |
+| 📥 inbox | 81 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 187 |
+| ✅ 今日完了 | 189 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1505 (うち24h+古い: 1222) |
+| 📝 wiki/_inbox 未レビュー | 1507 (うち24h+古い: 1223) |
 
 ### 処理中
-- ⚙️ **[800 分]** [横断] 15事業の優先順位再評価
+- ⚙️ **[785 分]** [EEMUS] ピッチデック10枚構成
 
 ### Inbox 上位
-- [high] [AIpaX] X投稿『AI導入Tips』20本
-- [high] [EEMUS] ピッチデック10枚構成
 - [high] [School] X『中高生×AI』20投稿
 - [high] [EEMUS] MVP LP完全版
 - [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [School] 入学後30日プラン
+- [high] [School] X『中高生×AI』20投稿
 
 ## 🎯 今日のフォーカス
 
@@ -54,9 +54,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 581 件
+- marketing : 582 件
 - research : 28 件
-- newbiz : 513 件
+- newbiz : 514 件
 - ingest : 1 件
 - corp : 200 件
 - dev : 16 件
