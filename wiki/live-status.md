@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 12:50:47
+updated: 2026-06-03 12:54:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**12:50:47** | 🔥 **稼働中**
+**12:54:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -21,11 +21,11 @@ tags: [live, status, monitoring]
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **27%**
-- VRAM: 7507MB / 8151MB (**92.1%**)
+- VRAM: 7514MB / 8151MB (**92.2%**)
 
 ## 💾 RAM
 
-- 使用率: **38.9%** (12.4GB / 31.9GB)
+- 使用率: **39.4%** (12.6GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,22 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 44 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 271 |
+| 📥 inbox | 41 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 274 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [18227 秒経過] **[Money] AIpaX 5社目商談クロージング想定問答**
+- ⚡ [18227 秒経過] **[AIpaX] 業務委託契約書テンプレ**
+- ⚡ [17628 秒経過] **[School] 体験会2時間プログラム**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [high] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [high] [AIpaX] 業務委託契約書テンプレ
 - [high] [School] 体験会2時間プログラム
-- [high] [School] 体験会2時間プログラム
+- [high] [EEMUS] 高校生インターン体験談コンテンツ3本
+- [high] [Testall] Studyplus Planning徹底比較
+- [high] [EEMUS] 夢AWARD応募ストーリー骨子
+- [high] [Money] EEMUS 連携企業5社 具体接触メール
 
 ## 🎯 判定
 

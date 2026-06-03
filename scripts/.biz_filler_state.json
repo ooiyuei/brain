@@ -1,10 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-05-30T12:51:02.1132368+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-05-30T13:01:02.4115000+09:00"
                     },
@@ -2303,6 +2299,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-03T12:41:02.5036911+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-03T12:51:02.1589014+09:00"
                     }
                 ]
 }
