@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 08:06
+updated: 2026-06-04 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 08:06
+**最終更新**: 2026-06-04 08:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -15,14 +15,17 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 0 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 232 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 233 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 2054 (うち24h+古い: 1447) |
+| 📝 wiki/_inbox 未レビュー | 2055 (うち24h+古い: 1449) |
+
+### 処理中
+- ⚙️ **[1 分]** [金] AIpa Web SEO記事 完全本文1本
 
 ## 🎯 今日のフォーカス
 
-- [ ] **夢AWARD応募骨子 完成・提出準備** — [[entities/eemus]] - 残4日（6/7締切）・10日連続未着手。叩き台: `_promoted/newbiz/eemus...
+- [ ] **夢AWARD骨子v3を30分書く** — [[entities/eemus]] - 残3日（6/7締切）・今日がラスト実質期限。`_promoted/newbiz/eemus-drea...
 
 → 詳細: [[_tasks/today]]
 
@@ -41,7 +44,7 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 298 件
+- marketing : 299 件
 - research : 17 件
 - newbiz : 338 件
 - ingest : 1 件
