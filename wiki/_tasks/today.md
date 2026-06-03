@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-03
 tags: [tasks, today]
-updated: 2026-06-03 11:09
+updated: 2026-06-03 11:14
 ---
 
 # Today 2026-06-03
@@ -36,9 +36,7 @@ updated: 2026-06-03 11:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 438分]** [AIpaX] X投稿『AI導入Tips』20本
-- [ ] **[処理中 9分]** [BG-Competitive] Sansan
-- [ ] [待機] [School] 1年カリキュラム詳細v2
+- [ ] **[処理中 1分]** [School] 1年カリキュラム詳細v2
 - [ ] [待機] [Testall] X受験あるある投稿30本
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [School] 親FAQ 30問
@@ -94,7 +92,7 @@ updated: 2026-06-03 11:09
 - [ ] [待機] [School] X『中高生×AI』20投稿
 - [ ] [待機] [School] 利用規約・特商法表記
 - [ ] [待機] [School] note『AI時代に子供に渡したいもの』
-- [ ] [待機] [BG-Competitive] engage
+- [ ] [待機] [AIpaX] β顧客80万提案書フル版
 
 
 ## 📅 今日の予定（Calendar）
