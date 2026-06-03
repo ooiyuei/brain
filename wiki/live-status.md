@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 17:10:47
+updated: 2026-06-03 17:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**17:10:47** | 🔥 **稼働中**
+**17:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残27分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残26分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **22%**
-- VRAM: 7574MB / 8151MB (**92.9%**)
+- 使用率: **89%**
+- VRAM: 7845MB / 8151MB (**96.2%**)
 
 ## 💾 RAM
 
-- 使用率: **45.5%** (14.5GB / 31.9GB)
+- 使用率: **48.1%** (15.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,13 +37,9 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 394 |
-
-## 📥 待機タスク (上位5)
-
-- [high] [金] AIpaX school 体験会2時間プログラム
+| ✅ 今日完了 | 396 |
 
 ## 🎯 判定
 
