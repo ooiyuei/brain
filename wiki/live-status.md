@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 16:46:46
+updated: 2026-06-03 16:50:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**16:46:46** | 🔥 **稼働中**
+**16:50:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -20,31 +20,34 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **24%**
-- VRAM: 7624MB / 8151MB (**93.5%**)
+- 使用率: **87%**
+- VRAM: 7630MB / 8151MB (**93.6%**)
 
 ## 💾 RAM
 
-- 使用率: **45.1%** (14.4GB / 31.9GB)
+- 使用率: **44.8%** (14.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 382 |
+| 📥 inbox | 1 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 385 |
+
+## 🔄 処理中タスク
+
+- ⚡ [226 秒経過] **[Money] 6/21月収100万 残30日アクションプラン**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [金] AIpa Web モニター候補10社+アプローチ案
-- [normal] [Bank] 月収100万達成90日アクションプラン v2
+- [high] [金] dinii時代の人脈 6月接触リスト
 
 ## 🎯 判定
 
