@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-03 14:46
+updated: 2026-06-03 14:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-03 14:46
+**最終更新**: 2026-06-03 14:51
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 39 Ready / 🔄 0 Running
 
@@ -14,21 +14,18 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 9 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 323 |
+| 📥 inbox | 8 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 326 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 1586 (うち24h+古い: 1235) |
-
-### 処理中
-- ⚙️ **[59 分]** [Money] AIpa Web 商工会経由営業文
+| 📝 wiki/_inbox 未レビュー | 1589 (うち24h+古い: 1235) |
 
 ### Inbox 上位
-- [high] [Money] 紹介プログラム 5事業横断ルール
 - [high] [Money] EEMUS 連携企業5社 具体接触メール
 - [high] [Money] AIpaX 既存4社 アップセル提案
 - [high] [EEMUS] 提携高校候補20校リスト
 - [high] [横断] Stripe決済設定 5事業ロードマップ
+- [high] [School] 体験会2時間プログラム
 
 ## 🎯 今日のフォーカス
 
@@ -54,11 +51,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 109 件
+- marketing : 111 件
 - research : 12 件
 - newbiz : 89 件
 - ingest : 1 件
-- corp : 17 件
+- corp : 18 件
 - dev : 7 件
 
 ## 🔗 主要リンク
