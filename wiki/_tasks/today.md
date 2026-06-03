@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 02:49
+updated: 2026-06-04 02:54
 ---
 
 # Today 2026-06-03
@@ -36,11 +36,7 @@ updated: 2026-06-04 02:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 2分]** [Money] AIpa Web 静岡中堅企業 10社具体リスト
-- [ ] **[処理中 3分]** [Bank] インスタ広告 月3万円ターゲティング設計
-- [ ] [待機] [Money] Testall 親向けLP コピー改善
-- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
-- [ ] [待機] [金] dinii時代の人脈 6月接触リスト
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）

@@ -851,6 +851,14 @@
                     {
                         "slug":  "money-dinii-followup",
                         "time":  "2026-06-04T02:49:01.8032817+09:00"
+                    },
+                    {
+                        "slug":  "money-aipax-proposal-template",
+                        "time":  "2026-06-04T02:52:01.8687546+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-email-templates",
+                        "time":  "2026-06-04T02:55:01.7949468+09:00"
                     }
                 ]
 }
