@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 11:38:46
+updated: 2026-06-03 11:42:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**11:38:46** | 🔥 **稼働中**
+**11:42:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残21分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **20%**
+- 使用率: **23%**
 - VRAM: 7616MB / 8151MB (**93.4%**)
 
 ## 💾 RAM
 
-- 使用率: **38.3%** (12.2GB / 31.9GB)
+- 使用率: **38.4%** (12.3GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,21 +37,21 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 53 |
+| 📥 inbox | 52 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 246 |
+| ✅ 今日完了 | 248 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [24467 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- ⚡ [23507 秒経過] **[EEMUS] 連携企業候補20社**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [School] X『中高生×AI』20投稿
-- [high] [EEMUS] 連携企業候補20社
 - [high] [School] 親FAQ 30問
 - [high] [AIpaX] 月次PL試算
 - [high] [EEMUS] ピッチデック10枚構成
+- [high] [School] 1年カリキュラム詳細v2
+- [high] [横断] 投資家向けピッチ1分版
 
 ## 🎯 判定
 
