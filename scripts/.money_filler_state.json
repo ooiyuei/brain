@@ -711,6 +711,14 @@
                     {
                         "slug":  "money-content-school",
                         "time":  "2026-06-04T01:04:02.4818175+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-prospect-list",
+                        "time":  "2026-06-04T01:07:02.5182085+09:00"
+                    },
+                    {
+                        "slug":  "money-aipax-proposal-template",
+                        "time":  "2026-06-04T01:10:02.4985472+09:00"
                     }
                 ]
 }
