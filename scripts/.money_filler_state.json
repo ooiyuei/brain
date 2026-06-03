@@ -835,6 +835,14 @@
                     {
                         "slug":  "money-aipax-proposal-template",
                         "time":  "2026-06-04T02:37:01.7610713+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-prospect-list",
+                        "time":  "2026-06-04T02:40:01.7810990+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-email-templates",
+                        "time":  "2026-06-04T02:43:01.7659510+09:00"
                     }
                 ]
 }
