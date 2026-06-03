@@ -42,8 +42,9 @@ managed_by: Claude (must update every session)
 
 ## ☀️ Midday（12:30 昼チェック）
 
-**日付**: 2026-06-03（未実施）
-**進捗**: —
+**日付**: 2026-06-03（完了）
+**進捗**: 0/3完了 ❌未着手 / PDCA: 昇格1件・削除42件（eemus骨子30本含む）
+**緊急**: 夢AWARD残4日・OpenClaw量産は全削除→大井が骨子v3を直接書く必要あり
 **詳細**: [[_routines/midday-20260603]]
 
 ## 🌙 Tomorrow（2026-06-04）

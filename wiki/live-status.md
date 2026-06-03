@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 13:10:47
+updated: 2026-06-03 13:14:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**13:10:47** | 🔥 **稼働中**
+**13:14:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 7.6GB | 5.9GB | 残28分 |
+| qwen3:8b | 7.6GB | 5.9GB | 残27分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **29%**
-- VRAM: 7624MB / 8151MB (**93.5%**)
+- 使用率: **19%**
+- VRAM: 7592MB / 8151MB (**93.1%**)
 
 ## 💾 RAM
 
-- 使用率: **39.8%** (12.7GB / 31.9GB)
+- 使用率: **40.5%** (12.9GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -39,19 +39,19 @@ tags: [live, status, monitoring]
 |---|---|
 | 📥 inbox | 35 |
 | ⚙️ processing | 1 |
-| ✅ 今日完了 | 282 |
+| ✅ 今日完了 | 283 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [15827 秒経過] **[Money] AIpaX 既存4社 アップセル提案**
+- ⚡ [91 秒経過] **[Money] AIpa Web 商工会経由営業文**
 
 ## 📥 待機タスク (上位5)
 
-- [high] [Money] AIpa Web 商工会経由営業文
 - [high] [EEMUS] 連携企業候補20社
 - [high] [EEMUS] 連携企業候補20社
 - [high] [School] 1年カリキュラム詳細v2
 - [high] [Testall] コンテンツ戦略3ヶ月
+- [high] [AIpaX] SEO『中小企業 AI 導入 失敗』本文
 
 ## 🎯 判定
 
