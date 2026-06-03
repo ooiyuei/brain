@@ -899,6 +899,14 @@
                     {
                         "slug":  "money-app-spec-1week",
                         "time":  "2026-06-04T03:25:01.8472249+09:00"
+                    },
+                    {
+                        "slug":  "money-aipa-landing-page",
+                        "time":  "2026-06-04T03:28:01.8734797+09:00"
+                    },
+                    {
+                        "slug":  "money-contest-list",
+                        "time":  "2026-06-04T03:31:01.8665031+09:00"
                     }
                 ]
 }
