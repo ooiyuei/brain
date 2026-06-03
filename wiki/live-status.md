@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-03 21:50:46
+updated: 2026-06-03 21:54:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**21:50:46** | 🔥 **稼働中**
+**21:54:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,40 +15,31 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **90%**
-- VRAM: 6995MB / 8151MB (**85.8%**)
+- 使用率: **0%**
+- VRAM: 6992MB / 8151MB (**85.8%**)
 
 ## 💾 RAM
 
-- 使用率: **44.5%** (14.2GB / 31.9GB)
+- 使用率: **43.9%** (14GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
-- Heavy (qwen3.6:latest): 🟢 **稼働中**
-- Light (qwen3:8b): 🟢 **稼働中**
+- Heavy (qwen3.6:latest): ⚪ idle
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 497 |
-
-## 🔄 処理中タスク
-
-- ⚡ [226 秒経過] **[Money] 主力5事業 月次キャッシュフロー6月予測**
-- ⚡ [107 秒経過] **[金] AIpa Web SEO記事 完全本文1本**
-
-## 📥 待機タスク (上位5)
-
-- [high] [Money] AIpa Web 静岡中堅企業 10社具体リスト
+| 📥 inbox | 0 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 501 |
 
 ## 🎯 判定
 
