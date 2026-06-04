@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-05-31T13:01:02.2827853+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-05-31T13:11:02.3676143+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-05-31T13:21:02.0819669+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-31T13:31:02.2991490+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-05-31T13:41:02.2021304+09:00"
                     },
@@ -1851,6 +1835,10 @@
                     {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-06-04T12:56:01.7743827+09:00"
+                    },
+                    {
+                        "slug":  "testall-competitor-studyplus",
+                        "time":  "2026-06-04T13:41:01.6862441+09:00"
                     }
                 ]
 }
