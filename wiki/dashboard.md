@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 10:56
+updated: 2026-06-04 11:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 10:56
+**最終更新**: 2026-06-04 11:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -14,11 +14,17 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 4 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 320 |
+| ✅ 今日完了 | 321 |
 | ❌ failed | 7 |
-| 📝 wiki/_inbox 未レビュー | 2142 (うち24h+古い: 1499) |
+| 📝 wiki/_inbox 未レビュー | 2142 (うち24h+古い: 1501) |
+
+### Inbox 上位
+- [low] [BG-Competitive] Wantedly
+- [low] [BG-Competitive] Studyplus
+- [low] [BG-Competitive] BizReach
+- [low] [BG-Competitive] Indeed
 
 ## 🎯 今日のフォーカス
 
@@ -33,7 +39,7 @@ tags: [dashboard, system]
 | 📅 ビジコン分析 (14日) | バッチ 14/14 (100%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 2 / 4 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 2/4 |
-| ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
+| ⚔️ 競合監視 (3日サイクル) | 10/15 社 |
 
 ## 🌅 今朝の監視結果
 
