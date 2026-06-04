@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-31T13:41:02.2021304+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-31T13:51:02.2643340+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-05-31T14:01:02.4658112+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-05-31T14:11:02.7443031+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-31T14:21:02.3996247+09:00"
-                    },
-                    {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-05-31T14:31:02.8236194+09:00"
                     },
@@ -1839,6 +1819,10 @@
                     {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-06-04T13:41:01.6862441+09:00"
+                    },
+                    {
+                        "slug":  "aipax-seo-chusho-ai",
+                        "time":  "2026-06-04T14:26:01.7006009+09:00"
                     }
                 ]
 }
