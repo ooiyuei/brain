@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-05-31T08:31:02.2178633+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-05-31T08:41:02.1278198+09:00"
-                    },
-                    {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-31T08:51:01.7474792+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-31T09:01:02.1184134+09:00"
-                    },
-                    {
                         "slug":  "school-x-content",
                         "time":  "2026-05-31T09:11:03.7959343+09:00"
                     },
@@ -1935,6 +1919,10 @@
                     {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-06-04T08:26:01.6562204+09:00"
+                    },
+                    {
+                        "slug":  "cross-investor-pitch",
+                        "time":  "2026-06-04T09:11:01.6754453+09:00"
                     }
                 ]
 }
