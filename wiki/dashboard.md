@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-05 08:06
+updated: 2026-06-05 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-05 08:06
+**最終更新**: 2026-06-05 08:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -18,11 +18,11 @@ tags: [dashboard, system]
 | ⚙️ processing | 0 |
 | ✅ 今日完了 | 25 |
 | ❌ failed | 10 |
-| 📝 wiki/_inbox 未レビュー | 2188 (うち24h+古い: 2055) |
+| 📝 wiki/_inbox 未レビュー | 2188 (うち24h+古い: 2056) |
 
 ## 🎯 今日のフォーカス
 
-- [ ] **夢AWARD骨子v3を30分書く** — [[entities/eemus]] - 残3日（6/7締切）・今日がラスト実質期限。`_promoted/newbiz/eemus-drea...
+- [ ] **夢AWARD骨子v3を書いて提出完了まで持っていく** — [[entities/eemus]] - 残2日（6/7締切）・**今日が実質最終日**。`brain/wiki/_prom...
 
 → 詳細: [[_tasks/today]]
 
