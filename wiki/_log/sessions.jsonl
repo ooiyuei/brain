@@ -35,3 +35,4 @@
 {"ts": "2026-06-04T08:07:24+09:00", "event": "SessionStart", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f", "cwd": "C:\\Users\\Owner\\business", "host": "大井", "source": "startup"}
 {"ts": "2026-06-04T08:09:23+09:00", "event": "Stop", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f", "cwd": "C:\\Users\\Owner\\business", "host": "大井"}
 {"ts": "2026-06-04T10:12:28+09:00", "event": "Stop", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58", "cwd": "C:\\Users\\Owner\\business\\brain\\scripts", "host": "大井"}
+{"ts": "2026-06-04T10:18:34+09:00", "event": "Stop", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58", "cwd": "C:\\Users\\Owner\\business\\brain\\scripts", "host": "大井"}
