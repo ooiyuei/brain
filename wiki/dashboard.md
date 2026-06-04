@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 10:26
+updated: 2026-06-04 10:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 10:26
+**最終更新**: 2026-06-04 10:31
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,11 +14,17 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 311 |
+| 📥 inbox | 1 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 313 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 2131 (うち24h+古い: 1489) |
+| 📝 wiki/_inbox 未レビュー | 2133 (うち24h+古い: 1491) |
+
+### 処理中
+- ⚙️ **[0 分]** [Sales] AIpaX 5通シーケンス
+
+### Inbox 上位
+- [high] [金] 夢AWARD応募ストーリー骨子v2
 
 ## 🎯 今日のフォーカス
 
@@ -32,7 +38,7 @@ tags: [dashboard, system]
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 14/14 (100%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 2 / 4 件更新済 |
-| 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 1/4 |
+| 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 2/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
 ## 🌅 今朝の監視結果
@@ -46,7 +52,7 @@ tags: [dashboard, system]
 
 - marketing : 111 件
 - research : 13 件
-- newbiz : 109 件
+- newbiz : 111 件
 - ingest : 1 件
 - corp : 22 件
 - dev : 9 件

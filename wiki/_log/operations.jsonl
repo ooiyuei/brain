@@ -110,3 +110,5 @@
 {"ts": "2026-06-04T10:29:43+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\worker.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
 {"ts": "2026-06-04T10:29:59+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\worker.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
 {"ts": "2026-06-04T10:30:22+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\worker.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-04T10:32:16+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\today_priorities.json", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-04T10:33:02+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\priority_filler.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
