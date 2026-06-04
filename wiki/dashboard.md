@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 19:41
+updated: 2026-06-04 19:46
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 19:41
+**最終更新**: 2026-06-04 19:46
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -15,13 +15,10 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 0 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 347 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 348 |
 | ❌ failed | 8 |
-| 📝 wiki/_inbox 未レビュー | 2158 (うち24h+古い: 1730) |
-
-### 処理中
-- ⚙️ **[0 分]** [School] 1年カリキュラム詳細v2
+| 📝 wiki/_inbox 未レビュー | 2159 (うち24h+古い: 1731) |
 
 ## 🎯 今日のフォーカス
 
@@ -49,7 +46,7 @@ tags: [dashboard, system]
 
 - marketing : 123 件
 - research : 14 件
-- newbiz : 118 件
+- newbiz : 119 件
 - ingest : 1 件
 - corp : 24 件
 - dev : 9 件
