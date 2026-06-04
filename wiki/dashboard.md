@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 12:46
+updated: 2026-06-04 12:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 12:46
+**最終更新**: 2026-06-04 12:51
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -15,10 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 0 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 327 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 330 |
 | ❌ failed | 7 |
-| 📝 wiki/_inbox 未レビュー | 2144 (うち24h+古い: 1535) |
+| 📝 wiki/_inbox 未レビュー | 2147 (うち24h+古い: 1537) |
+
+### 処理中
+- ⚙️ **[4 分]** [Money] Testall 受験生インフルエンサー連携 DM10件
 
 ## 🎯 今日のフォーカス
 
@@ -44,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 116 件
-- research : 13 件
+- marketing : 117 件
+- research : 14 件
 - newbiz : 114 件
 - ingest : 1 件
-- corp : 22 件
+- corp : 23 件
 - dev : 10 件
 
 ## 🔗 主要リンク
