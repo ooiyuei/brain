@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-31T16:41:02.2891301+09:00"
-                    },
-                    {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-05-31T16:51:02.4188648+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-31T17:01:02.6344100+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-05-31T17:11:02.5105405+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-31T17:21:02.3893578+09:00"
-                    },
-                    {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-05-31T17:31:03.0363660+09:00"
                     },
@@ -1783,6 +1763,10 @@
                     {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-04T16:41:01.8087430+09:00"
+                    },
+                    {
+                        "slug":  "eemus-content-stories",
+                        "time":  "2026-06-04T17:26:01.8375970+09:00"
                     }
                 ]
 }
