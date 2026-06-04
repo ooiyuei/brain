@@ -74,7 +74,7 @@ foreach ($t in $batch) {
     $slug = ($t.t -replace '[^\w]','-').ToLower()
     if ($slug.Length -gt 40) { $slug = $slug.Substring(0, 40) }
     $outPath = "$brain\wiki\_inbox\$($t.d)\money-$slug-$stamp-$sid.md"
-    & $dispatcher -Department $t.d -Title "[Money] $($t.t)" -Prompt $t.p -Model "qwen3.6:latest" -OutputPath $outPath -Priority "high" 2>&1 | Out-Null
+    & $dispatcher -Department $t.d -Title "[Money] $($t.t)" -Prompt $t.p -Model "qwen3:8b" -OutputPath $outPath -Priority "high" 2>&1 | Out-Null
     $state.used[$t.t] = (Get-Date).ToString("o")
     $dispatched++
 }

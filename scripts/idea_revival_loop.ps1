@@ -134,7 +134,7 @@ $prompt = @"
 - 約3000字以内
 "@
 
-& $dispatcher -Department "newbiz" -Title "[Revival] $entityName 再評価+ピボット ($today)" -Prompt $prompt -Model "qwen3.6:latest" -OutputPath $outPath -Priority "high" 2>&1 | Out-Null
+& $dispatcher -Department "newbiz" -Title "[Revival] $entityName 再評価+ピボット ($today)" -Prompt $prompt -Model "qwen3:8b" -OutputPath $outPath -Priority "high" 2>&1 | Out-Null
 
 $state.last_processed[$entityName] = (Get-Date).ToString("o")
 
