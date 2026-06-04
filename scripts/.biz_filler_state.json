@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-05-31T11:31:02.0412114+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-31T11:41:01.9618144+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T11:51:02.0333857+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T12:01:02.0607931+09:00"
-                    },
-                    {
                         "slug":  "school-onboarding",
                         "time":  "2026-05-31T12:11:02.0881986+09:00"
                     },
@@ -1879,6 +1863,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-04T11:26:01.7300273+09:00"
+                    },
+                    {
+                        "slug":  "testall-teacher-outreach",
+                        "time":  "2026-06-04T12:11:01.7084232+09:00"
                     }
                 ]
 }
