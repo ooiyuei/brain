@@ -1,30 +1,27 @@
 ---
 type: dashboard
-updated: 2026-06-04 10:31
+updated: 2026-06-04 10:36
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 10:31
+**最終更新**: 2026-06-04 10:36
 **Ollama**: 🟢 稼働中 (4 モデル)
-**スケジューラ**: 🟢 38 Ready / 🔄  Running
+**スケジューラ**: 🟢 32 Ready / 🔄  Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 1 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 313 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 319 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 2133 (うち24h+古い: 1491) |
-
-### 処理中
-- ⚙️ **[0 分]** [Sales] AIpaX 5通シーケンス
+| 📝 wiki/_inbox 未レビュー | 2140 (うち24h+古い: 1493) |
 
 ### Inbox 上位
-- [high] [金] 夢AWARD応募ストーリー骨子v2
+- [high] AIpaX β顧客 5社目向け FAQ整形 (既存仕様の問答形式化)
 
 ## 🎯 今日のフォーカス
 
@@ -50,9 +47,9 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 111 件
+- marketing : 115 件
 - research : 13 件
-- newbiz : 111 件
+- newbiz : 113 件
 - ingest : 1 件
 - corp : 22 件
 - dev : 9 件
