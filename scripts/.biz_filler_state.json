@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-05-31T20:31:02.6047618+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-05-31T20:41:02.8014687+09:00"
-                    },
-                    {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-05-31T20:51:02.5193418+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-05-31T21:01:02.5776807+09:00"
-                    },
-                    {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-05-31T21:11:02.4136856+09:00"
                     },
@@ -1711,6 +1695,10 @@
                     {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-04T20:26:01.8459963+09:00"
+                    },
+                    {
+                        "slug":  "eemus-lp-mvp",
+                        "time":  "2026-06-04T21:11:01.8256798+09:00"
                     }
                 ]
 }
