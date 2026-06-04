@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 09:19
+updated: 2026-06-04 09:24
 ---
 
 # Today 2026-06-04
@@ -36,9 +36,7 @@ updated: 2026-06-04 09:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 3分]** [金] AIpaX β顧客向け 提案書テンプレ
-- [ ] [待機] [金] dinii時代の人脈 6月接触リスト
-- [ ] [待機] [Bank] X投稿『受験あるある』30本 (大井キャラ厳守)
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
