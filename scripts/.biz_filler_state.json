@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T09:11:03.7959343+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-05-31T09:21:02.2347121+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T09:31:06.2470116+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-31T09:41:01.7617633+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-05-31T09:51:02.0688172+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-05-31T10:01:01.8899248+09:00"
                     },
@@ -1923,6 +1903,10 @@
                     {
                         "slug":  "cross-investor-pitch",
                         "time":  "2026-06-04T09:11:01.6754453+09:00"
+                    },
+                    {
+                        "slug":  "testall-content-strategy",
+                        "time":  "2026-06-04T09:56:01.6654039+09:00"
                     }
                 ]
 }
