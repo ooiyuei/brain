@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-01T05:31:02.2336287+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-06-01T05:41:01.8729254+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-06-01T05:51:02.1527071+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-01T06:01:02.0541162+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-06-01T06:11:02.1264448+09:00"
                     },
@@ -1531,6 +1515,10 @@
                     {
                         "slug":  "school-tos",
                         "time":  "2026-06-05T05:26:01.8796250+09:00"
+                    },
+                    {
+                        "slug":  "school-onboarding",
+                        "time":  "2026-06-05T06:11:01.8912637+09:00"
                     }
                 ]
 }

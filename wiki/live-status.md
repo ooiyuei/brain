@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-05 06:06:46
+updated: 2026-06-05 06:10:46
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**06:06:46** | 💤 **アイドル**
+**06:10:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -21,7 +21,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **45.1%** (14.4GB / 31.9GB)
+- 使用率: **45.2%** (14.4GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
