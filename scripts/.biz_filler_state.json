@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-31T14:31:02.8236194+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-31T14:41:02.6752708+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-05-31T14:51:02.4359131+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-05-31T15:01:02.1817744+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-05-31T15:11:02.1206854+09:00"
                     },
@@ -1823,6 +1807,10 @@
                     {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-06-04T14:26:01.7006009+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-04T15:11:01.7442357+09:00"
                     }
                 ]
 }
