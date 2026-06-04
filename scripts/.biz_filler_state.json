@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T10:41:02.0658340+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-31T10:51:02.2977132+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-05-31T11:01:02.1395009+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-05-31T11:11:02.1529634+09:00"
-                    },
-                    {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-05-31T11:21:01.9920067+09:00"
-                    },
-                    {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-05-31T11:31:02.0412114+09:00"
                     },
@@ -1895,6 +1875,10 @@
                     {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-04T10:41:01.6813688+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-04T11:26:01.7300273+09:00"
                     }
                 ]
 }
