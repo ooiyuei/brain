@@ -13,8 +13,9 @@ $nowStamp = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
 
 if (-not (Test-Path $priFile)) { "$nowStamp - no today_priorities.json (Claude未生成)" | Add-Content $logPath -Encoding UTF8; exit 0 }
 $pri = Get-Content $priFile -Raw -Encoding UTF8 | ConvertFrom-Json
-$today = (Get-Date).ToString("yyyy-MM-dd")
-$stale = ($pri.generated -ne $today)
+# 鮮度: generated から48h以内なら有効 (夜通し日付をまたいでも優先順位を効かせる)
+$stale = $true
+try { $stale = (([DateTime]$pri.generated) -lt (Get-Date).AddHours(-48)) } catch { $stale = $true }
 
 # openclaw_draft を dispatch (dispatch側のdedupガードが12h重複を防ぐ)。staleなら投入せずClaude再生成を待つ。
 $dispatched = 0

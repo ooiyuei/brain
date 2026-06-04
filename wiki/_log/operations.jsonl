@@ -132,3 +132,5 @@
 {"ts": "2026-06-04T21:06:24+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "d3e2f076-fb4c-4809-90e5-c9646cb01a41"}
 {"ts": "2026-06-04T21:06:35+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\daily\\2026-06-04.md", "session_id": "d3e2f076-fb4c-4809-90e5-c9646cb01a41"}
 {"ts": "2026-06-04T22:16:32+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\ai_news_daily.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-05T02:18:24+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\today_priorities.json", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}
+{"ts": "2026-06-05T02:18:34+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\priority_filler.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04",
+  "generated": "2026-06-05",
   "generated_by": "Claude(Opus4.8)",
   "note": "唯一の指令源。priority_filler.ps1 がこれだけを読んでdispatchする。Get-Random静的プールを置換。毎セッションClaudeが hot.md/TODAY.md から再生成する。",
   "deadline_watch": [
