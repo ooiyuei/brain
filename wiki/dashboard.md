@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 09:16
+updated: 2026-06-04 09:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 09:16
+**最終更新**: 2026-06-04 09:21
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 3 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 269 |
+| 📥 inbox | 0 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 273 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 2089 (うち24h+古い: 1464) |
+| 📝 wiki/_inbox 未レビュー | 2093 (うち24h+古い: 1467) |
 
-### Inbox 上位
-- [high] [Shincoder S6] ビルドインパブリックX投稿 3本 (2026-06-04)
-- [high] [Shincoder S9] ファネル分析シート (2026-06-04 週分)
-- [high] [金] AIpaX β顧客向け 提案書テンプレ
+### 処理中
+- ⚙️ **[5 分]** [Bank] X投稿『受験あるある』30本 (大井キャラ厳守)
 
 ## 🎯 今日のフォーカス
 
@@ -49,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 310 件
+- marketing : 311 件
 - research : 18 件
-- newbiz : 358 件
+- newbiz : 360 件
 - ingest : 1 件
-- corp : 38 件
+- corp : 39 件
 - dev : 13 件
 
 ## 🔗 主要リンク
