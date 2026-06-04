@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-31T17:31:03.0363660+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T17:41:02.5622045+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-05-31T17:51:02.4756013+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-31T18:01:03.0818289+09:00"
-                    },
-                    {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-05-31T18:11:02.1927397+09:00"
                     },
@@ -1767,6 +1751,10 @@
                     {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-04T17:26:01.8375970+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-04T18:11:01.8026234+09:00"
                     }
                 ]
 }
