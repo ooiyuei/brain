@@ -1,31 +1,27 @@
 ---
 type: live-status
-updated: 2026-06-04 11:54:46
+updated: 2026-06-04 11:58:46
 tags: [live, status, monitoring]
 ---
 
-# 🔥 Brain Live Status
+# 💤 Brain Live Status
 
-**11:54:46** | 🔥 **稼働中**
+**11:58:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
 - 状態: 🟢 稼働中
-- ロード済みモデル: 1
-
-| モデル | サイズ | VRAM | 残時間 |
-|---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残2分 |
+- ロード済みモデル: 0
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **0%**
-- VRAM: 7079MB / 8151MB (**86.8%**)
+- VRAM: 1418MB / 8151MB (**17.4%**)
 
 ## 💾 RAM
 
-- 使用率: **48.1%** (15.4GB / 31.9GB)
+- 使用率: **46.4%** (14.8GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -43,7 +39,7 @@ tags: [live, status, monitoring]
 
 ## 🎯 判定
 
-🔥 **OpenClaw稼働中** — タスク処理してます
+💤 **アイドル** — タスク無し。idle_filler.ps1 が次のタスクを補充予定
 
 ---
 
