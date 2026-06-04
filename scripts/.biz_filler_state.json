@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-01T03:11:01.9680932+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-01T03:21:02.5465667+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-01T03:31:01.8991466+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-01T03:41:01.8565635+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-01T03:51:01.9292366+09:00"
-                    },
-                    {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-01T04:01:01.7441319+09:00"
                     },
@@ -1575,6 +1555,10 @@
                     {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-06-05T03:11:01.8819076+09:00"
+                    },
+                    {
+                        "slug":  "aipax-lp-beta",
+                        "time":  "2026-06-05T03:56:01.8376290+09:00"
                     }
                 ]
 }
