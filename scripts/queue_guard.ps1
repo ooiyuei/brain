@@ -10,10 +10,20 @@ $OutputEncoding = [System.Text.Encoding]::UTF8
 
 $brain = "C:\Users\Owner\business\brain"
 $queue = "$brain\queue"
-if (Test-Path "$queue\.paused") { exit 0 }
-
 $logPath = "$brain\scripts\queue_guard.log"
 $nowStamp = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
+
+# .paused の扱い (2026-06-05 止まらない化):
+# ゲーム由来 or 最近(2h以内)の pause は正当 → exit。
+# 古い(2h超)かつ game マーカー無し = 手動pause戻し忘れ/クラッシュ残骸 → 自動解除して稼働再開。
+# (旧実装は .paused があれば無条件 exit。孤児 .paused で永久停止し自己修復もできなかった最大の停止リスク)
+if (Test-Path "$queue\.paused") {
+    $pAge = ((Get-Date) - (Get-Item "$queue\.paused").LastWriteTime).TotalHours
+    $byGame = Test-Path "$queue\.paused_by_game"
+    if ($byGame -or $pAge -lt 2) { exit 0 }
+    Remove-Item "$queue\.paused" -Force -ErrorAction SilentlyContinue
+    "$nowStamp - 孤児.paused自動解除 (age=$([math]::Round($pAge,1))h) -> 稼働再開" | Add-Content $logPath -Encoding UTF8
+}
 
 $inboxCount = (Get-ChildItem "$queue\inbox" -File -Filter "*.json" -ErrorAction SilentlyContinue).Count
 $failedCount = (Get-ChildItem "$queue\failed" -File -ErrorAction SilentlyContinue).Count
