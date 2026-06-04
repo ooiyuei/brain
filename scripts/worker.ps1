@@ -50,6 +50,22 @@ function Write-WorkerLog {
     "$stamp $msg" | Add-Content $logPath -Encoding UTF8
 }
 
+# 2026-06-04 縮退ループ検出: qwen3:8bの26%が同一文/見出しを num_predict 上限まで反復する欠陥への対策。
+# 退化を検知したら採用せず再生成→なお退化なら隔離する(品質監査の最重要指摘)。
+function Test-Degenerate {
+    param([string]$text)
+    if (-not $text) { return $false }
+    if ($text -match '#{8,}') { return $true }  # 見出し階層の暴走 (########...)
+    $lines = @($text -split "`n" | ForEach-Object { $_.Trim() } | Where-Object { $_.Length -gt 20 })
+    if ($lines.Count -lt 8) { return $false }   # 短文は判定しない
+    $uniq = @($lines | Select-Object -Unique).Count
+    if (($uniq / $lines.Count) -lt 0.6) { return $true }  # 非空行のユニーク率 < 60%
+    $counts = @{}
+    foreach ($l in $lines) { if ($counts.ContainsKey($l)) { $counts[$l]++ } else { $counts[$l] = 1 } }
+    foreach ($v in $counts.Values) { if ($v -ge 4) { return $true } }  # 同一行が4回以上
+    return $false
+}
+
 # Pause チェック（最優先）
 $pauseFile = Join-Path $queueRoot ".paused"
 if (Test-Path $pauseFile) {
@@ -195,7 +211,7 @@ try {
                 prompt = $finalPrompt
                 stream = $false
                 think = $false
-                options = [ordered]@{ temperature = 0.2; num_predict = 3500; num_ctx = 8192; repeat_penalty = 1.25; repeat_last_n = 256; top_p = 0.9 }
+                options = [ordered]@{ temperature = 0.2; num_predict = 2400; num_ctx = 8192; repeat_penalty = 1.18; repeat_last_n = 1024; top_p = 0.9; top_k = 40; min_p = 0.05 }
             }
             $bodyJson = $bodyObj | ConvertTo-Json -Depth 6
             Write-WorkerLog "Fallback Ollama: model=$($job.model), prompt_len=$($finalPrompt.Length)"
@@ -210,7 +226,7 @@ try {
             prompt = $finalPrompt
             stream = $false
             think = $false
-            options = [ordered]@{ temperature = 0.2; num_predict = 3500; num_ctx = 8192; repeat_penalty = 1.25; repeat_last_n = 256; top_p = 0.9 }
+            options = [ordered]@{ temperature = 0.2; num_predict = 2400; num_ctx = 8192; repeat_penalty = 1.18; repeat_last_n = 1024; top_p = 0.9; top_k = 40; min_p = 0.05 }
         }
         $bodyJson = $bodyObj | ConvertTo-Json -Depth 6
 
@@ -218,6 +234,26 @@ try {
         $resp = Invoke-RestMethod -Uri $ollamaUrl -Method Post -Body $bodyJson -ContentType "application/json; charset=utf-8" -TimeoutSec 1800
         $response = $resp.response
         Write-WorkerLog "Got response: $($response.Length) chars"
+    }
+
+    # 縮退ループ検出 (2026-06-04): 退化出力は inbox/Opus に渡さず1回だけ再生成→なお退化なら隔離して failed へ
+    if ((Test-Degenerate $response) -and (-not $job.regen)) {
+        Write-WorkerLog "Degenerate output detected -> regenerating once (num_predict 1800, temp 0.4)"
+        $job | Add-Member -NotePropertyName regen -NotePropertyValue $true -Force
+        try {
+            $bodyObj.options.num_predict = 1800
+            $bodyObj.options.temperature = 0.4
+            $bodyJson = $bodyObj | ConvertTo-Json -Depth 6
+            $resp = Invoke-RestMethod -Uri $ollamaUrl -Method Post -Body $bodyJson -ContentType "application/json; charset=utf-8" -TimeoutSec 1800
+            $response = $resp.response
+            Write-WorkerLog "Regenerated: $($response.Length) chars"
+        } catch { Write-WorkerLog "Regen error: $($_.Exception.Message)" }
+    }
+    if (Test-Degenerate $response) {
+        $degenDir = Join-Path $brainRoot "wiki\_inbox\_archive\_degenerate"
+        if (-not (Test-Path $degenDir)) { New-Item -ItemType Directory -Path $degenDir -Force | Out-Null }
+        [System.IO.File]::WriteAllText((Join-Path $degenDir "$($job.id).md"), $response, [System.Text.UTF8Encoding]::new($false))
+        throw "Degenerate output (repetition loop) after regen - quarantined, not promoted"
     }
 
     # 完全に空 or null のみエラー扱い（短いレスポンスは意図通りの可能性あり）

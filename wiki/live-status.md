@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 10:26:46
+updated: 2026-06-04 10:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:26:46** | 🔥 **稼働中**
+**10:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **3%**
-- VRAM: 6938MB / 8151MB (**85.1%**)
+- 使用率: **0%**
+- VRAM: 7002MB / 8151MB (**85.9%**)
 
 ## 💾 RAM
 
-- 使用率: **60.3%** (19.3GB / 31.9GB)
+- 使用率: **51.1%** (16.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,9 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 311 |
+| ✅ 今日完了 | 312 |
+
+## 📥 待機タスク (上位5)
+
+- [low] [BG-Business] aipax 深掘り
 
 ## 🎯 判定
 
