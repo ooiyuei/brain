@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 10:16
+updated: 2026-06-04 10:21
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 10:16
+**最終更新**: 2026-06-04 10:21
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,16 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 3 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 303 |
+| ✅ 今日完了 | 308 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 2123 (うち24h+古い: 1484) |
+| 📝 wiki/_inbox 未レビュー | 2128 (うち24h+古い: 1489) |
 
 ### Inbox 上位
-- [high] [Shincoder S11] ユニットエコノミクス計算シート (2026-06-04 月分)
-- [high] [Shincoder S1] マイクロフラストレーション 10個収集 (2026-06-04)
-- [high] [金] 月3万アプリ ニッチ需要ハント10案
+- [high] [Sales] AIpa Web モニター提案書15万円版
 
 ## 🎯 今日のフォーカス
 
@@ -49,11 +47,11 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- marketing : 107 件
+- marketing : 108 件
 - research : 13 件
-- newbiz : 106 件
+- newbiz : 109 件
 - ingest : 1 件
-- corp : 21 件
+- corp : 22 件
 - dev : 9 件
 
 ## 🔗 主要リンク

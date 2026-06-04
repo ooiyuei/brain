@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-04 10:18:46
+updated: 2026-06-04 10:22:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:18:46** | 🔥 **稼働中**
+**10:22:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
 
 ## 🎮 GPU
 
@@ -25,8 +25,8 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **50.3%** (16GB / 31.9GB)
-- ✅ 適正
+- 使用率: **46.7%** (14.9GB / 31.9GB)
+- ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
@@ -37,14 +37,13 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 305 |
+| ✅ 今日完了 | 309 |
 
 ## 📥 待機タスク (上位5)
 
-- [high] [金] 月3万アプリ ニッチ需要ハント10案
-- [normal] [Bank] 高校生インターン体験談3本 (構造リアル)
+- [high] [金] AIpaX school 親向け不安解消記事
 
 ## 🎯 判定
 
