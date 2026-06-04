@@ -32,15 +32,19 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-04）
+## 🌅 Today（2026-06-04） — 振り返り完了
 
-**絶対やる1個**: **夢AWARD骨子v3を30分書く** — 残**2日**（6/7締切）・**12日連続未着手**・骨子v3は手元にある。今夕やらなければ詰む。
-**サブ①**: AIpaX 5社目クロージング連絡1本（想定問答15選完備・1本送るだけ・月収80万ギャップ最速手）
-**サブ②**: Anthropic 6/15課金変更試算（OpenClaw headless直撃・残11日・月間利用量確認→試算必須）
-**✅ 昨日完了**: OpenClaw 24h自走 根治オーバーホール（qwen3:8b統一・13件恒久修正・実証完了）
-**📊 Midday（12:30）**: 0/3進捗。inbox10件PDCA→昇格2・削除5・再dispatch推奨2。夢AWARD未着手・残2日。
-**⚠️ 注意**: 監視ファイル（competitor/deadlines/grill）6/4分未生成（BrainMonitor遅延の可能性）
-**詳細**: [[_routines/morning-20260604]] | [[_routines/midday-20260604]]
+**結果**: 0/3（朝計画全未着手）。OpenClaw 250+件完了・工場は回った。大井の着手ゼロ。
+**残課題**: 夢AWARD骨子v3（残1日・明日が最終）/ AIpaX 5社目連絡 / Anthropic試算
+**詳細**: [[_routines/morning-20260604]] | [[_routines/midday-20260604]] | [[_routines/evening-20260604]]
+
+---
+
+## 🌅 Tomorrow（2026-06-05）
+
+1. 🔥 **夢AWARD骨子v3を書いて提出完了** — 残**1日**（6/7締切）・朝30分・素材完備・これを逃したら終わり
+2. 💰 **AIpaX 5社目クロージング連絡1本** — 想定問答完備・1本送るだけ・月収80万ギャップ最速手
+3. 📊 **Anthropic 6/15課金変更試算** — OpenClaw headless直撃・残10日・overflow判断必須
 
 ---
 
