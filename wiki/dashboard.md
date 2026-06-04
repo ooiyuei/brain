@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 18:06
+updated: 2026-06-04 18:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 18:06
+**最終更新**: 2026-06-04 18:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -15,10 +15,13 @@ tags: [dashboard, system]
 | 項目 | 件数 |
 |---|---|
 | 📥 inbox | 0 |
-| ⚙️ processing | 0 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 346 |
 | ❌ failed | 7 |
-| 📝 wiki/_inbox 未レビュー | 2156 (うち24h+古い: 1682) |
+| 📝 wiki/_inbox 未レビュー | 2156 (うち24h+古い: 1683) |
+
+### 処理中
+- ⚙️ **[0 分]** [School] note『AI時代に子供に渡したいもの』
 
 ## 🎯 今日のフォーカス
 
