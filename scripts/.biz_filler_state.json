@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-05-31T21:11:02.4136856+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-31T21:21:02.7193190+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-05-31T21:31:05.8219337+09:00"
-                    },
-                    {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-31T21:41:02.6981633+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-05-31T21:51:02.7030718+09:00"
-                    },
-                    {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-05-31T22:01:02.3968861+09:00"
                     },
@@ -1699,6 +1679,10 @@
                     {
                         "slug":  "eemus-lp-mvp",
                         "time":  "2026-06-04T21:11:01.8256798+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-04T21:56:01.8762135+09:00"
                     }
                 ]
 }
