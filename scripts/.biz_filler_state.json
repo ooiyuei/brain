@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-x-content-30",
-                        "time":  "2026-05-31T19:01:02.7235844+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-05-31T19:11:02.5404040+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-31T19:21:02.1820936+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-05-31T19:31:02.5217811+09:00"
-                    },
-                    {
                         "slug":  "school-onboarding",
                         "time":  "2026-05-31T19:41:02.4838580+09:00"
                     },
@@ -1739,6 +1723,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-04T18:56:01.8543022+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-04T19:41:01.8321102+09:00"
                     }
                 ]
 }
