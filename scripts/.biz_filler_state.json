@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-31T16:01:02.0783116+09:00"
-                    },
-                    {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-05-31T16:11:07.8828313+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-31T16:21:02.3862482+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-05-31T16:31:02.6676032+09:00"
-                    },
-                    {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-05-31T16:41:02.2891301+09:00"
                     },
@@ -1795,6 +1779,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-04T15:56:01.7413316+09:00"
+                    },
+                    {
+                        "slug":  "eemus-dream-award-story",
+                        "time":  "2026-06-04T16:41:01.8087430+09:00"
                     }
                 ]
 }
