@@ -32,19 +32,19 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-04） — 振り返り完了
+## 🌅 Today（2026-06-05）— 朝作戦会議完了
 
-**結果**: 0/3（朝計画全未着手）。OpenClaw 250+件完了・工場は回った。大井の着手ゼロ。
-**残課題**: 夢AWARD骨子v3（残1日・明日が最終）/ AIpaX 5社目連絡 / Anthropic試算
-**詳細**: [[_routines/morning-20260604]] | [[_routines/midday-20260604]] | [[_routines/evening-20260604]]
+**絶対やる**: 🔥 **夢AWARD骨子v3を書いて提出完了** — 残**2日**（6/7締切）・3日連続未着手・今日が実質最終日
+**素材場所**: `brain/wiki/_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`（問いに答えるだけ）
+**できれば**: AIpaX 5社目クロージング連絡1本 / Anthropic 6/15課金変更試算
+**詳細**: [[_routines/morning-20260605]]
 
 ---
 
-## 🌅 Tomorrow（2026-06-05）
+## 🌅 Yesterday（2026-06-04） — 振り返り完了
 
-1. 🔥 **夢AWARD骨子v3を書いて提出完了** — 残**1日**（6/7締切）・朝30分・素材完備・これを逃したら終わり
-2. 💰 **AIpaX 5社目クロージング連絡1本** — 想定問答完備・1本送るだけ・月収80万ギャップ最速手
-3. 📊 **Anthropic 6/15課金変更試算** — OpenClaw headless直撃・残10日・overflow判断必須
+**結果**: 0/3（朝計画全未着手）。OpenClaw 250+件完了・工場は回った。大井の着手ゼロ。
+**詳細**: [[_routines/morning-20260604]] | [[_routines/midday-20260604]] | [[_routines/evening-20260604]]
 
 ---
 
