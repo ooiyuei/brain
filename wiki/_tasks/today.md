@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 13:09
+updated: 2026-06-04 13:14
 ---
 
 # Today 2026-06-04
@@ -31,6 +31,8 @@ updated: 2026-06-04 13:09
 - [x] **OpenClaw 24h自走 根治オーバーホール** — qwen3.6削除・qwen3:8b統一・13件恒久修正・実証完了（2026-06-03 深夜）
   - キュー排出 8→48件/時、Ollamaクラッシュ0 を確認
   - → `09_knowledge/failures/2026-06-03-openclaw-24h-自走-根本原因と恒久対策.md` に記録済み
+- [x] **昼チェック PDCA** — inbox 10件レビュー。昇格2・削除5・再dispatch推奨2。（2026-06-04 12:30）
+  - → [[_routines/midday-20260604]]
 
 ## ⏳ OpenClaw処理中
 

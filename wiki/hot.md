@@ -34,12 +34,13 @@ managed_by: Claude (must update every session)
 
 ## 🌅 Today（2026-06-04）
 
-**絶対やる1個**: **夢AWARD骨子v3を30分書く** — 残3日（6/7締切）・**11日連続未着手**・骨子v3は手元にある。今日やらなければ物理的に終わる。
+**絶対やる1個**: **夢AWARD骨子v3を30分書く** — 残**2日**（6/7締切）・**12日連続未着手**・骨子v3は手元にある。今夕やらなければ詰む。
 **サブ①**: AIpaX 5社目クロージング連絡1本（想定問答15選完備・1本送るだけ・月収80万ギャップ最速手）
 **サブ②**: Anthropic 6/15課金変更試算（OpenClaw headless直撃・残11日・月間利用量確認→試算必須）
 **✅ 昨日完了**: OpenClaw 24h自走 根治オーバーホール（qwen3:8b統一・13件恒久修正・実証完了）
+**📊 Midday（12:30）**: 0/3進捗。inbox10件PDCA→昇格2・削除5・再dispatch推奨2。夢AWARD未着手・残2日。
 **⚠️ 注意**: 監視ファイル（competitor/deadlines/grill）6/4分未生成（BrainMonitor遅延の可能性）
-**詳細**: [[_routines/morning-20260604]]
+**詳細**: [[_routines/morning-20260604]] | [[_routines/midday-20260604]]
 
 ---
 
