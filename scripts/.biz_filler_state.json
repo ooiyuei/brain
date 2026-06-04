@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-05-31T18:11:02.1927397+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-05-31T18:21:02.3691472+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-05-31T18:31:02.6386522+09:00"
-                    },
-                    {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-05-31T18:41:02.7880581+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-05-31T18:51:02.4041140+09:00"
-                    },
-                    {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-05-31T19:01:02.7235844+09:00"
                     },
@@ -1755,6 +1735,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-04T18:11:01.8026234+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-04T18:56:01.8543022+09:00"
                     }
                 ]
 }
