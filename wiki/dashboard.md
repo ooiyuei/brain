@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-04 09:56
+updated: 2026-06-04 10:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-04 09:56
+**最終更新**: 2026-06-04 10:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 38 Ready / 🔄  Running
 
@@ -14,15 +14,16 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 2 |
-| ✅ 今日完了 | 291 |
+| 📥 inbox | 3 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 295 |
 | ❌ failed | 6 |
-| 📝 wiki/_inbox 未レビュー | 2111 (うち24h+古い: 1476) |
+| 📝 wiki/_inbox 未レビュー | 2115 (うち24h+古い: 1479) |
 
-### 処理中
-- ⚙️ **[1 分]** [金] AIpaX school 1年カリキュラム詳細v2
-- ⚙️ **[0 分]** [Testall] コンテンツ戦略3ヶ月
+### Inbox 上位
+- [high] [金] AIpaX school 親向け不安解消記事
+- [normal] [Bank] SFC AO構想 30000字エッセイ骨子
+- [low] [BG-Entities] ipak-cafe 更新提案
 
 ## 🎯 今日のフォーカス
 
@@ -35,7 +36,7 @@ tags: [dashboard, system]
 | タスク | 進捗 |
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 14/14 (100%) |
-| 📚 entities更新 (9日サイクル) | ラウンド 2 / 2 件更新済 |
+| 📚 entities更新 (9日サイクル) | ラウンド 2 / 4 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 1/4 |
 | ⚔️ 競合監視 (3日サイクル) | 5/15 社 |
 
@@ -50,7 +51,7 @@ tags: [dashboard, system]
 
 - marketing : 321 件
 - research : 18 件
-- newbiz : 367 件
+- newbiz : 371 件
 - ingest : 1 件
 - corp : 40 件
 - dev : 13 件
