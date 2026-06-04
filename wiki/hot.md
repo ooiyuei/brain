@@ -1,6 +1,6 @@
 ---
 type: hot-cache
-updated: 2026-06-02 07:53
+updated: 2026-06-05 07:52
 structure_version: 2
 managed_by: Claude (must update every session)
 ---
@@ -104,15 +104,15 @@ managed_by: Claude (must update every session)
 ---
 
 ## 今日の AI ニュース
-*最終更新: 2026-06-04 07:52*
+*最終更新: 2026-06-05 07:52*
 
-1. ★★★ **【11日後・OpenClaw 直撃】Anthropic が 6/15 からプログラム利用を別クレジットプールに分離** — Agent SDK / `claude -p`（ヘッドレス）/ Claude Code GitHub Actions が **API 定価で従量課金・繰越なし**（Pro $20/Max5x $100/Max20x $200）。利用量次第で **実質 12〜150 倍コスト増**。OpenClaw=24h 自走 headless＝直撃対象。6/15 までに ①API 単価で月間実利用試算 ②overflow トグル判断 ③qwen3:8b 退避閾値設計 が必須
-2. **OpenAI $122B 調達・評価額 $852B → Q4 2026 に ~$1兆 IPO** — 史上最大の民間ラウンド（週間 9 億人/年商 $20B）。中国 DeepSeek も **$7.4B** 調達間近。AI 資本は「実証重視」で集中継続＝Almeo は早期に実顧客実績を作るべき側
-3. ★ **Google Gemini「Daily Brief」+ Gemini Omni 投入 — Almeo の日次ブリーフ構想と正面衝突** — 受信箱/カレンダー/タスク横断の朝の優先ダイジェスト＋次アクション提案を OS レベルで自動化。汎用ブリーフは巨人が無料で握る＝Almeo は「日本 SMB の業務文脈×実装支援」で差別化を明文化
+1. ★ **【補助金・新事実】生成 AI は「自動では補助対象外」— IT 導入支援事業者が登録したツールだけが対象** — デジタル化・AI導入補助金は補助率 1/2（小規模＋賃上げで最大 4/5）・上限 450 万円だが、*生成 AI でも未登録ツールは対象外*。**Almeo/Testall を「補助金使えます」で SMB に売るには IT 導入支援事業者登録 or ツール登録が前提**。2 次締切 6/15・3 次 7/21・4 次 8/25
+2. ★★★ **Anthropic が評価額 $965B で OpenAI($852B) を抜き世界首位（$65B Series H）** — OpenClaw 土台ベンダーが業界トップに＝継続性は安泰。ただし **6/15 のプログラム課金分離は予定どおり施行（残 10 日）**。「土台は安泰／コスト構造は激変」を同時対処（本日 TODO #3）
+3. **AI IPO スーパーサイクル — Cerebras 初日 +68%、SpaceX が 6/8 ロードショー、Anduril $5B で評価額 2 倍($61B)** — Q1 2026 世界 VC $330.9B の 80%+ が AI、4 メガ案件で 63%。資金は「大型・実証済み」に超集中＝Almeo は早期に実顧客 proof を作る側
 
-※継続フォロー: 補助金 2次締切 **6/15**（Anthropic 課金変更と同日・Almeo の提案窓）/ Sonnet4/Opus4 API 退役 6/15 / GPT-4.5 は 6/27 廃止 / Anthropic Project Glasswing＋Claude Security を 15+ カ国の重要インフラへ拡大
+※継続フォロー: OpenAI Codex を全職種版に拡張＋AWS 提供 / GPT-4.5 退役 6/27・o3 退役 8/26 / Claude Code Opus 4.8 が high-effort 既定＋`/effort xhigh` / Gemini Spark（24/7 個人エージェント）
 
-詳細: brain/07_research/ai-news/2026-06-04.md
+詳細: brain/07_research/ai-news/2026-06-05.md
 
 ---
 
