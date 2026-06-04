@@ -106,3 +106,4 @@
 {"ts": "2026-06-04T08:08:32+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_routines\\morning-20260604.md", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f"}
 {"ts": "2026-06-04T08:08:58+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_tasks\\today.md", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f"}
 {"ts": "2026-06-04T08:09:17+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "9696c5df-1e71-4e50-9c0d-daa831bb363f"}
+{"ts": "2026-06-04T10:11:35+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dispatch.ps1", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58"}

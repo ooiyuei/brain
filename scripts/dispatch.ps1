@@ -194,6 +194,24 @@ if ($bpInbox -ge 150 -and $Priority -ne 'super') {
     return
 }
 
+# 2026-06-04 タイトル重複ガード: 同一タイトルが直近12h以内に投入済みなら skip (super除く)。
+# 多数のfiller(money_loop/shincoder/recurrent等)が同じタスクを再生成し夜間437本中73%が重複コピーになっていた問題を一元解消。
+$dedupFile = Join-Path $brainRoot 'scripts\.dispatch_dedup.json'
+$dedup = @{}
+if (Test-Path $dedupFile) { try { $dj = Get-Content $dedupFile -Raw -Encoding UTF8 | ConvertFrom-Json; foreach ($pp in $dj.PSObject.Properties) { $dedup[$pp.Name] = $pp.Value } } catch {} }
+$titleKey = "$Department|$Title"
+if ($Priority -ne 'super' -and $dedup.ContainsKey($titleKey)) {
+    try { if ([DateTime]$dedup[$titleKey] -gt (Get-Date).AddHours(-12)) {
+        Write-Host "[dedup] '$Title' は直近12h投入済み -> skip (superでバイパス可)"
+        return
+    } } catch {}
+}
+$dedup[$titleKey] = (Get-Date).ToString('o')
+$dCut = (Get-Date).AddHours(-48)
+$dClean = @{}
+foreach ($dk in $dedup.Keys) { try { if ([DateTime]$dedup[$dk] -gt $dCut) { $dClean[$dk] = $dedup[$dk] } } catch {} }
+[System.IO.File]::WriteAllText($dedupFile, ($dClean | ConvertTo-Json), [System.Text.UTF8Encoding]::new($false))
+
 $stamp = (Get-Date).ToString("yyyyMMdd-HHmmss-fff")
 $fileName = "$prio-$stamp-$taskId.json"
 $taskPath = Join-Path $inbox $fileName
