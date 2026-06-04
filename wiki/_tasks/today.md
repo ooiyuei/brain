@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-04
 tags: [tasks, today]
-updated: 2026-06-04 10:19
+updated: 2026-06-04 10:24
 ---
 
 # Today 2026-06-04
@@ -36,8 +36,7 @@ updated: 2026-06-04 10:19
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] [待機] [金] X(Twitter) 大井 1週間分投稿20本
-- [ ] [待機] [Bank] 高校生インターン体験談3本 (構造リアル)
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
