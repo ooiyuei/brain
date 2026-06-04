@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-01T07:41:01.9917458+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-01T07:51:01.9294081+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-01T08:01:02.3193108+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-01T08:11:02.2302749+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-06-01T08:21:02.0144448+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-06-01T08:31:02.0594729+09:00"
                     },
@@ -1491,6 +1471,10 @@
                     {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-05T07:41:01.8950575+09:00"
+                    },
+                    {
+                        "slug":  "school-trial-2h-program",
+                        "time":  "2026-06-05T08:26:01.9131480+09:00"
                     }
                 ]
 }
