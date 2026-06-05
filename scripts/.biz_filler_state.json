@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-01T10:41:02.1262887+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-06-01T10:51:01.9769729+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-01T11:01:02.0078094+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-06-01T11:11:02.0012694+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-01T11:21:01.9584599+09:00"
-                    },
-                    {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-01T11:31:02.0261620+09:00"
                     },
@@ -1435,6 +1415,10 @@
                     {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-06-05T10:41:01.9323798+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-05T11:26:01.9160144+09:00"
                     }
                 ]
 }
