@@ -185,6 +185,18 @@ if ($doArch) {
     if ($archivedDone -gt 0) { "$nowStamp - done archived: $archivedDone (>7d)" | Add-Content $logPath -Encoding UTF8 }
 }
 
+# 8. 出力フロー監視 (2026-06-05 止まらない化): inboxにタスクがあるのに長時間1件も完成しない=沈黙ストール検知。
+# workers生存/ollama稼働でもhungリクエストやロック居座りで実質停止する事故を25分で自己修復(ロック強制解放+ワーカー蹴り)。
+if ($inboxCount -gt 0 -and $ollamaUp) {
+    $lastDone = Get-ChildItem "$queue\done" -Filter *.json -File -ErrorAction SilentlyContinue | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+    if ($lastDone -and (((Get-Date) - $lastDone.LastWriteTime).TotalMinutes -gt 25)) {
+        Get-ChildItem "$queue\.worker-*.lock" -Force -ErrorAction SilentlyContinue | ForEach-Object { Move-Item $_.FullName "$lockGrave\$($_.Name).stall.$((Get-Date).ToString('yyyyMMddHHmmss'))" -Force -ErrorAction SilentlyContinue }
+        Start-Process wscript -ArgumentList "//nologo `"$vbs`" `"$brain\scripts\worker.ps1`" heavy" -WindowStyle Hidden
+        Start-Process wscript -ArgumentList "//nologo `"$vbs`" `"$brain\scripts\worker.ps1`" light" -WindowStyle Hidden
+        "$nowStamp - 沈黙ストール検知 -> ロック強制解放+ワーカー再起動" | Add-Content $logPath -Encoding UTF8
+    }
+}
+
 $ollamaState = if ($ollamaUp) { 'up' } else { "restarted$ollamaRestarted" }
 $summary = "inbox=$inboxCount oldMoved=$movedOld failed=$failedCount failedMoved=$movedFailed workers=$($workers.Count) restarted=$workersRestarted reaped=$reaped reapQuarantined=$reapFailed locksCleared=$locksCleared ollama=$ollamaState"
 "$nowStamp - $summary" | Add-Content $logPath -Encoding UTF8
