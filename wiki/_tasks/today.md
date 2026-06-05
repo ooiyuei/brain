@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-06
 tags: [tasks, today]
-updated: 2026-06-06 07:49
+updated: 2026-06-06 07:54
 ---
 
 # Today 2026-06-05
@@ -39,7 +39,7 @@ updated: 2026-06-06 07:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 2分]** [Money] AIpaX 既存4社 アップセル提案
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
