@@ -1,130 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-06-02T00:21:01.7631150+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-06-02T00:31:02.4574022+09:00"
-                    },
-                    {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-06-02T00:41:02.1112097+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-06-02T00:51:01.6324905+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-02T01:01:02.1971990+09:00"
-                    },
-                    {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-06-02T01:11:01.8568371+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-06-02T01:21:02.0802373+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-06-02T01:31:02.1132300+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-06-02T01:41:01.9092372+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T01:51:01.9238530+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-02T02:01:01.6706165+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-02T02:11:02.0309468+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-06-02T02:21:01.6085465+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-06-02T02:31:01.7566621+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-02T02:41:01.7091374+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-02T02:51:02.2103807+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-06-02T03:01:01.9498388+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-02T03:11:01.9436443+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-02T03:21:01.9401544+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-02T03:31:01.9517226+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-02T03:41:01.9243481+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-06-02T03:51:01.9148217+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-06-02T04:01:03.1204481+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-02T04:11:02.0338186+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-02T04:21:02.0110199+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-02T04:31:02.0187035+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-02T04:41:01.9663699+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-06-02T04:51:02.1832736+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-02T05:01:01.9350026+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-02T05:11:02.3005519+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-02T05:21:01.9855472+09:00"
-                    },
-                    {
                         "slug":  "testall-content-strategy",
                         "time":  "2026-06-02T05:31:02.2195281+09:00"
                     },
@@ -1179,6 +1055,10 @@
                     {
                         "slug":  "aipax-seo-chusho-ai",
                         "time":  "2026-06-06T00:11:02.2104753+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-companies-20",
+                        "time":  "2026-06-06T05:26:02.1803973+09:00"
                     }
                 ]
 }
