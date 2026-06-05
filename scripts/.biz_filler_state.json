@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-01T08:31:02.0594729+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-01T08:41:01.9546063+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-01T08:51:02.3165622+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-01T09:01:02.2507930+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-01T09:11:02.1162965+09:00"
                     },
@@ -1475,6 +1459,10 @@
                     {
                         "slug":  "school-trial-2h-program",
                         "time":  "2026-06-05T08:26:01.9131480+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-05T09:11:01.9086743+09:00"
                     }
                 ]
 }
