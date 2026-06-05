@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-01T20:31:02.7316319+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-06-01T20:41:02.9202724+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-01T20:51:02.4844531+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-01T21:01:03.0432708+09:00"
-                    },
-                    {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-01T21:11:02.7446542+09:00"
                     },
@@ -1251,6 +1235,10 @@
                     {
                         "slug":  "testall-user-personas-5",
                         "time":  "2026-06-05T20:26:02.0090975+09:00"
+                    },
+                    {
+                        "slug":  "eemus-content-stories",
+                        "time":  "2026-06-05T21:11:02.0514835+09:00"
                     }
                 ]
 }
