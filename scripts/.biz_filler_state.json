@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-01T18:11:02.5563833+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-01T18:21:02.8349808+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-06-01T18:31:02.5572515+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-01T18:41:02.8670829+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-06-01T18:51:02.7658264+09:00"
-                    },
-                    {
                         "slug":  "school-onboarding",
                         "time":  "2026-06-01T19:01:02.3519567+09:00"
                     },
@@ -1295,6 +1275,10 @@
                     {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-06-05T18:11:02.0422974+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-05T18:56:02.0371988+09:00"
                     }
                 ]
 }
