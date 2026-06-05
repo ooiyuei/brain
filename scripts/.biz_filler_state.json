@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-06-02T07:41:02.1599501+09:00"
-                    },
-                    {
-                        "slug":  "aipax-prospect-30",
-                        "time":  "2026-06-02T07:51:02.1713814+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T08:01:02.3001442+09:00"
-                    },
-                    {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-06-02T08:11:01.9425791+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-02T08:21:02.3309336+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-02T08:31:02.2749985+09:00"
                     },
@@ -1019,6 +999,10 @@
                     {
                         "slug":  "aipax-proposal-80man",
                         "time":  "2026-06-06T07:41:02.1496212+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-06T08:26:02.2271665+09:00"
                     }
                 ]
 }
