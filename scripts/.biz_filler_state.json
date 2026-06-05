@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-06-02T05:31:02.2195281+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-02T05:41:01.9216168+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T05:51:02.1729451+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-02T06:01:02.6226262+09:00"
-                    },
-                    {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-06-02T06:11:02.1745412+09:00"
-                    },
-                    {
                         "slug":  "testall-x-content-30",
                         "time":  "2026-06-02T06:21:02.2209073+09:00"
                     },
@@ -1059,6 +1039,10 @@
                     {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-06T05:26:02.1803973+09:00"
+                    },
+                    {
+                        "slug":  "school-parent-lp",
+                        "time":  "2026-06-06T06:11:02.1738437+09:00"
                     }
                 ]
 }
