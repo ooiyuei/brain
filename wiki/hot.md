@@ -32,11 +32,12 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-05）— 朝作戦会議完了
+## 🌅 Today（2026-06-05）— 朝作戦会議完了 / 昼チェック済み
 
-**絶対やる**: 🔥 **夢AWARD骨子v3を書いて提出完了** — 残**2日**（6/7締切）・3日連続未着手・今日が実質最終日
-**素材場所**: `brain/wiki/_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`（問いに答えるだけ）
+**絶対やる**: 🔥 **夢AWARD骨子v3を書いて提出完了** — 残**2日**（6/7締切）・**今日が実質最終日** / 午前未着手
+**素材場所**: `brain/wiki/_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`（問いに答えるだけ・30分）
 **できれば**: AIpaX 5社目クロージング連絡1本 / Anthropic 6/15課金変更試算
+**Midday進捗**: 0/3未着手・PDCA昇格2件・削除3件 → [[_routines/midday-20260605]]
 **詳細**: [[_routines/morning-20260605]]
 
 ---

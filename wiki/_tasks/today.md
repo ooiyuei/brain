@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-05
 tags: [tasks, today]
-updated: 2026-06-05 13:09
+updated: 2026-06-05 13:14
 ---
 
 # Today 2026-06-05
@@ -30,6 +30,10 @@ updated: 2026-06-05 13:09
 
 - [x] **OpenClaw 24h自走 根治オーバーホール** — qwen3.6削除・qwen3:8b統一・13件恒久修正・実証完了（2026-06-03 深夜）
   - キュー排出 8→48件/時、Ollamaクラッシュ0 を確認
+- [x] **昼PDCAレビュー（12:30）** — inbox 5件レビュー・昇格2件・削除3件
+  - [[marketing/aipax-closing-qa-20260604]] (AIpaX想定問答15選) 昇格
+  - [[05_corp/aipax-contract-template]] (契約書β) 昇格
+  - ハルシネーション3件削除
 
 ## ⏳ OpenClaw処理中
 
