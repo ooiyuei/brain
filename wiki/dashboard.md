@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-05 09:56
+updated: 2026-06-05 10:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-05 09:56
+**最終更新**: 2026-06-05 10:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -14,14 +14,14 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 30 |
+| 📥 inbox | 1 |
+| ⚙️ processing | 0 |
+| ✅ 今日完了 | 32 |
 | ❌ failed | 10 |
-| 📝 wiki/_inbox 未レビュー | 2192 (うち24h+古い: 2111) |
+| 📝 wiki/_inbox 未レビュー | 2194 (うち24h+古い: 2115) |
 
-### 処理中
-- ⚙️ **[0 分]** [EEMUS] 夢AWARD応募ストーリー骨子
+### Inbox 上位
+- [low] [BG-Entities] wa-kouchai 更新提案
 
 ## 🎯 今日のフォーカス
 
@@ -34,7 +34,7 @@ tags: [dashboard, system]
 | タスク | 進捗 |
 |---|---|
 | 📅 ビジコン分析 (14日) | バッチ 14/14 (100%) |
-| 📚 entities更新 (9日サイクル) | ラウンド 2 / 4 件更新済 |
+| 📚 entities更新 (9日サイクル) | ラウンド 2 / 6 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 2/4 |
 | ⚔️ 競合監視 (3日サイクル) | 10/15 社 |
 
@@ -49,7 +49,7 @@ tags: [dashboard, system]
 
 - marketing : 139 件
 - research : 16 件
-- newbiz : 127 件
+- newbiz : 129 件
 - ingest : 1 件
 - corp : 27 件
 - dev : 10 件
