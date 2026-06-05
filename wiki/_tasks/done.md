@@ -11,6 +11,10 @@ updated: 2026-05-18
 
 ## 2026-06-W1（6/1-7）
 
+### 2026-06-05
+
+- [x] **昼PDCAレビュー**（12:30 / Claude）: 2件昇格（AIpaX想定問答15選→`marketing/aipax-closing-qa-20260604`・AIpaX契約書β→`05_corp/aipax-contract-template`）・1件再dispatch（EEMUS Stripe設定の事業説明誤認識修正）・3件削除（ハルシネーション骨子/架空企業リスト/テンプレ未入力CF）
+
 ### 2026-06-03
 
 - [x] **OpenClaw 24h自走 根治オーバーホール**（深夜〜今朝・Claude/Opus 4.8 全権委任）: qwen3.6削除・qwen3:8b一本化・13件恒久修正・実証完了。8→48件/時、クラッシュゼロ。→ `09_knowledge/failures/2026-06-03-openclaw-24h-自走-根本原因と恒久対策.md`
