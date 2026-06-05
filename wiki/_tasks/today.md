@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-05
 tags: [tasks, today]
-updated: 2026-06-05 10:39
+updated: 2026-06-05 10:44
 ---
 
 # Today 2026-06-05
@@ -35,7 +35,7 @@ updated: 2026-06-05 10:39
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- (現在OpenClaw処理待ち・処理中タスクなし)
+- [ ] **[処理中 0分]** [EEMUS] 提携高校候補20校リスト
 
 
 ## 📅 今日の予定（Calendar）
