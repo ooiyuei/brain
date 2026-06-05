@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-06-01T10:01:02.4920329+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-01T10:11:02.1746220+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-01T10:21:02.3711791+09:00"
-                    },
-                    {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-06-01T10:31:02.1650754+09:00"
-                    },
-                    {
                         "slug":  "school-curriculum-v2",
                         "time":  "2026-06-01T10:41:02.1262887+09:00"
                     },
@@ -1447,6 +1431,10 @@
                     {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-05T09:56:01.9396976+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-05T10:41:01.9323798+09:00"
                     }
                 ]
 }
