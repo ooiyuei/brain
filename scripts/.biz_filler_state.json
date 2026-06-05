@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-06-01T13:41:02.0868982+09:00"
-                    },
-                    {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-06-01T13:51:02.0909564+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-01T14:01:02.0873141+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-01T14:11:02.1357480+09:00"
-                    },
-                    {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-06-01T14:21:02.0995309+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-01T14:31:02.1338917+09:00"
                     },
@@ -1379,6 +1359,10 @@
                     {
                         "slug":  "school-faq-parent-30",
                         "time":  "2026-06-05T13:41:02.0589748+09:00"
+                    },
+                    {
+                        "slug":  "school-curriculum-v2",
+                        "time":  "2026-06-05T14:26:01.9754992+09:00"
                     }
                 ]
 }
