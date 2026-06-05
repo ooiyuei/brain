@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-02T07:01:02.2492773+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-02T07:11:02.1607150+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T07:21:02.4730346+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-02T07:31:02.2784131+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T07:41:02.1599501+09:00"
                     },
@@ -1031,6 +1015,10 @@
                     {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-06T06:56:02.1598019+09:00"
+                    },
+                    {
+                        "slug":  "aipax-proposal-80man",
+                        "time":  "2026-06-06T07:41:02.1496212+09:00"
                     }
                 ]
 }
