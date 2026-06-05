@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-05 10:58:47
+updated: 2026-06-05 11:02:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**10:58:47** | 🔥 **稼働中**
+**11:02:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,7 +15,7 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残16分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
@@ -25,7 +25,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **49.5%** (15.8GB / 31.9GB)
+- 使用率: **49.8%** (15.9GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -37,9 +37,15 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 3 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 34 |
+| ✅ 今日完了 | 36 |
+
+## 📥 待機タスク (上位5)
+
+- [low] [BG-Competitive] Salesforce Einstein
+- [low] [BG-Competitive] Gusto
+- [low] [BG-Competitive] Manebi
 
 ## 🎯 判定
 

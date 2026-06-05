@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-05 10:56
+updated: 2026-06-05 11:01
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-05 10:56
+**最終更新**: 2026-06-05 11:01
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -14,11 +14,17 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 4 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 34 |
+| ✅ 今日完了 | 35 |
 | ❌ failed | 11 |
 | 📝 wiki/_inbox 未レビュー | 2197 (うち24h+古い: 2139) |
+
+### Inbox 上位
+- [low] [BG-Competitive] Microsoft Copilot
+- [low] [BG-Competitive] Salesforce Einstein
+- [low] [BG-Competitive] Gusto
+- [low] [BG-Competitive] Manebi
 
 ## 🎯 今日のフォーカス
 
@@ -33,7 +39,7 @@ tags: [dashboard, system]
 | 📅 ビジコン分析 (14日) | バッチ 14/14 (100%) |
 | 📚 entities更新 (9日サイクル) | ラウンド 2 / 6 件更新済 |
 | 🏢 事業深掘り (45日サイクル) | 事業 3/15 / 視点 3/4 |
-| ⚔️ 競合監視 (3日サイクル) | 10/15 社 |
+| ⚔️ 競合監視 (3日サイクル) | 15/15 社 |
 
 ## 🌅 今朝の監視結果
 
