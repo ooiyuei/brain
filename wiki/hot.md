@@ -32,13 +32,18 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Today（2026-06-05）— 朝作戦会議完了 / 昼チェック済み
+## 🌅 Today（2026-06-05）— 振り返り完了
 
-**絶対やる**: 🔥 **夢AWARD骨子v3を書いて提出完了** — 残**2日**（6/7締切）・**今日が実質最終日** / 午前未着手
-**素材場所**: `brain/wiki/_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md`（問いに答えるだけ・30分）
-**できれば**: AIpaX 5社目クロージング連絡1本 / Anthropic 6/15課金変更試算
-**Midday進捗**: 0/3未着手・PDCA昇格2件・削除3件 → [[_routines/midday-20260605]]
-**詳細**: [[_routines/morning-20260605]]
+**結果**: 0/3（大井の着手ゼロ・5日連続）。PDCA昇格2件・OpenClaw 54件着弾。工場は動いた。
+**詳細**: [[_routines/morning-20260605]] | [[_routines/midday-20260605]] | [[_routines/evening-20260605]]
+
+---
+
+## ⚡ Tomorrow（2026-06-06）— 絶対最終日
+
+1. 🔥🔥 **夢AWARD骨子v3 提出** — `wiki/_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md` / **6/7締切・明日が実質最終日**。5日連続未着手。朝30分だけ。
+2. 🌱 **AIpaX 5社目クロージング連絡1本** — 素材全揃い・大井の「送る」だけ
+3. ⏰ **Anthropic課金試算** — 6/15まで残10日・overflow設定設計
 
 ---
 
