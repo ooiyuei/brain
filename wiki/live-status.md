@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-06 07:26:46
+updated: 2026-06-06 07:30:46
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**07:26:46** | 💤 **アイドル**
+**07:30:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -21,7 +21,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **44.5%** (14.2GB / 31.9GB)
+- 使用率: **44.6%** (14.2GB / 31.9GB)
 - ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
@@ -33,13 +33,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
 | ✅ 今日完了 | 10 |
 
+## 📥 待機タスク (上位5)
+
+- [normal] [BG-AINews] AI業界ニュース 2026-06-06
+
 ## 🎯 判定
 
-💤 **アイドル** — タスク無し。idle_filler.ps1 が次のタスクを補充予定
+⏳ **再開待ち** — inbox に 1 件、次のworker起動で処理開始
 
 ---
 
