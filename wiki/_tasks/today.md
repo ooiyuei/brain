@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-05
 tags: [tasks, today]
-updated: 2026-06-05 18:44
+updated: 2026-06-05 18:49
 ---
 
 # Today 2026-06-05
@@ -39,7 +39,8 @@ updated: 2026-06-05 18:44
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- (現在OpenClaw処理待ち・処理中タスクなし)
+- [ ] **[処理中 2分]** [Money] Testall 受験生インフルエンサー連携 DM10件
+- [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
 
 
 ## 📅 今日の予定（Calendar）
