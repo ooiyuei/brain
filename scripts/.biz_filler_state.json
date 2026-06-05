@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-06-01T21:11:02.7446542+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-01T21:21:02.6286458+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-06-01T21:31:02.7402191+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-01T21:41:02.6641192+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-01T21:51:02.9164155+09:00"
-                    },
-                    {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-01T22:01:02.7515120+09:00"
                     },
@@ -1239,6 +1219,10 @@
                     {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-05T21:11:02.0514835+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-05T21:56:02.0290493+09:00"
                     }
                 ]
 }
