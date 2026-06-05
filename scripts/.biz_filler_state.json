@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-01T13:01:02.2356071+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-06-01T13:11:02.0559835+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-01T13:21:02.0505633+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-01T13:31:02.0792344+09:00"
-                    },
-                    {
                         "slug":  "school-onboarding",
                         "time":  "2026-06-01T13:41:02.0868982+09:00"
                     },
@@ -1391,6 +1375,10 @@
                     {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-05T12:56:01.9627369+09:00"
+                    },
+                    {
+                        "slug":  "school-faq-parent-30",
+                        "time":  "2026-06-05T13:41:02.0589748+09:00"
                     }
                 ]
 }
