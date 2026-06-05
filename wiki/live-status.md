@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-06 08:26:46
+updated: 2026-06-06 08:30:46
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**08:26:46** | 🔥 **稼働中**
+**08:30:46** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,35 +15,37 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 5.6GB | 残30分 |
+| qwen3:8b | 5.6GB | 5.6GB | 残29分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **95%**
-- VRAM: 7029MB / 8151MB (**86.2%**)
+- 使用率: **0%**
+- VRAM: 7025MB / 8151MB (**86.2%**)
 
 ## 💾 RAM
 
-- 使用率: **58.7%** (18.8GB / 31.9GB)
-- ✅ 適正
+- 使用率: **49.2%** (15.7GB / 31.9GB)
+- ⚠️ 余裕あり（タスク投入したら効率UP）
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): 🟢 **稼働中**
+- Light (qwen3:8b): ⚪ idle
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 1 |
+| 📥 inbox | 3 |
+| ⚙️ processing | 0 |
 | ✅ 今日完了 | 16 |
 
-## 🔄 処理中タスク
+## 📥 待機タスク (上位5)
 
-- ⚡ [47 秒経過] **[AIpaX] β顧客候補30社プロファイル**
+- [high] [Monitor] 競合動向Top3 - 2026-06-06
+- [high] [Monitor] ビジコン締切 - 2026-06-06
+- [high] [Monitor] 朝の問い - 2026-06-06
 
 ## 🎯 判定
 
