@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-07 08:26:46
+updated: 2026-06-07 08:30:47
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**08:26:46** | 💤 **アイドル**
+**08:30:47** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -21,7 +21,7 @@ tags: [live, status, monitoring]
 
 ## 💾 RAM
 
-- 使用率: **69.4%** (22.2GB / 31.9GB)
+- 使用率: **69.7%** (22.3GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -33,7 +33,7 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 3 |
+| 📥 inbox | 6 |
 | ⚙️ processing | 0 |
 | ✅ 今日完了 | 5 |
 
@@ -41,11 +41,13 @@ tags: [live, status, monitoring]
 
 - [high] [AIpaX] β顧客候補30社プロファイル
 - [high] AI 最新情報日次リサーチ
-- [normal] [BG-AINews] AI業界ニュース 2026-06-07
+- [high] [Monitor] 競合動向Top3 - 2026-06-07
+- [high] [Monitor] ビジコン締切 - 2026-06-07
+- [high] [Monitor] 朝の問い - 2026-06-07
 
 ## 🎯 判定
 
-⏳ **再開待ち** — inbox に 3 件、次のworker起動で処理開始
+⏳ **再開待ち** — inbox に 6 件、次のworker起動で処理開始
 
 ---
 
