@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 04:54
+updated: 2026-06-07 04:59
 ---
 
 # Today 2026-06-06
@@ -37,7 +37,7 @@ updated: 2026-06-07 04:54
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 778分]** [横断] Stripe決済設定 5事業ロードマップ
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
