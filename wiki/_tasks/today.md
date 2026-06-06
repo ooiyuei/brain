@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-06
 tags: [tasks, today]
-updated: 2026-06-06 10:49
+updated: 2026-06-06 10:54
 ---
 
 # Today 2026-06-06
@@ -36,10 +36,7 @@ updated: 2026-06-06 10:49
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 1分]** [Money] Testall 受験生インフルエンサー連携 DM10件
-- [ ] [待機] [Money] 夢AWARD 60秒ピッチ動画台本 v3
-- [ ] [待機] [Money] AIpaX 中堅企業3社 個別アプローチメール
-- [ ] [待機] [Money] 主力5事業 月次キャッシュフロー6月予測
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
