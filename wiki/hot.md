@@ -46,10 +46,14 @@ managed_by: Claude (must update every session)
 
 ---
 
-## 🌅 Tomorrow（2026-06-07）— 締切日
+## 🌅 Today（2026-06-07）— 締切日 🔥🔥
 
-1. 🔥🔥 **夢AWARD骨子v3 完成・提出（締切当日）** — `wiki/_promoted/newbiz/eemus-dream-award-骨子v3-2026-05-27.md` 開いて30分。起きたら即これだけ。
-2. 🌱 **AIpaX 5社目クロージング連絡1本** — `wiki/_inbox/marketing/money-aipax-中堅企業3社-個別アプローチメール-20260606-1047-8dbf.md` 参照・1通送るだけ
+**絶対やる**: 夢AWARD フォーム送信（`brain/00_YUEI/夢AWARD-提出パッケージ-即コピペ用.md` → コピペ15〜30分で完了）
+**フォーム**: https://ws.formzu.net/fgen/S49170529/ ← 今すぐ開く
+**結果**: 未着手
+
+1. 🔥🔥 **夢AWARD フォーム提出（締切当日・今日で終わり）** — 提出パッケージ完成済み・個人情報+1文追記+送信だけ
+2. 🌱 **AIpaX 5社目クロージング連絡1本** — アプローチメール草稿完備・1通送るだけ
 3. ⏰ **Anthropic課金試算** — 残8日・overflow設定
 
 ---
