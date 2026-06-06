@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-02T13:01:02.6424528+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-02T13:11:02.7027471+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-02T13:21:02.4467554+09:00"
-                    },
-                    {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-06-02T13:31:02.7492116+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T13:41:02.5172250+09:00"
                     },
@@ -919,6 +903,10 @@
                     {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-06T12:56:02.2145703+09:00"
+                    },
+                    {
+                        "slug":  "eemus-pitch-deck-10p",
+                        "time":  "2026-06-06T13:41:02.1710149+09:00"
                     }
                 ]
 }
