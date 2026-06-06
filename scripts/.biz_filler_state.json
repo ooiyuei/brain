@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-06-02T10:01:02.2835861+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-02T10:11:02.8076343+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-06-02T10:21:02.3171577+09:00"
-                    },
-                    {
-                        "slug":  "school-note-parent-essay",
-                        "time":  "2026-06-02T10:31:02.3560999+09:00"
-                    },
-                    {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-06-02T10:41:02.2280968+09:00"
                     },
@@ -975,6 +959,10 @@
                     {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-06-06T09:56:02.1760598+09:00"
+                    },
+                    {
+                        "slug":  "cross-portfolio-prioritize",
+                        "time":  "2026-06-06T10:41:02.1706860+09:00"
                     }
                 ]
 }
