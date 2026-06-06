@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-07 00:06:46
+updated: 2026-06-07 00:10:47
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**00:06:46** | 💤 **アイドル**
+**00:10:47** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -16,12 +16,12 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **24%**
-- VRAM: 3612MB / 8151MB (**44.3%**)
+- 使用率: **33%**
+- VRAM: 3781MB / 8151MB (**46.4%**)
 
 ## 💾 RAM
 
-- 使用率: **54.6%** (17.4GB / 31.9GB)
+- 使用率: **55%** (17.6GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
