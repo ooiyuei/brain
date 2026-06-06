@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-06-02T11:31:02.2894419+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-06-02T11:41:02.2689899+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-06-02T11:51:02.3468097+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-02T12:01:02.3223947+09:00"
-                    },
-                    {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-02T12:11:02.3116528+09:00"
                     },
@@ -947,6 +931,10 @@
                     {
                         "slug":  "aipax-pl-monthly",
                         "time":  "2026-06-06T11:26:02.1824153+09:00"
+                    },
+                    {
+                        "slug":  "school-tos",
+                        "time":  "2026-06-06T12:11:02.1828277+09:00"
                     }
                 ]
 }
