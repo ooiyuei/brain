@@ -11,6 +11,11 @@ updated: 2026-05-18
 
 ## 2026-06-W1（6/1-7）
 
+### 2026-06-06
+
+- [x] **今日のPDCAレビュー（12:30 / Claude）** — inbox サンプル6件・昇格1件（AIpaX商談想定問答）・削除2件（架空企業リスト・フィクションPL）
+- [x] **OpenClaw 工場稼働** — 41件処理完了（EEMUS素材・AIpaX素材 充実）
+
 ### 2026-06-05
 
 - [x] **昼PDCAレビュー**（12:30 / Claude）: 2件昇格（AIpaX想定問答15選→`marketing/aipax-closing-qa-20260604`・AIpaX契約書β→`05_corp/aipax-contract-template`）・1件再dispatch（EEMUS Stripe設定の事業説明誤認識修正）・3件削除（ハルシネーション骨子/架空企業リスト/テンプレ未入力CF）
