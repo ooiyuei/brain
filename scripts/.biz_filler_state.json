@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-02T08:31:02.2749985+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T08:41:02.4245437+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T08:51:02.4719384+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-06-02T09:01:02.2607554+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-06-02T09:11:02.3166339+09:00"
                     },
@@ -1003,6 +987,10 @@
                     {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-06T08:26:02.2271665+09:00"
+                    },
+                    {
+                        "slug":  "aipax-contract-template",
+                        "time":  "2026-06-06T09:11:02.1699160+09:00"
                     }
                 ]
 }
