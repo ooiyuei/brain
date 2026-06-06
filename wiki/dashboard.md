@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-06 10:51
+updated: 2026-06-06 10:56
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-06 10:51
+**最終更新**: 2026-06-06 10:56
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 32 Ready / 🔄  Running
 
@@ -14,14 +14,11 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 1 |
+| 📥 inbox | 0 |
 | ⚙️ processing | 0 |
-| ✅ 今日完了 | 26 |
+| ✅ 今日完了 | 27 |
 | ❌ failed | 16 |
-| 📝 wiki/_inbox 未レビュー | 2250 (うち24h+古い: 2192) |
-
-### Inbox 上位
-- [high] [Money] 主力5事業 月次キャッシュフロー6月予測
+| 📝 wiki/_inbox 未レビュー | 2251 (うち24h+古い: 2192) |
 
 ## 🎯 今日のフォーカス
 
@@ -51,7 +48,7 @@ tags: [dashboard, system]
 - research : 19 件
 - newbiz : 148 件
 - ingest : 1 件
-- corp : 30 件
+- corp : 31 件
 - dev : 10 件
 
 ## 🔗 主要リンク
