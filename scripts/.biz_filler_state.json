@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-02T12:11:02.3116528+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-06-02T12:21:02.4973367+09:00"
-                    },
-                    {
-                        "slug":  "aipax-proposal-80man",
-                        "time":  "2026-06-02T12:31:02.4553219+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-06-02T12:41:02.6371869+09:00"
-                    },
-                    {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-06-02T12:51:02.4190358+09:00"
-                    },
-                    {
                         "slug":  "testall-competitor-studyplus",
                         "time":  "2026-06-02T13:01:02.6424528+09:00"
                     },
@@ -935,6 +915,10 @@
                     {
                         "slug":  "school-tos",
                         "time":  "2026-06-06T12:11:02.1828277+09:00"
+                    },
+                    {
+                        "slug":  "school-note-parent-essay",
+                        "time":  "2026-06-06T12:56:02.2145703+09:00"
                     }
                 ]
 }
