@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-02T15:11:03.0040106+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-02T15:21:02.5427139+09:00"
-                    },
-                    {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-06-02T15:31:02.3340328+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-06-02T15:41:03.1163168+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-02T15:51:02.4761499+09:00"
-                    },
-                    {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-02T16:01:03.1410281+09:00"
                     },
@@ -879,6 +859,10 @@
                     {
                         "slug":  "school-x-content",
                         "time":  "2026-06-06T15:11:02.2332341+09:00"
+                    },
+                    {
+                        "slug":  "cross-stripe-setup",
+                        "time":  "2026-06-06T15:56:02.3191681+09:00"
                     }
                 ]
 }

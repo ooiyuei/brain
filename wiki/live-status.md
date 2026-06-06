@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-06 15:54:46
+updated: 2026-06-06 15:58:46
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**15:54:46** | 💤 **アイドル**
+**15:58:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -16,13 +16,13 @@ tags: [live, status, monitoring]
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 1285MB / 8151MB (**15.8%**)
+- 使用率: **31%**
+- VRAM: 3452MB / 8151MB (**42.4%**)
 
 ## 💾 RAM
 
-- 使用率: **43.8%** (14GB / 31.9GB)
-- ⚠️ 余裕あり（タスク投入したら効率UP）
+- 使用率: **68.2%** (21.8GB / 31.9GB)
+- ✅ 適正
 
 ## ⚙️ Workers
 
@@ -33,13 +33,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 1 |
 | ⚙️ processing | 0 |
 | ✅ 今日完了 | 41 |
 
+## 📥 待機タスク (上位5)
+
+- [high] [横断] Stripe決済設定 5事業ロードマップ
+
 ## 🎯 判定
 
-💤 **アイドル** — タスク無し。idle_filler.ps1 が次のタスクを補充予定
+⏳ **再開待ち** — inbox に 1 件、次のworker起動で処理開始
 
 ---
 
