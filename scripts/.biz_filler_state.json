@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-02T09:11:02.3166339+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-02T09:21:02.0766701+09:00"
-                    },
-                    {
-                        "slug":  "school-parent-lp",
-                        "time":  "2026-06-02T09:31:02.3426698+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-06-02T09:41:02.2539288+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-02T09:51:02.2923901+09:00"
-                    },
-                    {
                         "slug":  "school-note-parent-essay",
                         "time":  "2026-06-02T10:01:02.2835861+09:00"
                     },
@@ -991,6 +971,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-06T09:11:02.1699160+09:00"
+                    },
+                    {
+                        "slug":  "eemus-target-schools-20",
+                        "time":  "2026-06-06T09:56:02.1760598+09:00"
                     }
                 ]
 }
