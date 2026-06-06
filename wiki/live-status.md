@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-07 07:42:46
+updated: 2026-06-07 07:46:46
 tags: [live, status, monitoring]
 ---
 
 # 💤 Brain Live Status
 
-**07:42:46** | 💤 **アイドル**
+**07:46:46** | 💤 **アイドル**
 
 ## 🦙 Ollama
 
@@ -33,18 +33,19 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 2 |
+| 📥 inbox | 3 |
 | ⚙️ processing | 0 |
 | ✅ 今日完了 | 5 |
 
 ## 📥 待機タスク (上位5)
 
 - [high] [AIpaX] β顧客候補30社プロファイル
+- [high] AI 最新情報日次リサーチ
 - [normal] [BG-AINews] AI業界ニュース 2026-06-07
 
 ## 🎯 判定
 
-⏳ **再開待ち** — inbox に 2 件、次のworker起動で処理開始
+⏳ **再開待ち** — inbox に 3 件、次のworker起動で処理開始
 
 ---
 
