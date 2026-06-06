@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-07 08:06
+updated: 2026-06-07 08:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-07 08:06
+**最終更新**: 2026-06-07 08:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 33 Ready / 🔄 0 Running
 
@@ -27,7 +27,7 @@ tags: [dashboard, system]
 
 ## 🎯 今日のフォーカス
 
-- [ ] **夢AWARD骨子v3を書いて提出完了** — [[entities/eemus]] - **6/7締切・今日が物理的な最終日**。10日連続未着手。 - `brain/wiki/_pr...
+- [ ] **夢AWARD フォーム送信完了** — [[entities/eemus]] - **提出パッケージ完成済み**: `brain/00_YUEI/夢AWARD-提出パッケージ-即コピペ...
 
 → 詳細: [[_tasks/today]]
 
