@@ -83,3 +83,4 @@
 {"ts": "2026-06-07T05:01:26+09:00", "event": "Stop", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58", "cwd": "C:\\Users\\Owner\\business\\brain\\scripts", "host": "大井"}
 {"ts": "2026-06-07T05:07:50+09:00", "event": "Stop", "session_id": "85d38725-71ab-4550-a099-9ae5ee01ca58", "cwd": "C:\\Users\\Owner\\business\\brain\\scripts", "host": "大井"}
 {"ts": "2026-06-07T07:52:10+09:00", "event": "SessionStart", "session_id": "e646db9e-124d-4e98-8e0c-2c4f23a35b1b", "cwd": "C:\\Users\\Owner\\business", "host": "大井", "source": "startup"}
+{"ts": "2026-06-07T07:55:27+09:00", "event": "Stop", "session_id": "e646db9e-124d-4e98-8e0c-2c4f23a35b1b", "cwd": "C:\\Users\\Owner\\business", "host": "大井"}
