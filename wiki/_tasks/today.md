@@ -1,8 +1,8 @@
 ---
 type: task-today
-date: 2026-06-06
+date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-06 23:59
+updated: 2026-06-07 00:04
 ---
 
 # Today 2026-06-06
