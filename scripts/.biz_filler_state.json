@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-03T05:31:02.0736103+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-03T05:41:01.9526697+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-03T05:51:02.0069723+09:00"
-                    },
-                    {
-                        "slug":  "cross-investor-pitch",
-                        "time":  "2026-06-03T06:01:01.7572540+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-03T06:11:01.7736967+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-companies-20",
                         "time":  "2026-06-03T06:21:02.1213776+09:00"
                     },
@@ -543,6 +523,10 @@
                     {
                         "slug":  "aipax-contract-template",
                         "time":  "2026-06-07T05:26:02.4369584+09:00"
+                    },
+                    {
+                        "slug":  "aipax-prospect-30",
+                        "time":  "2026-06-07T06:11:02.5859131+09:00"
                     }
                 ]
 }
