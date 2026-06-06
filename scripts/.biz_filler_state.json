@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-02T10:41:02.2280968+09:00"
-                    },
-                    {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-06-02T10:51:02.0733806+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-06-02T11:01:02.3398632+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-02T11:11:02.3217823+09:00"
-                    },
-                    {
-                        "slug":  "school-onboarding",
-                        "time":  "2026-06-02T11:21:02.1452333+09:00"
-                    },
-                    {
                         "slug":  "testall-teacher-outreach",
                         "time":  "2026-06-02T11:31:02.2894419+09:00"
                     },
@@ -963,6 +943,10 @@
                     {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-06T10:41:02.1706860+09:00"
+                    },
+                    {
+                        "slug":  "aipax-pl-monthly",
+                        "time":  "2026-06-06T11:26:02.1824153+09:00"
                     }
                 ]
 }
