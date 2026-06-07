@@ -177,3 +177,6 @@
 {"ts": "2026-06-07T15:20:58+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\hot.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
 {"ts": "2026-06-07T15:25:35+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\_tmp_triage\\promote.txt", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
 {"ts": "2026-06-07T15:25:58+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\_tmp_triage\\junk.txt", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
+{"ts": "2026-06-07T15:33:30+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_inbox\\_promote_candidates\\_MANIFEST-2026-06-07.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
+{"ts": "2026-06-07T15:33:51+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\.claude\\projects\\C--Users-Owner-business\\memory\\project_kaiju_enfants_terribles.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
+{"ts": "2026-06-07T15:34:29+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\.claude\\projects\\C--Users-Owner-business\\memory\\MEMORY.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
