@@ -97,3 +97,4 @@
 {"ts": "2026-06-07T15:35:13+09:00", "event": "SessionStart", "session_id": "77cef69a-3c08-4afc-bb03-a011be71b465", "cwd": "C:\\Users\\Owner", "host": "大井", "source": "startup"}
 {"ts": "2026-06-07T15:35:50+09:00", "event": "Stop", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74", "cwd": "C:\\Users\\Owner\\business\\brain\\wiki\\_inbox", "host": "大井"}
 {"ts": "2026-06-07T15:40:02+09:00", "event": "Stop", "session_id": "5b6e3c21-1893-4bc3-81fe-198393461410", "cwd": "C:\\Users\\Owner\\business", "host": "大井"}
+{"ts": "2026-06-07T15:51:35+09:00", "event": "Stop", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74", "cwd": "C:\\Users\\Owner\\business\\brain", "host": "大井"}
