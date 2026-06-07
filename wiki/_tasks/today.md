@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 13:09
+updated: 2026-06-07 13:14
 ---
 
 # Today 2026-06-07
@@ -33,6 +33,7 @@ updated: 2026-06-07 13:09
 
 - [x] **夢AWARD提出パッケージ整備完了**（Claude/Opus 2026-06-05）— コピペ即提出可
 - [x] **OpenClaw 24h自走 根治オーバーホール** — qwen3.6削除・qwen3:8b統一・13件恒久修正（2026-06-03深夜）
+- [x] **昼レビュー 昇格1件・削除3件**（Claude 13:xx）— EEMUS台本昇格 / ハルシネ3件削除
 
 ## ⏳ OpenClaw処理中
 
