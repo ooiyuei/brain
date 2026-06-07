@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 16:09
+updated: 2026-06-07 16:14
 ---
 
 # Today 2026-06-07
@@ -39,11 +39,7 @@ updated: 2026-06-07 16:09
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 0分]** 夢AWARD 5分プレゼン台本 (60秒版を5分に拡張)
-- [ ] [待機] AIpaX 5社目クロージング 当日トークフロー台本
-- [ ] [待機] EEMUS 提携高校 初回コンタクトメール 3パターン
-- [ ] [待機] AIpaX β顧客 オンボーディング初週チェックリスト
-- [ ] [待機] Testall 親の不安あるある→Testall解決 対応表
+- [ ] **[処理中 5分]** Testall 親の不安あるある→Testall解決 対応表
 - [ ] [待機] AIpa Web 制作前ヒアリングシート (採用サイト)
 
 

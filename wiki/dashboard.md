@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-07 16:06
+updated: 2026-06-07 16:11
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-07 16:06
+**最終更新**: 2026-06-07 16:11
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 33 Ready / 🔄 0 Running
 
@@ -14,11 +14,19 @@ tags: [dashboard, system]
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
-| ⚙️ processing | 0 |
-| ✅ 今日完了 | 34 |
+| 📥 inbox | 3 |
+| ⚙️ processing | 1 |
+| ✅ 今日完了 | 36 |
 | ❌ failed | 18 |
-| 📝 wiki/_inbox 未レビュー | 2006 (うち24h+古い: 1994) |
+| 📝 wiki/_inbox 未レビュー | 2008 (うち24h+古い: 1994) |
+
+### 処理中
+- ⚙️ **[2 分]** EEMUS 提携高校 初回コンタクトメール 3パターン
+
+### Inbox 上位
+- [high] AIpaX β顧客 オンボーディング初週チェックリスト
+- [high] Testall 親の不安あるある→Testall解決 対応表
+- [high] AIpa Web 制作前ヒアリングシート (採用サイト)
 
 ## 🎯 今日のフォーカス
 
@@ -44,8 +52,10 @@ tags: [dashboard, system]
 
 ## 📝 wiki/_inbox/ 部署別未レビュー
 
-- _promote_candidates : 31 件
+- newbiz : 1 件
+- marketing : 1 件
 - ingest : 1 件
+- _promote_candidates : 31 件
 - research : 1 件
 
 ## 🔗 主要リンク
