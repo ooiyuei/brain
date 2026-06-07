@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-03T13:01:02.5067835+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-03T13:11:02.5600604+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-03T13:21:02.4738048+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-03T13:31:02.1880281+09:00"
-                    },
-                    {
                         "slug":  "eemus-target-schools-20",
                         "time":  "2026-06-03T13:51:01.9630771+09:00"
                     },
@@ -383,6 +367,10 @@
                     {
                         "slug":  "school-x-content",
                         "time":  "2026-06-07T12:56:02.4653450+09:00"
+                    },
+                    {
+                        "slug":  "aipax-lp-beta",
+                        "time":  "2026-06-07T13:41:02.4600448+09:00"
                     }
                 ]
 }
