@@ -13,13 +13,18 @@ $nowStamp = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
 
 if (-not (Test-Path $priFile)) { "$nowStamp - no today_priorities.json (Claude未生成)" | Add-Content $logPath -Encoding UTF8; exit 0 }
 $pri = Get-Content $priFile -Raw -Encoding UTF8 | ConvertFrom-Json
-# 鮮度: generated から48h以内なら有効 (夜通し日付をまたいでも優先順位を効かせる)
-$stale = $true
-try { $stale = (([DateTime]$pri.generated) -lt (Get-Date).AddHours(-48)) } catch { $stale = $true }
+# freshness: <48h fresh / 48-168h stale=last-known-good (dedup+consolidation clean dups) / >168h abandoned=stop.
+# 2026-06-07 PDCA cycle2: stale was a SILENT skip -> idle GPU when Claude sessions died. Now graceful-degrade.
+$ageH = 9999
+try { $ageH = ((Get-Date) - [DateTime]$pri.generated).TotalHours } catch { $ageH = 9999 }
+$stale = $ageH -gt 48
+$abandoned = $ageH -gt 168
 
-# openclaw_draft を dispatch (dispatch側のdedupガードが12h重複を防ぐ)。staleなら投入せずClaude再生成を待つ。
 $dispatched = 0
-if (-not $stale) {
+if ($abandoned) {
+    "$nowStamp - WARN priorities abandoned (ageH=$([int]$ageH) >168h). dispatch stopped. Claude /loop must regenerate today_priorities.json" | Add-Content $logPath -Encoding UTF8
+} else {
+    if ($stale) { "$nowStamp - WARN priorities stale (ageH=$([int]$ageH) >48h). dispatching last-known-good (dedup+consolidation handle dups). regenerate recommended" | Add-Content $logPath -Encoding UTF8 }
     foreach ($t in $pri.openclaw_draft) {
         $stamp = (Get-Date).ToString("yyyyMMdd-HHmm")
         $sid = [guid]::NewGuid().ToString().Substring(0,4)
@@ -28,8 +33,6 @@ if (-not $stale) {
         & $dispatcher -Department $t.department -Title $t.title -Prompt $t.prompt -Model "qwen3:8b" -OutputPath $outPath -Priority "high" 2>&1 | Out-Null
         $dispatched++
     }
-} else {
-    "$nowStamp - today_priorities が古い(generated=$($pri.generated))。openclaw投入skip・Claude再生成待ち" | Add-Content $logPath -Encoding UTF8
 }
 
 # human_only を TODAY.md に昇格 (機械がドラフト量産で『仕事した感』を出して人間のボトルネックを誤魔化すのを止める)
