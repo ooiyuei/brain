@@ -196,3 +196,4 @@
 {"ts": "2026-06-07T16:25:42+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_inbox\\_polished\\biz-testall-user-personas-5-20260607-1556-65ff.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
 {"ts": "2026-06-07T16:25:43+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_inbox\\_polished\\pri-夢award-5分プレゼン台本--60秒版を5分に拡張--20260607-1609-bcfc.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
 {"ts": "2026-06-07T16:25:50+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\wiki\\_inbox\\_polished\\pri-aipax-5社目クロージング-当日トークフロー台本-20260607-1609-965b.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
+{"ts": "2026-06-07T17:46:23+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\consolidate_inbox.ps1", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
