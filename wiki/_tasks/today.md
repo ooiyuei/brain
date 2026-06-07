@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 16:14
+updated: 2026-06-07 16:19
 ---
 
 # Today 2026-06-07
@@ -39,8 +39,7 @@ updated: 2026-06-07 16:14
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 5分]** Testall 親の不安あるある→Testall解決 対応表
-- [ ] [待機] AIpa Web 制作前ヒアリングシート (採用サイト)
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）

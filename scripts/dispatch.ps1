@@ -69,7 +69,7 @@ $OutputEncoding = [System.Text.Encoding]::UTF8
 $brainRoot = "C:\Users\Owner\business\brain"
 $inbox = Join-Path $brainRoot "queue\inbox"
 $templatesDir = Join-Path $brainRoot "scripts\templates"
-$prefixPath = Join-Path $brainRoot "scripts\prompt-prefix-v3.md"  # 2026-06-03: v3(AI臭禁止表・スコープ厳守)へ切替。entity注入は$Promptのみ走査なのでv3のwikilink一覧は肥大しない
+$prefixPath = Join-Path $brainRoot "scripts\prompt-prefix-v4.md"  # 2026-06-07: v4(60点契約・反復禁止・自己チェック・速度より精度)へ切替。v3はbackup。entity注入は$Promptのみ走査なので肥大しない
 
 # 共通プレフィックス読み込み（日付プレースホルダー置換）
 $prefix = ""
