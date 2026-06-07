@@ -1,26 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-03T11:31:02.1463220+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-03T11:41:02.0774718+09:00"
-                    },
-                    {
-                        "slug":  "aipax-x-thread-tips",
-                        "time":  "2026-06-03T11:51:02.4212822+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-03T12:01:02.1164522+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-03T12:11:02.1361714+09:00"
-                    },
-                    {
                         "slug":  "eemus-content-stories",
                         "time":  "2026-06-03T12:21:02.3568382+09:00"
                     },
@@ -411,6 +391,10 @@
                     {
                         "slug":  "cross-stripe-setup",
                         "time":  "2026-06-07T11:26:02.4499094+09:00"
+                    },
+                    {
+                        "slug":  "aipax-x-thread-tips",
+                        "time":  "2026-06-07T12:11:02.4439687+09:00"
                     }
                 ]
 }
