@@ -1,18 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-schools-20",
-                        "time":  "2026-06-03T13:51:01.9630771+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-03T14:01:02.0703565+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-03T14:11:01.9400427+09:00"
-                    },
-                    {
                         "slug":  "cross-portfolio-prioritize",
                         "time":  "2026-06-03T15:11:01.9447555+09:00"
                     },
@@ -371,6 +359,10 @@
                     {
                         "slug":  "aipax-lp-beta",
                         "time":  "2026-06-07T13:41:02.4600448+09:00"
+                    },
+                    {
+                        "slug":  "aipax-seo-chusho-ai",
+                        "time":  "2026-06-07T14:26:02.5517679+09:00"
                     }
                 ]
 }
