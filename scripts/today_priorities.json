@@ -1,26 +1,24 @@
 {
-  "generated": "2026-06-07T16:05:00",
-  "generated_by": "Claude(Opus4.8) /loop 自走",
-  "note": "唯一の指令源。priority_filler.ps1 がこれだけを読んでdispatchする。48h以内で有効。Claudeが/loop毎ティックで再生成しfreshに保つ(セッション死亡対策)。qwen3:8bは実在企業名/数字を捏造するためformat/summarize/expandのみ。実データ要はclaude_research。",
+  "generated": "2026-06-07T16:40:00",
+  "generated_by": "Claude(Opus4.8) /loop 自走 wave2",
+  "note": "唯一の指令源。priority_filler.ps1 がこれだけ読んでdispatch。48h以内有効。Claudeが/loop毎ティックでfresh維持(セッション死亡対策)。qwen3:8bはformat/summarize/expandのみ(実在名/数字は捏造するのでclaude_research)。各wave後Claudeがbatch triageで価値ゲート。",
   "deadline_watch": [
     { "title": "夢AWARD応募締切", "date": "2026-06-07", "actor": "human" },
     { "title": "デジタル化AI補助金2次締切", "date": "2026-06-15", "actor": "human" },
     { "title": "Anthropicサブスク課金分離", "date": "2026-06-15", "actor": "human" }
   ],
   "human_only": [
-    { "rank": 1, "title": "夢AWARD フォーム提出 (事業欄は記入済・個人情報+原体験1〜2文+送信のみ・15分)", "department": "newbiz", "why": "本日6/7必着・お前しか出せない・11日連続持ち越し。フォーム https://ws.formzu.net/fgen/S49170529/" },
-    { "rank": 2, "title": "AIpaX 5社目クロージング接触 (磨き済み想定問答+アプローチメールあり・連絡1本)", "department": "marketing", "why": "月収80万ギャップの最速手" }
+    { "rank": 1, "title": "夢AWARD フォーム提出 (事業欄記入済・個人情報+原体験1〜2文+送信のみ・15分)", "department": "newbiz", "why": "本日6/7必着・お前しか出せない。フォーム https://ws.formzu.net/fgen/S49170529/" },
+    { "rank": 2, "title": "AIpaX 5社目クロージング接触 (想定問答+メール+本日生成の当日トーク台本あり・連絡1本)", "department": "marketing", "why": "月収80万ギャップの最速手" }
   ],
   "openclaw_draft": [
-    { "title": "夢AWARD 5分プレゼン台本 (60秒版を5分に拡張)", "department": "newbiz", "class": "expand", "prompt": "[[entities/eemus]] の夢AWARD 60秒ピッチを5分プレゼン動画台本に拡張。構成: 掴み(原体験)→社会課題(静岡の進学71%/離職38.4%/人手不足)→EEMUSの解決(見学/座談会/適性/マッチング)→なぜ俺か→ビジネスモデル→夢。各セクションに[話す内容]と[スライド指示]。大井一人称。実データのみ使用し、無い数字は《要記入》。捏造禁止・反復禁止。" },
-    { "title": "AIpaX 5社目クロージング 当日トークフロー台本", "department": "marketing", "class": "format", "prompt": "[[entities/aipax]] の5社目商談クロージング用の会話フロー台本。アイスブレイク→現状ヒアリング→課題の言語化→AIpaX提案(通常価格:初期100-150万/月10-15万)→想定反論3つへの返し→次アクション。大井一人称・口語。架空の実績数字は書かず《要記入》。返金等の約束を創作しない。反復禁止。" },
-    { "title": "EEMUS 提携高校 初回コンタクトメール 3パターン", "department": "newbiz", "class": "format", "prompt": "[[entities/eemus]] が静岡県内の高校(進路指導部)へ送る初回コンタクトメール3パターン(私立進学校/公立/工業高)。各: 件名+本文350字+結びの依頼(15分の面談)。大井=静岡出身の現役高校生起業家を自然に。学校名/連絡先は《要記入》。捏造・反復禁止。" },
-    { "title": "AIpaX β顧客 オンボーディング初週チェックリスト", "department": "newbiz", "class": "format", "prompt": "[[entities/aipax]] β顧客の契約直後〜1週間のオンボーディング・チェックリスト。Day0キックオフ/Day1-3初期設定/Day4-7初成果。各項目に[担当][目的][完了条件]。AIpaX仕様の範囲内のみ。架空ツール名・未確定機能を書かない。" },
-    { "title": "Testall 親の不安あるある→Testall解決 対応表", "department": "marketing", "class": "format", "prompt": "[[entities/testall]] について、受験生の親が抱く不安『あるある』10個と、それぞれにTestallがどう応えるかの対応表。各: 親の不安(セリフ調)→Testallの解決(具体機能)→一言FAQ。共感重視・大井キャラ。Testall実機能の範囲内・捏造禁止・10個とも別観点。" },
-    { "title": "AIpa Web 制作前ヒアリングシート (採用サイト)", "department": "marketing", "class": "format", "prompt": "[[entities/aipa-web]] が採用サイト制作の受注前に使うヒアリングシート。会社概要/採用課題/欲しい人材/現状の採用手段/予算感/公開希望時期/掲載素材の有無。質問形式・記入欄付き。汎用テンプレでなくAIpa Web(月10-15万・AI応募者対応付き)前提。" }
+    { "title": "Testall 受験あるある X投稿 7本 (前回と別ネタ・各140字)", "department": "marketing", "class": "format", "prompt": "[[entities/testall]] の『受験あるある』X投稿7本(各140字以内)。共感×Testall訴求。大井キャラ(体言止め・「〜じゃない?」)。7本とも別の切り口(模試/夜の勉強/親/スマホ誘惑/E判定/過去問/直前期)。捏造禁止・同じ文の反復禁止。" },
+    { "title": "AIpaX 顧客向け 月次成果レポート フォーマット", "department": "marketing", "class": "format", "prompt": "[[entities/aipax]] β顧客に毎月送る成果レポートの記入式フォーマット。今月の利用状況/解決した業務/削減時間(記入欄)/次月の提案/質問受付。汎用でなくAIpaX(中小のAI保存庫)前提。架空数字は書かず記入欄《 》。反復禁止。" },
+    { "title": "EEMUS 企業向け『参加メリット』1枚説明文", "department": "newbiz", "class": "format", "prompt": "[[entities/eemus]] の見学・座談会を受け入れる地元企業向けに、参加メリットを説明する1枚文書の文面。採用母集団形成/自社認知/低負担(標準は無料)/地域貢献。企業の人事・経営者向け・大井一人称。EEMUS実内容の範囲内・捏造禁止。" },
+    { "title": "AIpa Web 発注前FAQ 8問 (採用サイト制作)", "department": "marketing", "class": "format", "prompt": "[[entities/aipa-web]] の採用サイト制作を検討する企業の発注前FAQ8問+回答。料金(月10-15万)/制作期間/AI応募者対応とは/既存サイトとの違い/解約/素材準備/効果測定/サポート。各120字。仕様外の約束を創作しない・8問とも別観点。" }
   ],
   "claude_research": [
-    { "title": "AIpa Web 静岡中堅企業 実在10社リスト (要WebSearch・qwenに架空生成させない)", "department": "research", "why": "qwenは実在企業名を捏造するためClaude直のWebSearchで。" },
+    { "title": "AIpa Web 静岡中堅企業 実在10社リスト (要WebSearch)", "department": "research", "why": "qwenは実在企業名を捏造するためClaude直のWebSearchで。" },
     { "title": "夢AWARD7 二次選考(動画)の要件・過去受賞傾向 (要WebSearch)", "department": "research", "why": "一次通過後すぐ動画準備に入れるよう要件確認。" }
   ]
 }
