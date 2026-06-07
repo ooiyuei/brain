@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 10:04
+updated: 2026-06-07 10:09
 ---
 
 # Today 2026-06-07
@@ -38,11 +38,7 @@ updated: 2026-06-07 10:04
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 94分]** [Monitor] ビジコン締切 - 2026-06-07
-- [ ] [待機] [Monitor] 朝の問い - 2026-06-07
-- [ ] [待機] [BG-AINews] AI業界ニュース 2026-06-07
-- [ ] [待機] [BG-Entities] aipax-school 更新提案
-- [ ] [待機] [BG-Entities] agents-of-flag 更新提案
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
