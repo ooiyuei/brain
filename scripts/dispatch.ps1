@@ -68,6 +68,9 @@ $OutputEncoding = [System.Text.Encoding]::UTF8
 
 $brainRoot = "C:\Users\Owner\business\brain"
 $inbox = Join-Path $brainRoot "queue\inbox"
+
+# Global pause gate (2026-06-07): if queue\.paused exists, NO producer enqueues. Single-chokepoint hard stop.
+if (Test-Path (Join-Path $brainRoot 'queue\.paused')) { Write-Host '[paused] dispatch halted (.paused flag present)'; return }
 $templatesDir = Join-Path $brainRoot "scripts\templates"
 $prefixPath = Join-Path $brainRoot "scripts\prompt-prefix-v4.md"  # 2026-06-07: v4(60点契約・反復禁止・自己チェック・速度より精度)へ切替。v3はbackup。entity注入は$Promptのみ走査なので肥大しない
 

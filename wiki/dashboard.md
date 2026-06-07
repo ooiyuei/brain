@@ -1,27 +1,33 @@
 ---
 type: dashboard
-updated: 2026-06-07 20:26
+updated: 2026-06-07 20:31
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-07 20:26
+**最終更新**: 2026-06-07 20:31
 **Ollama**: 🟢 稼働中 (6 モデル)
-**スケジューラ**: 🟢 34 Ready / 🔄 0 Running
+**スケジューラ**: 🟢 35 Ready / 🔄 0 Running
 
 ## ⚡ Queue 状況
 
 | 項目 | 件数 |
 |---|---|
-| 📥 inbox | 0 |
+| 📥 inbox | 4 |
 | ⚙️ processing | 1 |
 | ✅ 今日完了 | 49 |
 | ❌ failed | 19 |
-| 📝 wiki/_inbox 未レビュー | 2036 (うち24h+古い: 1994) |
+| 📝 wiki/_inbox 未レビュー | 2037 (うち24h+古い: 1994) |
 
 ### 処理中
-- ⚙️ **[0 分]** [EEMUS] ピッチデック10枚構成
+- ⚙️ **[5 分]** [EEMUS] ピッチデック10枚構成
+
+### Inbox 上位
+- [late] Testall SEO記事『塾なし 受験 どう乗り切る』本文
+- [late] Testall 親向け X投稿 5本(不安系)
+- [late] Testall 競合 atama+ 比較メモ
+- [late] AIpaX 建設業向け 導入提案文
 
 ## 🎯 今日のフォーカス
 
@@ -54,6 +60,7 @@ tags: [dashboard, system]
 - newbiz : 4 件
 - ingest : 1 件
 - corp : 1 件
+- misc : 1 件
 
 ## 🔗 主要リンク
 

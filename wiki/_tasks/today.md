@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 20:29
+updated: 2026-06-07 20:34
 ---
 
 # Today 2026-06-07
@@ -39,7 +39,10 @@ updated: 2026-06-07 20:29
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 3分]** [EEMUS] ピッチデック10枚構成
+- [ ] **[処理中 4分]** Testall SEO記事『塾なし 受験 どう乗り切る』本文
+- [ ] **[処理中 4分]** Testall 親向け X投稿 5本(不安系)
+- [ ] [待機] Testall 競合 atama+ 比較メモ
+- [ ] [待機] AIpaX 建設業向け 導入提案文
 
 
 ## 📅 今日の予定（Calendar）

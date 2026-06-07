@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-07 20:30:47
+updated: 2026-06-07 20:34:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:30:47** | 🔥 **稼働中**
+**20:34:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,17 +15,17 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 4.8GB | 残27分 |
+| qwen3:8b | 5.6GB | 4.8GB | 残28分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
 - 使用率: **100%**
-- VRAM: 7786MB / 8151MB (**95.5%**)
+- VRAM: 7774MB / 8151MB (**95.4%**)
 
 ## 💾 RAM
 
-- 使用率: **83.5%** (26.7GB / 31.9GB)
+- 使用率: **83%** (26.5GB / 31.9GB)
 - ✅ 適正
 
 ## ⚙️ Workers
@@ -37,18 +37,17 @@ tags: [live, status, monitoring]
 
 | 状態 | 件数 |
 |---|---|
-| 📥 inbox | 4 |
-| ⚙️ processing | 1 |
-| ✅ 今日完了 | 49 |
+| 📥 inbox | 2 |
+| ⚙️ processing | 2 |
+| ✅ 今日完了 | 50 |
 
 ## 🔄 処理中タスク
 
-- ⚡ [288 秒経過] **[EEMUS] ピッチデック10枚構成**
+- ⚡ [276 秒経過] **Testall SEO記事『塾なし 受験 どう乗り切る』本文**
+- ⚡ [276 秒経過] **Testall 親向け X投稿 5本(不安系)**
 
 ## 📥 待機タスク (上位5)
 
-- [late] Testall SEO記事『塾なし 受験 どう乗り切る』本文
-- [late] Testall 親向け X投稿 5本(不安系)
 - [late] Testall 競合 atama+ 比較メモ
 - [late] AIpaX 建設業向け 導入提案文
 
