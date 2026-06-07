@@ -1,0 +1,23 @@
+{
+  "note": "継続供給バンク。queue_keeper.ps1 がqueue低下時にここからローテーションで投入。各タスクは『距離がある=互いに重複しない実タスク』。qwen-safe(entityから書く/format・expand。実在企業名リストは含めない=それはclaude_research)。dedup12h+guardが安全弁。",
+  "tasks": [
+    { "title": "Testall SEO記事『塾なし 受験 どう乗り切る』本文", "department": "marketing", "prompt": "[[entities/testall]] 向けSEO記事『塾なし 受験 どう乗り切る』本文(1500字)。読者=塾に通えない受験生/親。導入(共感)→独学の落とし穴→Testallの解決→CTA。大井キャラの誠実トーン。捏造数字禁止・不明は《要記入》。" },
+    { "title": "Testall 親向け X投稿 5本(不安系)", "department": "marketing", "prompt": "[[entities/testall]] 親向けX投稿5本(各140字)。受験生の親の不安に共感→Testallで何が変わるか。5本別切り口(成績/お金/不登校気味/部活両立/直前期)。体言止め。捏造禁止。" },
+    { "title": "Testall 競合 atama+ 比較メモ", "department": "research", "prompt": "[[entities/testall]] と atama+ の比較メモ。観点=対象/価格帯/強み/弱み/Testallの差別化。atama+の事実が不確かな点は『[要確認]』。表形式。捏造禁止。" },
+    { "title": "AIpaX 建設業向け 導入提案文", "department": "marketing", "prompt": "[[entities/aipax]] を建設業の中小企業に提案する文(600字)。建設業の業務課題(見積/書類/職人不足の事務負担)→AIpaX保存庫コアの解決→価格(初期100-150万/月10-15万)。大井一人称。架空実績は《要記入》。" },
+    { "title": "AIpaX 製造業向け 導入提案文", "department": "marketing", "prompt": "[[entities/aipax]] を製造業の中小企業に提案する文(600字)。製造業の課題(品質書類/手順書/属人化)→AIpaXの解決→価格。建設業版と内容を被らせない。大井一人称。捏造禁止・不明は《要記入》。" },
+    { "title": "AIpaX SEO『中小企業 AI 何から始める』本文", "department": "marketing", "prompt": "[[entities/aipax]] 向けSEO『中小企業 AI 何から始める』本文(1500字)。経営者の『で、何に使えば?』に答える構成→AIpaXの位置づけ→CTA。AI臭禁止・読者目線。" },
+    { "title": "AIpaX X thread AI活用 5連投", "department": "marketing", "prompt": "[[entities/aipax]] のX thread(5連投・各140字)。中小企業のAI活用の誤解→正しい一歩→AIpaX。大井キャラ。連投で1ストーリー。捏造禁止。" },
+    { "title": "AIpaX 既存顧客 アップセル案内文", "department": "marketing", "prompt": "[[entities/aipax]] 既存β顧客へのアップセル案内文(400字)。今の利用→次に解ける業務→追加価値。押し売り禁止・5原則の設計思想で信頼訴求。架空数字禁止。" },
+    { "title": "AIpa Web 建設業向け 採用LP営業文", "department": "marketing", "prompt": "[[entities/aipa-web]] を建設業に売る営業文(400字)。採用ページの『もったいない』指摘→AIpa Web(3プラン/モニター初期15万)→CTA。大井一人称・口語。捏造禁止・価格はentity準拠。" },
+    { "title": "AIpa Web 介護業向け 採用LP営業文", "department": "marketing", "prompt": "[[entities/aipa-web]] を介護事業者に売る営業文(400字)。介護の採用難→現場の魅力を伝えるLP→AIpa Web。建設業版と被らせない。大井一人称。捏造禁止。" },
+    { "title": "AIpa Web SEO『採用サイト 制作 費用』本文", "department": "marketing", "prompt": "[[entities/aipa-web]] 向けSEO『採用サイト 制作 費用』本文(1200字)。相場→何で差が出る→AIpa Webの3プラン→CTA。価格はentity準拠・捏造禁止。" },
+    { "title": "EEMUS 高校生向け 説明文", "department": "newbiz", "prompt": "[[entities/eemus]] を高校生本人に説明する文(500字)。『ここには何もない』への共感→見学/座談会で何が見える→参加の気軽さ。高校生に刺さる言葉。捏造禁止。" },
+    { "title": "EEMUS 保護者向け FAQ 8問", "department": "newbiz", "prompt": "[[entities/eemus]] の保護者向けFAQ8問+回答(各120字)。安全/費用/進路への影響/参加方法 等。EEMUS実内容の範囲内・8問別観点・捏造禁止。" },
+    { "title": "AIpaX school 体験会 告知文", "department": "marketing", "prompt": "[[entities/aipax-school]] 体験会の告知文(親向け400字)。AIを使える子に育つ体験→第1期5名限定→申込CTA。価格/開講は《要記入》。AI臭禁止。" },
+    { "title": "AIpaX school カリキュラム紹介(親向け)", "department": "marketing", "prompt": "[[entities/aipax-school]] のカリキュラムを親向けに紹介(600字)。5モジュールで何ができるようになるか→成果物(動くアプリ)→月3万の価値。entity準拠・捏造禁止・料金矛盾は《要記入》。" },
+    { "title": "Gymee コンセプト1枚説明", "department": "newbiz", "prompt": "[[entities/gymee]] のコンセプトを1枚で説明(500字)。誰の何を解決→どう違う→次の一歩。entityにある事実のみ・不明は《要記入》・捏造禁止。" },
+    { "title": "note記事『高校生起業のリアル』骨子", "department": "marketing", "prompt": "大井の『高校生起業のリアル』note記事の骨子+導入300字。構成: 自分語り(恥)→社会観察→事業仮説→読者への問い。[[entities/ooi-yuei]]の事実のみ・トラウマ詳細は書かない・誇張禁止。" },
+    { "title": "AIpaX 導入1ヶ月の成果の語り方テンプレ", "department": "marketing", "prompt": "[[entities/aipax]] 導入1ヶ月後の成果を顧客が社内共有するときの語り方テンプレ(400字)。before/after構造・数字は記入欄《 》。捏造数字禁止。" }
+  ]
+}

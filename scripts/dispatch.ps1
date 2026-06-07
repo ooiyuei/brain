@@ -196,7 +196,7 @@ if ($bpInbox -ge 150 -and $Priority -ne 'super') {
 
 # Cost Guard (PDCA cycle6 / GitHub-harvest pattern A): daily enqueue cap across ALL producers -> floods structurally impossible.
 # super bypasses. tune $guardMax. counter file rolls by date. complements backpressure(stock) + dedup(12h) with a rate ceiling.
-$guardMax = 60
+$guardMax = 120
 $guardFile = Join-Path $brainRoot ("scripts\.guard_" + (Get-Date).ToString('yyyyMMdd') + ".txt")
 $guardCount = 0
 if (Test-Path $guardFile) { try { $guardCount = [int]((Get-Content $guardFile -Raw).Trim()) } catch { $guardCount = 0 } }
