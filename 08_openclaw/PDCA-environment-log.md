@@ -1,0 +1,36 @@
+---
+type: pdca-log
+domain: openclaw-environment
+managed_by: Claude(Opus) /loop 自走PDCA
+started: 2026-06-07
+purpose: OpenClaw環境を「ちゃんと動く」まで回し続けるPDCAの記録。毎ループtick=1サイクル。
+---
+
+# OpenClaw 環境 PDCA ログ
+
+> 大井の指示(2026-06-07): 「オープンクローの環境構築をループして改善し続けて。PDCA回して、brainも参考に、ちゃんと動くように」
+> 各ループtickで1サイクル。Plan→Do→Check→Act。brain(architecture/self-improvement-loop/6-03失敗doc)を参照。
+
+## 確定した制約・方針 (前提)
+- **GPUは8GB一択**: qwen3:8b(6GB/100%GPU)が上限。**14b=遅すぎ(1文5分)・qwen3.6=23GBでOOM(6/3削除・二度と入れない)**。検証済み。
+- **価値レバーはモデルでなくOpus polish**: qwen=60点の骨 → Opus=90点。polish workflowで52→90実証(価格ミス検出含む)。
+- **PS5.1スクリプトはASCII or UTF-8-BOM必須**: Writeツールはno-BOM→PS5.1がShift-JIS誤読で文字化け→parse error。新規.ps1はASCIIで書く(処理対象の日本語ファイル名は実行時OK)。
+- **flood/idle振動が根本病**: filler全開→junk洪水(398件) / filler停止→GPUアイドル。間に「value-gated定常生成+自動consolidation」が無い。
+
+## ロードマップ (次サイクル候補)
+1. ✅ cycle1: 機械的consolidation (dedup+stub隔離)
+2. ⬜ cycle2: priority_filler durability — staleで沈黙→last-known-good/standing-bankで継続(セッション死でもGPU給餌)
+3. ⬜ cycle3: harvest.ps1 ゲート化 (intake時にdedup/salience) or dream→today_priorities freshness seed
+4. ⬜ cycle4: 自動triage — 定期triage workflow(Opus判断でpromote/archive/junk)を回す
+5. ⬜ cycle5: fidelity harness / GitHub harvest (self-improvement-loop docより)
+
+---
+
+## サイクル記録
+
+### Cycle 1 — 2026-06-07 17:48 — 機械的consolidation
+- **Plan**: dream_consolidation.ps1は要約のみで「育たない」+ _inboxが溜まる(398件事故)。機械的にできる整理(重複退避・stub隔離)を自動化する。LLM判断不要部分をスケジューラ単独化=Claude不要の24/7。
+- **Do**: `scripts/consolidate_inbox.ps1` 新規。(1)日付違い重複クラスタ→最新1本残し旧版を`_inbox/_archive/{dept}`へ (2)極小(<330B)/errstub→`_archive/_junk`へ。全てmove(非破壊)。`-Apply`無し=dry-run。ASCII化でPS5.1文字化け回避。`schtasks /Create BrainConsolidateInbox /SC HOURLY -Apply` 登録。
+- **Check**: dry-run clean(exit0)。ClusterKey regex検証=日付違い3ペア全て同一キーに収束(biz-aipax-lp-beta / money-aipax-既存4社-アップセル提案 / refresh-ecokan)。タスク登録成功・next run 18:48。現_inbox12件は全て別タスク→dup=0(正)。
+- **Act/次**: 18:48の初回-Apply実行結果を次tickで確認(CHECK)。次は cycle2 = priority_filler durability(stale沈黙の根治)。
+- **限界(既知)**: クラスタキーにproducer接頭辞(pri-/money-/biz-)を含むため、別producerの同内容dupは未統合(Opus triageで拾う)。
