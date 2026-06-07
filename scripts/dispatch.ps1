@@ -194,6 +194,17 @@ if ($bpInbox -ge 150 -and $Priority -ne 'super') {
     return
 }
 
+# Cost Guard (PDCA cycle6 / GitHub-harvest pattern A): daily enqueue cap across ALL producers -> floods structurally impossible.
+# super bypasses. tune $guardMax. counter file rolls by date. complements backpressure(stock) + dedup(12h) with a rate ceiling.
+$guardMax = 60
+$guardFile = Join-Path $brainRoot ("scripts\.guard_" + (Get-Date).ToString('yyyyMMdd') + ".txt")
+$guardCount = 0
+if (Test-Path $guardFile) { try { $guardCount = [int]((Get-Content $guardFile -Raw).Trim()) } catch { $guardCount = 0 } }
+if ($guardCount -ge $guardMax -and $Priority -ne 'super') {
+    Write-Host "[cost-guard] daily enqueue cap $guardMax reached (count=$guardCount) -> skip (priority=$Priority). super bypass."
+    return
+}
+
 # 2026-06-04 タイトル重複ガード: 同一タイトルが直近12h以内に投入済みなら skip (super除く)。
 # 多数のfiller(money_loop/shincoder/recurrent等)が同じタスクを再生成し夜間437本中73%が重複コピーになっていた問題を一元解消。
 $dedupFile = Join-Path $brainRoot 'scripts\.dispatch_dedup.json'
@@ -235,6 +246,9 @@ $job = [ordered]@{
 $json = $job | ConvertTo-Json -Depth 5
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 [System.IO.File]::WriteAllText($taskPath, $json, $utf8)
+
+# Cost Guard increment (cycle6): count only ACTUAL enqueues (deduped/backpressured/capped returns never reach here)
+try { [System.IO.File]::WriteAllText($guardFile, ([string]($guardCount + 1))) } catch {}
 
 Write-Host "[$Department/$Priority] $Title → $taskId.md"
 Write-Host "  inbox: $taskPath"
