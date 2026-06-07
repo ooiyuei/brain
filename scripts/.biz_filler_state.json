@@ -1,22 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-03T12:21:02.3568382+09:00"
-                    },
-                    {
-                        "slug":  "school-faq-parent-30",
-                        "time":  "2026-06-03T12:31:02.7801238+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-03T12:41:02.5036911+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-03T12:51:02.1589014+09:00"
-                    },
-                    {
                         "slug":  "eemus-dream-award-story",
                         "time":  "2026-06-03T13:01:02.5067835+09:00"
                     },
@@ -395,6 +379,10 @@
                     {
                         "slug":  "aipax-x-thread-tips",
                         "time":  "2026-06-07T12:11:02.4439687+09:00"
+                    },
+                    {
+                        "slug":  "school-x-content",
+                        "time":  "2026-06-07T12:56:02.4653450+09:00"
                     }
                 ]
 }
