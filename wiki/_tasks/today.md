@@ -2,7 +2,7 @@
 type: task-today
 date: 2026-06-07
 tags: [tasks, today]
-updated: 2026-06-07 16:24
+updated: 2026-06-07 16:29
 ---
 
 # Today 2026-06-07
@@ -39,10 +39,7 @@ updated: 2026-06-07 16:24
 
 > task_board.ps1 が queue/inbox + processing の状況を自動反映
 
-- [ ] **[処理中 0分]** Testall 受験あるある X投稿 7本 (前回と別ネタ・各140字)
-- [ ] [待機] AIpaX 顧客向け 月次成果レポート フォーマット
-- [ ] [待機] EEMUS 企業向け『参加メリット』1枚説明文
-- [ ] [待機] AIpa Web 発注前FAQ 8問 (採用サイト制作)
+- (現在OpenClaw処理待ち・処理中タスクなし)
 
 
 ## 📅 今日の予定（Calendar）
