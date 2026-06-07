@@ -1,12 +1,12 @@
 ---
 type: dashboard
-updated: 2026-06-07 13:46
+updated: 2026-06-07 13:51
 tags: [dashboard, system]
 ---
 
 # Brain Dashboard
 
-**最終更新**: 2026-06-07 13:46
+**最終更新**: 2026-06-07 13:51
 **Ollama**: 🟢 稼働中 (4 モデル)
 **スケジューラ**: 🟢 33 Ready / 🔄 0 Running
 
