@@ -170,6 +170,8 @@ managed_by: Claude (must update every session)
 | 全体地図 | [[index]] |
 | 静的事業スナップショット | [[dashboards/business-snapshot]] |
 | 大井プロファイル統合 | [[meta/ooi-profile-index]] |
+| 大井クローン (最新マスター) | [[meta/ooi-clone-spec-v5]] ⭐ 恐るべき子供たち計画 v5 (学術・生成・テスト可能) |
+| 脳アーキ/自己改善ループ | [[09_knowledge/frameworks/2026-06-07-brain-cognitive-architecture]] / [[09_knowledge/frameworks/2026-06-07-self-improvement-loop]] |
 | OpenClaw 稼働 | [[dashboards/openclaw-activity]] |
 | 部署フロー | [[_routines/department-flow]] |
 | 3本柱戦略 | [[meta/three-pillars]] |

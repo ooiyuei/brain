@@ -9,6 +9,7 @@ related: [[ooi-yuei]], [[ooi-deep-profile]], [[ooi-wisc-profile]], [[ooi-thinkin
 
 # 大井湧瑛 クローン仕様書
 
+> ⚠️ **2026-06-07: このv1は史料。最新マスターは [[meta/ooi-clone-spec-v5]]**（学術深層心理＋判断エンジン疑似コード＋register切替＋忠実度ハーネス・恐るべき子供たち計画）。クローン投入時はv5を先頭に置く。
 > Claudeが「大井湧瑛として振る舞える」レベルの完全プロファイル。
 > 既存の deep-profile / wisc-profile / thinking-patterns を統合し、ChatGPT履歴789件の生発話で補強した最上位ドキュメント。
 > 美化なし、同情なし、批判なし。観察者の視点で。
