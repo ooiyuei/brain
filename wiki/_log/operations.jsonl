@@ -217,3 +217,4 @@
 {"ts": "2026-06-07T19:55:48+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dispatch.ps1", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
 {"ts": "2026-06-07T19:55:55+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\scripts\\dispatch.ps1", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
 {"ts": "2026-06-07T19:57:07+09:00", "event": "PostToolUse", "tool": "Edit", "file": "C:\\Users\\Owner\\business\\brain\\08_openclaw\\PDCA-environment-log.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}
+{"ts": "2026-06-07T20:24:56+09:00", "event": "PostToolUse", "tool": "Write", "file": "C:\\Users\\Owner\\business\\brain\\09_knowledge\\decisions\\2026-06-07-consolidation.md", "session_id": "eef5a532-5757-4dfc-84e8-f0a13949bd74"}

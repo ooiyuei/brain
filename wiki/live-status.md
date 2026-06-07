@@ -1,12 +1,12 @@
 ---
 type: live-status
-updated: 2026-06-07 20:22:46
+updated: 2026-06-07 20:26:47
 tags: [live, status, monitoring]
 ---
 
 # 🔥 Brain Live Status
 
-**20:22:46** | 🔥 **稼働中**
+**20:26:47** | 🔥 **稼働中**
 
 ## 🦙 Ollama
 
@@ -15,31 +15,35 @@ tags: [live, status, monitoring]
 
 | モデル | サイズ | VRAM | 残時間 |
 |---|---|---|---|
-| qwen3:8b | 5.6GB | 4.8GB | 残4分 |
+| qwen3:8b | 5.6GB | 4.8GB | 残0分 |
 
 ## 🎮 GPU
 
 - **NVIDIA GeForce RTX 5060**
-- 使用率: **0%**
-- VRAM: 7128MB / 8151MB (**87.4%**)
+- 使用率: **59%**
+- VRAM: 7776MB / 8151MB (**95.4%**)
 
 ## 💾 RAM
 
-- 使用率: **49.6%** (15.8GB / 31.9GB)
-- ⚠️ 余裕あり（タスク投入したら効率UP）
+- 使用率: **84.3%** (26.9GB / 31.9GB)
+- ✅ 適正
 
 ## ⚙️ Workers
 
 - Heavy (qwen3.6:latest): ⚪ idle
-- Light (qwen3:8b): ⚪ idle
+- Light (qwen3:8b): 🟢 **稼働中**
 
 ## 📦 Queue
 
 | 状態 | 件数 |
 |---|---|
 | 📥 inbox | 0 |
-| ⚙️ processing | 0 |
+| ⚙️ processing | 1 |
 | ✅ 今日完了 | 49 |
+
+## 🔄 処理中タスク
+
+- ⚡ [48 秒経過] **[EEMUS] ピッチデック10枚構成**
 
 ## 🎯 判定
 
