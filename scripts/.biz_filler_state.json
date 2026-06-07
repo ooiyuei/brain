@@ -1,114 +1,6 @@
 {
     "history":  [
                     {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-03T06:21:02.1213776+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-03T06:31:02.1240297+09:00"
-                    },
-                    {
-                        "slug":  "testall-teacher-outreach",
-                        "time":  "2026-06-03T06:41:02.0802951+09:00"
-                    },
-                    {
-                        "slug":  "eemus-pitch-deck-10p",
-                        "time":  "2026-06-03T06:51:02.1162347+09:00"
-                    },
-                    {
-                        "slug":  "aipax-pl-monthly",
-                        "time":  "2026-06-03T07:01:01.8333806+09:00"
-                    },
-                    {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-06-03T07:11:03.0081264+09:00"
-                    },
-                    {
-                        "slug":  "cross-portfolio-prioritize",
-                        "time":  "2026-06-03T07:21:01.8210178+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-03T07:31:02.2326112+09:00"
-                    },
-                    {
-                        "slug":  "cross-stripe-setup",
-                        "time":  "2026-06-03T07:41:02.0985987+09:00"
-                    },
-                    {
-                        "slug":  "aipax-contract-template",
-                        "time":  "2026-06-03T07:51:02.1633516+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-03T08:01:01.9405767+09:00"
-                    },
-                    {
-                        "slug":  "school-trial-2h-program",
-                        "time":  "2026-06-03T08:11:02.2612446+09:00"
-                    },
-                    {
-                        "slug":  "eemus-content-stories",
-                        "time":  "2026-06-03T08:21:02.2763475+09:00"
-                    },
-                    {
-                        "slug":  "testall-competitor-studyplus",
-                        "time":  "2026-06-03T08:31:02.2142494+09:00"
-                    },
-                    {
-                        "slug":  "eemus-dream-award-story",
-                        "time":  "2026-06-03T08:41:02.2255133+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-03T08:51:02.2529548+09:00"
-                    },
-                    {
-                        "slug":  "eemus-target-companies-20",
-                        "time":  "2026-06-03T09:01:01.9568379+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-03T09:11:02.3756800+09:00"
-                    },
-                    {
-                        "slug":  "testall-content-strategy",
-                        "time":  "2026-06-03T09:21:02.2790395+09:00"
-                    },
-                    {
-                        "slug":  "aipax-seo-chusho-ai",
-                        "time":  "2026-06-03T09:31:02.3099097+09:00"
-                    },
-                    {
-                        "slug":  "school-tos",
-                        "time":  "2026-06-03T09:41:01.9689178+09:00"
-                    },
-                    {
-                        "slug":  "school-curriculum-v2",
-                        "time":  "2026-06-03T09:51:02.3302366+09:00"
-                    },
-                    {
-                        "slug":  "testall-user-personas-5",
-                        "time":  "2026-06-03T10:01:02.2670588+09:00"
-                    },
-                    {
-                        "slug":  "eemus-lp-mvp",
-                        "time":  "2026-06-03T10:11:02.4199463+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-03T10:21:02.2579048+09:00"
-                    },
-                    {
-                        "slug":  "aipax-lp-beta",
-                        "time":  "2026-06-03T10:31:02.3858647+09:00"
-                    },
-                    {
-                        "slug":  "school-x-content",
-                        "time":  "2026-06-03T10:41:02.0132212+09:00"
-                    },
-                    {
                         "slug":  "school-tos",
                         "time":  "2026-06-03T10:51:02.0431357+09:00"
                     },
@@ -527,6 +419,10 @@
                     {
                         "slug":  "aipax-prospect-30",
                         "time":  "2026-06-07T06:11:02.5859131+09:00"
+                    },
+                    {
+                        "slug":  "school-faq-parent-30",
+                        "time":  "2026-06-07T10:41:02.4243089+09:00"
                     }
                 ]
 }
